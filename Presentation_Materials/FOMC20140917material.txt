@@ -1,0 +1,728 @@
+S
+
+A
+
+u
+
+Restricted (FR) Class II FOMC -
+
+Material for Briefing on
+
+Financial Developments and Open Market Operations
+
+2014 Simon Potter and Lorie Logan September 16,
+
+Class II FOMC -Restricted (FR)
+
+(1) Implied Federal Funds Rate Path*
+
+<!-- missing-text -->
+
+*Derived from federal funds futures and Eurodollar futures.
+
+Source: Bloomberg, Federal Reserve Bank of New York, Federal Reserve Board of Governors
+
+(3) Nominal Five-Year, Five-Year Forward Rates
+
+<!-- missing-text -->
+
+(5) Changes in Futures Rates Over Intermeeting Period*
+
+<!-- missing-text -->
+
+*Changes in Eurodollar, Short Sterling and Euribor futures-implied rates for the U.S., U.K., and Euro Area, respectively.
+
+Source: Bloomberg
+
+(2) Probability Distribution of the Pace of Tightening After Liftoff*
+
+<!-- missing-text -->
+
+*Average of dealers' and buy side market participants' probabilities . Conditional on the target not returning to the zero lower bound. The average probability assigned to this scenario was 80%.
+
+Source: Federal Reserve Bank of New York
+
+(4) U.S. Inflation Compensation
+
+<!-- missing-text -->
+
+(6) Currency Performance Against the Dollar*
+
+07/29/14 - 09/12/14
+
+05/07/14 - 07/29/14
+
+<!-- missing-text -->
+
+Class II FOMC -Restricted (FR)
+
+<!-- missing-text -->
+
+- *Standardized using all daily observations since June 1994.
+- **One-month equity, short- and long-rate implied volatilities.
+- ***One-month developed market currency implied volatility.
+
+Source: Bloomberg, CBOE, Barclays, Deutsche Bank, Federal Reserve Bank of New York Staff Calculations
+
+(9) Euro-Area Forward Inflation Swaps
+
+<!-- missing-text -->
+
+Source: Barclays
+
+(11) European ABS and Covered Bond Markets
+
+<!-- missing-text -->
+
+- *Assuming  TLTRO take-up equals midpoint of estimated range.
+
+Source: European Central Bank, SIFMA, European Covered Bond Council,
+
+Dealer Estimates, Federal Reserve Bank of New York Staff Calculations
+
+Exhibit 2
+
+(8) Euro-Dollar Performance
+
+<!-- missing-text -->
+
+Source: Bloomberg
+
+(10) Total ECB Assets
+
+<!-- missing-text -->
+
+(12) Spot and Forward EONIA
+
+<!-- missing-text -->
+
+Source: Bloomberg
+
+Class II FOMC -Restricted (FR)
+
+(13) SOMA Euro Portfolio Asset Allocation*
+
+<!-- missing-text -->
+
+*Includes unsettled positions as of 09/12/14.
+
+Source: Federal Reserve Bank of New York
+
+(15) SOMA Portfolio Holdings Expectations*
+
+<!-- missing-text -->
+
+*Based on all responses from the Survey of Primary Dealers and Survey of Market Participants. Inset box shows medians.
+
+Source: Federal Reserve Bank of New York
+
+(17) Overnight RRP Operation Results
+
+Total Allotment
+
+Total Allotment on Month- or Quarter-End
+
+<!-- missing-text -->
+
+Exhibit 3
+
+(14) Central Bank Liquidity Swaps Outstanding
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+(18) FR 2420 Federal Funds Borrowing*
+
+<!-- missing-text -->
+
+- *Trip wires indicate month- and quarter-end dates.
+
+Source: Federal Reserve Bank of New York
+
+Class II FOMC -Restricted (FR)
+
+(19) Expected IOER -ON RRP Rate Spread and ON RRP Usage Immediately Following Liftoff*
+
+<!-- missing-text -->
+
+*Based on all responses from the Survey of Primary Dealers and Survey of Market Participants. Excludes five outliers expecting a negative IOER-ON RRP rate spread and one outlier expecting $2 trillion in ON RRP usage. Source: Federal Reserve Bank of New York
+
+(21) Expected Distribution of Policy Rates Immediately Following Liftoff*
+
+<!-- missing-text -->
+
+*Based on all responses from the Survey of Primary Dealers and Survey of Market Participants. Boxes show interquartile ranges and medians. Source: Federal Reserve Bank of New York
+
+(23) ON RRP Facility Testing
+
+· Proposed Test
+
+- o Leave ON RRP rate at 5 basis points
+- o Raise per-counterparty limit from $10 to $30 billion
+- o Limit overall size to $300 billion
+- o Auction process if aggregate bids exceed overall limit
+- o Begin Sep 22, extend at least through Oct meeting
+- · Potential Features to Test
+- o Circuit-breaker cap that adjusts with average prior usage
+- o Small changes in ON RRP rate
+- o Moderate adjustments up and down to overall size limit
+
+Exhibit 4 (Last)
+
+(20) Evolution of Expected ON RRP Usage*
+
+<!-- missing-text -->
+
+*Based on responses of the Primary Dealers and Market Participants who expect a 25-basis-point spread between the IOER and ON RRP rates immediately following liftoff through three years following liftoff. Boxes show interquartile ranges and medians.
+
+Source: Federal Reserve Bank of New York
+
+(22) Distribution of Expectations for Change in IOER-FF Effective Rate Spread Over Time*
+
+<!-- missing-text -->
+
+BPS
+
+*Change from immediately following liftoff to three years following liftoff. Based on responses of the Primary Dealers and Market Participants who expect a 25-basis-point spread between the IOER and ON RRP rates immediately following liftoff through three years  following liftoff.
+
+Source: Federal Reserve Bank of New York
+
+(24) TDF Allotment and Offered Rate
+
+<!-- missing-text -->
+
+Appendix 2:  Materials used by Ms. Logan
+
+S
+
+Class II FOMC - Restricted (FR)
+
+Overnight Reverse Repurchase Agreement Resolution and Related Desk Statement
+
+September 16, 2014
+
+September 16-17, 2014
+
+Authorized for Public Release
+
+192 of 232
+
+S
+
+A
+
+A
+
+u
+
+Proposed Resolution on Overnight Reverse Repurchase Agreements
+
+'The Federal Open Market Committee (FOMC) authorizes the Federal Reserve Bank of New York to conduct a series of overnight reverse repurchase operations involving U.S. Government securities for the purpose of further assessing the appropriate structure of such operations in supporting the implementation of monetary policy during normalization.  The reverse repurchase operations authorized by this resolution shall be (i) conducted at an offering rate that may vary from zero to five basis points, (ii) for an overnight term, or such longer term as is warranted to accommodate weekend, holiday, and similar trading conventions, (iii) subject to a percounterparty limit of up to $30 billion per day, (iv) subject to an overall size limit of up to $300 billion per day, (v) awarded to all submitters (A) at the specified offering rate if the sum of the bids received is less than or equal to the overall size limit, or (B) at the stopout rate, determined by evaluating bids in ascending order by submitted rate up to the point at which the total quantity of bids equals the overall size limit, with all bids below this rate awarded in full at the stopout rate and all bids at the stopout rate awarded on a pro rata basis, if the sum of the counterparty offers received is greater than the overall size limit, and (vi) offered beginning with the operation conducted on September 22, 2014, with the resolution adopted at the January 28-29, 2014, FOMC meeting remaining in place until the conclusion of the operation conducted on September 19, 2014.  The Chair must approve any change in the offering rate within the range specified in (i) and any changes to the percounterparty and overall size limits subject to the limits specified in (iii) and (iv).  The System Open Market Account manager will notify the FOMC in advance about any changes to the offering rate, per-counterparty limit, or overall size limit applied to operations.  These operations shall be authorized through January 30, 2015.'
+
+eptember 16-17, 2014
+
+eptember 16-17, 2014
+
+A
+
+u
+
+Proposed Desk Statement on Overnight Reverse Repurchase Agreements
+
+'As noted in the October 19, 2009, Statement Regarding Reverse Repurchase Agreements, the Open Market Trading Desk (the Desk) at the Federal Reserve Bank of New York (New York Fed) has been working internally and with market participants on operational aspects of tri-party reverse repurchase agreements (RRPs) to ensure that this tool will be ready to support the monetary policy objectives of the Federal Open Market Committee (FOMC).
+
+The Federal Reserve continues to enhance operational readiness and increase its understanding of the impact of RRPs through technical exercises.  In further support of its objectives, the FOMC instructed the Desk to change the design of these RRP operations.  Effective Monday, September 22, 2014, each eligible counterparty will be limited to one bid of up to $30 billion per day, an increase from the current $10 billion per-counterparty maximum bid limit, and each operation will be subject to an overall size limit of $300 billion.  Each submitted request must include a rate of interest, subject to a specified maximum, which would apply only in the event that the total amount of offers received by the New York Fed exceeds the overall size limit of the operation.  If the sum of the bids received is less than or equal to the overall size limit, awards will be made at the specified offering rate to all submitters.  If the sum of the bids received is greater than the overall size limit, awards will be allocated using a single-price auction based on the 'stopout' rate at which the overall size limit is reached, with all bids below this rate awarded in full at the stopout rate and all bids at this rate awarded on a pro rata basis at the stopout rate.  The stopout rate will be determined by evaluating all bids in ascending order by submitted rate up to the point at which the total quantity of offers equals the overall size limit.  The offering rate will be set at 0.05 percent (five basis points).
+
+The operations will be open to all eligible RRP counterparties, will use Treasury collateral, will settle same-day, and will have an overnight tenor.  The RRP operations will be held from 12:45 to 1:15 pm (Eastern Time).
+
+Any future changes to these RRP operations will be announced with at least one business day's prior notice on the New York Fed's website.
+
+S
+
+eptember 16-17, 2014
+
+A
+
+u
+
+Like earlier operational readiness exercises, this work is a matter of prudent advance planning by the Federal Reserve.  These operations do not represent a change in the stance of monetary policy, and no inference should be drawn about the timing of any change in the stance of monetary policy in the future.
+
+The results of these operations will be posted on the public website of the New York Fed, together with the results for other temporary open market operations.  The outstanding amounts of RRPs are reported as a factor absorbing reserves in Table 1 in the Federal Reserve's H.4.1 statistical release and as liability items in Tables 8 and 9 of that release.  The outstanding amounts of RRPs by remaining maturity are reported in Table 2 of the release.'
+
+Appendix 3:  Materials used by Chair Yellen
+
+S
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for
+
+Finalization of Normalization Principles
+
+September 16, 2014
+
+September 16-17, 2014
+
+Authorized for Public Release
+
+197 of 232
+
+September 16-17, 2014
+
+Proposed Policy Normalization Principles and Plans
+
+aspects of the eventual normalization those specified earlier.  The Committee also has that it is appropriate at this time to provide additional information During its recent meetings, the Federal Open Market Committee (FOMC) discussed ways to normalize the stance of monetary policy and the Federal Reserve's securities holdings.  The discussions were part of prudent planning and do not imply that normalization will necessarily begin soon.  The Committee continues to judge that many of the normalization principles that it adopted in June 2011 remain applicable.  However, in light of the changes in the System Open Market Account (SOMA) portfolio since 2011 and enhancements in the tools the Committee will have available to implement policy during normalization, the Committee has concluded that some process will likely differ from agreed regarding its normalization plans.  [ All but ____ FOMC participants have agreed on the following key elements of the approach they intend to implement when it becomes appropriate to begin normalizing the stance of monetary policy: ]
+
+-  The Committee will determine the timing and pace of policy normalizationmeaning steps to raise the federal funds rate and other short-term interest rates to more normal levels and to reduce the Federal Reserve's securities holdings-so as to promote its statutory mandate of maximum employment and price stability.
+- o When  economic  conditions  and  the  economic  outlook  warrant  a  less accommodative monetary policy, the Committee will raise its target range for the federal funds rate.
+- o During normalization, the Federal Reserve intends to move the federal funds rate into the target range set by the FOMC primarily by adjusting the interest rate it pays on excess reserve balances.
+- o During  normalization,  the  Federal  Reserve  intends  to  use  an  overnight reverse  repurchase  agreement  facility  and  other  supplementary  tools  as needed to help control the federal funds rate.  The Committee will use an overnight reverse repurchase agreement facility only to the extent necessary and will phase it out when it is no longer needed to help control the federal funds rate.
+
+-  The Committee intends to reduce the Federal Reserve's securities holdings in a gradual and predictable manner primarily by ceasing to reinvest repayments of principal on securities held in the SOMA.
+- o The Committee expects to cease or  commence phasing out reinvestments after it begins increasing the target range for the federal funds rate; the timing will  depend  on  how economic  and  financial  conditions  and  the  economic outlook evolve.
+- o The Committee currently does not anticipate selling agency mortgage-backed securities as part of the normalization process, although limited sales might be warranted in the longer run to reduce or eliminate residual holdings.  The timing  and  pace  of  any  sales  would  be  communicated  to  the  public  in advance.
+-  The Committee intends that the Federal Reserve will, in the longer run, hold no more securities than necessary to implement monetary policy efficiently and effectively, and that it will hold primarily Treasury securities, thereby minimizing the effect of Federal Reserve holdings on the allocation of credit across sectors of the economy.
+-  The Committee is prepared to adjust the details of its approach to policy normalization in light of economic and financial developments.
+
+Appendix 4:  Materials used by Mr. Wilcox
+
+S
+
+II FOMC - Restricted (FR) Class
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+Class II FOMC -  Restricted (FR)
+
+202 of 232
+
+147
+
+144
+
+141
+
+138
+
+135
+
+132
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+Class II FOMC -  Restricted (FR)
+
+202 of 232
+
+Forecast Summary
+
+Confidence Intervals Based on FRB/US Stochastic Simulations
+
+1. Real GDP
+
+2. Unemployment Rate
+
+<!-- missing-text -->
+
+3. Total Payroll Employment
+
+<!-- missing-text -->
+
+5. PCE Prices
+
+<!-- missing-text -->
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+20
+
+10
+
+0
+
+-10
+
+-20
+
+-30
+
+-40
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+<!-- missing-text -->
+
+4. Labor Market Conditions Index*
+
+<!-- missing-text -->
+
+6. PCE Prices Excluding Food and Energy
+
+Percent change, annual rate
+
+<!-- missing-text -->
+
+Appendix 5:  Materials used by Mr. Kamin
+
+S
+
+Class II FOMC - Restricted (FR)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 1
+
+The Foreign Economic Outlook
+
+1. Foreign GDP
+
+2. Euro-Area GDP Growth
+
+<!-- missing-text -->
+
+3. Euro-Area Inflation
+
+<!-- missing-text -->
+
+4. Euro-Area Inflation
+
+<!-- missing-text -->
+
+6. Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+7. Nominal Wage Growth
+
+<!-- missing-text -->
+
+* Derived from inflation swaps.
+
+8. Output per Hour Worked
+
+2008:Q1 = 100
+
+* ONS: Output per hour worked, whole economy (SA). ** BLS: Real output per hour of all persons (SA).
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 2 (Last)
+
+The Dollar
+
+1. Dollar Exchange Rates
+
+2. Real Dollar
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Appendix 6:  Materials used by Ms. DeBoer
+
+S
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for Briefing on the
+
+Summary of Economic Projections
+
+Marnie Gillis DeBoer September 16, 2014
+
+September 16-17, 2014
+
+Authorized for Public Release
+
+208 of 232
+
+<!-- missing-text -->
+
+Change  in  real  GDP
+
+<!-- missing-text -->
+
+Unemployment  rate
+
+<!-- missing-text -->
+
+PCE  inflation
+
+<!-- missing-text -->
+
+Core  PCE  inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: In the two panels above, each shaded circle indicates the value (rounded to the nearest 1 8 / percentage point) of an individual participant's judgment of the midpoint of the appropriate target range for the federal funds rate or the appropriate target level for the federal funds rate at the end of the specified calendar year or over the longer run.
+
+Exhibit 5. Scatterplot of unemployment and PCE inflation rates in the initial year of policy firming (in percent)
+
+<!-- missing-text -->
+
+Note: When the projections of two or more participants are identical, larger markers, which represent one participant each, are used so that each projection can be seen.
+
+<!-- missing-text -->
+
+Number of participants
+
+<!-- missing-text -->
+
+similar
+
+Number of participants
+
+<!-- missing-text -->
+
+Number of participants
+
+<!-- missing-text -->
+
+Number of participants
+
+<!-- missing-text -->
+
+Number of participants
+
+<!-- missing-text -->
+
+Number of participants
+
+<!-- missing-text -->
+
+Number of participants
+
+<!-- missing-text -->
+
+Appendix 7:  Materials used by Mr. English
+
+S
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for Briefing on Monetary Policy Alternatives
+
+Bill English September 16-17, 2014
+
+Market Expectations and Policy Issues
+
+Key Policy Issues
+
+- · "Substantial improvement" in the outlook for the labor market?
+- · "Significant underutilization" of labor resources?
+- · "Considerable time" still appropriate?
+- · Guidance on path of target federal funds rate after liftoff still consistent with outlook?
+
+SEP: Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: The blue and red shaded boxes respectively show September 2012 and September 2014 SEP central tendencies.
+
+Source: Bureau of Labor Statistics, Sept. 2012 and Sept. 2014 SEP.
+
+Expected Path of the Federal Funds Rate
+
+<!-- missing-text -->
+
+Note: Median expected path of the federal funds rate is calculated using the midpoint of the reported range or point estimate for each dealer. Red shaded boxes show the September 2014 SEP central tendencies.
+
+Source: September 2014 SEP and Primary Dealer Survey.
+
+*Note: Q3 is the average of the monthly changes in July and August. Source: Staff calculations.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: Blue dots represent the difference between the appropriate federal funds rate and the projected longer-run federal funds rate at the end of the first year in which FOMC participants project unemployment and inflation to be within 2/10ths of their respective longer-run values. Chart excludes two FOMC participants who do not project inflation to be within 2/10ths of their respective longer-run values by Q4 2017. Source: September 2014 SEP.
+
+September 16-17, 2014
+
+FOMC STATEMENT JULY 2014
+
+- inflation expectations have remained 1. Information received since the Federal Open Market Committee met in June indicates that growth in economic activity rebounded in the second quarter.  Labor market conditions improved, with the unemployment rate declining further.  However, a range of labor market indicators suggests that there remains significant underutilization of labor resources.  Household spending appears to be rising moderately and business fixed investment is advancing, while the recovery in the housing sector remains slow.  Fiscal policy is restraining economic growth, although the extent of restraint is diminishing.  Inflation has moved somewhat closer to the Committee's longer-run objective.  Longer-term stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects that, with appropriate policy accommodation, economic activity will expand at a moderate pace, with labor market indicators and inflation moving toward levels the Committee judges consistent with its dual mandate.  The Committee sees the risks to the outlook for economic activity and the labor market as nearly balanced and judges that the likelihood of inflation running persistently below 2 percent has diminished somewhat.
+- maximum employment and the improvement interest rates, support 3. The Committee currently judges that there is sufficient underlying strength in the broader economy to support ongoing improvement in labor market conditions.  In light of the cumulative progress toward in the outlook for labor market conditions since the inception of the current asset purchase program, the Committee decided to make a further measured reduction in the pace of its asset purchases.  Beginning in August, the Committee will add to its holdings of agency mortgage-backed securities at a pace of $10 billion per month rather than $15 billion per month, and will add to its holdings of longer-term Treasury securities at a pace of $15 billion per month rather than $20 billion per month.  The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction.  The Committee's sizable and still-increasing holdings of longer-term securities should maintain downward pressure on longer-term mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee's dual mandate.
+- 4. The Committee will closely monitor incoming information on economic and financial developments in coming months and will continue its purchases of Treasury and agency mortgage-backed securities, and employ its other policy tools as appropriate, until the outlook for the labor market has improved substantially in a context of price stability.  If incoming information broadly supports the Committee's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce the pace of asset purchases in further measured steps at future meetings.  However, asset purchases are not on a preset course, and the Committee's decisions about their pace will remain contingent
+
+September 16-17, 2014
+
+on the Committee's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.
+
+- 5. To support continued progress toward maximum employment and price stability, the Committee today reaffirmed its view that a highly accommodative stance of monetary policy remains appropriate.  In determining how long to maintain the current 0 to ¼ percent target range for the federal funds rate, the Committee will assess progress-both realized and expected-toward its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.  The Committee continues to anticipate, based on its assessment of these factors, that it likely will be appropriate to maintain the current target range for the federal funds rate for a considerable time after the asset purchase program ends, especially if projected inflation continues to run below the Committee's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored.
+- 6. When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.  The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
+
+P
+
+STATEMENT-SEPTEMBER 2014 ALTERNATIVE A FOMC
+
+- activity rebounded the Committee's longer-run objective 1. Information received since the Federal Open Market Committee met in June July indicates suggests that growth in economic is expanding at a moderate pace in the second quarter. On balance, labor market conditions improved with somewhat further; however, the unemployment rate declining further is little changed .  However, and a range of labor market indicators suggests that there remains significant underutilization of labor resources.  Household spending appears to be rising moderately and business fixed investment is advancing, while the recovery in the housing sector remains slow.  Fiscal policy is restraining economic growth, although the extent of restraint is diminishing.  Inflation has moved somewhat closer to further below even though longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects that, with appropriate policy accommodation, economic activity will expand at a moderate pace, with labor market indicators and inflation moving gradually toward levels the Committee judges consistent with its dual mandate.  The Committee sees the risks to the outlook for economic activity and the labor market as nearly balanced and judges that the likelihood of inflation running persistently below 2 percent has diminished somewhat the risks to the outlook for inflation as tilted somewhat to the downside .
+- maximum employment and the improvement October 3. The Committee currently judges that there is sufficient underlying strength in the broader economy to support ongoing improvement in labor market conditions.  In light of the cumulative progress toward in the outlook for labor market conditions since the inception of the current asset purchase program, the Committee decided to make a further measured reduction in the pace of its asset purchases.  Beginning in August , the Committee will add to its holdings of agency mortgage-backed securities at a pace of $10 $5 billion per month rather than $15 $10 billion per month, and will add to its holdings of longer-term Treasury securities at a pace of $15 $10 billion per month rather than $20 $15 billion per month.  The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction.  The Committee's sizable and still-increasing holdings of longer-term securities should maintain downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee's dual mandate.
+- 4. The Committee will closely monitor incoming information on economic and financial developments in coming months and will continue its purchases of Treasury and agency mortgage-backed securities, and employ its other policy tools as appropriate, until the outlook for the labor market has improved substantially in a context of price stability.  If incoming information broadly supports the Committee's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce the pace of end its current
+
+P
+
+program of asset purchases in further measured steps at future its next meetings. However, asset purchases are not on a preset course, and the Committee's decisions about their pace will remain contingent on the Committee's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.
+
+- 5. To support continued progress toward maximum employment and price stability, the Committee today reaffirmed its view that a highly accommodative stance of monetary policy remains appropriate.  In determining how long to maintain the current 0 to ¼ percent target range for the federal funds rate, the Committee will assess progress-both realized and expected-toward its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.  The Committee continues to anticipate , based on its assessment of s these factors, that it likely will be appropriate to maintain the current target range for the federal funds rate for a considerable time after the asset purchase program ends, especially if projected inflation continues to run below the Committee's 2 percent longer-run goal, and at least as long as inflation between one and two years ahead is projected to be below 2 percent, provided that longer-term inflation expectations remain well anchored.
+- 6. When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.  The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
+
+P
+
+STATEMENT-SEPTEMBER 2014 ALTERNATIVE B FOMC
+
+- activity rebounded 1. Information received since the Federal Open Market Committee met in June July indicates suggests that growth in economic is expanding at a moderate pace in the second quarter. On balance, labor market conditions improved with somewhat further; however, the unemployment rate declining further is little changed .  However, and a range of labor market indicators suggests that there remains significant underutilization of labor resources.  Household spending appears to be rising moderately and business fixed investment is advancing, while the recovery in the housing sector remains slow.  Fiscal policy is restraining economic growth, although the extent of restraint is diminishing.  Inflation has moved been running somewhat closer to below the Committee's longer-run objective. Longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects that, with appropriate policy accommodation, economic activity will expand at a moderate pace, with labor market indicators and inflation moving toward levels the Committee judges consistent with its dual mandate.  The Committee sees the risks to the outlook for economic activity and the labor market as nearly balanced and judges that the likelihood of inflation running persistently below 2 percent has diminished somewhat since early this year .
+- maximum employment and the improvement October 3. The Committee currently judges that there is sufficient underlying strength in the broader economy to support ongoing improvement in labor market conditions.  In light of the cumulative progress toward in the outlook for labor market conditions since the inception of the current asset purchase program, the Committee decided to make a further measured reduction in the pace of its asset purchases.  Beginning in August , the Committee will add to its holdings of agency mortgage-backed securities at a pace of $10 $5 billion per month rather than $15 $10 billion per month, and will add to its holdings of longer-term Treasury securities at a pace of $15 $10 billion per month rather than $20 $15 billion per month.  The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction.  The Committee's sizable and still-increasing holdings of longer-term securities should maintain downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee's dual mandate.
+- 4. The Committee will closely monitor incoming information on economic and financial developments in coming months and will continue its purchases of Treasury and agency mortgage-backed securities, and employ its other policy tools as appropriate, until the outlook for the labor market has improved substantially in a context of price stability.  If incoming information broadly supports the Committee's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce the pace of end its current program of asset purchases in further measured steps at future its next meetings.
+
+P
+
+However, asset purchases are not on a preset course, and the Committee's decisions about their pace will remain contingent on the Committee's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.
+
+- 5. To support continued progress toward maximum employment and price stability, the Committee today reaffirmed its view that a highly accommodative stance of monetary policy remains appropriate.  In determining how long to maintain the current 0 to ¼ percent target range for the federal funds rate, the Committee will assess progress-both realized and expected-toward its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.  The Committee continues to anticipate, based on its assessment of these factors, that it likely will be appropriate to maintain the current target range for the federal funds rate for a considerable time after the asset purchase program ends, especially if projected inflation continues to run below the Committee's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored.
+- 6. When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.  The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
+
+P
+
+September 16-17, 2014
+
+STATEMENT-SEPTEMBER 2014 ALTERNATIVE C FOMC
+
+- activity rebounded the inflation expectations have remained 1. Information received since the Federal Open Market Committee met in June July indicates suggests that growth in economic is expanding at a moderate pace in the second quarter. On balance, labor market conditions improved with somewhat further, although the unemployment rate declining further is little changed .  However Moreover , a range of labor market indicators suggests that there remains significant underutilization of labor resources is diminishing . Household spending appears to be rising moderately and business fixed investment is advancing, while the recovery in the housing sector remains slow.  Fiscal policy is restraining economic growth, although the extent of restraint is diminishing.  Inflation has moved somewhat closer to appears to be moving gradually toward Committee's longer-run objective.  Longer-term stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects that, with appropriate policy accommodation, economic activity will expand at a moderate pace, with labor market indicators and inflation moving toward levels the Committee judges consistent with its dual mandate.  The Committee sees the risks to the outlook for economic activity and the labor market as nearly balanced and judges that the likelihood of inflation running persistently below 2 percent has diminished somewhat since early this year .
+- sufficient 3. The Committee currently judges that there is has been a substantial improvement in the outlook for the labor market since the inception of its current asset purchase program and continues to anticipate that inflation will move toward the Committee's longer-run objective.  Moreover, the Committee sees underlying strength in the broader economy to support ongoing improvement in labor market conditions progress toward maximum employment in a context of price stability .  In light of the cumulative progress toward maximum employment and the improvement in the outlook for labor market conditions since the inception of the current asset purchase program Accordingly , the Committee decided to make a further measured reduction in the pace of its asset purchases conclude its purchase program this month .  Beginning in August, the Committee will add to its holdings of agency mortgage-backed securities at a pace of $10 billion per month rather than $15 billion per month, and will add to its holdings of longer-term Treasury securities at a pace of $15 billion per month rather than $20 billion per month.
+- interest rates, support 4. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction.  The Committee's sizable and still-increasing holdings of longer-term securities should maintain downward pressure on longer-term mortgage markets, and help to make broader help keep financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee's dual mandate.
+
+The Committee will closely monitor incoming information on economic and financial developments in coming months and will continue its purchases of Treasury and
+
+P
+
+- agency mortgage-backed securities, and employ its other policy tools as appropriate, until the outlook for the labor market has improved substantially in a context of price stability.  If incoming information broadly supports the Committee's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce the pace of asset purchases in further measured steps at future meetings.  However, asset purchases are not on a preset course, and the Committee's decisions about their pace will remain contingent on the Committee's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.
+- 5. To support continued progress toward maximum employment and price stability, the Committee today reaffirmed its view that a highly accommodative stance of monetary policy remains appropriate.  In determining how long to maintain the current 0 to ¼ percent target range for the federal funds rate, the Committee will assess progress-both realized and expected-toward its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.  The Committee continues to anticipate , based on its assessment of s these factors, that it likely will be appropriate to maintain the current target range for the federal funds rate for a considerable some time after the asset purchase program ends, especially if projected inflation continues to run below the Committee's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored.
+- 6. When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.  The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
+
+P
+
+September 16-17, 2014
+
+DIRECTIVE JULY 2014
+
+Consistent with its statutory mandate, the Federal Open Market Committee seeks monetary and financial conditions that will foster maximum employment and price stability.  In particular, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to undertake open market operations as necessary to maintain such conditions.  Beginning in August, the Desk is directed to purchase longer-term Treasury securities at a pace of about $15 billion per month and to purchase agency mortgage-backed securities at a pace of about $10 billion per month.  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.  The Committee directs the Desk to maintain its policy of rolling over maturing Treasury securities into new issues and its policy of reinvesting principal payments on all agency debt and agency mortgagebacked securities in agency mortgage-backed securities.  The System Open Market Account manager and the secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+September 16-17, 2014
+
+September 16-17, 2014
+
+ALTERNATIVE A DIRECTIVE FOR SEPTEMBER 2014
+
+Treasury securities at a Consistent with its statutory mandate, the Federal Open Market Committee seeks monetary and financial conditions that will foster maximum employment and price stability.  In particular, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to undertake open market operations as necessary to maintain such conditions.  Beginning in August October , the Desk is directed to purchase longer-term pace of about $15 $10 billion per month and to purchase agency mortgage-backed securities at a pace of about $10 $5 billion per month.  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.  The Committee directs the Desk to maintain its policy of rolling over maturing Treasury securities into new issues and its policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The System Open Market Account manager and the secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+P
+
+September 16-17, 2014
+
+ALTERNATIVE B DIRECTIVE FOR SEPTEMBER 2014
+
+Treasury securities at a Consistent with its statutory mandate, the Federal Open Market Committee seeks monetary and financial conditions that will foster maximum employment and price stability.  In particular, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to undertake open market operations as necessary to maintain such conditions.  Beginning in August October , the Desk is directed to purchase longer-term pace of about $15 $10 billion per month and to purchase agency mortgage-backed securities at a pace of about $10 $5 billion per month.  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.  The Committee directs the Desk to maintain its policy of rolling over maturing Treasury securities into new issues and its policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The System Open Market Account manager and the secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+September 16-17, 2014
+
+September 16-17, 2014
+
+ALTERNATIVE C DIRECTIVE FOR SEPTEMBER 2014
+
+Consistent with its statutory mandate, the Federal Open Market Committee seeks monetary and financial conditions that will foster maximum employment and price stability.  In particular, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to undertake open market operations as necessary to maintain such conditions.  Beginning in August  The Desk is directed to purchase conclude the current program of purchases of longer-term Treasury securities at a pace of about $15 billion per month and to purchase agency mortgage-backed securities at a pace of about $10 billion per month by the end of September .  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.  The Committee directs the Desk to maintain its policy of rolling over maturing Treasury securities into new issues and its policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The System Open Market Account manager and the secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+P
+
+Appendix 8:  Materials used by Mr. Wilcox
+
+Class II FOMC - Restricted (FR)
+
+Material for Consumer Price Index Update
+
+David Wilcox September 17, 2014
+
+Recent Changes in Consumer Price Indexes
+
+(Percent changes)
+
+<!-- missing-text -->
+
+Note:  August 2014 CPI data released at 8:30a.m on September 17, 2014.

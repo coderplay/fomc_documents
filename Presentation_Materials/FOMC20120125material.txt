@@ -1,0 +1,1228 @@
+Appendix 1:  Materials used by Messrs. Duca, Haughwout, and Cooper
+
+J
+
+2
+
+4
+
+6
+
+Class II FOMC - Restricted (FR)
+
+Material for
+
+FOMC Briefing on Lending and Leverage
+
+John Duca, Andrew Haughwout, and Daniel Cooper January 24, 2012
+
+Debt, Leverage and the Recovery of Consumption:
+
+Time Series Evidence
+
+John V. Duca and Anthony Murphy Federal Reserve Bank of Dallas Exhibits by J.B. Cooke and David Luttrell
+
+J
+
+<!-- missing-text -->
+
+Notes: The grey area indicates th e range of the last five majo r  recessions  (1970, 1974, 1981-82 , 1990, and 2001), excluding the very short 1980 recession.
+
+<!-- missing-text -->
+
+Notes: The grey area indicates  the range of the last five recessions (1970, 1974 , 1981-82, 1990, and 2001, excluding the very short 1980 recession).
+
+J
+
+<!-- missing-text -->
+
+Notes: The grey area indicates  the range of the last five recessions (1970, 1974 , 1981-82, 1990, and 2001, excluding the very short 1980 recession).
+
+<!-- missing-text -->
+
+J
+
+<!-- missing-text -->
+
+(Marginal Propensity to Consume, mpc)
+
+<!-- missing-text -->
+
+J
+
+<!-- missing-text -->
+
+Source:  'How Financial Innovations  and  Accelerators  Drive U.S. Consumption  Booms  and  Busts,'  J. Duca,  J. Muellbauer, and  A. Mur phy, Dec. 2011.
+
+<!-- missing-text -->
+
+J
+
+<!-- missing-text -->
+
+Estimated % Point Long-Run Effects on Consumption-Income Ratio
+
+<!-- missing-text -->
+
+Note: The estimated equilibrium Consumption/Income is proportional to  0.126 x Credit Conditions Index
+
+- +  0.020 x Illiquid Assets/Income +  0.134 x (Liquid Assets - Consumer Debt - Mortgage Debt)/Income
+- +  Housing MPC x Housing Assets/Income. The housing MPC (marginal propensity to consumer) is time-varying.
+
+J
+
+<!-- missing-text -->
+
+J
+
+Supplementary Exhibits
+
+Supplementary Exhibit 1: The Consumer Credit Conditions Index Tracks the Rise of Bank Credit Card Ownership Rates
+
+<!-- missing-text -->
+
+Notes:  All credit  cards  generally excludes  cards  limited to  only  one  particular  retailer.  Bank  cards  are  those  on  which househo lds can  carry-over balances.  Sources:  Durkin (2000),  Bertaut and  Haliassios  (2006)  for  1992  data,  Bucks,  et  al., (2007,  2009)  for  2001-07,  and  auth ors'  calculations  using Bucks,  et al. (2009) figures for bank  card  ownership in 2004  and  2007.
+
+Supplementary Exhibit 2: Subpar Recovery in Consumer Durables
+
+<!-- missing-text -->
+
+Notes: The grey area indicates  the range of the five prior recessions (1970, 1974, 1981-82, 1990, and 2001, excluding the very short 1980 recession).
+
+J
+
+Supplementary Exhibit 3: Similar Sensitivities of Consumption to Wealth in the U.S., UK and Australia
+
+Estimated $ Change in Annual Total Consumption Per $100 Increase In Wealth
+
+(Marginal Propensity to Consume, mpc)
+
+<!-- missing-text -->
+
+Notes: U.S. estimates from Duca, Muellbauer and Murphy (2011). UK estimates from Aron, Duca, Muellbauer, Murphy and Murata (2011). Estimates for Australia  from Muellbauer and Williams (2011).
+
+J
+
+a
+
+Recent Developments in Household Debt
+
+Andrew Haughwout Federal Reserve Bank of New York
+
+With contributions from Donghoon Lee, Jonathan McCarthy, Joseph Tracy, Wilbert van der Klaauw and David Yun
+
+2
+
+5
+
+7
+
+J
+
+a
+
+2
+
+5
+
+8
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Sources: Board of Governors of the Federal Reserve System, Flow of Funds accounts; FRBNY Consumer Credit Panel.
+
+J
+
+a
+
+2
+
+5
+
+9
+
+Notes: Shading represents NBER recessions. Flow of Funds measure includes non-profit sector; FRBNY CCP excludes student loans.
+
+<!-- missing-text -->
+
+Source: Board of Governors of the Federal Reserve System, Flow of Funds accounts.
+
+J
+
+EXHIBIT 3
+
+Combined Negative and Near-negative Equity Rates in 168 Metro Areas
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source: CoreLogic.
+
+Note: The 2011:Q1 reduction in the aggregate negative equity amount partially reflects a revision to CoreLogic's methodology.
+
+J
+
+Sources of Change in Aggregate Mortgage Balances
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source: FRBNY Consumer Credit Panel, annual data.
+
+Note: The plot for 2011 is annualized from data through the second quarter.
+
+J
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source: FRBNY Consumer Credit Panel.
+
+J
+
+EXHIBIT 6
+
+Change in Debt 2010Q3-2011Q3, by Borrower Characteristics
+
+By Credit Score Quintile
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source: FRBNY Consumer Credit Panel.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Household Deleveraging and Consumption: Evidence using Aggregate and Household-Level Data
+
+Daniel Cooper Federal Reserve Bank of Boston Exhibits by Kevin Todd
+
+Exhibit 1
+
+Deleveraging Defined
+
+- · Household balance sheet debt adjustment that lowers consumption.
+- · Consumption decline exceeds what would be predicted based on current and past changes in income and asset values.
+- ◦ Assumes a previous phase of leveraging where households increased consumption through debt accumulation.
+- ◦ Leveraging based on expectations about future returns to housing.
+- · Heavily indebted households decided that debt burdens were inconsistent with downwardly revised price expectations.
+
+Deleveraging is not:
+
+- · Mortgage charge-offs due to foreclosure
+- · Debt reorganization to take advantage of lower interest rates
+- · Debt repayment through mortgage amortization
+- · Mortgage lenders forcing households to repay debt when house prices fall.
+
+Overview of Presentation
+
+- · Analyze deleveraging at the aggregate and household level.
+- · Household-level data come from the Panel Study of Income Dynamics.
+- · Find little evidence of deleveraging in the micro or macro data.
+- · Movements in consumption prior to, during, and following the Great Recession are driven by employment, income, and net worth.
+
+Growth in Consumption, Income, and Debt
+
+<!-- missing-text -->
+
+Source: BEA, Flow of Funds.
+
+Note: Income is disposable personal income.
+
+<!-- missing-text -->
+
+Source: BEA, Flow of Funds.
+
+Note: Income is disposable personal income.
+
+Exhibit 3
+
+Consumption, Income, and Net Worth
+
+<!-- missing-text -->
+
+Source: BEA, Flow of Funds.
+
+Note: Prior cycles include the 1970, 1974, 1981-82, 1990, and 2001 recessions.
+
+Consumption versus Net Worth over Time
+
+Source: BEA, Flow of Funds.
+
+<!-- missing-text -->
+
+Note: Income is disposable personal income.
+
+Exhibit 4
+
+Panel Study of Income Dynamics
+
+Key Characteristics
+
+- · Began in 1968.
+- · Follows households and their offspring annually through 1997; biennially thereafter.
+- · Most recent waves contain between 7,000 and 8,000 households.
+- · More comprehensive consumption data (in addition to food consumption) starting in 1999.
+- ◦ Designed to bring coverage more in line with the Consumer Expenditure Survey .
+- ◦ Added in 1999: health care, mortgage or rent payments, housing insurance, transportation, child care, schooling, recurring automobile costs, and utilities.
+- ◦ Added in 2005: home furnishings, recreation, clothing, and vacations.
+- · Most recent data are for 2009.
+
+Selected Summary Statistics
+
+<!-- missing-text -->
+
+Note: Sample restricted to households 64 or younger who did not move between PSID waves. Average net worth decline results are conditional on households' reporting a net worth decline. Average dollars of debt repayment are conditional on households' reporting a decline in debt, and are in constant 2000 dollars.
+
+<!-- missing-text -->
+
+Note: Income held fixed at 2007 levels. Tot.Debt is total household debt. Cons. is reported household consumption and includes household spending on health care, housing, insurance, transportation, child care, schooling, recurring automobile costs, utilities, home furnishings, recreation, clothing, and vacations.
+
+Empirical Specification
+
+<!-- formula-not-decoded -->
+
+Exhibit 6
+
+Impact of Growth in Income and Net Worth on Consumption
+
+Baseline Estimates
+
+<!-- missing-text -->
+
+Note: Sample is restricted to households 64 or younger who did not move between PSID waves. Additional controls include a cubic term for the age of the head of household, family size, and year fixed effects. Robust standard errors; *** significant at the 1 percent level.
+
+<!-- missing-text -->
+
+Note: Owners own their home in consecutive PSID waves, while renters are tenants in consecutive waves. Sample is restricted to households 64 or younger who did not move between PSID waves. Additional controls include a cubic term for the age of the head of household, family size, and year fixed effects. Robust standard errors; *** significant at the 1 percent level, ** significant at the 5 percent level.
+
+<!-- missing-text -->
+
+Note: Debt is total household debt and includes both collateralized and noncollateralized debt holdings. Sample is restricted to households 64 or younger who did not move between PSID waves. Additional controls include a cubic term for the age of the head of household, family size, and year fixed effects. Robust standard errors; *** significant at the 1 percent level, ** significant at the 5 percent level.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: Sample is restricted to households 64 or younger who did not move between PSID waves. Debt Decline [DD] is an indicator variable for households who report a debt decline between consecutive PSID waves. Additional controls include a cubic term for the age of the head of household, family size, and year fixed effects. Robust standard errors; *** significant at the 1 percent level.
+
+Exhibit 8
+
+Summary
+
+- · Little empirical evidence during and/or following the Great Recession that factors other than ongoing developments in income and net worth had an impact on consumption.
+- · Even if pent-up demand for deleveraging exists, the risks to consumption growth would be limited.
+- · The standard relationship linking consumption to income and net worth should continue to be a reasonable predictor of household spending.
+
+Appendix 2:  Materials used by Ms. Yellen
+
+Class I FOMC - Restricted Controlled (FR)
+
+Consensus Statement on Longer-Run Goals and Policy Strategy
+
+January 24, 2012
+
+January 24-25, 2012
+
+274 of 314
+
+Authorized for Public Release
+
+J
+
+2
+
+7
+
+5
+
+The FOMC's Longer-Run Goals and Policy Strategy
+
+Following careful deliberations at its recent meetings, the Federal Open Market Committee (FOMC) has reached broad agreement on the following principles regarding its longer-run goals and monetary policy strategy.  The Committee intends to reaffirm these principles and to make adjustments as appropriate at its annual organizational meeting each January.
+
+- 1. The FOMC is firmly committed to fulfilling its statutory mandate from the Congress of promoting maximum employment, stable prices, and moderate long-term interest rates.  The Committee seeks to explain its monetary policy decisions to the public as clearly as possible.  Such clarity facilitates well-informed decision-making by households and businesses, reduces economic and financial uncertainty, increases the effectiveness of monetary policy, and enhances transparency and accountability, which are essential in a democratic society.
+- 2. Inflation, employment, and long-term interest rates fluctuate over time in response to economic and financial disturbances.  Moreover, monetary policy actions tend to influence economic activity and prices with a lag.  Therefore, the Committee's policy decisions reflect its longer-run goals, its medium-term outlook, and its assessments of the balance of risks, including risks to the financial system that could impede the attainment of the Committee's goals.
+- 3. The inflation rate over the longer run is primarily determined by monetary policy, and hence the Committee has the ability to specify a longer-run goal for inflation.  The Committee judges that inflation at the rate of 2 percent, as measured by the annual change in the price index for personal consumption expenditures, is most consistent over the longer run with the Federal Reserve's statutory mandate.  Communicating this inflation goal clearly to the public helps keep longer-term inflation expectations firmly anchored, thereby fostering price stability and moderate long-term interest rates and enhancing the Committee's ability to promote maximum employment in the face of significant economic disturbances.
+- 4. The maximum level of employment is largely determined by nonmonetary factors that affect the structure and dynamics of the labor market. These factors may change over time and may not be directly measurable.  Consequently, it would not be appropriate to specify a fixed goal for employment; rather, the Committee's policy decisions must be informed by assessments of the maximum level of employment, recognizing that such assessments are necessarily uncertain and subject to revision.  The Committee considers a wide range of indicators in making these assessments.  Information about Committee participants' estimates of the longer-run normal rates of output growth and unemployment is published four times per year in the FOMC's Summary of Economic Projections.  For example, in the most recent projections, FOMC participants' estimates of the longer-run normal rate of unemployment had a central tendency of 5.2 percent to 6.0 percent, roughly unchanged from last January but substantially higher than the corresponding interval several years earlier.
+- 5. In setting monetary policy, the Committee seeks to mitigate deviations of inflation from its longerrun goal and deviations of employment from the Committee's assessments of its maximum level. These objectives are generally complementary.  However, under circumstances in which the Committee judges that the objectives are not complementary, it follows a balanced approach in promoting them, taking into account the magnitude of the deviations and the potentially different time horizons over which employment and inflation are projected to return to levels judged consistent with its mandate.
+
+Appendix 3:  Materials used by Mr. Sack
+
+Authorized for Public Release
+
+Class II FOMC - Restricted FR
+
+Material for
+
+FOMC Presentation:
+
+Financial Market Developments and Desk Operations
+
+Brian Sack
+
+January 24, 2012
+
+Class II FOMC - Restricted FR
+
+(1) Euro Area Excess Liquidity*
+
+<!-- missing-text -->
+
+*Excess reserves plus deposit facility balance at ECB, excluding fine-tuning operation days.
+
+Source: ECB
+
+(3) Dollar Funding Spreads to OIS (3-Month Rates)
+
+<!-- missing-text -->
+
+*Euro Libor rate swapped to dollars.
+
+Source: Bloomberg, Federal Reserve Bank of New York
+
+<!-- missing-text -->
+
+Source: ECB
+
+(2) Maturing European Bank Debt*
+
+<!-- missing-text -->
+
+*Maturing longer-term unsecured and secured bank debt in 2012 for 16 banks in euro area, UK, and Switzerland.
+
+Source: Dealogic
+
+(4) Euro Area Sovereign Yields (2-Year Rates)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- *10-year note issued 01/09/03 with 4.6% coupon.
+
+Source: Bloomberg
+
+Class II FOMC - Restricted FR
+
+<!-- missing-text -->
+
+(9) Corporate Bond Spreads to Treasury
+
+<!-- missing-text -->
+
+Source: Bank of America-Merrill Lynch
+
+<!-- missing-text -->
+
+*Risk neutral path derived from federal funds futures and eurodollar futures. Source: Bloomberg, Federal Reserve Bank of New York
+
+(8) Correlation of S&amp;P 500 with Euro*
+
+<!-- missing-text -->
+
+*30-day rolling correlation of daily percent changes in S&amp;P 500 index and euro-dollar exchange rate.
+
+Source: Bloomberg
+
+(10) Treasury Yields
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Effect on term premium embedded in 10-year Treasury yield, as estimated by Wei-Li (2012) model.
+
+Source: Federal Reserve Board of Governors
+
+Class II FOMC - Restricted FR
+
+(13) Probability of Additional Policy Actions
+
+<!-- missing-text -->
+
+(15) SOMA Portfolio Holdings*
+
+<!-- missing-text -->
+
+*Actual values through  01/18/12, median dealer responses after 01/18/12. Source: Federal Reserve Bank of New York Survey
+
+(17) Annual Treasury Remittances
+
+<!-- missing-text -->
+
+Exhibit 3
+
+(14) Probability Distribution of First Increase in Federal Funds Target Rate*
+
+<!-- missing-text -->
+
+- *Average probabilities from dealer responses.
+
+Source: Federal Reserve Bank of New York Survey
+
+(16) MBS Option-Adjusted Spread to Treasury*
+
+<!-- missing-text -->
+
+*Current coupon spread spliced with 3.5% coupon spread when current coupon rate is below 3.5%.
+
+Source: Barclays Capital
+
+(18) SOMA Operations Since September 2011 FOMC Meeting
+
+<!-- missing-text -->
+
+Appendix 4:  Materials used by Messrs. Engen, Reeve, and Gallin
+
+J
+
+2
+
+8
+
+1
+
+CLASS II FOMC - Restricted (FR)
+
+Material for
+
+Staff Presentation on the Economic Outlook
+
+January 24-25, 2012
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 1
+
+Recent Indicators
+
+Change in Private Payroll Employment
+
+Manufacturing IP
+
+<!-- missing-text -->
+
+Real Personal Consumption Expenditures
+
+<!-- missing-text -->
+
+Real Federal Government Purchases
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Nondefense capital Goods Ex. Aircraft
+
+<!-- missing-text -->
+
+Real GDP
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 2
+
+Medium-term Forecast
+
+Real GDP
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+-0.5
+
+-1.0
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+Fiscal Impetus: Federal Government
+
+<!-- missing-text -->
+
+12
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+-0.0
+
+-0.1
+
+-0.2
+
+-0.3
+
+-0.4
+
+-0.5
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Real State and Local Government Purchases
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 3
+
+Some Risks Around the Forecast
+
+Faster Snapback
+
+Lost Decade
+
+- · Financial recovery may be further along than assumed.
+- · Recent improvement in labor and production indicators may signal more sustained recovery.
+- · More pent-up demand for durables and business equipment is released.
+
+Real GDP
+
+<!-- missing-text -->
+
+Core PCE Prices
+
+<!-- missing-text -->
+
+- · Improvements in financial conditions are slower to materialize.
+- · Consumer and business confidence remains subdued.
+- · Persistently slow spending has negative supply-side effects.
+
+Unemployment Rate
+
+10
+
+<!-- missing-text -->
+
+Federal Funds Rate
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 4
+
+Inflation Projection
+
+PCE Prices
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+PCE Energy Prices
+
+<!-- missing-text -->
+
+Core Nonfuel Import Prices
+
+<!-- missing-text -->
+
+Compensation per Hour*
+
+<!-- missing-text -->
+
+- * Nonfarm business sector.
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+-10
+
+-20
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1
+
+0
+
+<!-- missing-text -->
+
+Note: 2011:Q4 is an estimate based on monthly data through October.
+
+Inflation Expectations
+
+<!-- missing-text -->
+
+p. Preliminary.
+
+Note: Median responses to the Michigan survey. The SPF projection is for the PCE price index.
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 5
+
+European Developments
+
+Effects of ECB Operations
+
+<!-- missing-text -->
+
+Three-month Dollar Funding Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- Little concrete progress on increasing financial backstops.
+- - Permanent facility, ESM, may not add to total funds and will take time to implement.
+- - Leveraged EFSF not operational.
+- - S&amp;amp;P's downgrade of EFSF may limit effectiveness.
+- With insufficient firewalls, any number of shocks may cause financial conditions to deteriorate.
+- - Efforts to restructure Greek debt may not prevent disorderly default.
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 6
+
+Outlook for Growth in the Advanced Foreign Economies
+
+<!-- missing-text -->
+
+- * GDP aggregates weighted by shares of U.S. merchandise exports.
+
+Industrial Production
+
+<!-- missing-text -->
+
+Structural Budget Deficits
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Industrial Production
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 7
+
+Outlook for Growth in the Emerging Market Economies
+
+Percent change, annual rate
+
+<!-- missing-text -->
+
+- * GDP aggregates weighted by shares of U.S. merchandise exports.
+
+China
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Flows to EME Dedicated Funds*
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- * January 2012 is extrapolated from data through January 18, 2012. Source: Emerging Portfolio Fund Research.
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 8
+
+Inflation and Monetary Policy
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Consumer Price Outlook
+
+<!-- missing-text -->
+
+Commodity Price Outlook
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- In AFEs, monetary policy will remain accommodative.
+- - Continued extraordinary liquidity provision by ECB.
+- - Expansion of asset purchases by BoE and BoJ.
+- In EMEs, monetary policy will likely be eased somewhat.
+- - Though in some cases, continued concerns about inflation may limit scope for easing.
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 9
+
+U.S. External Sector
+
+Total Foreign Real GDP
+
+Broad Real Dollar
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+10
+
+Exhibit 10
+
+Baseline Financial Conditions
+
+Long-term Interest Rates
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+110
+
+100
+
+90
+
+80
+
+70
+
+60
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+Equity Prices
+
+<!-- missing-text -->
+
+House Price Index
+
+<!-- missing-text -->
+
+Nonfinancial Sector Debt
+
+<!-- missing-text -->
+
+120
+
+110
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+-20
+
+-40
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Financial Market Stress
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 11
+
+Conditions of Large Banking Institutions
+
+5-year CDS Spreads
+
+Stock Prices
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Market Equity Ratios
+
+<!-- missing-text -->
+
+Note: Calculated es ratios of market value of common equity to estimated market value of assets. Source: Bloomberg.
+
+Condltlonal Value at Risk (CoVaR)
+
+CoVaR
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 12
+
+Risks to Financial Institutions
+
+Alternative Scenario: Severe Euro Stress
+
+Effects on Banks
+
+- · For Europe:
+- -Soaring borrowing costs, plunging confidence, and a precipitous decline in GDP.
+- · For the U.S.:
+- -A sharp contraction of GDP.
+- -An increase in the unemployment rate to about 11 % percent by the end of 2013.
+- · Banks would experience substantial losses and weaker revenues.
+- · Aggregate ratio of lier 1 common equity to risk weighted assets would fall sharply.
+- · Investors could doubt the solvency of large financial institutions.
+
+Liabilities Structure of Large Bank Holding Companies
+
+<!-- missing-text -->
+
+Source: FR Y-9C.
+
+Dealers Reporting Increased Attention to Exposure to Other Dealers
+
+<!-- missing-text -->
+
+Vulnerabllltles
+
+- · Multiple legal entities and different regulatory regimes pose significant challenges for policymakers.
+- · Differences in bankruptcy and resolution regimes add to uncertainty.
+- · Nonbank financial firms could be harmed.
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 13 (Last)
+
+Money Market Funds and Policy Initiatives
+
+Taxable Institutional Money Market Fund Assets
+
+Prime Money Fund Holdings*
+
+<!-- missing-text -->
+
+Maturity Distribution of Prime MMF European Holdlngs Billions of dollars
+
+Note: Confidential.
+
+<!-- missing-text -->
+
+Source: SEC.
+
+<!-- missing-text -->
+
+Note: Confidential.
+
+Source: SEC.
+
+Exposures of Prime U.S. MMFs to France
+
+<!-- missing-text -->
+
+- · The SEC will issue a proposed rule aimed at reducing the susceptibility of money funds to runs. Rules are expected to include a capital buffer and perhaps holdback provisions.
+- · Task Force on triparty repo reform is expected to issue a final report soon.
+- -The industry has not eliminated the market's reliance on intraday credit from clearing banks.
+- · The FSOC has issued a proposed rule for the designation of systemically important nonbank financial institutions.
+- · The Comprehensive Capital Analysis and Review is underway.
+
+Appendix 5:  Materials used by Ms. Zickler
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for Briefing on
+
+FOMC Participants' Economic and Policy Projections
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+NOTE: Actual fourth-quarter 2011 values for the change in real GDP and for both measures of PCE inflation have not yet been published by the Bureau of Economic Analysis; the plotted values of these variables for 2011 are the median estimates taken from the Federal Reserve Bank of New York's January survey of primary dealers.
+
+<!-- missing-text -->
+
+NOTE: In the upper panel, the height of each bar denotes the number of FOMC participants who judge that, under appropriate monetary policy and in the absence of further shocks to the economy, the first increase in the target federal funds rate from its current range of 0 to ¼ percent will occur in the specified calendar year.  In the lower panel, each shaded circle indicates the value (rounded to the nearest ¼ percent) of an individual participant's judgment of the appropriate level of the target federal funds rate at the end of the specified calendar year or over the longer run.
+
+J
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+J
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+NOTE: The changes in real GDP and inflation are measured Q4/Q4
+
+<!-- missing-text -->
+
+similar
+
+Number of participants
+
+<!-- missing-text -->
+
+Number of participants
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Number of participants
+
+<!-- missing-text -->
+
+Number of participants
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Class I FOMC - Restricted (FR)
+
+Material for FOMC Briefing on Monetary Policy Alternatives
+
+Bill English January 24-25, 2012
+
+DECEMBER FOMC STATEMENT
+
+- 1. Information received since the Federal Open Market Committee met in November suggests that the economy has been expanding moderately, notwithstanding some apparent slowing in global growth.  While indicators point to some improvement in overall labor market conditions, the unemployment rate remains elevated. Household spending has continued to advance, but business fixed investment appears to be increasing less rapidly and the housing sector remains depressed. Inflation has moderated since earlier in the year, and longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee continues to expect a moderate pace of economic growth over coming quarters and consequently anticipates that the unemployment rate will decline only gradually toward levels that the Committee judges to be consistent with its dual mandate.  Strains in global financial markets continue to pose significant downside risks to the economic outlook.  The Committee also anticipates that inflation will settle, over coming quarters, at levels at or below those consistent with the Committee's dual mandate.  However, the Committee will continue to pay close attention to the evolution of inflation and inflation expectations.
+- 3. To support a stronger economic recovery and to help ensure that inflation, over time, is at levels consistent with the dual mandate, the Committee decided today to continue its program to extend the average maturity of its holdings of securities as announced in September.  The Committee is maintaining its existing policies of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction.  The Committee will regularly review the size and composition of its securities holdings and is prepared to adjust those holdings as appropriate.
+- 4. The Committee also decided to keep the target range for the federal funds rate at 0 to ¼ percent and currently anticipates that economic conditions-including low rates of resource utilization and a subdued outlook for inflation over the medium run-are likely to warrant exceptionally low levels for the federal funds rate at least through mid-2013.
+- 5. The Committee will continue to assess the economic outlook in light of incoming information and is prepared to employ its tools to promote a stronger economic recovery in a context of price stability.
+
+JANUARY FOMC STATEMENT-ALTERNATIVE A
+
+- 1. Information received since the Federal Open Market Committee met in November December suggests that the economy has been expanding moderately, notwithstanding some apparent slowing in global growth.  While indicators point to some further improvement in overall labor market conditions, the unemployment rate remains elevated.  Household spending has continued to advance, but growth in business fixed investment appears to be increasing less rapidly has slowed, and the housing sector remains depressed.  Inflation has moderated since earlier in the year been subdued in recent months , and longerterm inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee continues to expect  a moderate s that, absent further policy action, the pace of economic growth would remain modest over coming quarters and consequently anticipates that the unemployment rate will would decline only very gradually toward levels that the Committee judges to be consistent with its dual mandate.  Strains in global financial markets continue to pose significant downside risks to the economic outlook.  The Committee also anticipates that over coming quarters, inflation will settle, run at levels   at or [ ] below those consistent with the Committee's dual mandate.  However, the Committee will continue to pay close attention to the evolution of inflation and inflation expectations.
+- 3. To support a stronger economic recovery and to help ensure that inflation, over time, is at levels consistent with the dual mandate, the Committee decided today to purchase up to an additional $500 billion of agency mortgage-backed securities by the end of January 2013 . In addition, the Committee intends to continue its program to extend the average maturity of its holdings of securities as announced in September.  The Committee is also maintaining its existing policies of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. These programs should put downward pressure on longer-term interest rates, provide support to mortgage markets, and help make broader financial conditions more accommodative. The Committee will regularly review the size and composition of its securities holdings and is prepared to adjust those holdings as appropriate.
+
+OR
+
+- 3´. To support a stronger economic recovery and to help ensure that inflation, over time, is at levels consistent with the dual mandate, the Committee decided today to purchase additional agency mortgage-backed securities, initially at a rate of $40 billion per month . The Committee will adjust the pace of purchases and determine the ultimate size of the program in light of the evolving economic outlook and as needed to foster its objectives.  In addition, the Committee intends to continue its program to extend the average maturity of its holdings of securities as announced in September.  The Committee is also
+
+maintaining its existing policies of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. These programs should put downward pressure on longer-term interest rates, provide support to mortgage markets, and help make broader financial conditions more accommodative. The Committee will regularly review the size and composition of its securities holdings and is prepared to adjust those holdings as appropriate.
+
+- 4. The Committee also decided to keep the target range for the federal funds rate at 0 to ¼ percent and currently now anticipates that economic conditions-including low rates of resource utilization and a subdued outlook for inflation over the medium run-are likely to warrant this exceptionally low levels range for the federal funds rate at least through mid-2013 will be appropriate at least as long as the unemployment rate exceeds [ 6½ ] percent, the inflation rate (as measured by the price index for personal consumption expenditures) at a horizon of one to two years is projected to be either below or close to [ 2 ] percent, and longer-term inflation expectations continue to be well anchored . On the basis of currently available information, the Committee expects these conditions to prevail at least through late 2014.
+- 5. The Committee will continue to assess the economic outlook in light of incoming information and is prepared to employ its tools as needed to promote a stronger economic recovery in a context of price stability.
+
+JANUARY FOMC STATEMENT-ALTERNATIVE B
+
+- 1. Information received since the Federal Open Market Committee met in November December suggests that the economy has been expanding moderately, notwithstanding some apparent slowing in global growth.  While indicators point to some further improvement in overall labor market conditions, the unemployment rate remains elevated.  Household spending has continued to advance, but growth in business fixed investment appears to be increasing less rapidly has slowed, and the housing sector remains depressed.  Inflation has moderated since earlier in the year been subdued in recent months , and longerterm inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee continues to expect  a moderate s pace of economic growth over coming quarters to be modest and consequently anticipates that the unemployment rate will decline only gradually make only slow progress toward levels that the Committee judges to be consistent with its dual mandate.  Strains in global financial markets continue to pose significant downside risks to the economic outlook.  The Committee also anticipates that over coming quarters, inflation will settle, run at levels at or below those consistent with the Committee's dual mandate. [ However, the Committee will continue to pay close attention to the evolution of inflation and inflation expectations. ]
+
+.
+
+- 3. To support a stronger economic recovery and to help ensure that inflation, over time, is at levels consistent with the dual mandate, the Committee intends to maintain a highly accommodative stance for monetary policy . In particular, the Committee also decided today to keep the target range for the federal funds rate at 0 to ¼ percent and currently anticipates that economic conditionsincluding low rates of resource utilization and a subdued outlook for inflation over the medium run-are likely to warrant this exceptionally low levels range for the federal funds rate at least through mid-2013 will be appropriate at least as long as the unemployment rate exceeds [ 7 ] percent, the inflation rate (as measured by the price index for personal consumption expenditures) at a horizon of one to two years is projected to be either below or close to [ 2 ] percent, and longer-term inflation expectations continue to be well anchored On the basis of currently available information, the Committee expects these conditions to prevail at least through late 2014.
+
+OR
+
+- 3´. To support a stronger economic recovery and to help ensure that inflation, over time, is at levels consistent with the dual mandate, the Committee expects to maintain a highly accommodative stance for monetary policy . In particular, the Committee also decided today to keep the target range for the federal funds rate at 0 to ¼ percent and currently anticipates that economic conditionsincluding low rates of resource utilization and a subdued outlook for inflation
+
+over the medium run-are likely to warrant exceptionally low levels for the federal funds rate at least through mid-2013 late 2014 .
+
+- 4. The Committee also decided today to continue its program to extend the average maturity of its holdings of securities as announced in September.  The Committee is maintaining its existing policies of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction.  The Committee will regularly review the size and composition of its securities holdings and is prepared to adjust those holdings as appropriate to promote a stronger economic recovery in a context of price stability .
+- 5. The Committee will continue to assess the economic outlook in light of incoming information and is prepared to employ its tools to promote a stronger economic recovery in a context of price stability.
+
+JANUARY FOMC STATEMENT-ALTERNATIVE C
+
+- 1. Information received since the Federal Open Market Committee met in November December suggests that the econom ic has been expanding moderately, notwithstanding some apparent slowing in global growth recovery has strengthened somewhat .  While indicators point to some improvement in overall labor market conditions, Although the unemployment rate remains elevated , it has declined recently, and employment continues to increase .  Household spending has continued to advance d further , but and business fixed investment appears to be increasing less rapidly and has continued to expand, but the housing sector remains depressed.  Inflation has moderated since earlier in the somewhat since the first half of last year, and longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee continues to expect  a moderate s firming in the pace of economic growth over coming quarters and consequently anticipates that the unemployment rate will decline only gradually toward levels that the Committee judges to be consistent with its dual mandate.  Strains in global financial markets continue to pose significant downside risks to the economic outlook.  The Committee also anticipates that over coming quarters, inflation will settle, run at levels at or below those consistent with the Committee's dual mandate.  However, The Committee will continue to pay close attention to the evolution of inflation and inflation expectations.
+- 3. To support a stronger the economic recovery and to help while ensur ing that inflation, over time, is at levels that are consistent with the dual mandate, the Committee decided today to continue its reduce by half the size of the program to extend the average maturity of its holdings of securities as announced in September and to complete the program by the end of February .  The Committee is maintaining its existing policies of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction.  The Committee will regularly review the size and composition of its securities holdings and is prepared to adjust those holdings as appropriate.
+- 4. The Committee also decided to keep the target range for the federal funds rate at 0 to ¼ percent and currently now anticipates that economic conditions-including low rates of resource utilization and a subdued outlook for inflation over the medium run-are likely to warrant exceptionally low levels for the federal funds rate at least through mid-2013 for an extended period .
+- 5. The Committee will continue to assess the economic outlook in light of incoming information and is prepared to employ its tools as appropriate to promote a stronger economic recovery in a context of its objectives of maximum employment and price stability.
+
+DECEMBER 2011 DIRECTIVE
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to continue the maturity extension program it began in September to purchase, by the end of June 2012, Treasury securities with remaining maturities of approximately 6 years to 30 years with a total face value of $400 billion, and to sell Treasury securities with remaining maturities of 3 years or less with a total face value of $400 billion.  The Committee also directs the Desk to maintain its existing policies of rolling over maturing Treasury securities into new issues and of reinvesting principal payments on all agency debt and agency mortgage-backed securities in the System Open Market Account in agency mortgage-backed securities in order to maintain the total face value of domestic securities at approximately $2.6 trillion.  The Committee directs the Desk to engage in dollar roll transactions as necessary to facilitate settlement of the Federal Reserve's agency MBS transactions.  The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+JANUARY 2012 DIRECTIVE-ALTERNATIVE A
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to continue the maturity extension program it began in September to purchase, by the end of June 2012, Treasury securities with remaining maturities of approximately 6 years to 30 years with a total face value of $400 billion, and to sell Treasury securities with remaining maturities of 3 years or less with a total face value of $400 billion. [ The Committee also directs the Desk to execute purchases of agency mortgage-backed securities by the end of January 2013 in order to increase the total face value of domestic securities held in the System Open Market Account to approximately $3.1 trillion. | The Committee also directs the Desk to execute purchases of agency mortgage-backed securities in order to increase the total face value of domestic securities held in the System Open Market Account by approximately $40 billion per month. ] The Committee also directs the Desk to maintain its existing policies of rolling over maturing Treasury securities into new issues and of reinvesting principal payments on all agency debt and agency mortgage-backed securities in the System Open Market Account in agency mortgage-backed securities in order to maintain the total face value of domestic securities at approximately $2.6 trillion.  The Committee directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency MBS transactions.  The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+JANUARY 2012 DIRECTIVE-ALTERNATIVE B
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to continue the maturity extension program it began in September to purchase, by the end of June 2012, Treasury securities with remaining maturities of approximately 6 years to 30 years with a total face value of $400 billion, and to sell Treasury securities with remaining maturities of 3 years or less with a total face value of $400 billion.  The Committee also directs the Desk to maintain its existing policies of rolling over maturing Treasury securities into new issues and of reinvesting principal payments on all agency debt and agency mortgage-backed securities in the System Open Market Account in agency mortgage-backed securities in order to maintain the total face value of domestic securities at approximately $2.6 trillion.  The Committee directs the Desk to engage in dollar roll transactions as necessary to facilitate settlement of the Federal Reserve's agency MBS transactions.  The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+JANUARY 2012 DIRECTIVE-ALTERNATIVE C
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to continue modify the maturity extension program it began in September so as to purchase, by the end of June February 2012, Treasury securities with remaining maturities of approximately 6 years to 30 years with a total face value of $400 $200 billion, and to sell Treasury securities with remaining maturities of 3 years or less with a total face value of $400 $200 billion.  The Committee also directs the Desk to maintain its existing policies of rolling over maturing Treasury securities into new issues and of reinvesting principal payments on all agency debt and agency mortgage-backed securities in the System Open Market Account in agency mortgage-backed securities in order to maintain the total face value of domestic securities at approximately $2.6 trillion.  The Committee directs the Desk to engage in dollar roll transactions as necessary to facilitate settlement of the Federal Reserve's agency MBS transactions.  The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.

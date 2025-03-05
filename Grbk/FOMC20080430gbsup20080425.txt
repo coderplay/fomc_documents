@@ -1,0 +1,257 @@
+Prefatory Note
+
+The attached document represents the most complete and accurate version available based on original files from the FOMC Secretariat at the Board of Governors of the Federal Reserve System.
+
+Please note that some material may have been redacted from this document if that material was received on a confidential basis.  Redacted material is indicated by occasional gaps in the text or by gray boxes around non-text content.  All redacted passages are exempt from disclosure under applicable provisions of the Freedom of Information Act.
+
+CURRENT ECONOMIC AND FINANCIAL CONDITIONS
+
+Supplemental Notes
+
+Prepared for the Federal Open Market Committee by the staff of the Board of Governors of the Federal Reserve System
+
+April 25, 2008
+
+Contents
+
+<!-- missing-text -->
+
+Supplemental Notes
+
+The Domestic Nonfinancial Economy
+
+Consumer Sentiment
+
+After having declined just a touch to 69.5 in March, the Reuters/University of Michigan index of consumer sentiment plunged to 62.6 in April.  The decrease was slightly larger than had been reported in the preliminary estimate released in the middle of the month, implying that sentiment fell a bit further in the second half of the month.  Both the 'current conditions' and the 'expected conditions' components of the overall index decreased significantly between March and April.  Among those items not included in the overall sentiment index, consumers' expectations about the change in unemployment over the next twelve months worsened considerably in April, and consumers' appraisals of buying conditions for cars also softened.  However, consumers' appraisals of buying conditions for houses strengthened in April, largely because of increases in the number of households noting that prices and interest rates were low.
+
+Since July, the level of sentiment has fallen precipitously; these declines reflect heightened concerns about the economy that can only partially be explained by the usual influences on sentiment, including inflation, the stock market, and employment conditions.  The index from the Reuters/Michigan survey now stands a touch below the nadir reached during the 1990-1991 recession.
+
+Among households, the median of expected inflation over the next twelve months rose 1/2 percentage point to 4.8 percent in April, and the median of expected inflation over the next five to ten years rose to 3.2 percent, the highest level since the summer of 2006.
+
+Sales of New Homes
+
+New home sales continued to decline in March.  The number of new-home sales agreements sank 8½ percent in March to an annual rate of 526,000 units; sales in February were revised down a touch.  For the first quarter as a whole, sales came in at an average annual rate of 570,000 units, down 13 percent from the preceding quarter and 33 percent below their year-earlier level.  Inventories of new homes for sale moved down another 1 percent in March and are now 20 percent below their peak in the summer of 2006.  Even so, these inventories represented about 10¾ months' supply at March's slower sales pace-the highest reading since 1981.
+
+The constant-quality price index for new homes-which controls for changes in readily measurable attributes such as home size and the geographic composition of sales-fell at
+
+an annual rate of 9¾ percent in the first quarter, a somewhat larger drop than the 5 percent rate of decline recorded in the fourth quarter.
+
+Shipments and Orders for Nondefense Capital Goods
+
+Shipments of nondefense capital goods excluding aircraft increased 1.2 percent in March after having declined in the preceding two months; new orders, which also fell in January and February, were flat and point to weaker shipments in the near term.  Within the hightech category, both orders and shipments of computers and peripherals posted solid gains in March and were revised up in February.  However, although shipments of communications equipment stepped up in March, the rise reversed only a part of the declines posted in January and February, while orders dropped more than 3 percent. Outside of the high-tech sector, shipments increased somewhat last month but orders only edged up after having plunged in February.
+
+The three-month moving average of the staff's constructed series on real adjusted durable goods orders was down 1 percent in March.  This series-which strips out nondefense aircraft, defense capital goods, and industries for which reported orders actually equal shipments-is one of the staff's indicators of near-term industrial production.
+
+The Domestic Financial Economy
+
+Errata for Part 2 of the Greenbook:
+
+Page III-17
+
+The sentence that reads:
+
+Indeed, the net fractions of banks tightening lending standards reached or surpassed historical highs for all loan categories in the survey.
+
+should read:
+
+Indeed, the net fractions of domestic banks tightening lending standards were close to, or surpassed, historical highs for nearly all loan categories in the survey.
+
+Page III-A-1
+
+The sentence that reads:
+
+In the April survey, domestic and foreign institutions reported having further tightened their lending standards and terms on all loan categories over the past three months, with the net fractions of banks reporting tighter lending standards now being at, or above, historical highs for all loan categories in the survey.
+
+should read:
+
+In the April survey, domestic and foreign institutions reported having further tightened their lending standards and terms on all loan categories over the past three months, with the net fractions of domestic banks reporting tighter lending standards now close to, or above, historical highs for nearly all loan categories in the survey.
+
+Reuters/University of Michigan Survey of Consumers
+
+Indexes of consumer sentiment (Not seasonally adjusted)
+
+<!-- missing-text -->
+
+Note. Figures on financial, business, and buying conditions are the percent reporting 'good times' (or 'better') minus the percent reporting 'bad times' (or 'worse'), plus 100.   Expected change in unemployment is the fraction expecting unemployment to rise minus the fraction expecting unemployment to fall, plus 100.
+
+- P  Preliminary.
+- F  Final.
+- 1.  Feb. 1966 = 100.
+- 2.  Indicates the question is one of the five equally-weighted components of the index of sentiment. Consumer sentiment Expected inflation
+
+<!-- missing-text -->
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+<!-- missing-text -->
+
+(Millions of units, seasonally adjusted; annual rate except as noted)
+
+<!-- missing-text -->
+
+- 1. Adjusted permits equal permit issuance plus total starts outside of permit-issuing areas.
+- 2. Number outstanding at end of period.  Excludes permits that have expired or have been canceled, abandoned, or revoked.  Not at an annual rate.
+- 3. At current sales rate; expressed as the ratio of seasonally adjusted inventories to seasonally adjusted sales. Quarterly and annual figures are averages of monthly figures.
+
+n.a.
+
+Not available.
+
+Private Housing Starts and Permits
+
+(Seasonally adjusted annual rate)
+
+<!-- missing-text -->
+
+Note.  Adjusted permits equal permit issuance plus total starts outside of permit-issuing areas.
+
+Indicators of Single-Family Housing
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note. The Case-Shiller and monthly OFHEO indexes are 3-month percent changes.
+
+Source. For purchase-only indexes, OFHEO; for Case-Shiller, Chicago Mercantile Exchange.
+
+<!-- missing-text -->
+
+Mortgage Rates
+
+<!-- missing-text -->
+
+Note. The Apr. readings are for data through Apr. 23, 2008. Source. Conforming rates are from Freddie Mac.  The jumbo rate is the sum of the 30-year conforming FRM rate and the jumbo conforming spread from bankrate.com.
+
+Price of New Homes
+
+<!-- missing-text -->
+
+20
+
+17
+
+14
+
+11
+
+8
+
+5
+
+2
+
+Orders and Shipments of Nondefense Capital Goods
+
+(Percent change; seasonally adjusted current dollars)
+
+<!-- missing-text -->
+
+- 1. From Census Bureau, Current Industrial Reports; billions of dollars, annual rate.
+- n.a. Not available.
+
+Communications Equipment
+
+<!-- missing-text -->
+
+Note. Shipments and orders are deflated by a price index that is derived from the BEA's quality-adjusted price indexes and uses the PPI for communications equipment for monthly interpolation.
+
+Computers and Peripherals
+
+<!-- missing-text -->
+
+Note. Ratio scales. Shipments are deflated by the staff price index for computers and peripheral equipment, which is derived from the BEA's quality-adjusted price indexes.
+
+Non-High-Tech, Nontransportation Equipment
+
+<!-- missing-text -->
+
+Note. Shipments and orders are deflated by the staff price indexes for the individual equipment types included in this category. Indexes are derived from the BEA's quality-adjusted price indexes.
+
+Medium and Heavy Trucks
+
+<!-- missing-text -->
+
+58
+
+52
+
+47
+
+42
+
+37
+
+32
+
+1240
+
+1040
+
+900
+
+760
+
+620
+
+480
+
+340
+
+200
+
+Note.  Annual rate, FRB seasonals. Source.  For sales, Ward's Communications; for orders, ACT Research.
+
+Commercial Bank Credit
+
+(Percent change, annual rate, except as noted; seasonally adjusted)
+
+<!-- missing-text -->
+
+Note.  Yearly annual rates are Q4 to Q4; quarterly and monthly annual rates use corresponding average levels.  Data have been adjusted to remove the effects of mark-to-market accounting rules (FIN 39 and FAS 115), the initial consolidation of certain variable interest entities (FIN 46), the initial adoption of fair value accounting (FAS 159), and the effects of sizable thrift-to-bank and bank-to-thrift structure activity in October 2006, March 2007, and October 2007. Data also account for breaks caused by reclassifications.
+
+- 1. Billions of dollars.  Pro rata averages of weekly (Wednesday) levels.
+- 2. Excludes interbank loans.
+- 3. Includes an estimate of outstanding loans securitized by commercial banks.
+- 4. Includes security loans and loans to farmers, state and local governments, and all others not elsewhere classified. Also includes lease financing receivables.
+- 5. Includes private mortgage-backed securities, securities of corporations, state and local governments, foreign governments, and any trading account assets that are not Treasury or agency securities, including revaluation gains on derivative contracts.
+- e  Estimated.
+
+III-T-1
+
+Selected Financial Market Quotations
+
+(One-day quotes in percent except as noted)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- 1.  Secondary market.
+- 2.  Financial commercial paper.
+- 3.  Bid rates for Eurodollar deposits collected around 9:30 a.m. eastern time.
+- 4.  Derived from a smoothed Treasury yield curve estimated using off-the-run securities.
+- 5.  Derived from a smoothed Treasury yield curve estimated using all outstanding securities and adjusted for the carry effect.
+- 6.  Most recent Thursday quote.
+- 7.  Constant-maturity yields estimated from Fannie Mae domestic noncallable coupon securities.
+- 8.  Derived from smoothed corporate yield curves estimated using Merrill Lynch bond data.
+
+_______________________________________________________________________
+
+NOTES:
+
+June 29, 2006, is the day the most recent policy tightening ended. September 17, 2007, is the day before the most recent policy easing began. March 17, 2008, is the day before the most recent FOMC monetary policy announcement.
+
+_______________________________________________________________________

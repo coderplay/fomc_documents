@@ -1,0 +1,637 @@
+Appendix 1:  Materials used by Mr. Kos
+
+Page 150 of 194
+
+Current Deposit Rates and Rates Implied by Traded Forward Rate Agreements January 29-30, 2002 Page 151 of 194
+
+October 1, 2001 to January 28, 2002
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Fed Funds and Treasury Coupon Yields
+
+October 1, 2001 to January 28, 2002
+
+<!-- missing-text -->
+
+Performance of U.S. Equity Indices
+
+October 1, 2001 to January 28, 2002
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Japanese Yen Against Major Currencies
+
+<!-- missing-text -->
+
+10-Year Japanese Government Bond Yield
+
+<!-- missing-text -->
+
+Sub-Components of the EMBI+ Spread
+
+<!-- missing-text -->
+
+Brazilian Real and Mexican Peso Against the Dollar
+
+<!-- missing-text -->
+
+30-Day Local Swap Rates
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+from Sep. 12-19
+
+Appendix 2:  Materials used by Mr. Reifschneider and Mr. Williams
+
+Page 156 of 194
+
+Material for
+
+Board Staff Presentation on the Implications of the Zero Bound on Nominal Interest Rates
+
+Division of Research and Statistics
+
+January 29, 2002
+
+January 29-30, 2002
+
+Page 157 of 194
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- · If the stock market crashes, the extent of monetary stimulus that could be put in place immediately might be less than desired.
+- · Worse, falling inflation would cause real rates to rise while the nominal funds rate is stuck at zero, exacerbating the situation.
+- · In this example the economy can recover because the baseline path incorporates enough potential stimulus to offset a major shock.
+- · But if the baseline outlook for the funds rate had been flat at its current level, the unemployment rate would have remained high and deflation would have set in.
+
+Exhibit 2 The Economics of the Zero Bound
+
+- · Key assumptions for our analysis:
+- /G3c monetary policy affects real activity primarily through its ability to alter the real funds rate, and thereby influence asset prices through arbitrage
+- /G3c 'quantity' effects of monetary policy are not that important
+- /G3c inflation displays inertia and depends on expectations and resource utilization
+- · Under such conditions, the zero bound:
+- /G3c limits the magnitude of the monetary stimulus immediately available to offset shocks
+- /G3c leads to an erosion in monetary stimulus as inflation falls
+- /G3c destabilizes the economy if the erosion problem is severe enough - a deflationary trap
+- · Practical importance of the stability threat depends on several factors:
+- /G3c responsiveness of output and inflation to changes in the real funds rate
+- /G3c magnitude and persistence of disturbances to the economy
+- /G3c responsiveness of monetary policy to changes in output and inflation
+- /G3c extent of average maneuvering room - inflation target plus R*
+
+Page 159 of 194
+
+Exhibit 3
+
+Quantitative Implications of the Zero Bound for Economic Stability
+
+- · Goal - estimate the effect on average economic performance of lowering the target rate of inflation (which makes the zero bound more of a constraint on policy)
+- · Approach - simulate the FRB/US model under rational expectations, subject to shocks like those experienced over the past 35 years
+- · Policy assumption - the Taylor rule
+- /G3c I  = R*  + t t /G42 t + .5 GAP  + .5 ( t /G42 t -/G42 *)
+- /G3c I is the nominal funds rate, R* is the equilibrium real rate, GAP is the output gap, /G42 is the four-quarter rate of core inflation, and /G42 * is the inflation target.
+
+Main Lessons from Stochastic Simulation Analysis
+
+- · At low target rates of inflation, the funds rate falls to zero frequently.
+- · Because policy is often constrained, economic performance deteriorates for inflation targets below 2 percent or so.
+
+Average Macroeconomic Performance Under the Taylor Rule
+
+<!-- missing-text -->
+
+- 1. Deep recessions defined as downturns during which the unemployment rate peaks at or above 7-1/2 percent (2-1/4 percentage points above the long-run NAIRU in the simulations).
+
+Exhibit 4
+
+Policy Design in a Low Inflation Environment - More Responsive Rules
+
+More responsive rules:
+
+- · Adjust the funds rate by more than the Taylor rule following a change in output.
+- · May also be more responsive to movements in inflation, if desired.
+
+Advantages:
+
+- · Inflation tends to be closer to target when shocks hit, making deflation less likely.
+- · Policy moves more quickly and thereby limits the severity of recessions, making deflation less likely.
+
+Economic Performance Under Rules With Alternative Degrees of Responsiveness 1
+
+<!-- missing-text -->
+
+- 1. Output gap coefficient equals 1.0 in the more responsive rule,  0.5 in the Taylor rule.
+
+Potential Drawbacks of More Responsive Rules
+
+- · Heightened funds rate variability and more frequent policy reversals
+- · Greater risk of policy mistakes because of data errors and supply-side mismeasurement
+- · Increased risk of confidence crisis if investors become unnerved by Fed 'impotence'
+
+Exhibit 5
+
+Another Policy Option - Asymmetric Responsiveness
+
+Asymmetric rules (illustrative example):
+
+- · Under most conditions respond according to the Taylor rule.
+- · But if the Taylor rule wants a funds rate below 1 percent, drop immediately to zero.
+
+Advantages:
+
+- · Reduces the stabilization costs associated with the zero bound.
+- · Minimizes funds rate variability and the frequency of policy reversals.
+
+Economic Performance Under the Taylor and Asymmetric Funds Rate Rules
+
+<!-- missing-text -->
+
+- 1. Asymmetric rule is the same as the Taylor rule, except that when the Taylor rule prescribes a nominal funds rate below 1 percent, the asymmetric rule reduces the funds rate immediately to zero.
+
+Potential Drawbacks of Asymmetric Rules
+
+- · To be effective, investor expectations must correctly incorporate the implications of asymmetric behavior.
+- · But asymmetric rules may be difficult to understand in practice.
+
+Exhibit 6
+
+Price-Level Targeting and Other Policies that Promise Above-Average Inflation in the Future
+
+Price-level targeting and similar strategies:
+
+- · Pledge to keep the funds rate unusually low following a zero bound episode in order to keep inflation above average for a time.
+- · Automatic under price-level targeting, because bygones are not bygones - any fall in the price level below target must be made up later.
+
+Advantages:
+
+- · By creating the expectation that the future stance of policy will be 'easy' for a time, real bond rates today are reduced during zero bound episodes.
+- · As a result, the severity of recessions and the risk of deflation decreases.
+- · Research indicates potential effectiveness.
+
+Disadvantages:
+
+- · Such strategies imply periodically taking 'unusual' actions, such as allowing inflation to drift well above its long-run target.
+- · For this reason, the public may doubt the likelihood that the central bank will actually deliver on its promises, rendering the strategy ineffective.
+
+Exhibit 7 Main Lessons
+
+- · In low inflation environments, the nominal funds rate falls to zero frequently.
+- · Usually this only delays economic recovery because most disturbances are sufficiently transitory and moderate in magnitude.
+- · But the economy can become severely destabilized if significant deflation sets in.
+- · Monetary policy can mitigate the effects of the zero bound in several ways:
+- /G3c Aim for a long-run average rate of CPI inflation that is not too low.
+- /G3c Respond relatively aggressively to movements in output and inflation.
+- /G3c Pursue policies that promise higher inflation following zero bound episodes.
+- · FRB/US analysis suggests no advantage in 'keeping your powder dry.'
+
+Appendix 3:  Materials used by Mr. Goodfriend
+
+Monetary Policy at the Zero Bound on Nominal Interest Rates
+
+Marvin Goodfriend Federal Reserve Bank of Richmond January 29, 2002
+
+Quantitative Monetary Policy at the Zero Bound
+
+- · Usually, open market operations constrained to accommodate demand for monetary base at opportunity cost spread between intended funds rate and zero bound
+- · Monetary base free to expand further at the zero bound
+- · Central bank can pursue quantitative monetary policy at the zero bound
+
+2
+
+Narrow and Broad Liquidity
+
+- · To appreciate power of quantitative policy at the zero bound--distinguish between narrow and broad liquidity services
+- · Narrow liquidity services provided by the medium of exchange allow banks and the public to economize on transactions costs
+- · At zero interest, narrow liquidity is no longer scarce and that channel of monetary transmission is exhausted
+
+Broad Liquidity Services
+
+- · Broad liquidity services are not exhausted, and provide the leverage for quantitative monetary policy
+- · Broad liquidity is a service yield provided by assets according to how easily they can be turned into cash either by sale or by serving as collateral for external finance
+
+3
+
+4
+
+Broad Liquidity Services (2)
+
+- · Broad liquidity services are valued because they minimize the exposure of households and firms to the external finance premium
+- · The existence of an external finance premium gives rise to a demand for broadly liquid assets variously referred to as-precautionary savings, a liquid buffer stock, or self-insurance
+
+Expanding Broad Liquidity
+
+- · Quantitative policy must expand broad liquidity to be stimulative at the zero bound
+- · Open market purchases of short-term bonds would not expand broad liquidity much
+- · Open market purchases of long-term bonds, other assets could increase broad liquidity
+- · Broad liquidity could be created by monetizing a government budget deficit
+
+5
+
+6
+
+The Transmission Mechanism
+
+- · The portfolio rebalancing channel--
+- · Increase in broad liquidity reduces the marginal implicit broad liquidity services yield on monetary assets
+- · Portfolio balance requires a similar fall in the explicit yield on non-monetary assets
+- · Prices of non-monetary assets bid up to restore the required return differential.
+
+7
+
+The Transmission Mechanism (2)
+
+- · Higher asset prices raise desired consumption out of current income
+- · Higher asset prices relative to their cost of production revive investment
+- · Reduced saving rate and increased investment demand raise employment
+- · Higher utilization rates and profits raise asset prices further
+
+8
+
+The Transmission Mechanism (3)
+
+- · The credit channel--
+- · Higher asset prices raise collateral values, increase net worth, and raise bank capital
+- · The external finance premium comes down
+- · Credit spreads narrow, bank lending revives, spending rises as cost of borrowing against future income prospects falls
+
+Implementation Problems
+
+- · Injection of monetary base can provide impulse to get recovery going
+- · Self-sustaining recovery requires confidence that base money will be expanded as much and for as long as needed
+- · To acquire such credibility, must overcome perception of central bank concern with inflationary risk of high money growth
+
+10
+
+9
+
+Implementation Problems (2)
+
+- · Relatively small changes in bank reserves suffice to support interest rate policy
+- · At the zero bound, policy must exert its effect through broad liquidity
+- · This will require large-scale injections of base money, substantially increasing the size of the central bank balance sheet
+
+11
+
+Fiscal Support for Quantitative Policy
+
+- · Full credibility for quantitative policy at the zero bound requires more support from the fiscal authorities than usual
+- · There might not be enough long bonds to buy in order to expand the monetary base; central bank could buy other assets, but...
+- · Either way, capital losses might leave central bank with insufficient assets to reverse excess base money
+
+12
+
+Fiscal Support for Quantitative Policy (2)
+
+- · Fiscal authorities could provide the central bank with additional government debt to sell to drain excess base money
+- · Alternatively, fiscal authorities could agree to run a budget deficit at the central bank's request as means of injecting broad liquidity
+
+13
+
+Fiscal Support for Quantitative Policy (3)
+
+- · Central bank could monetize short-term debt issued to finance the deficit, and withdraw excess base money later by selling that debt to the public
+- · In any case, the government must accept that quantitative policy actions at the zero bound could significantly increase government debt in the hands of the public
+
+14
+
+Fiscal Support for Quantitative Policy (4)
+
+- · An inadequate commitment by the fiscal authorities to support the central bank could block the use of quantitative policy at the zero bound
+- · A prearranged agreement could enable quantitative policy to act credibly, flexibly, and effectively at the zero bound
+
+15
+
+16
+
+Other Policy Options
+
+- · Do nothing unusual
+- · Commit to holding the funds rate at zero
+- · Buy foreign exchange/depreciate the exchange rate
+- · Expand credit policy
+- · Pursue deliberately inflationary policy
+
+Do Nothing Unusual
+
+- · Keep funds rate at zero without increasing the monetary base more than necessary
+- · Contraction likely deeper than usual
+- · Two risks of more protracted downturn--
+- · Distressed banking system, less elastic inside supply of broad liquidity than usual
+- · Policy vacuum encourages ill-advised fiscal actions
+
+17
+
+Commit to Holding the Funds Rate at Zero
+
+- · Central bank would write options on future short rates to give itself an incentive to keep rates down
+- · Advantage, acts directly on long rates
+- · Disadvantage, at best small effect
+- · Credibility doubtful given overwhelming pressure to take interest rate policy actions deemed correct at a point in time
+
+18
+
+Buy Foreign Assets/Depreciate the Exchange Rate
+
+- · Different, but both make use of openness
+- · Could buy foreign government securities to help increase broad liquidity--
+- · Authorized to do so, but exchange rate risk
+- · Depreciate exchange rate--
+- · Conventional policy instrument, but US large, not that open, might export deflation and recession without helping itself much
+
+Expand Credit Policy
+
+- · Expand DW lending or buy private debt
+- · Reduce private credit spreads and help finance credit-constrained firms
+- · Wide latitude to lend to banks on collateral, need legislation to buy private debt
+- · Central bank would make a poor financial intermediary--use to stabilize financial markets but not for general policy stimulus
+
+20
+
+19
+
+Expand Credit Policy (2)
+
+- · Quantitative monetary policy would facilitate intermediation
+- · Would reduce external finance premium by raising collateral values and net worth
+- · Central bank could improve the flow of credit without becoming financial intermediary itself
+
+21
+
+Pursue Deliberately Inflationary Policy
+
+- · Quantitative monetary policy could stimulate economy at zero bound without creating inflation or expected inflation
+- · Unleashing inflation would buy little and could be counterproductive
+- · Temporary inflation would be desirable to reverse prior deflation that raised real value of nominal debt
+
+22
+
+Pursue Deliberately Deflationary Policy (2)
+
+- · Committing to a path for the price level could help avoid deflation, and build credibility for reflation if deflation occurs
+
+23
+
+Appendix 4:  Materials used by Mr. Wilcox, Mr. Slifman, and Ms. Johnson
+
+Page 178 of 194
+
+Material for
+
+Staff Presentation on the Economic Outlook
+
+January 29, 2002
+
+Page 179 of 194
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Financial Developments
+
+(Weekly data)
+
+Nominal Exchange Rates
+
+- *Trade-weighted average against major currencies.
+
+<!-- missing-text -->
+
+Three-Month Interest Rates
+
+<!-- missing-text -->
+
+Broad Stock Price Indexes
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Ten-Year Interest Rates
+
+<!-- missing-text -->
+
+Expected 2002 Earnings*
+
+2001
+
+<!-- missing-text -->
+
+- *Average of equity analysts' earnings forecasts for 2002 company fiscal years from I/B/E/S mid-month surveys.
+
+U.S. Trade
+
+Exports by Region
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Imports by Region
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Import Prices
+
+Determinants of Core Exports*      Determinants of Core Imports*      Contribution to U.S. GDP Growth
+
+Percent change, Q4/Q4
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Foreign Outlook
+
+Real GDP
+
+- *Years are Q4/Q4; half years are Q2/Q4 or Q4/Q2.
+- **U.S. total export weights.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Industrial Production
+
+<!-- missing-text -->
+
+Exports*
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- *Years are Q4/Q4; half years are Q2/Q4 or Q4/Q2.
+- **U.S. total export weights.
+
+Real GDP
+
+Percent change, SAAR*
+
+<!-- missing-text -->
+
+- *Years are Q4/Q4; half years are Q2/Q4 or Q4/Q2.
+- **U.S. total export weights.
+
+Japan
+
+Real GDP
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Current account balances at the Bank of Japan.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Bank Credit
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+banks.
+
+Argentina
+
+Nominal Exchange Rates
+
+*Floating rate.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- *Years are Q4/Q4; half years are Q2/Q4 or Q4/Q2.
+- **U.S. total export weights.
+
+Simulation
+
+Real GDP
+
+<!-- missing-text -->
+
+Inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Breaks in series reflect reweightings of index on December 4 and December 31, 2001.
+
+Policy Issues
+
+- Fiscal elements
+- Tax system
+- Federal / provincial
+- Public employment
+- Banking system
+- Exchange rate regime and monetary policy
+
+1/29/02
+
+ECONOMIC PROJECTIONS FOR 2002
+
+<!-- missing-text -->
+
+Central tendencies calculated by dropping high and low three from ranges.

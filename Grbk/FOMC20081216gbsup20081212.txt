@@ -1,0 +1,284 @@
+Prefatory Note
+
+The attached document represents the most complete and accurate version available based on original files from the FOMC Secretariat at the Board of Governors of the Federal Reserve System.
+
+Please note that some material may have been redacted from this document if that material was received on a confidential basis.  Redacted material is indicated by occasional gaps in the text or by gray boxes around non-text content.  All redacted passages are exempt from disclosure under applicable provisions of the Freedom of Information Act.
+
+CURRENT ECONOMIC AND FINANCIAL CONDITIONS
+
+Supplemental Notes
+
+Prepared for the Federal Open Market Committee by the staff of the Board of Governors of the Federal Reserve System
+
+December 12, 2008
+
+Contents
+
+<!-- missing-text -->
+
+Supplemental Notes
+
+The Domestic Nonfinancial Economy
+
+Consumer Spending and Confidence
+
+Retail sales appeared to improve last month.  Total nominal retail sales decreased 1.8 percent in November; sales in the retail control group of stores fell 1.5 percent following declines in September and October that were slightly larger than reported earlier.  A large drop in nominal sales at gasoline stations in November, reflecting declining gasoline prices, more than accounted for the overall drop in nominal retail control spending last month; elsewhere, nominal sales moved up in a number of categories, especially at general merchandisers and electronics and appliance stores. Among outlets excluded from retail control, sales at building material and supply stores and motor vehicles and parts dealers fell further last month.
+
+The early December reading of consumer sentiment from the Reuters/University of Michigan survey improved a bit, although the index remained close to the all-time lows recorded in 1980.  The increase mostly reflected improved perceptions of buying conditions for large household appliances.  Among those items not included in the overall index, consumers' expectations about the change in unemployment over the next twelve months moved up noticeably and stood just below its highest level on record. Households' appraisals of buying conditions for cars strengthened, but their attitudes toward purchases of homes reversed much of the gain in November.
+
+The survey measures of expected inflation moved lower, likely influenced by sharp declines in gasoline prices and expectations of deep discounts more generally.  The median of expected inflation over the next 12 months dropped more than a percentage point, to 1.7 percent, and the median of expected inflation over the next 5 to 10 years moved down to 2.7 percent, at the low end of the range recorded over the past five years.
+
+Business Inventories
+
+Folding in a small decline in the book value of retail inventories (excluding motor vehicles and parts), book-value inventories in the entire manufacturing and trade sector (excluding motor vehicles and parts) dropped at an annual rate of $97 billion in October as businesses continued to rapidly deplete their inventory stocks.  Of course, because changes in book-value inventories can be heavily influenced by price changes that lead to revaluation of existing stocks, these book-value data can differ substantially from real inventory changes.  Despite firms' efforts to keep up with declining sales, the ratio of book-value inventories to sales (excluding motor vehicles) moved up steeply again in October.
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+.5
+
+.0
+
+-.5
+
+-1.0
+
+-1.5
+
+-2.0
+
+-2.5
+
+(Percent change; seasonally adjusted)
+
+<!-- missing-text -->
+
+- 1. Share of total retail trade and food services for November.
+- 2. Includes electronic shopping and mail order houses, direct selling establishments, and vending machine operators.
+- 3. Includes miscellaneous retailers and sporting goods, hobby, book, and music stores.
+- 4. PCE control is a BEA measure and has approximately the same coverage as retail control.  Revisions to real PCE control are a staff translation based on the revisions to retail control.
+
+Source: Census Bureau.
+
+Nominal Retail Control and Real PCE Control
+
+<!-- missing-text -->
+
+Note.  Real PCE control estimates for September and October 2008 are a staff translation based on the revisions to retail control. Source: Census Bureau.
+
+Reuters/University of Michigan Survey of Consumers
+
+Indexes of consumer sentiment (Not seasonally adjusted)
+
+<!-- missing-text -->
+
+Note. Figures on financial, business, and buying conditions are the percent reporting 'good times' (or 'better') minus the percent reporting 'bad times' (or 'worse'), plus 100.   Expected change in unemployment is the fraction expecting unemployment to rise minus the fraction expecting unemployment to fall, plus 100.
+
+- P  Preliminary.
+- 1.  Feb. 1966 = 100.
+- 2.  Indicates the question is one of the five equally-weighted components of the index of sentiment.
+
+Consumer sentiment
+
+<!-- missing-text -->
+
+Expected inflation (Reuters/University of Michigan)
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+<!-- missing-text -->
+
+Change in Business Inventories
+
+(Book value, billions of dollars at annual rate)
+
+<!-- missing-text -->
+
+- 1. Includes health and personal care stores; gasoline stations; sporting goods, hobby, book, and music stores;
+
+miscellaneous store retailers; and nonstore retailers.
+
+Source: Census Bureau.
+
+Inventory-Sales Ratio - Total Excluding Wholesale and Retail Motor Vehicles &amp; Parts
+
+1.60
+
+1.55
+
+1.50
+
+1.45
+
+1.40
+
+1.35
+
+1.30
+
+1.25
+
+1.20
+
+1.15
+
+<!-- missing-text -->
+
+Source: Census Bureau.
+
+Producer Prices
+
+The producer price index (PPI) for finished goods declined 2.2 percent in November reflecting a sharp drop in finished energy prices.  Core finished goods prices edged up 0.1 percent as prices for most categories of both core consumer goods and capital equipment were soft.  Prices at earlier stages of processing also retreated.  The PPI for intermediate materials excluding food and energy declined 2.3 percent, marking the third consecutive month this index has declined.  The intermediate price declines were widespread, with prices of certain metal products, chemicals, and other energy-intensive goods posting especially large declines.
+
+The PPI medical price indexes, which are used as source data for PCE prices, were also soft on average in November.
+
+Recent Changes in Producer Price Indexes
+
+(Percent change)
+
+<!-- missing-text -->
+
+- 1. Relative importance weights for December 2007, which are based on 2002 shipment levels.
+
+- 3. Seasonally adjusted by FRB staff.
+
+Source: Bureau of Labor Statistics.
+
+The Domestic Financial Economy
+
+Revisions to Household Net Worth
+
+The December release of the Flow of Funds Accounts of the United States included substantial revisions to the estimates of the market value of corporate equities and the market value of residential real estate; accordingly, the release also included revisions to the estimates of household net worth.  The revision to the value of residential real estate boosted the trajectory of household net worth from 1999 to 2007 but reduced it after that; the net effect of this revision in the second quarter of this year was negligible.  The revision to the value of corporate equities raised the trajectory of household net worth from 1999 to the second quarter of 2008. On net, the estimate of household net worth in the second quarter of this year was revised up $3 trillion.
+
+Household Net Worth
+
+<!-- missing-text -->
+
+For the value of corporate equities, the revisions were based on the following improved data sources and methods:  For common shares of publicly traded firms, values are now benchmarked to quarterly aggregates of microdata from the Center for Research in Security Prices.  For preferred shares of publicly traded firms, values are now estimated using a perpetual inventory method based on data from Standard &amp; Poor's and Thomson Financial Services.  For closely held firms, values are estimated using data from the Internal Revenue Service, Compustat, and Forbes . 1
+
+For the value of residential real estate, the revisions were based on the following improved data sources:  For owner-occupied housing, values are now benchmarked to American Housing Survey data for 2001, 2003, and 2005, and changes in the value of single-family homes in nonbenchmark quarters are estimated using a recently developed house price index from LoanPerformance (LP).  Previously, we used an index from the Federal Housing Finance Agency (formerly the Office of Federal Housing Enterprise Oversight).  For renter-occupied housing, changes in the value of single-family homes in nonbenchmark quarters are estimated using the LP index; this category had no revisions to benchmarks.
+
+Bank Credit
+
+The attached exhibit on bank credit includes a set of updated Greenbook charts.
+
+III-T-1
+
+Selected Financial Market Quotations
+
+(One-day quotes in percent except as noted)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- 1.  Secondary market.
+- 2.  Financial commercial paper.
+- 3.  Bid rates for Eurodollar deposits collected around 9:30 a.m. eastern time.
+- 4.  Derived from a smoothed Treasury yield curve estimated using off-the-run securities.
+- 5.  Derived from a smoothed Treasury yield curve estimated using all outstanding securities and adjusted for the carry effect.
+- 6.  Most recent Thursday quote.
+- 7.  Constant-maturity yields estimated from Fannie Mae domestic noncallable coupon securities.
+- 8.  Derived from smoothed corporate yield curves estimated using Merrill Lynch bond data.
+
+_______________________________________________________________________
+
+NOTES:
+
+August 6, 2007, is the day before the August 2007 FOMC meeting.
+
+September 15, 2008, is the day before the September 2008 FOMC monetary policy announcement.
+
+October 28, 2008, is the day before the most recent FOMC monetary policy announcement.
+
+Data for the 3-month commercial paper on December 11, 2008, are from December 4, 2008, the most recent date for which a sufficient volume of new issues was available to calculate this rate.
+
+_______________________________________________________________________
+
+Commercial Bank Credit
+
+(Percent change, annual rate, except as noted; seasonally adjusted)
+
+<!-- missing-text -->
+
+Note:  Yearly annual rates are Q4 to Q4; quarterly and monthly annual rates use corresponding average levels.  Data have been adjusted to remove the effects of mark-to-market accounting rules (FIN 39 and FAS 115), the initial consolidation of certain variable interest entities (FIN 46), the initial adoption of fair value accounting (FAS 159), and the effects of sizable nonbank structure activity in October 2006, March 2007, October 2007, September 2008, and November 2008. Data also account for breaks caused by reclassifications.
+
+- 1. Billions of dollars.  Pro rata averages of weekly (Wednesday) levels.
+- 2. Excludes interbank loans.
+- 3. Includes an estimate of outstanding loans securitized by commercial banks.
+- 4. Includes security loans and loans to farmers, state and local governments, and all others not elsewhere classified.
+
+Also includes lease financing receivables.
+
+- 5. Includes private mortgage-backed securities; securities of corporations, state and local governments, and foreign governments; and any trading account assets that are not Treasury or agency securities. Source:  Federal Reserve.
+
+C&amp;I Loan Rate Spreads
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note:  Spreads over market interest rate on an instrument of comparable maturity on loans less than $25 million (2006$).
+
+*Adjusted for changes in nonprice loan characteristics.
+
+Source:  Survey of Terms of Business Lending.
+
+Note:  Data for 2008:Q3 are adjusted to remove the effect of JPMorgan Chase's acquisition of Washington Mutual.
+
+*This panel has been corrected from the version in the Greenbook on December 10. Source:  Call Report.
+
+Note:  The mark-to-market value of nonagency mortgage-backed securities (MBS) is defined as the fair value over historical cost for those banks that hold non-agency securities.
+
+Source:  Call Report.
+
+The International Economy
+
+Trade in Goods and Services
+
+The U.S. international trade deficit widened to $57.2 billion in October, as a fall in imports was more than offset by a significant decline in exports.
+
+<!-- missing-text -->
+
+In October, the value of exports of goods and services declined 2.2 percent.  Much of this decline was the result of a fall in exports of agricultural goods and industrial supplies, which largely reflected a decrease in the prices of these goods.  Exports of aircraft, automotive products, consumer goods, and services also moved lower.  In contrast, exports of capital goods (excluding computers and semiconductors) rose in October.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+The value of imports of goods and services fell 1.3 percent in October, led by declines in imports of non-oil industrial supplies, capital goods, and automotive products.  These declines were partly offset by an increase in the value of oil imports, which reflected a higher volume of oil imports.  Imports of consumer goods also moved up, because of increases in imports of pharmaceuticals and household goods.  Imports of services were essentially unchanged.
+
+Prices of Internationally Traded Goods
+
+Non-oil imports. Following October's 0.9 percent decline-which had been the largest one-month decline over the 14-year history of the index-prices of core imports fell 2.1 percent in November.  Most of November's drop was due to a fall of 5.6 percent in the prices for material-intensive goods.  Within material-intensive goods, prices for foods, chemicals, and metals all dropped sharply.  After being unchanged in October, prices for finished goods fell 0.4 percent in November, with lower prices for all major categories.  For finished goods, November's price decline is the largest one-month decline since May 1997.
+
+The average level of core import prices in October and November was 8½ percent at an annual rate below the third-quarter average, as prices in all sub-categories posted declines.  The main contributors to the overall price decline were foods and non-oil industrial supplies, whose prices fell at annual rates of 17½ percent and 24¼ percent respectively.  The average price of imported finished goods declined at a ½ percent pace.
+
+Oil. The Bureau of Labor Statistics' price index for imported oil fell 25.8 percent in November, reflecting the continued steep drop in spot oil prices.  The spot price of West Texas intermediate crude oil averaged $57 per barrel in November and has continued to decline, closing most recently on December 11 at $47.98.
+
+Exports. Following a decline of 2.4 percent in October, prices of exported core goods fell 3.8 percent in November.  Prices of nonagricultural industrial supplies fell 8.2 percent in November-a sharper decline than the drop of 4.2 percent in October.  Prices of finished goods, which had increased 0.4 percent in October, fell 0.3 percent in November. After dropping 8.4 percent in October, prices of exported agricultural products fell 7.0 percent in November.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+The average level of core export prices in October and November was 20 percent at an annual rate below the third-quarter average, as prices for material-intensive goods fell sharply.  Prices for agricultural products and non-agricultural supplies fell at annual rates of 47 and 36 percent respectively.  For exported finished goods, falling prices in November did not offset the price increases in October.  As such, the average price level for finished goods was up at an annual rate of 1½ percent from the third-quarter average.

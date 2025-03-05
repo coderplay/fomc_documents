@@ -1,0 +1,1196 @@
+Appendix 1:  Materials used by Messrs. Potter, Doyle, and Altig and Mses. Klee and Remache
+
+Class III FOMC - Internal (FR)
+
+Material for Briefing on
+
+Long-Run Framework for Monetary Policy Implementation
+
+July 26-27, 2016
+
+Authorized for Public Release
+
+207 of 283
+
+David Altig, Brian M. Doyle, Elizabeth Klee, Simon Potter, and Julie Ann Remache July 26, 2016
+
+(This page intentional left blank.)
+
+INTRODUCTION
+
+<!-- missing-text -->
+
+Framework Objectives - Key Goals
+
+Staff will evaluate options for a long-run monetary policy implementation framework that will best achieve a number of key goals:
+
+- 1. Achieving an appropriate degree of control over short-term interest rates including during periods of financial distress and in a manner robust to structural changes in the financial system.
+- 2. Enhancing the ability of the Federal Reserve to achieve macroeconomic and financial stability objectives at the zero bound.
+- 3. Supporting the System's ability to address liquidity strains in money markets and support overall financial stability.
+
+<!-- missing-text -->
+
+Framework Objectives
+
+In addition, alternative long-run operating frameworks will be evaluated on their ability to:
+
+- 1. Reduce burdens and deadweight losses associated with reserve requirements.
+- 2. Promote efficient, active, and resilient money markets and government securities markets.
+- 3. Promote an efficient and resilient payment system.
+
+Finally, criteria will be used in the evaluation following from the Committee's discussion of policy normalization principles and plans:
+
+- 1. The framework should involve holding no more securities than necessary to implement monetary policy efficiently and effectively.
+- 2. The assets held by the Federal Reserve will consist primarily of Treasury securities.
+
+<!-- missing-text -->
+
+FOREIGN EXPERIENCE
+
+<!-- missing-text -->
+
+Introduction
+
+-  Main Question:  What can we learn from the foreign experience with monetary policy implementation?
+-  Primarily surveyed experience of 9 advanced economy central banks
+-  How policy implemented before crisis, how has it evolved since then, and some rationale for those frameworks
+
+<!-- missing-text -->
+
+Interest rate control and transmission
+
+-  No dramatic differences between most central banks' ability to
+-  Control short-term money markets
+-  Transmit policy to longer-term interest rates
+-  But wide variety of differences represent choices on how to achieve that control, reflecting decisions regarding trade-offs along other dimensions
+
+<!-- missing-text -->
+
+Policy rates
+
+-  Nearly all policy rates are overnight rates
+-  Some target a market rate (like Fed), but many use an administered rate
+-  Even then, most still reference a market rate as important
+
+<!-- missing-text -->
+
+1 The ECB used the Main Refinancing Rate to communicate policy until recently.  More emphasis is now being put on the deposit rate, which is an administered, unsecured overnight rate.
+
+<!-- missing-text -->
+
+Operating regimes
+
+-  Prior to crisis most used 'corridor' regimes to steer rates
+-  Few used 'floor' regimes
+-  After crisis began, some central banks shifted how they implemented policy.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+1 Conducts draining operations to implement a corridor regime, thereby maintaining a structural surplus.
+
+- 2 Operate narrow corridors with zero or no reserve requirements.
+
+<!-- missing-text -->
+
+Reserve requirements and remuneration
+
+-  Distinctions between corridors and floors has blurred a little
+-  Many CBs changed how they remunerate reserves and gave banks choice over how many reserves to hold
+-  Floor CBs have introduced 'tiered remuneration'
+-  Some negative interest rate policies have tiering as well
+-  BOE introduced 'voluntary reserve targets' reducing costs of requirements
+
+<!-- missing-text -->
+
+Money market activity
+
+-  Systems with scarce reserves have robust interbank trading
+-  Money market trading still present in floors
+-  CBs with non-bank sector also have soggy floors
+-  CBs differ on how much they value different types of activity
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Liquidity provision
+
+-  Central banks added counterparties and widened accepted collateral (or already had a broad set)
+-  Most expect to keep a broadened policy
+-  Main reason during crisis was to provide liquidity to more parts of financial system.
+-  CBs also see advantages reducing competitive distortions and the increased information about institutions
+-  Broader policy comes with
+-  increased operational costs,
+-  potential to reduce market activity,
+-  and could create moral hazard
+
+<!-- missing-text -->
+
+Liquidity provision (continued)
+
+-  A few central banks distinguish 'liquidity insurance' from monetary policy implementation and emergency lending.
+-  Have separate operations for separate objectives
+-  BOE:  LI operations have clear criteria for use, broad access, and allow exchange of wider set of collateral for liquid asset or reserves
+-  Clarity about the purpose of operations reduces stigma
+-  Clarity about when liquidity insurance operations would be used limits contagion during stress events
+-  Other central banks prefer more ambiguity about circumstances under which use operations
+
+<!-- missing-text -->
+
+Other features
+
+-  Most central banks think they should be ready to use unconventional policies, and expect to maintain operational readiness
+-  Many hope to return to smaller-than-current balance sheets in future
+-  But CBs expect higher reserve demand will leave balance sheets larger than before crisis
+-  Some noted that exceptionally large balance sheets can complicate relationships with fiscal authorities
+
+<!-- missing-text -->
+
+Adapting to regulation
+
+-  Most central banks still learning about overall effects of regulation
+-  Central banks do expect increased demand for reserves
+-  Obtaining excess reserves for non-HQLA collateral increases LCR
+-  Central banks are complementing regulation differently
+-  RBA facilitating, as Australia has low government debt
+-  Others limiting collateral to HQLA (SNB) or considering changing costs of reserves to discourage reliance on central bank
+
+<!-- missing-text -->
+
+LESSONS FROM THE CRISIS
+
+<!-- missing-text -->
+
+Evidence of stress
+
+<!-- missing-text -->
+
+Source: Haver database.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source: Haver database.
+
+One Month Commercial Paper OIS Spreads --
+
+<!-- missing-text -->
+
+Jan 11
+
+Source: Federal Reserve Bank of New York.
+
+<!-- missing-text -->
+
+The pre-crisis framework
+
+- · Rate control was based on reserve scarcity
+- · Liquidity was provided via repurchase agreements with primary dealers and discount window lending to depository institutions
+- · The portfolio was not considered a policy tool
+
+Balance Sheet as of April 4, 2007($B)
+
+Balance Sheet as of July 13, 2016 ($B)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Lesson 1
+
+The pre-crisis reserve scarcity framework set up a tradeoff between interest rate control and large-scale liquidity provision.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Federal Reserve Assets $ billions
+
+Lesson 2
+
+Monetary Policy Transmission Channels and Crisis Policy Tools
+
+The two pre-crisis liquidity tools were not themselves adequate to provide the largescale liquidity provision needed during the crisis period.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Lesson 3
+
+Deviation of Effective Federal Funds Rate from Policy Target
+
+-600
+
+<!-- missing-text -->
+
+Shaded areas represent the min and max deviation of the traded fed funds rate from the policy target each maintenance period. Jan-07 Apr-07 Jul-07 Oct-07 Jan-08 Apr-08 Jul-08 Oct-08 Jan-09 Apr-09
+
+Source: Federal Reserve Board
+
+<!-- missing-text -->
+
+21
+
+Lessons 4 and 5
+
+Lesson 4:
+
+The System was not well-prepared to implement largescale asset purchases once the funds rate hit the zero lower bound.
+
+Lesson 5:
+
+The pre-crisis framework was not sufficiently robust or flexible in the face of significant liquidity stress and disruptions to the monetary transmission mechanisms.
+
+<!-- missing-text -->
+
+Framework did not account for growth of offshore USD funding needs during the 2000s
+
+<!-- missing-text -->
+
+Source: BIS
+
+<!-- missing-text -->
+
+Framework relied heavily on bank intermediation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Chronology of policy tools usage in crisis
+
+<!-- missing-text -->
+
+Columns in the chart represent maintenance period; each filled cell denotes a maintenance period during which the tool was used to provide reserves or sterilize reserves provision
+
+Tools in the top box of the chart are asset-side tools; those in the bottom box are liability-side tools
+
+Tools  highlighted in bold and dark colors represent instruments created during the crisis period
+
+<!-- missing-text -->
+
+MONEY MARKETS
+
+<!-- missing-text -->
+
+'Money markets'
+
+-  Set of short-term wholesale funding markets
+-  Key link in monetary policy transmission
+-  Center of many of the problems that arose in the financial crisis
+
+<!-- missing-text -->
+
+Pre-crisis, rates highly correlated
+
+<!-- missing-text -->
+
+-  Easy to implement monetary policy
+-  Federal funds rate close to target
+
+<!-- missing-text -->
+
+Rates may be less connected at high frequencies
+
+Overnight Money Market Rates
+
+<!-- missing-text -->
+
+-  Still retain a high degree of pass-through
+-  Looser linkages and greater dispersion than pre-crisis
+
+<!-- missing-text -->
+
+Significant changes affecting money markets
+
+-  Monetary policy implementation framework
+-  Business practices
+-  New regulations
+
+<!-- missing-text -->
+
+Changes to monetary policy implementation
+
+-  Expanded balance sheet
+-  Implemented IOER
+-  Developed supplementary tools
+-  Expanded set of counterparties
+
+<!-- missing-text -->
+
+Federal funds market changed, but still linked
+
+- Bank-to-bank trading down considerably
+-   FHLBs lending to DIs
+-  Virtually all trades at rates below IOER rate
+-  Federal funds rate linked to other money market rates
+-  Responds to changes in administered rates
+
+<!-- missing-text -->
+
+ON RRP links policy actions and non-banks
+
+<!-- missing-text -->
+
+-  Market participants suggest ON RRP is a relevant 'comparator rate.'
+-  Reduced tri-party repo rate volatility
+
+<!-- missing-text -->
+
+Changes to business practices
+
+-  Many firms may be more cautious in managing credit, interest rate, and liquidity risks since the crisis
+-  Fannie Mae and Freddie Mac ceased lending in the federal funds market
+-  Withdrawal occurred amid market stresses
+-  Reflected a desire to minimize risk exposures
+
+<!-- missing-text -->
+
+New regulations
+
+-  New regulations limit imprudent risk-taking
+-  Reforms intended to increase safety and resiliency of financial system
+-  Regulations with greatest impact on money markets
+-  Expanded FDIC assessment base
+-  Money market mutual fund reforms
+-  Basel III regulatory changes
+-  Supplementary leverage ratio
+-  Liquidity coverage ratio
+-  Net stable funding ratio
+
+<!-- missing-text -->
+
+The Treasury GCF and tri-party spread has widened
+
+<!-- missing-text -->
+
+-  Absent frictions, rates should be identical
+-  Spread reflects institutional frictions
+-  Tiering of rates for smaller dealers
+-  Borrowing expands larger dealer's balance sheet
+
+<!-- missing-text -->
+
+Future evolution of money markets
+
+-  Structural demand for reserves likely has increased
+-  Precautionary and regulatory reasons, as well as changes in business practices
+-  Remunerated at market rates
+-  Could result in upward pressure on rates sooner
+-  Money markets may be more stable now than in the past
+-  U.S. money markets operated well during two recent stress episodes
+-  Views on stability of money markets may inform judgments on:
+-  Size and composition of balance sheet
+-  Liquidity provision
+
+<!-- missing-text -->
+
+Summary
+
+-  New regulatory environment and changes in business models will likely have implications for monetary policy framework
+-  Some regulatory changes are not yet in place
+-  Monetary policy implementation framework
+-  Can support and enhance regulatory approach
+-  Critical determinant of money market behavior
+
+<!-- missing-text -->
+
+CONCLUSION
+
+<!-- missing-text -->
+
+Framework Objectives - Key Goals
+
+Staff will evaluate options for a long-run monetary policy implementation framework that will best achieve a number of key goals:
+
+- 1. Achieving an appropriate degree of control over short-term rates including during periods of financial distress and in a manner robust to structural changes in the financial system.
+- 2. Enhancing the ability of the Federal Reserve to achieve macroeconomic and financial stability objectives at the zero bound.
+- 3. Supporting the System's ability to address liquidity strains in money markets and support overall financial stability.
+
+<!-- missing-text -->
+
+Appendix 2:  Materials used by Ms. Logan
+
+Class II FOMC - Restricted (FR)
+
+Material for the Briefing on
+
+Financial Developments and Open Market Operations
+
+Lorie Logan July 26, 2016
+
+Class II FOMC -Restricted (FR)
+
+(1) Changes in Asset Prices*
+
+<!-- missing-text -->
+
+*Red indicates safe-haven asset appreciation and risk asset depreciation. Blue
+
+indicates the reverse.
+
+**From Thursday, 06/23 to Monday, 06/27.
+
+Source: Barclays, Bloomberg, Federal Reserve Board of Governors
+
+(3) Number of Rate Hikes in 2016 Implied from Modal Forecasts*
+
+<!-- missing-text -->
+
+*Based on all responses from the Surveys of Primary Dealers and Market Participants.
+
+Source: FRBNY
+
+<!-- missing-text -->
+
+Exhibit 1
+
+(2) Cumulative Change in December 2018 Futures Rates*
+
+<!-- missing-text -->
+
+*Changes in Tibor, Short Sterling, and Euribor futures-implied rates for Japan, U.K., and euro area, respectively.
+
+Source: Bloomberg
+
+(4) PDF-Implied Year End 2017 Fed Funds Rate Spread to Market Rate*
+
+<!-- missing-text -->
+
+*Based on all responses from the Surveys of Primary Dealers and Market Participants. Market rate taken on day survey results received. Source: Bloomberg, FRBNY
+
+(6) Importance of Factors Explaining Decline in the 5y5y Forward Nominal*
+
+July Intermeeting Period
+
+Start of 2016 to June FOMC
+
+<!-- missing-text -->
+
+*Based on all responses from the July Survey of Primary Dealers and Market Participants. Boxes show 25th to 75th percentile for the period since June FOMC, diamonds show means. Survey response as of July 12th.
+
+Source: Federal Reserve Bank of New York
+
+Class II FOMC -Restricted (FR)
+
+(7) Share of Sovereign Bonds with Negative Yields*
+
+<!-- missing-text -->
+
+- *Excludes inflation-linked securities and bonds issued to individual investors
+
+in Japan. Values are based on par value.
+
+Source: Bloomberg, Desk Calculations
+
+(9) Bank Stock Performance by Region
+
+<!-- missing-text -->
+
+(11) Trade-Weighted Dollar
+
+<!-- missing-text -->
+
+Source: Bloomberg, Federal Reserve Board
+
+Exhibit 2
+
+(8) Equity Index Performance
+
+<!-- missing-text -->
+
+(10) Five-Year, Five-Year Inflation Swap Rates
+
+<!-- missing-text -->
+
+(12) Chinese Exchange Rate Since Start of Year
+
+<!-- missing-text -->
+
+*RMB exchange rate against a basket of 13 currencies. Computed from central parity rates for all currencies traded on CFETS.
+
+Source: Bloomberg, Desk Calculations
+
+Class II FOMC -Restricted (FR)
+
+(13) Money Market Rates*
+
+<!-- missing-text -->
+
+Source: FRBNY
+
+(15) Money Market Mutual Fund AUM
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Month-end AUM level used as a proxy for AUM over entire month. Source: FRBNY, SEC Form N-MFP
+
+Exhibit 3
+
+(14) ON RRP Participation*
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+* For gov't inflow and allocation, survey responses given in percent; these values calculated based on respondents' prime outflow estimates. Source:  Crane, FRBNY, SEC Form N-MFP
+
+(18) Prime MMF Holdings and LIBOR-OIS*
+
+<!-- missing-text -->
+
+Source: Bloomberg, iMoneyNet Data
+
+Class II FOMC -Restricted (FR)
+
+(19) Three-Month Implied Swap Basis
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source: Federal Reserve Bank of New York
+
+(20) Cost of One-Week Dollar Funding in Japan
+
+<!-- missing-text -->
+
+Foreign Authorization Update Objectives:
+
+- (1) Reflect the current operating environment
+- (2) Clarify policymaker guidance to the Selected Bank
+- (3) Improve the documents ' organization
+
+Benchmark Implementation:
+
+- · Pending approval in September, Desk staff plans to begin implementing the new investment framework
+
+Class II FOMC - Restricted (FR)
+
+Appendix: Summary of Operational Testing
+
+Summary of Operational Tests in Prior Period:
+
+- · Foreign Authorization
+- o July 12: Euro-denominated overnight repo for € 1 million
+
+Upcoming Operational Tests:
+
+- · One test scheduled under the Domestic Authorization
+- o August 16: Treasury outright purchase for approximately $300-400 million
+
+Authorized for Public Release
+
+Appendix (Last)
+
+Appendix 3:  Materials used by Mr. Kamin
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on
+
+The International Outlook
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+The International Outlook
+
+<!-- missing-text -->
+
+Source: Baker, Bloom, and Davis, 2016.
+
+- * July value is the average of available daily data through July 25. Staff calculations based on methodology of Baker, Bloom, and Davis. **Mean and Std. Dev. calculated from January 2001-June 2016.
+
+<!-- missing-text -->
+
+3. U.K. and Euro Area GDP
+
+<!-- missing-text -->
+
+5. Foreign GDP*
+
+<!-- missing-text -->
+
+4. Shares of U.S. Merchandise Exports (2014)
+
+<!-- missing-text -->
+
+6. EU Popularity (November 2015 Survey)
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 2 (last)
+
+The International Outlook (2)
+
+7. Nonperforming Loans - 2015:Q4
+
+<!-- missing-text -->
+
+9. Real Dollar Indexes
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- * Difference between U.S. and AFE market-implied 1-month policy rates. 2 years forward.
+
+8. 10-Year Sovereign Yields
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+12. Chinese Exchange Rates
+
+* China Foreign Exchange Trade System (nominal exchange rate basket)
+
+<!-- missing-text -->
+
+Appendix 4:  Materials used by Mr. Wilcox
+
+Class II FOMC - Restricted (FR)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+120
+
+110
+
+100
+
+90
+
+80
+
+20
+
+16
+
+12
+
+8
+
+4
+
+0
+
+Forecast Summary
+
+Confidence Intervals for Panels 4, 7, and 8 Based on FRB/US Stochastic Simulations
+
+1. Evolution of 2016:Q2 GDP Growth Nowcasts
+
+2. Output Gap Estimates
+
+<!-- missing-text -->
+
+3. Broad Real Exchange Rate
+
+<!-- missing-text -->
+
+5. Unemployment Rates by Race or Ethnicity
+
+<!-- missing-text -->
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+<!-- missing-text -->
+
+4. Unemployment Rate
+
+<!-- missing-text -->
+
+6. Labor Underutilization (U-6) Rates by Race or Ethnicity
+
+<!-- missing-text -->
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+7. PCE Prices
+
+<!-- missing-text -->
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+9. Inflation Revisions Since December: Total PCE
+
+<!-- missing-text -->
+
+11. Measures of Labor Compensation
+
+<!-- missing-text -->
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+8. PCE Prices Excluding Food and Energy
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+12. Decomposition of ECI Growth
+
+<!-- missing-text -->
+
+Appendix Exhibit 1
+
+Key Economic Indicators for the July, September, and November FOMC Meetings
+
+(Percent change at annual rate, except as noted)
+
+<!-- missing-text -->
+
+Key : Estimate first available at:
+
+July meeting
+
+September meeting
+
+November meeting
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: The August CPI will be released prior to the September meeting.
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+Appendix Exhibit 2
+
+Part-Time for Economic Reasons by Race or Ethnicity
+
+Marginally Attached by Race or Ethnicity
+
+<!-- missing-text -->
+
+Note: Three-month moving averages. Data by race and ethnicity are constructed from CPS microdata and seasonally adjusted by Board staff. Shaded bars indicate a period of business recession as defined by the NBER.
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+<!-- missing-text -->
+
+Note: Three-month moving averages. Data by race and ethnicity are constructed from CPS microdata and seasonally adjusted by Board staff. Shaded bars indicate a period of business recession as defined by the NBER.
+
+Appendix 5:  Materials used by Mr. Kiley
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on
+
+Financial Stability Developments
+
+<!-- missing-text -->
+
+Chart  1
+
+Market Functioning, Maturity Transformation, and Financial Leverage
+
+Euro-US Dollar (EUR-USD) Maximum Bid-Ask Spread and EUR-USD Foreign Exchange Rate
+
+Chart  2
+
+<!-- missing-text -->
+
+Note: Data is minutely. Brexit is defined as midnight on June 24. Source: For exchange rate, Bloomberg; for bid-ask spread, EBS.
+
+<!-- missing-text -->
+
+Note: US Banks series is constructed by averaging the indexed stock prices for the following BHCs: BAC, C, GS, JPM, MS, and WFC. Data are end of month.
+
+Plot includes data up to Jul 22.
+
+Source: Bloomberg.
+
+Chart  5
+
+Prime Money Market Fund Exposures to Europe by Instrument
+
+<!-- missing-text -->
+
+Bid-Ask Spread for Investment and Speculative Grade Corporate Bonds
+
+<!-- missing-text -->
+
+2016 Note: All measures are computed for non-defaulted bonds on the secondary market that have traded at least 10 times between 10:30 am and 3:30 pm. Excluding 144a bonds. Bid-Ask spread is the difference between weighted average dealer bid prices and ask prices scaled by the mid price.
+
+Source: FINRA, Mergent, Moody's DRD.
+
+<!-- missing-text -->
+
+Note: Estimated surcharges for the eight G-SIBs range from 1.0 to 4.5 percent of each firm's total risk-weighted assets (RWA). Regulatory standard equals the Basel III 4.5 percent minimum, 2.5 percent capital conservation buffer, and U.S. G-SIB Surcharge.
+
+Source: SNL, bank earnings releases, SEC 10-K filings.
+
+<!-- missing-text -->
+
+Note: Data are monthly. Weekly liquidity is defined as in SEC rule 2a-7. All statistics are computed on asset-weighted basis.
+
+Source: SEC form N-MFP filings.
+
+Exhibit 2
+
+Nonfinancial Credit and Asset Valuations
+
+Chart  2
+
+Gross Leverage of Nonfinancial Corporations
+
+<!-- missing-text -->
+
+Note: Gross Leverage is the ratio of the book value of total debt to the book value of total assets. High risk firms consists of speculative grade and unrated firms.
+
+Source: Compustat.
+
+<!-- missing-text -->
+
+Note: Estimated from curve fit to Merrill Lynch bond yields. Treasury yields from smoothed yield curve estimated from off-the-run securities. Plot includes data up to Jul 22.
+
+Source: Staff estimates.
+
+Commercial Real Estate (CRE) Capitalization Rate
+
+<!-- missing-text -->
+
+Total High Risk Debt
+
+<!-- missing-text -->
+
+Note: Total high risk debt is the sum of speculative grade unrated bonds and leveraged loans, divided by the price index for nonfinancial business sector output.
+
+Source: Mergent Fixed Investment Securities Database, Standard &amp; Poor's, and BEA.
+
+<!-- missing-text -->
+
+Note: * Off-the-run 10-year Treasury yield less Philadelphia Fed 10-year expected inflation. ** Staff estimate using a dividend discount model incorporating staff forecast of corporate profits. Source: Staff estimate.
+
+Chart  6
+
+Net fraction of banks reporting tightening of CRE lending standards, by bank size
+
+<!-- missing-text -->
+
+Note: BHCs' responses are weighted by CRE loans. Since July 2013 banks report changes in standards for three CRE portfolios seperately. These answers are weighted by portfolio sizes.
+
+Source: SLOOS.
+
+Exhibit 3
+
+Staff Judgment on Levels of Vulnerabilities
+
+Extremely subdued
+
+Low
+
+Moderate
+
+Notable
+
+Elevated
+
+Key:
+
+staff judgment. In the absence of significant structural changes, to spend roughly equal proportions of time in each of the colored risk buckets. Notes: Heat map color assignments were made by we would expect vulnerabilities
+
+<!-- missing-text -->
+
+Appendix 6:  Materials used by Mr. Laubach
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for the Briefing on
+
+Monetary Policy Alternatives
+
+<!-- missing-text -->
+
+Interpreting the Recent Improvement in Domestic Financial Conditions
+
+Two Mechanisms for Explaining Recent Changes in Financial Conditions
+
+Federal Funds Rate Projections
+
+<!-- missing-text -->
+
+Distribution of the Expected Federal Funds
+
+Rate by Year-end 2016
+
+Note: Bars are based on federal funds futures options expiring on January 31, 2017.
+
+<!-- missing-text -->
+
+Source: Bloomberg and staff calculations.
+
+Cumulative Changes in Treasury Yields
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: The implied federal funds rate path is estimated using overnight index swaps (OIS) quotes with a spline approach and a term premium of zero basis points. The dots are the median of the means of the unconditional year-end distributions from sellside and buyside surveys. Source: Bloomberg, FRBNY Desk Surveys, and staff calculations.
+
+<!-- missing-text -->
+
+Note: Data shows the ratio of the  1-month rolling volatility of overnight trades to daytime trades.
+
+Source: Bloomberg and staff calculations.
+
+<!-- missing-text -->
+
+Note: Dealers were asked to rate the importance of  each factor with 1-not important to 5-very important. Dots scaled by percent of respondents.
+
+Source: July 2016 FRBNY Primary Dealer Survey.
+
+JUNE 2016 FOMC STATEMENT
+
+- 1. Information received since the Federal Open Market Committee met in April indicates that the pace of improvement in the labor market has slowed while growth in economic activity appears to have picked up.  Although the unemployment rate has declined, job gains have diminished.  Growth in household spending has strengthened.  Since the beginning of the year, the housing sector has continued to improve and the drag from net exports appears to have lessened, but business fixed investment has been soft.  Inflation has continued to run below the Committee's 2 percent longer-run objective, partly reflecting earlier declines in energy prices and in prices of non-energy imports.  Market-based measures of inflation compensation declined; most survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee currently expects that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace and labor market indicators will strengthen.  Inflation is expected to remain low in the near term, in part because of earlier declines in energy prices, but to rise to 2 percent over the medium term as the transitory effects of past declines in energy and import prices dissipate and the labor market strengthens further.  The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+- 3. Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at ¼ to ½ percent.  The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+- 5. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at
+
+auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way.  This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+
+JULY 2016 ALTERNATIVE A
+
+- 1. Information received since the Federal Open Market Committee met in April June indicates that the pace of improvement in the labor market has slowed while growth in strengthened and that economic activity appears to have picked up has been expanding at a moderate rate .  Although the unemployment rate has declined, job gains have diminished. Job gains were strong in June following weak growth in May; on average, payrolls have risen at a moderate pace in recent months. Although some labor market indicators point to improvement in labor market conditions, the unemployment rate has held steady, on net, since the beginning of the year. Growth in Household spending has been growing strongly strengthened. Since the beginning of the year, the housing sector has continued to improve and the drag from net exports appears to have lessened, but business fixed investment and residential investment has have been soft.  Inflation has continued to run below the Committee's 2 percent longer-run objective, only partly reflecting earlier declines in energy prices and in prices of non-energy imports. Moreover, market-based measures of inflation compensation declined; and most survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months remain near their lows .
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee currently expects that, with gradual adjustments in the stance of appropriate monetary policy accommodation , economic activity will expand at a moderate pace and labor market indicators will strengthen further .  Inflation is expected to remain low in the near term, in part because of earlier declines in energy prices, but to rise gradually to 2 percent over the medium term as the transitory effects of past declines in energy and import prices dissipate and the labor market strengthens further.  The Committee continues to closely monitor inflation indicators and global economic and financial developments. In light of global economic and financial developments, the Committee sees the risks to the U.S. economic outlook as tilted somewhat to the downside.
+- 3. Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at ¼ to ½ percent.  The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation. The Committee judges that an increase in the target range will not be warranted until the risks to the outlook are more closely balanced and inflation moves closer to 2 percent on a sustained basis.
+- 4. In determining the timing and size of future when adjustments to the target range for the federal funds rate might become appropriate , the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation , along with risks to the economic outlook .  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.  The Committee expects that economic conditions
+
+- will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain ing , for some time, below levels that are expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+- 5. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way.  This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+
+JULY 2016 ALTERNATIVE B
+
+- 1. Information received since the Federal Open Market Committee met in April June indicates that the pace of improvement in the labor market has slowed strengthened while growth in and that economic activity appears to have picked up has been expanding at a moderate rate .  Although the unemployment rate has declined, job gains have diminished. Job gains were strong in June following weak growth in May.  On balance, payrolls and other labor market indicators point to some increase in labor utilization in recent months. Growth in Household spending has been growing strongly strengthened.  Since the beginning of the year, the housing sector has continued to improve and the drag from net exports appears to have lessened, but business fixed investment and residential investment has have been soft.  Inflation has continued to run below the Committee's 2 percent longer-run objective, partly reflecting earlier declines in energy prices and in prices of nonenergy imports.  Market-based measures of inflation compensation declined remain low ; most survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee currently expects that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace and labor market indicators will strengthen.  Inflation is expected to remain low in the near term, in part because of earlier declines in energy prices, but to rise to 2 percent over the medium term as the transitory effects of past declines in energy and import prices dissipate and the labor market strengthens further. Nearterm risks to the economic outlook have diminished. The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+- 3. Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at ¼ to ½ percent.  The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+- 5. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way.  This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+
+JULY 2016 ALTERNATIVE C
+
+- 1. Information received since the Federal Open Market Committee met in April June indicates that the pace of improvement in the labor market has slowed strengthened while growth in and that economic activity appears to have picked up has been expanding at a moderate rate .  Although the unemployment rate has declined, job gains have diminished. Job gains were strong in June following weak growth in May.  On balance, payrolls and other labor market indicators point to an increase in labor utilization in recent months. Growth in Household spending has been growing strongly strengthened.  Since the beginning of the year, the housing sector has continued to improve and the drag from net exports appears to have lessened, but business fixed investment and residential investment has have been soft.  Inflation has continued to run below risen this year, moving closer to the Committee's 2 percent longer-run objective, partly reflecting earlier declines in energy prices and in prices of non-energy imports.  Market-based measures of inflation compensation declined remain low ; most survey-based measures of longerterm inflation expectations are little changed, on balance, in recent months.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee currently expects that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace and labor market indicators will strengthen employment growth will gradually slow to a rate in line with its longer-run trend .  Inflation is expected to remain low in the near term, in part because of earlier declines in energy prices, but to rise to 2 percent over the medium term as the transitory effects of past declines in energy and import prices continue to dissipate and the labor market strengthens further.  The Committee sees the near-term risks to the U.S. economic outlook as nearly balanced but continues to closely monitor inflation indicators and global economic and financial developments.
+- 3. Against this backdrop In light of recent and expected progress toward its statutory goals , the Committee decided to maintain increase the target range for the federal funds rate at ¼ to ½ to ¾ percent.  The stance of monetary policy remains accommodative, even after this increase, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+
+OR
+
+- 3.′ Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at ¼ to ½ percent but sees the case for an increase in the federal funds rate as having strengthened since its June meeting .  The stance of monetary policy remains accommodative, thereby supporting further improvement firming in labor market conditions and a return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including
+
+measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+- 5. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way.  This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+
+Implementation Note if the Committee maintains the current target range
+
+Release Date:  June 15
+
+July 27 , 2016
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on June 15 July 27 , 2016:
+
+- · The Board of Governors of the Federal Reserve System left unchanged the interest rate paid on required and excess reserve balances at 0.50 percent.
+- · As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective June 16 July 28 , 2016, the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of ¼ to ½ percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 0.25 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a per-counterparty limit of $30 billion per day.
+
+The Committee directs the Desk to continue rolling over maturing Treasury securities at auction and to continue reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+More information regarding open market operations may be found on the Federal Reserve Bank of New York's website.
+
+- · The Board of Governors of the Federal Reserve System took no action to change the discount rate (the primary credit rate), which remains at 1.00 percent.
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.
+
+Implementation Note if the Committee raises the target range to ½ to ¾ percent Release Date:  June 15 July 27 , 2016
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on June 15 July 27 , 2016:
+
+- · The Board of Governors of the Federal Reserve System left unchanged the interest rate paid on required and excess reserve balances at 0.50 percent voted [ unanimously ] to raise the interest rate paid on required and excess reserve balances to 0.75 percent, effective July 28, 2016 .
+- · As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective June 16 July 28 , 2016, the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of ¼ to ½ to ¾ percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 0.25 0.50 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a per-counterparty limit of $30 billion per day.
+
+The Committee directs the Desk to continue rolling over maturing Treasury securities at auction and to continue reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+More information regarding open market operations may be found on the Federal Reserve Bank of New York's website.
+
+- · In a related action, the Board of Governors of the Federal Reserve System took no action to change the discount rate (the primary credit rate), which remains at 1.00 voted [ unanimously ] to approve a ¼ percentage point increase in the discount rate (the primary credit rate) to 1.25 percent , effective July 28, 2016 . In taking this action, the Board approved requests submitted by the Boards of Directors of the Federal Reserve Banks of …
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.

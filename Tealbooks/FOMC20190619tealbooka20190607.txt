@@ -1,0 +1,2443 @@
+Prefatory Note
+
+The attached document represents the most complete and accurate version available based on original files from the FOMC Secretariat at the Board of Governors of the Federal Reserve System.
+
+Please note that some material may have been redacted from this document if that material was received on a confidential basis.  Redacted material is indicated by occasional gaps in the text or by gray boxes around non-text content.  All redacted passages are exempt from disclosure under applicable provisions of the Freedom of Information Act.
+
+Class II FOMC - Restricted (FR)
+
+Report to the FOMC on Economic Conditions and Monetary Policy
+
+<!-- missing-text -->
+
+Book A
+
+Economic and Financial Conditions: Outlook, Risks, and Policy Strategies
+
+June 7, 2019
+
+( This p age is intentionally blank.)
+
+Authorized for Public Release
+
+Class II FOMC - Restricted (FR)
+
+Domestic Economic Developments and Outlook
+
+The tenor of the incoming information on economic activity, on balance, has become somewhat more downbeat of late.  In particular, business fixed investment appears to have stalled in the second quarter, residential investment and manufacturing output have posted outright declines so far this year, and the May reading on job growth was weak.  Moreover, amid heightened concerns about trade tensions and slowing global growth, the dollar is stronger, and interest rates, equity prices, and longer-term profit expectations have moved lower.  To be sure, not all of the news has been negative:  GDP growth in the first quarter surprised us to the upside, the unemployment rate has moved lower, and consumer spending growth appears to be on track to post a solid gain following a weak first quarter.  Even so, we now project that GDP growth will slow from a pace of 2½ percent at an annual rate in the first half of this year to 1¾ percent in the second half.  Our forecast for the second half of 2019 is ½ percentage point below the previous Tealbook forecast.
+
+Many of the same factors that led us to revise down our near-term projection have also led us to revise down our medium-term projection a little.  We now expect GDP to rise 2 percent next year and 1¾ percent the year after.   By the end of 2021, we project 1 the output gap will be 2 percent, close to its level at the end of 2018 and ½ percentage point narrower than in the April Tealbook.  We now expect the unemployment rate to be 3.7 percent over the medium term; previously, we expected it to edge down to 3.5 percent.
+
+Incoming price data are consistent with our view that the weak readings on core price inflation earlier this year are likely to prove transitory, and, thus, we still expect the 12-month change in core PCE prices to edge up from 1.6 percent in April to 1.8 percent by the end of this year.  For the medium term, we continue to project core inflation to edge up to 1.9 percent in 2020 and 2021, the same as in the April Tealbook.  Total PCE
+
+Comparing the Staff Projection with Other Forecasts
+
+The staff's projection for GDP growth is a little below the projections from both the Survey of Professional Forecasters (SPF) and the Blue Chip consensus in 2019, but it is nearly ½ percentage point higher than the Blue Chip in 2020.  Correspondingly, the staff's unemployment rate forecast is a little above the SPF and Blue Chip in 2019; the staff forecast is the same as the Blue Chip forecast in 2020.
+
+With regard to inflation, the staff's forecast of CPI inflation is a bit lower than outside forecasters in 2019 and a bit higher in 2020.  The staff's projection of total PCE price inflation is lower than the SPF in 2019; the staff and the SPF both have total PCE price inflation at 1.9 percent in 2020.  For core PCE price inflation, the staff is 0.1 percentage point above the SPF in 2019 and 0.1 percentage point below the SPF in 2020.
+
+Please note that the Blue Chip data are embargoed until June 10.
+
+Comparison of Tealbook and Outside Forecasts
+
+<!-- missing-text -->
+
+Note:  SPF is the Survey of Professional Forecasters, CPI is the consumer price index, and PCE is personal consumption expenditures.  Blue Chip does not provide results for overall and core PCE price inflation.  The Blue Chip consensus forecast includes input from about 50 panelists, and the SPF about 40.  Roughly 20 panelists contribute to both surveys.
+
+n.a.  Not available.
+
+Source:  Blue Chip Economic Indicators; Federal Reserve Bank of Philadelphia.
+
+Tealbook Forecast Compared with Blue Chip**
+
+Real GDP
+
+Industrial Production
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Consumer Price Index
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: The shaded area represents the area between the Blue Chip top 10 and bottom 10 averages.
+
+- **All series are embargoed for internal (FRS) use until June 10th.
+
+Revisions to the Staff Projection since the Previous SEP
+
+The FOMC most recently published its Summary of Economic Projections, or SEP, following the March FOMC meeting.  The following table compares the staff's current economic projection with the one we presented in the March Tealbook.
+
+The staff's projection is conditioned on a substantially lower path for the federal funds rate than in March, a reflection of the new policy rule that we incorporated in the April Tealbook. In isolation, that lower funds rate path would have led us to strengthen our economic projection materially.  However, notwithstanding the upward surprise to published firstquarter GDP growth, the incoming data on spending, income, and wealth have all been below our expectations on balance; the recent movements in equity prices, the dollar, and foreign economic growth point to a somewhat weaker outlook as well.  On net, our projection for real GDP growth is just a little stronger than in the March Tealbook. Moreover, in assessing resource utilization, we discounted the strong GDP growth reading in the first quarter, and, as a result, the output gap flattens out at a slightly lower level-and the unemployment rate at a slightly higher level-than in March.
+
+Our forecast for inflation is revised a little lower from the March Tealbook projection.  In the near term, the revision reflects surprisingly soft incoming inflation data, and further out, it reflects the small downward revision we made in April to our estimate of underlying inflation.  Accordingly, core PCE inflation is now projected to be a bit below 2 percent throughout the medium term.
+
+<!-- missing-text -->
+
+- 1. Percent change from final quarter of preceding period to final quarter of period indicated.
+- 3. Percent difference between actual and potential. A negative number indicates that the economy is operating below potential.
+- 2. Percent, final quarter of period indicated.
+- n.a. Not available.
+
+price inflation is forecast to run below core inflation this year and to move in line with core inflation in the next couple of years.
+
+Our baseline projection incorporates our estimate of both the direct effects of recently implemented tariffs and the effects of trade tensions that feed through to changes in the stock market, expectations about future profits, and other financial measures. Nevertheless, the recent softness in business investment and manufacturing production, along with the increased volatility in financial markets and the recent flatness in the yield curve, could be signs that heightened uncertainty about trade tensions will have a more adverse effect on the U.S. economy than we have assumed.  Indeed, as discussed in the Risks and Uncertainty section, we have shifted our assessment of the balance of risks around our outlook to the downside.
+
+KEY BACKGROUND FACTORS
+
+Monetary Policy
+
+-  The baseline policy rule calls for the federal funds rate to remain at 2.4 percent in coming quarters before edging up to 2.6 percent by the end of 2021, about unchanged since the April Tealbook.  By contrast, market quotes and surveys suggest that financial market participants are anticipating a federal funds rate that is either declining or flat over the projection period.
+-  Our assumptions for the SOMA portfolio, which will be detailed in the Balance Sheet and Income Projections section of Tealbook B, imply that downward pressure on the term premium in Treasury yields diminishes over time.
+
+Other Interest Rates and Equity Prices
+
+-  After declining markedly in recent weeks, the 10-year Treasury yield is projected to rise gradually from the currently prevailing level of 2.1 percent to 3.1 percent by the end of 2021.  We project that the term premium will rise over the forecast period toward its long-run value-albeit to a slightly lower level than in the April Tealbook-reflecting our assumption that the recent decline in the term premium is mostly transitory.  The path for the 10-year Treasury yield is, on average, 14 basis points lower than we assumed in the previous Tealbook.
+
+Key Background Factors underlying the Baseline Staff Projection
+
+Federal Funds Rate
+
+Long-Term Interest Rates
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+-  The projected triple-B corporate bond yield and 30-year fixed mortgage rate have declined less than the 10-year Treasury yield since the April Tealbook, resulting in slightly wider spreads.  We assume that this widening is transitory and fades over the next two quarters.  Thereafter, both rates move in tandem with the Treasury yield.
+-  Stock prices, which declined 2.1 percent since the April Tealbook (3.6 percent since the FOMC meeting), are expected to increase just under 2 percent per year after the current quarter.  We pushed up modestly the rate of stock price appreciation, as the recent drop in stock prices and the 10-year Treasury yield have eased valuation pressures somewhat.  Overall, we project that the level of stock prices at the end of the projection will be a touch lower than in the April Tealbook.  Our stock price forecast reflects our assumption that concerns over trade tensions and global growth will gradually abate over the forecast horizon.
+
+Trade Policy
+
+-  Trade tensions escalated significantly in May; although we are not assuming further escalation, it is a prominent risk.  The United States increased tariffs on $180 billion of imports from China, from a rate of 10 percent to 25 percent, and China raised tariffs in retaliation as well.   Additional tariffs on imports 2 from China have been threatened, but we have assumed that tariff rates will remain at their current levels through the medium term.
+-  More recently, President Trump signaled that he would impose a tariff increase of 5 percentage points on imports from Mexico starting June 10 in response to migrant flows across the southern border.  Until significant action is taken by Mexican authorities to limit migrant flows, the tariffs would rise each month, reaching 25 percent in October.  As negotiations regarding these tariffs are ongoing, we have not built them into our projection.   If the tariffs 3 go into effect, passage of the USMCA trade deal may be more difficult;
+
+passage had been looking more likely after the removal in mid-May of tariffs imposed last year on imported metals from Canada and Mexico.
+
+-  In addition, in mid-May, the Administration delayed until mid-November a decision on imposing auto tariffs.  Trade developments will likely remain a focus of market attention and continue to pose a risk to the economic outlook.
+
+Foreign Economic Activity and the Dollar
+
+-  Our outlook for foreign activity is a bit weaker than in the April Tealbook. Positive surprises in some AFEs were more than offset by weaker-thanexpected data in Canada and major EMEs, by the ratcheting up of concerns about the escalation of trade tensions, and by the weaker U.S. outlook.  We now estimate that foreign GDP growth picked up only a touch in the first quarter to an annual rate of 1.6 percent.  We see growth abroad gradually rising over the remainder of this year and reaching a near-potential pace of 2.5 percent by the middle of next year.
+-  Since the April Tealbook, the broad nominal dollar has appreciated 1.4 percent.  Looking ahead, we expect the broad real dollar to appreciate at an annual rate of 1.0 percent through 2021, as market expectations for the federal funds rate move up toward the staff forecast.  Due to the recent decline in market expectations for the federal funds rate, this rate of appreciation is notably steeper than in the April Tealbook.  On net, the broad real dollar at the end of 2021 is revised up 2.2 percent.
+
+Fiscal Policy
+
+-  We assume that the expansionary fiscal policies enacted in 2017 and 2018 will continue through the medium term.  In particular, we assume that the current level of discretionary federal spending will be maintained in real terms in fiscal years 2020 and 2021.  Realization of this assumption will require fiscal policymakers to lift the discretionary spending caps for those years, consistent with their actions in recent years; for fiscal 2020, policymakers would need to enact legislation this year before the October 1 start of the next fiscal year. 4
+
+-  Under these policy assumptions, the direct fiscal impetus from all levels of government contributes 0.7 percentage point to the growth rate in aggregate demand this year-about the same as in 2018-before tapering to 0.5 percentage point in 2020 and 0.2 percentage point in 2021.
+-  We expect the federal budget deficit, which was 4 percent of GDP in fiscal 2018, to widen to 4½ percent this fiscal year and to remain steady through the end of the medium term.  Federal debt held by the public is projected to rise from 78 percent of GDP in fiscal 2018 to 82 percent of GDP by the end of the medium term.
+
+Oil and Other Commodity Prices
+
+-  The spot price of Brent crude oil has dropped $11 per barrel since the April Tealbook, closing most recently at $61 per barrel.  Prices rose initially in the intermeeting period on the announcement that the United States would not renew waivers for sanctions against Iranian oil exports.  However, prices have tumbled in recent weeks as trade tensions and softer economic data exacerbated concerns about the outlook for global growth.  As farther-dated futures prices have fallen $7 per barrel, our projection for oil prices has moved from downward sloping to nearly flat in the medium term.
+-  Nonfuel commodities prices have decreased 3 percent since the April Tealbook.  Metals prices have fallen about 7 percent, primarily because of heightened trade tensions.  Agricultural prices are down just 1 percent, as trade-related declines in soybean and cotton prices have been largely offset by rising corn and wheat prices stemming from heavy rains that have reduced expected U.S. supply.
+
+THE OUTLOOK FOR REAL GDP
+
+In recent weeks, many of the incoming signals on economic activity have been on the softer side, and sentiment in financial markets has deteriorated.  New information for the second quarter implied weaker-than-expected business investment that was largely offset by stronger-than-expected consumer spending, leaving second-quarter growth at
+
+Cyclical Position of the U.S. Economy: Near-Term Perspective
+
+(Percent change at annual rate from final quarter of preceding period except as noted)
+
+<!-- missing-text -->
+
+Note:  The output gap is the percent difference between actual and potential output; a negative number indicates that the economy is operating below potential. The change in the output gap is equal to real GDP growth less the contribution of measurement error less the growth rate of potential output. For quarterly figures, the growth rates are at an annual rate, and this calculation needs to be multiplied by 1/4 to obtain the quarterly change in the output gap.
+
+- 1. Percent, average for the final quarter in the period.
+
+Judgmental Output Gap
+
+Note:  Shaded regions show the distribution of historical
+
+<!-- missing-text -->
+
+revisions to the staff's estimates of the output gap.
+
+Source:  Various macroeconomic data; staff assumptions.
+
+Unemployment Rate
+
+Note:  Shaded regions show the distribution of historical
+
+<!-- missing-text -->
+
+- revisions to the staff's estimates of the natural rate.
+- Source:  U.S. Department of Labor, Bureau of Labor Statistics; staff assumptions.
+- *Staff estimate including the effect of extended and emergency unemployment insurance benefits.
+
+Model-Based Output Gap
+
+bands.
+
+<!-- missing-text -->
+
+Source:  Various macroeconomic data; staff assumptions.
+
+<!-- missing-text -->
+
+1.8 percent, down only slightly from our April projection.  Looking forward to the rest of the year, however, we expect the weakness in the business sector to persist and gains in consumer spending to step down from their second-quarter rate.  Furthermore, we anticipate that the pace of inventory accumulation will slow over the rest of the year following a period of strong stockbuilding.   All told, real GDP is projected to increase 5 2 percent this year, 0.2 percentage point less than in the April Tealbook, as the weaker outlook for the second half is only partly offset by the surprisingly strong reading in the first quarter. 6
+
+-  Business fixed investment (BFI) is the most important contributor to the lower outlook for GDP growth in this projection.  After increasing 7 percent in 2018, BFI rose at just a 3 percent pace in the first quarter and is expected to edge down, on net, through the end of this year, a markedly slower path than in the April Tealbook.  The new path reflects disappointing data on orders, shipments, and imports of nondefense capital goods, as well as more downbeat business surveys and a sharp deterioration in analysts' expectations of firms' longer-term profit growth.  The increase in tariffs on imports from China should push up the relative price of capital goods and the user cost of capital, but the negative effect on overall business investment is expected to be minimal this year.  In contrast, we assume that the grounding of Boeing's 737 MAX aircraft will exert a more pronounced restraint (particularly in the third quarter).  As for investment in structures, we expect weakness in drilling and mining to weigh on growth this year, consistent with our assumed path for oil prices.
+-  After having declined in 2018, residential investment is projected to contract further in the first half of 2019 before increasing in the second half.  Recent signals from the housing sector have been choppy and somewhat mixed. Single-family permits declined through April, but home sales have trended higher and builders' sentiment has improved, likely reflecting the more than 1 percentage point decline in mortgage rates from last fall's peak.  We expect
+
+Summary of the Near-Term Outlook for GDP
+
+(Percent change at annual rate except as noted)
+
+<!-- missing-text -->
+
+- 1. Percentage points.
+
+Recent Nonfinancial Developments (1)
+
+Real GDP and GDI
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source:  Ward's Communications; Chrysler; General Motors; FRB seasonal adjustments.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Recent Nonfinancial Developments (2)
+
+<!-- missing-text -->
+
+Note:  Adjusted permits equal permit issuance plus starts outside of permit-issuing areas. Source:  U.S. Census Bureau.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Inventory Ratios
+
+<!-- missing-text -->
+
+Note:  Flow-of-goods system inventories include manufacturing and mining industries and are relative to consumption. Census data cover manufacturing and trade, and inventories are relative to sales.
+
+Source:  U.S. Census Bureau; staff calculations.
+
+Nonresidential Construction Put in Place
+
+<!-- missing-text -->
+
+Note:  Nominal CPIP deflated by BEA prices through 2018:Q4 and by the staff's estimated deflator thereafter. Source:  U.S. Census Bureau.
+
+<!-- missing-text -->
+
+Note:  Forecasts are linear interpolations of quarterly values. Source:  U.S. Dept. of Commerce, Bureau of Economic Analysis; U.S. Census Bureau.
+
+Federal Reserve System Nowcasts of 2019:Q2 Real GDP Growth
+
+(Percent change at annual rate from previous quarter)
+
+<!-- missing-text -->
+
+low mortgage rates to boost residential investment in the second half of the year.
+
+-  Manufacturing production fell in three of the first four months of 2019, and the data in hand suggest that it only ticked up last month.  We now expect factory output to decline about 2 percent at an annual rate in the second quarter, similar to the decrease posted in the first quarter and a notable change from the modest gain projected in the April Tealbook.  Although lower output for motor vehicles and aircraft has been an important source of weakness, the recent declines for manufacturing have been broadly based.  Measures of new orders from the national and regional surveys of manufacturers have also turned down recently and suggest that output will remain soft in the coming months.
+-  In contrast to the weakness in other segments of the economy, consumer spending has picked up since earlier in the year, and the most recent readings for retail sales and motor vehicle sales have surprised us to the upside. 7 Looking ahead, we project that favorable sentiment and expected gains in labor income should continue to support spending, although our projection is tempered somewhat in response to a downward revision to personal income data for the fourth quarter of last year.  All told, we expect PCE to increase about 3 percent in the second quarter and a little under 2½ percent in the second half of the year.
+-  Net exports are expected to provide a small boost to GDP growth over the first half, in part because imports have been restrained relative to fundamentals.  In the first quarter, net exports added 1 percentage point to GDP growth, about 0.4 percentage point more than expected in the April Tealbook, as exports surprised to the upside.  In April, imports fell, with large declines for capital and consumer goods categories, and we now expect that net exports will
+
+subtract 0.5 percentage point from GDP growth in the second quarter, about 0.3 percentage point less of a drag than in the April Tealbook.  However, Boeing 737 MAX aircraft delivery delays will restrain export growth in the third quarter, and we expect net exports to have a neutral effect on real GDP growth in the second half of the year, about 0.2 percentage point weaker than in the previous projection.
+
+-  We project that the contribution of government purchases to real GDP growth will step down from 0.6 percentage point in the first half of the year to 0.2 percentage point in the second half.  This contour largely reflects a surge in infrastructure investment by state and local governments in the first four months of the year that is expected to partially unwind over the remainder of the year.
+
+After having advanced 3 percent last year, GDP is projected to grow 2 percent this year and next before stepping down to 1¾ percent in 2021; this gradual deceleration in GDP reflects both the lagged effects of past removal of monetary accommodation and the waning effects of fiscal policy impetus.  This outlook for growth is lower than in the April Tealbook, as we expect the negative effects from concerns about trade policy and the global outlook to diminish only gradually.
+
+-  On average, GDP growth is projected to run in line with potential after this year, leaving the output gap fairly flat over this period.  By the end of 2021, GDP exceeds its potential level by 2 percent-about ½ percentage point less than in the April Tealbook but still indicative of a very tight economy.
+
+THE OUTLOOK FOR THE LABOR MARKET
+
+The labor market has continued to tighten so far this year but at a slower pace than last year.  Job gains have been solid, on average, the unemployment rate has moved lower, and the employment-to-population ratio has been unchanged, on net, from late last year.
+
+-  Total nonfarm payrolls rose 224,000 in April and 75,000 last month.  On average, these readings are a little lower than what we expected in the April Tealbook but still well above the gains (85,000 to 115,000) that we estimate
+
+are needed to keep labor utilization constant.   Over the first five months of 8 the year, payroll gains averaged 164,000 per month, down substantially from their strong pace in 2018.  Given the projected slowing in aggregate demand growth in coming quarters, we expect monthly employment gains of around 155,000 in the second half.
+
+- o The staff's measure of private-sector employment that is derived from microdata from the payroll-processing firm ADP has also decelerated markedly relative to its pace last year and showed a sharp step-down from April to May.
+- o Initial claims for unemployment insurance have remained near historically low levels, contributing to our decision to take only limited signal for our near-term outlook from the weak employment gain in May.
+-  The unemployment rate moved down to 3.6 percent in April and May from 3.9 percent in the first quarter.  The LFPR also declined, from 63.1 percent in the first quarter to 62.8 percent in April and May.  Combining the signal from these measures, the employment-to-population ratio ticked down to 60.6 percent, and we expect it to hold steady through the third quarter, 0.1 percentage point less than we had expected in the April Tealbook.  The unemployment rate is expected to edge up to 3.7 percent next quarter.
+
+In the medium term, we expect the labor market to remain tight.  However, in contrast with recent Tealbooks, we expect essentially no further tightening from the middle of this year through the end of 2021.  This less robust outlook for the labor market reflects the downward revisions to output growth.
+
+-  Average monthly total job gains slow over the projection, from about 160,000 per month this year to about 140,000 in 2020 and 100,000 in 2021. 9 Payrolls are projected to expand about 10,000 per month more slowly over the medium term than in the April Tealbook.
+
+Alternative Measures of Slack
+
+The red line in each panel is the staff's measure of the unemployment rate gap (right axis).
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note:  Percent of small businesses surveyed with at least one "hard to fill" job opening. Seasonally adjusted by Federal Reserve Board staff.
+
+Source:  National Federation of Independent Business, Small Business Economic Trends Survey.
+
+<!-- missing-text -->
+
+Source:  Job Openings and Labor Turnover Survey; U.S. Department of Labor, Bureau of Labor Statistics, Current Employment Statistics.
+
+<!-- missing-text -->
+
+Source:  Conference Board.
+
+<!-- missing-text -->
+
+- * Plots the negative of the gap to have the same sign as the unemployment rate gap.
+
+Note:  The shaded bars indicate a period of business recession as defined by the National Bureau of Economic Research.  Output gaps are multiplied by negative 0.52 to facilitate comparison with the unemployment rate gap.  Manufacturing capacity utilization gap is constructed by subtracting its average rate from 1972 to 2018.  Other gaps were constructed by subtracting each series' average in 2004:Q4 and 2005:Q1.
+
+-  We project that the unemployment rate for 2020 and 2021 will be 3.7 percent-nearly 1 percentage point below its natural rate and 0.2 percentage point above our projection in the April Tealbook.
+-  We expect the LFPR to decline gradually and in line with its trend beginning in late 2020.  At the end of 2021, the LFPR is 62.7 percent, 0.1 percentage point lower than in the April Tealbook.
+-  Business-sector productivity rose 2.4 percent over the four quarters ending in the first quarter of this year, well above the pace we expected in the April Tealbook.  However, we have taken little signal from this strong reading, in part because some of the strength reflects reported declines in a volatile component of business-sector hours, and also because even these annual figures can be quite erratic.  We project productivity growth to slow to around 1¼ percent per year for the rest of the medium term.  One of the alternative simulations in the Risks and Uncertainty section explores the implications of a stronger underlying productivity trend (together with a lower natural rate of unemployment and a higher LFPR trend) than we have assumed.
+
+THE OUTLOOK FOR INFLATION
+
+After surprisingly soft monthly readings earlier in the year, core PCE prices posted a larger gain in April, and we continue to expect the 12-month change in core PCE prices to move back up over the second half of this year and to be 1.8 percent for 2019 as a whole.  Looking further ahead, we continue to project core PCE inflation to edge up to 1.9 percent in 2020 and 2021, a bit above our estimate of underlying inflation, as the boost from a tight labor market is only partly offset by subdued import price inflation. We project headline PCE inflation to be below core inflation this year but to move in line with core for the rest of the medium term, reflecting increases in food prices and a lessening of the projected downward pull of oil prices on consumer energy prices.
+
+-  Since the beginning of the year, core PCE inflation has been held down by unusually weak readings for a few categories.  However, the pace of monthly increases picked up in April to 0.2 percent (from an average pace of less than 0.1 percent in the first quarter), and we expect this higher pace to continue through the near term.  In addition, the imprint from last year's exceptionally low August reading will soon drop out of the 12-month window.  As a result,
+
+Survey Measures of Longer-Term Inflation Expectations
+
+CPI Next 10 Years
+
+CPI Forward Expectations
+
+<!-- missing-text -->
+
+PCE Next 10 Years
+
+<!-- missing-text -->
+
+Surveys of Consumers
+
+<!-- missing-text -->
+
+Note:  Federal Reserve Bank of New York (FRBNY) Survey of Consumer Expectations reports expected 12-month inflation rate 3 years from the current survey date.  FRBNY data begin in June 2013.
+
+Source:  University of Michigan Surveys of Consumers; Federal Reserve Bank of New York Survey of Consumer Expectations.
+
+<!-- missing-text -->
+
+Source:  Federal Reserve Bank of Philadelphia; Blue Chip
+
+Economic Indicators; Federal Reserve Bank of New York;
+
+Consensus Economics.
+
+PCE Forward Expectations
+
+<!-- missing-text -->
+
+Survey of Business Inflation Expectations
+
+<!-- missing-text -->
+
+District.  Data begin in February 2012.
+
+Source:  Federal Reserve Bank of Atlanta.
+
+core PCE inflation moves up from 1.6 percent in April to 1.8 percent by September.
+
+- o Two alternative inflation measures that are intended to reduce the influence of idiosyncratic price movements are consistent with our view that the recent softness in inflation is transitory.  The Dallas Fed's trimmed mean measure rose 2.0 percent over the 12 months ending in April, and a staff model estimate of what core inflation would have been had there been no idiosyncratic price changes over the past 12 months was 1.8 percent in April.
+-  We expect that the tariffs on imports from China implemented in May will boost effective import prices this year, but the upward revision to the path of the dollar and lower commodity prices should provide a partial offset. 10 On net, we have revised up our projection of 2019 effective import price inflation from 0.9 percent in the previous Tealbook to a moderate 1.5 percent currently.
+-  Total PCE prices rose 1.5 percent over the 12 months ending in April, and we expect this measure of inflation to remain close to this pace through September as recent declines in crude oil prices feed through to lower consumer energy prices.
+- o We expect consumer food prices to partially offset these energy price movements.  The 12-month change in food prices was only 0.8 percent in April, but, consistent with the rise in futures prices for some farm commodities, we expect the change in consumer food prices to increase to around 2 percent by the end of the third quarter.
+-  The most recent readings on survey-based measures of longer-term inflation expectations suggest that these expectations remain reasonably well anchored. Although TIPS-based measures of longer-term inflation compensation have decreased further since the April Tealbook, we attribute much of this movement to a narrowing in risk premiums rather than to a decline in inflation expectations.
+
+Incoming data on labor compensation indicate that wage growth remains moderate.  As in previous projections, we expect compensation growth over the medium term to be higher than in recent years, in line with our projections of a tight labor market, trend price inflation, and trend productivity growth.
+
+-  Average hourly earnings of employees on private nonfarm payrolls rose 3.1 percent over the 12 months ending in May, up from 2.9 percent in May 2018.
+-  The April reading of the Atlanta Fed's Wage Growth Tracker came in at 3.6 percent, within the range in which it has moved over the past few years.
+-  Business-sector compensation per hour (CPH) rose 1.6 percent over the four quarters ending in the first quarter of this year, considerably less than we had expected.  However, this series is noisy, and we expect CPH growth to pick up to 3¼ percent this year and to be 3½ percent in 2020 and 2021.
+-  The employment cost index (ECI) rose 2.8 percent over the 12 months ending in March, the same rate as a year earlier.  Our forecast calls for the ECI to increase at a similar pace over the medium term.
+-  The box 'Using New Microdata to Measure Wages and Labor Compensation' describes new measures of compensation that the staff is developing using individual-level payroll records from the payroll-processing company ADP.
+
+THE LONG-TERM OUTLOOK
+
+-  We continue to assume that the natural rate of unemployment will remain at 4.6 percent.  We also still assume that potential output growth will slow after 2021 to 1.7 percent per year in the longer run, as the boost to potential growth from the 2017 tax cuts wanes.
+-  We have maintained our assumption that the real long-run equilibrium federal funds rate will be 0.5 percent.  The nominal yield on 10-year Treasury securities is 3.4 percent in the longer run.
+- o We continue to assume that, in the longer run, fiscal policymakers will eventually start to gradually reduce primary deficits by an amount
+
+sufficient to stabilize the debt-to-GDP ratio.  We expect this ratio to level off at around 105 percent, 20 percentage points higher than would have occurred in the absence of the 2017-18 federal tax and discretionary spending changes (including our assumption about the extension of that spending after the budget legislation expires this year).  We also still assume that this 20 percentage point increment to the debt-to-GDP ratio will push up the term premium on 10-year Treasury yields 50 basis points in the long run.
+
+-  GDP growth slows from 1.7 percent in 2021 to 1.4 percent in 2024, as the contribution from fiscal policy impetus fades.  The unemployment rate moves up gradually from 3.7 percent at the end of 2021 toward its assumed natural rate in subsequent years.  PCE price inflation moves up from 1.9 percent in 2021 to 2.0 percent at the end of 2024.
+-  Given the outlook for inflation and resource utilization, the nominal federal funds rate remains a little below 2.7 percent from the end of the medium term to the end of 2024, and it declines slowly to its long-run value of 2.5 percent thereafter.
+
+Using New Microdata to Measure Wages and Labor Compensation
+
+The staff closely monitors a variety of measures of labor compensation, each of which has relative advantages in terms of timeliness and comprehensiveness.  Although these measures tend to move in a broadly similar manner over long horizons, they often send different signals over shorter periods.  To sharpen our understanding of labor compensation growth, we have been working with microdata from the payroll-processing company ADP to create alternative measures of compensation growth that can complement the official statistics. 1
+
+The ADP payroll data include linked employer-employee records from firms that hire ADP to manage their payrolls.  The ADP data cover roughly 20 percent of private-sector jobs. 2   The records include information for each worker on earnings, pay rates, hours worked, other components of total compensation (such as bonuses), and some demographic, industry, and geographic information.  Federal Reserve staff typically have access to the data within 10 days of the month's end, comparable to the release schedule of the Bureau of Labor Statistics (BLS) Employment Situation report.  The ADP data provide a unique combination of accuracy, detail, timeliness, and coverage. 3
+
+In this discussion we focus on two measures of compensation derived from the ADP payroll microdata.  First, we create a broad measure of compensation per hour (ADP-CPH), in which compensation is defined as base pay (the contractual hourly wage or per-pay-period salary) plus tips, commissions, and bonuses.  The inclusion of bonuses makes it somewhat comparable to the broad BLS-CPH measure from the productivity and costs release.  That said, our measure does not cover other benefits. 4   Second, we build a measure similar to the Atlanta Fed Wage Growth Tracker (WGT) by following the same workers for 12 months and calculating the median year-over-year change in individuals' hourly wages.
+
+The ADP-CPH and BLS-CPH measures (shown in panel A of figure 1) tended to track each other relatively well until the surprisingly low BLS-CPH readings in 2016.  This divergence is at least in part due to sharp declines in the growth of employers' insurance and retirement contributions in that year, which are not captured in our ADP measure.  Since 2011, both measures of CPH rose about 2½ percent per year; both measures show some acceleration since 2017, with the BLS-CPH measure averaging a little under 3 percent and the ADP-CPH measure averaging a little above 3 percent.
+
+Importantly, the ADP wage microdata are considerably more timely than BLS-CPH, which is available about one month after the end of the quarter and continues to revise substantially for
+
+A
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+up to half a year after the end of the quarter. 5 The timely and comprehensive nature of the ADPCPH series would have been particularly useful at the end of 2012, for example, when employers pulled forward bonus pay because of the anticipated increase in 2013 income tax rates.  The initial releases of BLS-CPH for the fourth quarter of 2012 and the first quarter of 2013 did not reflect any timing change in compensation (the blue bars in panel B of figure 1).  It was only several months later, in mid-2013, that revisions showed BLS-CPH growth had surged in 2012:Q4 before falling in 2013:Q1 (the green bars).  In contrast, the ADP-CPH measure revealed the shift in bonuses in near real time (the red bars).
+
+Measures of average compensation, like BLS-CPH and BLS Average Hourly Earnings (AHE), have some disadvantages:  They can be influenced by changes in the composition of employment, and they give more weight to high earners.  A more direct measure of wage pressure may be the change in wages paid to the same workers, the approach taken by the WGT published by the Federal Reserve Bank of Atlanta.  In figure 2 we plot median wage changes from the ADP payroll microdata and the WGT.  ADP hourly wages (including tips and commissions)-the red line-have tracked the WGT series reasonably well in recent years, though there is a gap earlier in the sample. Median individual growth in base pay-the dashed blue line in figure 2-appears to be remarkably
+
+P
+
+J
+
+stable and smooth, and it runs somewhat below median ADP hourly wage growth.  The gap between the ADP series and the WGT may reflect a number of factors, including topcoding in the Current Population Survey (CPS, the source data for the WGT), measurement error, and differences in earnings and hours definitions between the source data. 6
+
+In fact, the ADP data provide us with direct evidence of measurement error in the individual-level CPS reports, though it is unclear how much it contributes to the differences between the ADP- and CPS-based time series.  Figure 3 shows part of the distribution of 12-month wage changes for a representative month.  The ADP distribution is heavily bunched around round numbers, corresponding to raises of 2.0, 2.5, or 3.0 percent per year.  In contrast, the CPS distribution is more diffuse and shows almost no bunching. 7   We take this dispersion as an indication of measurement error in the CPS responses:  Many workers receive round-number raises , but CPS wage changes are calculated from respondent-reported earnings and hours levels , so small reporting errors may obscure the pattern of round-number raises in the CPS. 8
+
+The results of the staff's analysis of this new source of compensation data are encouraging, and we are hopeful that these data will improve our understanding of the conditions faced by U.S. workers.  Importantly, the data confirm the gradual step-up in compensation growth seen in both the BLS series and the WGT over the past several years.  Nonetheless, the work is preliminary. Constructing measures of compensation that can be compared to official statistics is daunting, partly because the complexity of compensation makes it difficult to construct equivalent measures. Looking forward, the richness of the ADP data provides many further avenues to explore, such as creating a measure of average hourly earnings and further analyzing the importance of bunching in wage changes.
+
+<!-- missing-text -->
+
+Each bar is the percent of workers with wage growth falling into a bin that is 0.1 percentage point wide Source: For CPS, Bureau of Labor Statistics and staff calculations; for ADP , ADP and staff calculations.
+
+7 The bunching in figure 3 helps explain some features of figure 2.  When the median of a series is at a bunching point, moderate changes in the distribution will cause little or no change in the median.  Thus, median ADP base pay hovers at 3 percent (a bunching point) for years, while the CPS series is volatile over the same window.
+
+8 This reasoning is also consistent with the higher cross-sectional variance in CPS wage growth as well as results in the academic literature emphasizing survey response error in questions about income and hours.
+
+Projections of Real GDP and Related Components
+
+(Percent change at annual rate from final quarter
+
+of preceding period except as noted)
+
+<!-- missing-text -->
+
+Real GDP
+
+<!-- missing-text -->
+
+Note:  The gray shaded bars indicate a period of business recession as defined by the National Bureau of Economic Research. Source:  U.S. Department of Commerce, Bureau of Economic Analysis.
+
+Components of Final Demand
+
+Personal Consumption Expenditures
+
+Residential Investment
+
+<!-- missing-text -->
+
+Equipment and Intangibles
+
+<!-- missing-text -->
+
+Government Consumption and Investment
+
+<!-- missing-text -->
+
+Nonresidential Structures
+
+<!-- missing-text -->
+
+Exports and Imports
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Aspects of the Medium-Term Projection
+
+Personal Saving Rate
+
+Wealth-to-Income Ratio
+
+<!-- missing-text -->
+
+Single-Family Housing Starts
+
+<!-- missing-text -->
+
+Federal Surplus/Deficit
+
+<!-- missing-text -->
+
+Equipment and Intangibles Spending
+
+<!-- missing-text -->
+
+Current Account Surplus/Deficit
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Cyclical Position of the U.S. Economy: Longer-Term Perspective
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+Note:  Shaded regions show the 70 percent and 90 percent confidence intervals of the distribution of historical revisions to the staff's estimates of the output gap.
+
+Source: Various macroeconomic data; staff assumptions.
+
+<!-- missing-text -->
+
+Source:  Federal Reserve Board, G.17 Statistical Release,
+
+"Industrial Production and Capacity Utilization."
+
+Note:  Shaded regions show the 70 percent and 90 percent confidence intervals of the distribution of historical revisions to the staff's estimates of the natural rate.
+
+unemployment insurance benefits.
+
+*Staff estimate including the effect of extended and emergency
+
+Source: Various macroeconomic data; staff assumptions.
+
+Actual and Structural Labor Productivity
+
+(Business Sector)
+
+<!-- missing-text -->
+
+Note:  The gray shaded bars indicate a period of business recession as defined by the National Bureau of Economic Research.
+
+Decomposition of Potential Output (Percent change, Q4 to Q4, except as noted)
+
+<!-- missing-text -->
+
+Note:  For multiyear periods, the percent change is the annual average from Q4 of the year preceding the first year shown to Q4 of the last year shown.
+
+- 1. Percentage points.
+- 2. Total business sector.
+- 3. Percent difference between actual and potential output in the final quarter of the period indicated. A negative number indicates that the economy
+- is operating below potential.
+
+The Outlook for the Labor Market
+
+<!-- missing-text -->
+
+- 2. Percent, average for the final quarter in the period.
+- Source:  U.S. Department of Labor, Bureau of Labor Statistics; staff assumptions.
+
+Inflation Projections
+
+<!-- missing-text -->
+
+Mar.
+
+Apr.
+
+May
+
+June
+
+July
+
+Aug.
+
+2019
+
+1.4
+
+1.5
+
+1.5
+
+2019 2
+
+2019 2
+
+2019 2
+
+2019 2
+
+12-month percent change
+
+PCE chain-weighted price index
+
+Previous Tealbook
+
+Excluding food and energy
+
+2019
+
+1.5
+
+1.6
+
+1.6
+
+Previous Tealbook
+
+1.6
+
+1.6
+
+- 2. Staff forecast.
+- Source:  U.S. Department of Commerce, Bureau of Economic Analysis.
+
+1.5
+
+1.6
+
+1.6
+
+1.6
+
+1.4
+
+1.6
+
+1.6
+
+1.7
+
+1.3
+
+1.6
+
+1.6
+
+1.6
+
+1.4
+
+1.7
+
+1.8
+
+1.8
+
+Labor Market Developments and Outlook (1)
+
+Measures of Labor Underutilization
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+* U-5 measures total unemployed persons plus all marginally attached to the labor force as a percent of the labor force plus persons marginally attached to the labor force.
+
+EEB Extended and emergency unemployment benefits.
+
+** Percent of Current Population Survey employment.
+
+Source:  U.S. Department of Labor, Bureau of Labor Statistics.
+
+Level of Payroll Employment
+
+Change in Total Payroll Employment
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Change in Private Payroll Employment
+
+<!-- missing-text -->
+
+Labor Market Developments and Outlook (2)
+
+Labor Force Participation Rate*
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- * Published data adjusted by staff to account for changes in population weights.
+- ** Includes staff estimate of the effect of extended and emergency unemployment benefits. Source:  U.S. Department of Labor, Bureau of Labor Statistics; staff assumptions.
+
+Initial Unemployment Insurance Claims*
+
+Hires, Quits, and Job Openings
+
+<!-- missing-text -->
+
+Source:  U.S. Department of Labor, Employment and Training Administration.
+
+Unemployment Rate by Racial/Ethnic Group
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+* Percent of private nonfarm payroll employment, 3-month moving average. ** Percent of private nonfarm payroll employment plus unfilled jobs, 3-month moving average. Source:  Job Openings and Labor Turnover Survey.
+
+Labor Force Participation Rate by
+
+<!-- missing-text -->
+
+Inflation Developments and Outlook (1)
+
+(Percent change from year-earlier period)
+
+<!-- missing-text -->
+
+Measures of Core PCE Price Inflation
+
+<!-- missing-text -->
+
+Percent
+
+PCE ex. food and energy - Current Tealbook
+
+PCE ex. food and energy - Previous Tealbook
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+Source:  For trimmed mean PCE, Federal Reserve Bank of Dallas; otherwise, U.S. Department of Commerce, Bureau of Economic Analysis.
+
+Labor Cost Growth
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note:  Compensation per hour is for the business sector. Average hourly earnings are for the private nonfarm sector. The employment cost index is for the private sector.
+
+Source:  U.S. Department of Labor, Bureau of Labor Statistics.
+
+Note:  The gray shaded bars indicate a period of business recession as defined by the National Bureau of Economic Research.
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+Inflation Developments and Outlook (2)
+
+(Percent change from year-earlier period, except as noted)
+
+Commodity and Oil Price Levels
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note:  Futures prices (dotted lines) are the latest observations on monthly futures contracts.
+
+Source:  For oil prices, U.S. Department of Energy, Energy Information Agency; for commodity prices, Commodity Research Bureau (CRB).
+
+Energy and Import Price Inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Long-Term Inflation Expectations and Compensation
+
+<!-- missing-text -->
+
+Note:  Based on a comparison of an estimated TIPS (Treasury Inflation-Protected Securities) yield curve with an estimated nominal off-the-run
+
+<!-- missing-text -->
+
+Treasury yield curve, with an adjustment for the indexation-lag effect.
+
+SPF Survey of Professional Forecasters.
+
+Source:  For Michigan, University of Michigan Surveys of Consumers; for SPF, the Federal Reserve Bank of Philadelphia; for TIPS, Federal Reserve Board staff calculations.
+
+The Long-Term Outlook
+
+(Percent change, Q4 to Q4, except as noted)
+
+<!-- missing-text -->
+
+- 1. Percent, average for the final quarter of the period.
+
+Real GDP
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Evolution of the Staff Forecast
+
+Change in Real GDP
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+( This p age is intentionally blank.)
+
+lass I FOMC GLYPH&lt;150&gt; Restricted (FR)
+
+ne 7, 2019
+
+J
+
+u
+
+P
+
+C
+
+International Economic Developments and Outlook
+
+Our optimism about growth abroad in the April Tealbook-guarded though it was-has been undermined by several factors:  data flow that, on the whole, has been disappointing; an abrupt escalation of trade tensions; a markdown to U.S. growth; and the resurgence of other risks (Brexit, Italy).  These developments have roiled markets, increased uncertainty, and dimmed the growth outlook for foreign economies.
+
+At the time of the April Tealbook, we had received some encouraging data from China and the euro area.  We had hoped to find confirmation in subsequent data that global growth was firming.  However, recent data have disappointed on balance.  April data for China were downbeat, and the recovery from last year's growth slowdown now seems more tentative, raising questions about prospects for emerging Asia.  In Latin America, Mexico and Brazil continued to languish, surprising us with first-quarter contractions.  In the advanced foreign economies (AFEs), weaker-than-expected Canadian GDP growth in the first quarter offset stronger-than-expected growth elsewhere.  Indicators for the current quarter suggest that the expected pickup in Canadian growth is in train, but growth in other AFEs is slowing.
+
+We expect foreign growth to improve somewhat, to an annual rate of 2.2 percent this quarter, from a substantially below-potential rate of 1.6 percent in the first.  Our conviction around this pickup is not strong, however, as it comes mainly from a rebound in Latin America.  Beyond the current quarter, we have total foreign growth edging up further as growth rises a bit more in the emerging market economies (EMEs), while AFE growth stabilizes around potential.  We expect the Latin American recovery to gain traction, and emerging Asia ex-China should benefit from an upswing in the high-tech cycle, of which we are beginning to see some tentative signs (see the box 'Accounting for the Asian Tech Cycle').
+
+Relative to the previous Tealbook, we revised down foreign GDP growth in the first half on weaker-than-expected data from the EMEs described above.  Further out, we revised down our forecast a touch, given the markdown in U.S. growth and the recent escalation of trade tensions between the United States and China and Mexico, which led to an increase in implemented tariffs and exacerbated policy uncertainty.
+
+Accounting for the Asian Tech Cycle
+
+Global trade weakened markedly at the end of 2018, with particular weakness in the emerging market economies (EMEs).  EME exports contracted almost 7 percent at an annual rate in the fourth quarter and a further 3½ percent in the first quarter of this year.  Emerging Asia's tech sector has been especially weak, with production and export of high-tech products falling substantially in recent quarters.  These developments raise the question of whether the tech slowdown has been a driver of the broader slowdown in global trade, perhaps due to supply-side factors such as the timing of new product releases, or whether the tech slowdown merely reflects either a broader slowdown in global demand or the effects of recent tariff hikes and trade tensions.  This discussion argues that slowing Chinese domestic demand, more than supply-side developments or tariffs, was the primary driver of recent developments in the Asian tech sector.
+
+Highly integrated global supply chains for consumer electronics have created a correlated pattern of production and trade in electronics and software across economies, particularly in emerging Asia, now commonly referred to as the tech cycle.  The tech cycle is increasingly dictated by smartphones, for which sales have generally eclipsed those of other tech products:  Global smartphone sales were about 1.4 billion units in 2018, compared to 260 million units for personal computers.  This trend is reflected in regional trade patterns, with about half of Asian semiconductor exports now directed to China, the final assembler of most mobile phones.
+
+Technological advances in the semiconductor industry are often viewed as the fundamental driver of the tech cycle.  The high rate of obsolescence for new chips leads to relatively short product life cycles for high-end electronics.  Upturns in the tech cycle may therefore reflect the production and export of components associated with new product releases, which are prompted by innovations in semiconductor and circuit technology.
+
+We first examine the historical relationship between product releases and high-tech data. Specifically, we run country-level regressions of semiconductor inventories, high-tech production, and high-tech exports on smartphone release date indicators, controlling for trend growth and lunar New Year effects.  We find that release dates can help explain the inventory cycle in semiconductors.  However, new releases have little explanatory power for trade and production. 1
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+What about developments over the past year?  Semiconductor inventories continued to grow in 2018 (the blue line in figure 1), and the previous analysis suggests that product releases in late 2018 and early 2019 could partially explain this trend.  In spite of new releases, however, phone production has remained weak.  Figure 2 shows that Chinese phone production (the black line) has been in decline since 2017.  This contraction, amid still-robust semiconductor output in emerging Asia, including Korea and Singapore (the red and blue lines, respectively), helped drive the run-up in inventories and depressed semiconductor prices (the black line in figure 1), which subsequently weighed on trade through 2018.
+
+What accounts for the weakness of phone production since 2017?  The most notable factor is a broad-based slowdown in Chinese demand, likely reflecting in part the authorities' financial deleveraging campaign.  As can be seen in figure 3, beginning in 2017, Chinese domestic consumption slowed for mobile phones, household durables, and autos, with purchases of phones showing particular weakness toward the end of last year.  With China accounting for about one-third of global smartphone consumption, this falloff in demand has been sufficient to drive the downturn in the regional supply chain.
+
+What are the prospects for a recovery in the high-tech industry in 2019?  Data received since the April Tealbook show some signs of the tech sector stabilizing.  Chinese mobile phone production picked up in April for the third successive month.  Likely supported by this strengthening in demand, Singapore's tech exports stepped up in April, and Korean semiconductor exports this quarter are up through May.  More generally, after a contraction in high-tech industrial production across emerging Asia in March, data for April have thus far been promising, with rebounds in Korea, Singapore, and Taiwan.
+
+Semiconductor equity prices provide a useful forward-looking indicator of global electronics trade. We construct a tech equities indicator by extracting common variation from the stock prices of 133 firms in the semiconductor industry globally.  As can be seen in figure 4, changes in our headline indicator track global semiconductor shipments growth quite closely.
+
+Our tech indicator suggests that investor sentiment bottomed out at the turn of the year. Expectations of recovery are likely driven by a more optimistic growth outlook in China and the rollout of 5G networks globally, which should accelerate product releases in 2019 and 2020. However, heightened U.S.-Chinese trade tensions, including U.S. restrictions on business with Huawei, drove semiconductor equities down in May and remain the most prominent downside risks to a recovery in the industry.
+
+<!-- missing-text -->
+
+Of course, trade policy developments have proved fluid and unpredictable.  In our baseline forecast, we are assuming the United States and China reach a 'ceasefire' in which tariffs are neither rolled back nor increased.  For now, we are also assuming no imposition of tariffs on Mexico, although that could well change by June 10, when the Administration may implement the first 5 percent tariff hike on imports from that country.  However, it is possible that trade tensions could subside if a U.S.-China trade deal, perhaps as early as at the G-20 Leaders' Summit later this month, rolls back earlier tariff hikes.  Conversely, escalation is also quite possible, with the United States imposing tariffs on the remainder of its imports from China and proceeding with a series of tariff hikes on Mexico, prompting retaliation.  We explore both these scenarios in the Risks and Uncertainty section.
+
+Some other key downside risks have also reemerged.  The most prominent are the increased probability of a 'no deal' Brexit and renewed concerns about the sustainability of Italy's public debt.  And, as mentioned above, our confidence in a Latin American recovery is not high, given repeated disappointment over the past few years.
+
+Against this global backdrop of modest growth and elevated policy uncertainty, foreign inflation remained moderate, and we anticipate it will remain so throughout the forecast horizon.  Among the AFEs, the latest readings of 12-month core inflation were below 1 percent in both the euro area and Japan.  As such, we expect monetary policies in these countries to remain highly accommodative, and we now assume the European Central Bank (ECB) will wait until early 2021 to start lifting its policy rate, two quarters later than previously anticipated.  The Reserve Bank of Australia cut its policy rate in response to below-target inflation and weak economic growth.  Several EME central banks-including those in India, Malaysia, and the Philippines-also reduced their interest rates, citing subdued underlying inflation, slowing growth, and heightened downside risks in the global economy.
+
+ADVANCED FOREIGN ECONOMIES
+
+- · Euro Area . Following lackluster growth of only 0.8 percent in the second half of 2018, real GDP rebounded 1.6 percent in the first quarter, 0.2 percentage point higher than our April Tealbook forecast.  However, the rebound likely reflects the unwinding of some temporary headwinds from last year, and indicators through May, such as PMIs, continue to indicate weak underlying momentum, particularly in manufacturing.  Accordingly, we expect GDP growth to slow to a subdued
+
+- 1.2 percent in the second quarter and stay around 1 percent the rest of this year. Growth should then gradually increase to 1.7 percent in 2021, supported by stillaccommodative monetary policy.  We revised down a touch our forecast for 2020 because of the recent increase in global trade tensions, the markdown to U.S. and global growth, and renewed concerns over Italian fiscal policy.  The fiscal outlook for Italy worsened, as key members of the Italian government called for new fiscal stimulus even as the European Commission officially reprimanded Italy for breaching EU budgetary rules.
+
+Core inflation came in at 0.8 percent in May on a 12-month basis.  We expect headline inflation to be held down in the near term by the recent fall in oil prices, before edging up to 1.3 percent by 2021, as economic slack diminishes.  In line with this low-inflation environment, at its June 6 meeting, the ECB said that it expected to hold policy rates steady at least through the first half of 2020.  We now assume that the ECB will not start raising its deposit rate, currently at negative 0.4 percent, until the first quarter of 2021, reaching 0 percent by late 2021, and will continue reinvesting maturing assets well after that.  The ECB also announced details of the new quarterly targeted longer-term refinancing operations program, which will have a maturity of two years and entail an interest rate as low as 10 basis points above the ECB deposit rate.
+
+- · United Kingdom. Real GDP growth picked up from 0.9 percent in the fourth quarter to 2 percent in the first, 0.5 percentage point higher than our April Tealbook forecast. Economic activity was supported by robust domestic demand, largely due to stockpiling by households and businesses ahead of the original Brexit date.  As this boost unwinds, we forecast growth in the second quarter to slow to 0.7 percent.  Even so, this projection is slightly higher than our previous forecast, largely because of positive surprises in services PMIs, which point to stronger-than-expected domestic demand.
+
+Brexit-related uncertainty has increased again, following the resignation of Prime Minister May, who could be replaced by a new Conservative Party leader that favors a no-deal Brexit.  As such, we project that growth in the second half of this year will stay subdued, at 1.2 percent, with uncertainty weighing on economic activity.  Further out, we assume in our baseline forecast a non-disruptive resolution of Brexit, with uncertainty noticeably reduced by the end of the year (either by ratifying a Brexit deal, providing yet another extension, or canceling the Brexit process).  Growth
+
+should then pick up to 1.6 percent next year, close to its potential rate.  That said, in our view, recent political developments put the risk of a disruptive no-deal Brexit at an all-time high.
+
+-  Canada . GDP growth in the first quarter remained low at 0.4 percent, 0.6 percentage point weaker than estimated in the April Tealbook, because of shutdowns in oil production and harsh winter weather.  Recent indicators such as monthly GDP for March and employment for April are upbeat and consistent with a growth pickup to 2.1 percent this quarter.  We then expect GDP growth to settle at a near-potential pace of around 1.7 percent.  Relative to the April Tealbook, the medium-term outlook is somewhat weaker because of the lower path for oil prices and the markdown to U.S. growth.
+
+We expect headline inflation to settle at the current pace of core inflation of 2 percent by late 2019.  The Bank of Canada (BOC) kept its policy rate unchanged at 1.75 percent in its May 29 meeting.  Given the weaker economic outlook, we now expect that the BOC will wait until late 2020 to resume gradually tightening its policy stance, two quarters later than previously assumed.
+
+-  Japan. Real GDP expanded 2.1 percent in the first quarter, well above our April Tealbook forecast of 0.3 percent.  That said, private consumption and exports both declined, and the positive GDP growth mainly reflected plummeting imports.  Recent indicators have been mixed and, on net, suggest real GDP will stagnate this quarter. Looking through the volatility from the consumption tax hike scheduled for late 2019, we expect GDP to barely edge up in the second half of the year.  Over the remainder of the forecast period, we expect GDP growth to be slightly above its potential pace of 0.7 percent, supported by additional spending related to the 2020 Tokyo Olympics and very accommodative monetary policy.
+
+The 12-month changes in total and core CPI picked up to 0.9 percent and 0.5 percent, respectively, in April.  Given the recent decline in oil prices and the yen appreciation, we expect inflation to slow a bit over the near term, but then we expect it to edge up to around 1 percent by the end of 2020.  With inflation still far lower than the Bank of Japan's (BOJ) 2 percent target, we expect the BOJ to keep its deposit rate at negative 0.1 percent throughout the forecast period, while continued asset purchases should keep the 10-year sovereign yield around the current target of zero percent.
+
+J
+
+EMERGING MARKET ECONOMIES
+
+-  China. After rebounding to a brisk 7.3 percent in the first quarter following a broadbased slowdown last year, China's GDP growth is expected to step down to 6.1 percent in the current quarter, 0.5 percentage point lower than in the previous forecast.  April's activity indicators disappointed, with industrial production contracting sharply and retail sales growing at the slowest pace in more than a decade.  The extent of the softening suggests that some key areas of the Chinese economy continue to struggle to gain a solid footing.
+
+We expect the escalation of the trade conflict with the United States since early May to weigh further on China's growth outlook, both through direct effects of higher tariffs on China's exports and through indirect effects from prolonged uncertainty weighing on investment.  Indeed, recent data on manufacturing investment, particularly for machinery and equipment, have weakened notably.  That said, we expect policy stimulus to partly offset the drag from heightened trade policy uncertainty.  All told, we see growth holding relatively steady at around 6 percent for the rest of the year before falling to 5.7 percent next year, in line with declining potential growth.  Compared with the April Tealbook, our forecast is down an average of 0.2 percentage point over the forecast period.
+
+-  Other Emerging Asia. Real GDP growth slowed a touch to a subpar 2.6 percent in the first quarter, the fourth consecutive quarter of below-trend growth.  On balance, growth was in line with our April forecast; a surprising contraction in Korea and a slowdown in India were offset by stronger-than-expected growth in Hong Kong. Available data on PMIs, industrial production, and exports for the second quarter suggest that manufacturing, though weaker than expected, is stabilizing.  We expect this improvement, together with support from fiscal policy in some countries, to boost growth to 3.1 percent in the current quarter and to 3.5 percent in the second half of the year.  Our forecast is down a touch from that in April, reflecting the weaker-thanexpected incoming data and spillovers from lower growth in China.
+-  Mexico. After stagnating in the fourth quarter, real GDP contracted 0.7 percent in the first.  Household consumption remained weak, and external demand appears to have been a drag, with weakness in U.S. manufacturing weighing on Mexican exports and export-oriented services.  However, some of the weakness in the export sector reflected disruptions from labor unrest that have faded, contributing to a rise in
+
+P
+
+manufacturing exports in April.  As such, we see growth turning positive in the current quarter.  That said, a downward revision to U.S. manufacturing output and increased uncertainty regarding U.S. trade policy toward Mexico led us to revise down the outlook.  We now see growth limping along at below 2 percent for the rest of this year and then rising to 2.5 percent by the end of next year.  Moreover, the possibility of a further escalation in trade tensions has greatly increased the downside risks to the outlook.
+
+Downplaying the recent weak pace of growth, the Bank of Mexico (BOM) left its policy rate unchanged at 8.25 percent at its May meeting.  Although headline inflation dropped sharply in the first quarter as a result of the fall in energy prices, the BOM expressed concerns that wage inflation has been high and that core inflation has been persistently above the 3 percent inflation target.
+
+-  Brazil . Brazil's sluggish climb out of its deepest recession on record faltered yet again in the first quarter, with the economy contracting 0.6 percent after barely eking out positive growth in the fourth quarter.  Some of the weakness is the result of temporary disruptions related to a large dam disaster, and we expect growth to pick up some in the current quarter but remain weak at 1.2 percent.  Plummeting demand from neighboring Argentina and a deterioration in confidence and survey indicators, amid delays in an important pension reform, point to a slower recovery than we anticipated.  We now have growth reaching only 2.5 percent by the second half of next year, 0.2 percentage point below that in the April Tealbook.
+
+The Foreign GDP Outlook
+
+Percent change, annual rate
+
+<!-- missing-text -->
+
+- * GDP aggregates weighted by shares of U.S. merchandise exports.
+
+Total Foreign GDP
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+I
+
+The Foreign Inflation Outlook
+
+Consumer Prices*
+
+Percent change, annual rate
+
+<!-- missing-text -->
+
+- * CPI aggregates weighted by shares of U.S. non-oil imports.
+
+Foreign Monetary Policy
+
+<!-- missing-text -->
+
+* 1-year benchmark lending rate.
+
+Recent Foreign Indicators
+
+Nominal Exports
+
+Industrial Production
+
+- * Includes Australia, Canada, euro area, Japan, Sweden, Switzerland, U.K. ** Includes Argentina, Brazil, Chile, China, Colombia, Hong Kong, India, Indonesia, Israel, Korea, Malaysia, Mexico, Singapore, Taiwan, Thailand.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Retail Sales
+
+<!-- missing-text -->
+
+Consumer Prices: Advanced Foreign Economies 12-month percent change
+
+Note: Includes Canada, euro area, Japan, U.K.
+
+<!-- missing-text -->
+
+* Excludes all food and energy; staff calculation.
+
+- Source: Haver Analytics.
+- * Includes Canada, euro area, Japan, Sweden, U.K. ** Includes Argentina, Brazil, Chile, China, Colombia, India, Indonesia, Israel, Korea, Malaysia, Mexico, Philippines, Russia, Singapore, Taiwan, Thailand.
+
+Manufacturing PMI
+
+<!-- missing-text -->
+
+Consumer Prices: Emerging Market Economies
+
+<!-- missing-text -->
+
+Korea, Malaysia, Mexico, Philippines, Singapore, Taiwan, Thailand.
+
+** Excludes all food; staff calculation. Latin America excludes Argentina and Venezuela.
+
+Evolution of Staff's International Forecast
+
+Total Foreign GDP
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Financial Market Developments
+
+Outside of this box, the Financial Market Developments section of the Tealbook is based on information that was available by 5:00 p.m. EDT on June 6.  On June 7, at 8:30 a.m. EDT, the Bureau of Labor Statistics published its Employment Situation Report for May 2019.  The release was reportedly interpreted by market participants as weaker than expected.  Nominal yields were down 9 basis points and 5 basis points at the 2- and 10-year maturities, respectively, in the first 30 minutes of trading subsequent to the release.  Equity index futures were little changed on net.
+
+Negative news about international trade tensions and, to a lesser extent, soft U.S. and foreign economic data increased investors' concerns about downside risks to the economic outlook and weighed on financial markets over the intermeeting period. Nominal Treasury yields posted very large declines, and the expected path of policywhether adjusted for term premiums or not-shifted down considerably over the period. Investors now appear to be putting substantial weight on a policy easing by as early as the July meeting.  Equity prices declined, on net, and corporate bond spreads widened appreciably.
+
+-  Nominal Treasury yields fell 37 basis points at both 2- and 10-year maturities. Partly reflecting the moves in nominal yields, inflation compensation narrowed 18 basis points and 20 basis points, respectively, for the 5-year and the 5-to-10-year horizons.
+-  A straight read of OIS forward rates suggests that investors expect the federal funds rate to decrease about 60 basis points by the end of this year and an additional 30 basis points in 2020.  A staff model that adjusts for term premiums indicates a 30 basis point decline in the rate by year-end 2019 and a modest additional decline next year.  Both the adjusted and unadjusted paths shifted down considerably over the intermeeting period.
+-  On net over the period, the S&amp;amp;P 500 index decreased 3.5 percent.  Stock prices declined notably through the end of May but subsequently rose somewhat, reflecting in part FOMC communications that were perceived to increase the likelihood of a near-term policy easing.  Option-implied volatility
+
+Policy Expectations and Treasury Yields
+
+Intraday Treasury Yields
+
+<!-- missing-text -->
+
+2019
+
+Note: Data are spaced at 5-minute intervals from 8:00 a.m. to 4:00 p.m. Source: Bloomberg.
+
+TIPS-Based Inflation Compensation
+
+<!-- missing-text -->
+
+Note: Estimates based on smoothed nominal and inflation-indexed Treasury yield curves.
+
+- * Adjusted for lagged indexation of Treasury Inflation-Protected Securities (carry effect).
+
+Source: Federal Reserve Bank of New York; Board staff calculations.
+
+Percent Market-Implied Probability Distribution of the Federal Funds Rate in August 2019
+
+Note: Estimated from federal funds futures options, not adjusted for risk premiums.
+
+<!-- missing-text -->
+
+Source: CME Group; Board staff calculations.
+
+Implied Federal Funds Rate
+
+<!-- missing-text -->
+
+Note:  Zero term premium path is estimated using overnight index swap quotes with a spline approach and a term premium of zero basis points. Model-based term premium path is estimated using a term structure model maintained by Board staff and corrects for term premiums. The Blue Chip path is the average of respondents' expectations for the federal funds rate in the survey conducted through May 24 and published June 1.
+
+Source:  Bloomberg; Wolters Kluwer Legal and Regulatory Solutions U.S.; Board staff calculations.
+
+Long-Term Yield Spread and Near-Term Forward Spread
+
+<!-- missing-text -->
+
+Note: The 0-to-6-quarter forward spread is the difference between the 3-month Treasury bill yield and the implied forward rate between 6 and 7 quarters ahead based on a smoothed Treasury yield curve. Data through May 2019 are monthly averages. Data for June 2019 are based on values for June 6. Shaded bars indicate U.S. recessions as defined by the National Bureau of Economic Research.
+
+Source: Federal Reserve Bank of New York; Board staff calculations.
+
+on the S&amp;P 500 index-the VIX-increased, though it remained well below levels reached in December.  Investment-grade and high-yield corporate bond spreads widened 20 basis points and 47 basis points, respectively.
+
+-  Foreign equity prices and sovereign yields in the advanced foreign economies (AFEs) decreased markedly over the intermeeting period.  The broad dollar index rose, with notable appreciation of the dollar against the Chinese renminbi and Mexican peso.
+
+DOMESTIC DEVELOPMENTS
+
+The large declines in nominal Treasury yields over the intermeeting period were driven primarily by negative headlines about trade tensions between the United States and two major trading partners, China and Mexico.   Softer-than-expected domestic 1 economic news also contributed to the declines.  A relatively weak preliminary May U.S. Markit PMI release appeared to have had an unusually large negative effect on yields in late May, reportedly because it was interpreted as indicating that trade developments had begun to affect macroeconomic outcomes.  Nominal yields also dropped in response to weaker-than-expected ADP employment data.
+
+FOMC communications had little net effect on yields.  Yields rose modestly following the Chair's May FOMC press conference comments about inflation but, later in the period, moved down on FOMC participants' remarks that reportedly were seen as signaling an increased likelihood of near-term policy easing.  Five-year and 5-to-10-year inflation compensation based on TIPS declined and finished the intermeeting period at 1.56 percent and 1.83 percent, respectively.
+
+Based on a straight read of OIS forward rates, investors expect the federal funds rate to decline about 60 basis points by the end of this year-a 40 basis point downward revision over the intermeeting period.  A staff model that adjusts for term premiums, which was about flat for the next two years at the beginning of the period, currently projects a 30 basis point decline for the federal funds rate by year-end 2019 (see the box 'Revision to the Staff's Term-Premium-Adjusted Policy Rate Path').   In contrast, the 2
+
+C
+
+J
+
+Revision to the Staff's Term Premium Adjusted Policy Rate Path --
+
+Forward rate curves fitted to overnight index swap (OIS) rates have often been used as a measure of the market's expected path of the policy rate. Most recently, such a 'straight read' based on OIS (the blue lines in figure 1) implies expected federal funds rates of 1.81 percent for year end 2019 and 1.43 percent for year end 2020. --These numbers stand in contrast to recent Blue Chip survey forecasts (the yellow diamonds in figure 1), which are relatively flat over the next several years. The gap between OIS forward rates and survey forecasts suggests the possibility of negative term premiums in OIS markets.
+
+The staff employs a variety of tools to gauge the magnitude of these premiums. The measure used in previous Tealbooks to construct a term premium adjusted policy rate path came from a --shadow rate term structure model estimated with historical OIS rates and Blue Chip survey forecasts (the red lines in figure 1). 1 The model produces results consistent with an effective lower bound on OIS rates by specifying a 'shadow federal funds rate' that is permitted to move freely and allowed to turn negative; the model implied federal funds rate is equal to the shadow -rate when the shadow rate is above the lower bound and is constrained at the lower bound otherwise. The previous version of this model had been estimated on a sample beginning in 1991 and ending in 2016. 2
+
+Consistent with the state of the art in academic research and data limitations at the time, the model was thus effectively premised on the assumption that the dynamics of the shadow rate as well as the pricing of interest rate risks are described by the same set of model parameters before and after the onset of the Global Financial Crisis. However, this assumption of structural stability may be called into question for several reasons:
+
+-  Many macro models imply that the joint behavior of key macroeconomic variables changes once the policy rate hits the effective lower bound, as conventional monetary policy can no longer respond to a changing macroeconomic outlook.
+-  It is not clear that the effects of the unconventional policy tools used by the Federal Reserve are well described by the same shadow rate model parameters as those that described the pre crisis years. -
+-  Long term trends as well as the fallout from the Great Recession may have caused lasting -structural changes (such as a downshift in ݎ ∗ ). Indeed, recent staff research finds that various formal statistical tests reject the hypothesis of structural stability of the shadow rate model. 3
+
+J
+
+In a revised version of the staff's shadow rate model, different sets of model parameters are used to describe the period before December 2008 and the period after December 2008. In other words, the revised shadow rate model has a structural break around the time of the onset of the Global Financial Crisis. Consequently, the estimated parameters of the model that are relevant for yield dynamics in recent years are based on a substantially shorter sample (December 2008 to March 2019) than the previous model. In the staff's best judgement, the benefit of the revised model in terms of topicality now outweighs the greater estimation uncertainty associated with a shorter sample period. 4
+
+The green lines in figure 1 show the implied path for the federal funds rate from the revised model. The revised model suggests a substantially flatter federal funds rate path over the next several years than the unadjusted path. In contrast, the previous model indicates further gradual rate increases over the medium term. Put differently, the revised model currently implies less negative term premiums compared with the previous model. Longer range expectations from -the revised model-that is, expectations for the average federal funds rate 5 to 10 years aheadhave also been notably lower than those from the previous model in recent years (figure 2). Nevertheless, the expectations implied by both models share certain qualitative features such as the prominent increase in long term expectations after the U.S. presidential election in late 2016, -which was not mirrored in long range Blue Chip survey forecasts. -That said, the revised model better captures the preceding decline in long range survey forecasts in 2015 and 2016 and the -lower level of those forecasts seen since.
+
+Going forward, the staff will show the term premium adjusted federal funds rate path based on --the revised model. In light of the still limited post 2008 data, the staff will monitor the model's --output closely and make further updates as judged appropriate.
+
+<!-- missing-text -->
+
+Note:  Zero term premium path is estimated using overnight index swap quotes with a spline approach and a term premium of zero basis points. Model-based term premium paths are estimated using shadow rate term structure models maintained by Board staff; 'previous model' is a singleregime model estimated on a sample from 1991 to 2016, 'revised model' is estimated on a sample from 1991 to 2019 with a structural break in 2008. The Blue Chip path is the average of respondentsʼ expectations for the federal funds rate in the survey published June 1.
+
+Source:  Bloomberg; Wolters Kluwer Legal and Regulatory Solutions U.S., Blue Chip Financial Forecasts; Board staff calculations.
+
+Source:  Bloomberg; Wolters Kluwer Legal and Regulatory Solutions U.S., Blue Chip Financial Forecasts; Board staff calculations.
+
+4 The revised version also makes a number of technical adjustments to the specification of the model. Most importantly, to account for the potential difficulty in forecasting the path of the federal funds rate in a new interest rate environment, the revised model uses a more sparse cross section of Blue Chip survey forecast horizons in its estimation.
+
+<!-- missing-text -->
+
+F
+
+i
+
+Corporate Asset Market Developments
+
+Intraday S&amp;P 500 Futures
+
+<!-- missing-text -->
+
+Note: Data are spaced at 5-minute intervals from 9:30 a.m. to 4:10 p.m. Source: Bloomberg.
+
+S&amp;P 500 Index and China Exposure Portfolio
+
+Apr. 30, 2019 = 100
+
+Note: China exposure is measured based on Board sta ff calculations of stock price sensitivity to the ASHR China A-Shares exchange-traded fund. Source: Bloomberg; Compustat; Yahoo Finance.
+
+<!-- missing-text -->
+
+S&amp;P 500 Volatility
+
+<!-- missing-text -->
+
+* 5-minute returns used in exponentially weighted moving average with 75 percent of weight distributed over the most recent 20 days. Source: Bloomberg.
+
+Selected S&amp;P 500 Stock Price Indexes
+
+<!-- missing-text -->
+
+Source: Bloomberg.
+
+10-Year Corporate Bond Spreads
+
+<!-- missing-text -->
+
+Basis points
+
+Basis points
+
+Note: Spreads over 10-year Treasury yield. Source: Merrill Lynch; Federal Reserve Bank of New York; Board sta ff calculations.
+
+Blue Chip Financial Forecasts survey, conducted through May 24, continued to suggest a flat policy path through the third quarter of 2020.  Options prices (unadjusted for term premiums) suggest that investors have attached better-than-even odds of a rate cut by the July 2019 meeting.
+
+Reflecting the sharper downward tilt of the unadjusted OIS-implied policy path, the near-term forward spread on Treasury securities-defined as the difference between the six-quarter-ahead forward rate and the three-month Treasury bill yield-has moved down further since the May FOMC meeting and now stands at negative 58 basis points, its lowest level since the beginning of 2008.  The spread between 10-year and threemonth Treasury yields fell to negative 13 basis points, a level it last reached in early 2007.  Both spreads are in the bottom decile of their respective distributions since 1971. 3 The current low levels of these spreads suggest, in a reduced-form analysis, that the probability that the United States will enter a recession over the next four quarters is roughly 70 percent.  To be sure, such probabilities should be interpreted with caution, given the long sample periods over which the models are estimated and secular trends (in particular, declining term premiums) that may materially affect predictions. 4
+
+The S&amp;P 500 index fell 3.5 percent, on net, over the intermeeting period, primarily in response to the escalation of trade tensions with China.  Although stock price declines were fairly broad based, firms with high China exposure and those in cyclical sectors-such as energy, information technology, consumer discretionary, communication services, and banks-posted particularly large losses.  The announcement of possible additional tariffs on Mexican imports also contributed temporarily to stock price declines, particularly for the automotive sector.  Later in the period, stock prices regained some of their losses amid an easing of trade tensions with Mexico and expectations of a more accommodative stance of policy.  On net, one-month optionimplied volatility on the S&amp;P 500 index (the VIX) increased to 16 percent, just below the median of its historical range.  During the period, the VIX moved as high as 21 percent but remained well below the 36 percent peak reached in December 2018.
+
+Recent International Developments
+
+Equity Indexes
+
+10-Year AFE Sovereign Yields
+
+<!-- missing-text -->
+
+Exchange Rates
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+* Average weekly flow by month.
+
+Note: EMBI+ refers to emerging market bond spreads to Treasury securities. Source: Emerging Portfolio Fund Research. Excludes intra-China flows.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Commodities
+
+Spreads on investment-grade and speculative-grade corporate bonds over comparable-maturity Treasury yields widened 20 basis points and 47 basis points, respectively.  Even so, spreads on both types of corporate bonds are currently near the midpoints of their respective historical ranges.
+
+FOREIGN DEVELOPMENTS
+
+Global risky asset prices fell sharply and the prices of safe-haven assets increased as risk sentiment turned decidedly negative over the intermeeting period.  The ongoing trade policy dispute between the United States and China, the prospect of additional tariffs on imports from Mexico, and soft economic data weighed on investor confidence. Developments in Europe, including an increase in the probability of a 'no deal' Brexit, a worsening of the fiscal situation in Italy, and stress in the euro-area banking sector, also contributed to the decline in risk sentiment.
+
+Equity indexes in AFEs and emerging market economies (EMEs) fell.  Increased trade uncertainty and trade restrictions placed on the Chinese technology sector had a strong effect on Asian equity prices-the Hong Kong and Shanghai indexes fell 9.2 percent and 8.1 percent, respectively.  Mexican equity prices fell 3.2 percent, primarily on news regarding potential tariffs on Mexican exports to the United States. Foreign equity price declines were accompanied by outflows from EME-dedicated funds, and EME sovereign spreads widened moderately.  AFE equity indexes declined 1 to 6 percent, with European bank stocks underperforming significantly, especially those of Italian and German banks.
+
+Negative market sentiment and growing concerns about global growth contributed to notable declines in AFE policy expectations and sovereign yields.  Ten-year sovereign yields declined 36 basis points in the United Kingdom and 25 basis points in Germany, with the German yield falling to a record low of negative 0.24 percent.  Five-year, fiveyear-forward euro-area inflation compensation declined 12 basis points to 1.29 percent, close to its lowest level since mid-2016.  Despite the risk-off sentiment, euro-area peripheral bond spreads over German yields generally narrowed, and yields reached record lows in Greece and Portugal.  The notable exception was Italy, where spreads widened 18 basis points as the country's fiscal outlook worsened.  Key members of the Italian government called for additional fiscal stimulus measures, even while the European Commission officially warned Italy that it was already in breach of European Union budget rules.
+
+Short-Term Funding Markets
+
+<!-- missing-text -->
+
+Note: SOFR is secured overnight fi nancing rate. IOER is interest on excess reserves. Federal funds rate is a weighted median. Shaded area is the target range for the federal funds rate. Source: Federal Reserve Board.
+
+Source: Federal Reserve Bank of New York; Federal Reserve
+
+CP and NCD Rates
+
+<!-- missing-text -->
+
+Basis points
+
+Note: CP is commercial paper. NCD is negotiable certi fi cates of deposit. 1-month and 3-month NCD rates are computed as 5-day moving averages.
+
+Source: Depository Trust &amp; Clearing Corporation.
+
+Note: SOFR is secured overnight fi
+
+nancing rate.
+
+Board.
+
+<!-- missing-text -->
+
+Billions of dollars Percent Aggregate Reserve Balances and Lowest Comfortable Level of Reserves
+
+Note: LCLoR is lowest comfortable level of reserve balances.
+
+Source: Federal Reserve Board Senior Financial O
+
+* Share is computed as a 7-day moving average.
+
+(SFOS).
+
+ffi cer Survey
+
+The dollar generally appreciated against EME currencies and depreciated against AFE currencies, leaving the broad dollar index 0.77 percent higher since the previous FOMC meeting.  Safe-haven flows contributed to the dollar's depreciation against the Japanese yen and the Swiss franc.  The dollar rose 2.7 percent against the British pound amid increased Brexit uncertainty.  In the EMEs, the announcement of potential tariffs on Mexican imports and the downgrade of Mexican sovereign debt weighed on the peso, which depreciated 3.9 percent over the intermeeting period.  The sizable 2.6 percent decline of the Chinese renminbi against the dollar notably occurred as the PBOC was leaning against the depreciation (see the box 'Recent Depreciation of the Chinese Renminbi').
+
+SHORT-TERM FUNDING MARKETS AND FEDERAL RESERVE OPERATIONS
+
+Conditions in domestic short-term funding markets remained stable.   Overnight 5 secured and unsecured rates declined in response to the technical adjustment that reduced the IOER rate 5 basis points to 2.35 percent after the May FOMC meeting.  The effective federal funds rate and the secured overnight financing rate averaged 2.39 percent and 2.42 percent, respectively, over the intermeeting period, about 6 basis points below their respective levels just before the May FOMC meeting.  Rates on overnight commercial paper and yields on one- and three-month negotiable certificates of deposit also declined somewhat.
+
+Aggregate reserve balances averaged $1.5 trillion over the intermeeting period, well above the staff's estimate of the aggregate lowest comfortable level of reserve balances (LCLoR), which is currently $860 billion.   The fraction of surveyed banks with 6 reserve balances falling below their individual self-reported LCLoRs on any given day averaged 15 percent in May.
+
+J
+
+Recent Depreciation of the Chinese Renminbi
+
+The Chinese renminbi (RMB) has come under pressure since trade tensions escalated over the past month. In this discussion, we review recent exchange rate moves and actions by Chinese authorities to stabilize the currency, and we compare the current situation to previous episodes of RMB weakness.
+
+The RMB has fallen 2.5 percent against the U.S. dollar since trade tensions escalated in early May, and the spot exchange rate is approaching the psychological barrier of 7 yuan per dollar for the third time since its unexpected depreciation in August 2015 (figure 1). There are signs of continued depreciation pressure, albeit modest, as the offshore RMB has consistently been trading at a weaker level than the onshore RMB. In addition, investor demand for protection against further RMB depreciation (relative to appreciation) as measured by risk reversals spiked in recent weeks, though to still low levels (figure 2). -
+
+The People's Bank of China (PBOC) has not engaged in direct sales of foreign reserves and instead has used other measures to support the currency. In recent weeks, the PBOC has set the daily central parity rate of the onshore RMB stronger than would have been expected based on its de jure central parity fixing rule (figure 3). 1 Market participants generally interpret stronger than expected fixings as a signal that the PBOC prefers a stronger RMB. --Indeed, the recent fixing is remarkably stable at 6.9 (figure 4).
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+4. RMBIUSD Spot and Fixing
+
+Source: PMB surprises are computed as the Bloombergie fixing
+
+1 In early 2016, the PBOC detailed the rule for fixing the RMB's daily central parity rate, which serves as the midpoint for the intraday trading range of 2 percent, as the sum of the previous day's market close of the RMB to the dollar and the change that would offset overnight changes in a trade weighted basket of -currencies.
+
+P
+
+The PBOC has also attempted to discourage the shorting of the offshore RMB by selling short term bills in Hong Kong to tighten offshore liquidity, as evidenced by a jump in -offshore RMB interbank lending rates, with announced plans for further issuances in the near term. Finally, the PBOC has used communications to signal support for the RMB, including a public statement saying that China is 'capable and confident' of keeping the RMBstable. 2
+
+The latest bout of depreciation and policy responses by the PBOC is most reminiscent of an episode in June 2018, when the RMB depreciated 4 percent within three weeks following an escalation of trade tensions with the United States and weaker than expected Chinese data --releases. At that time, the PBOC also used communications to signal its intention to keep the RMB stable, fixed the central parity rate stronger, and did not draw down on its foreign exchange reserves (figure 5).
+
+Both the current and the June 2018 episodes are very different from the RMB weakness in 2015 and 2016, in that these more recent sharp depreciations have not been accompanied by expectations of future depreciation in the forwards market (figure 1) and private capital outflows have been much more modest (figure 6). We attribute the observed attenuation of recent market swings to better PBOC communication and credibility, tightened capital controls, and better fundamentals in the Chinese economy relative to the 2015-16 episode. Furthermore, even though the RMB is still managed, it is more market determined now than it was in 2015 and 2016.
+
+Currently, market participants view 7 yuan per dollar as a soft floor and expect it to be defended at least until the G 20 summit at the end of June, as further depreciation of the -RMBcould hinder trade negotiations. 3 Indeed, we believe that the PBOC would be able to defend the value of the RMB if it decided to do so, using the more powerful policy tools at its disposal. For example, it could direct offshore state banks to sell the U.S. dollar for yuan or use some of its $3 trillion in foreign exchange reserves.
+
+Wethink it is unlikely, however, that the PBOC would defend the RMB by running down its foreign exchange reserves as much as it did during the 2015-16 episode, as the PBOC seems to have a higher tolerance for exchange rate flexibility now than it did in that earlier episode. Thus, a breakdown in trade negotiations or further signs of slowing Chinese growth may cause the RMB to break through the level of 7 yuan per dollar.
+
+<!-- missing-text -->
+
+change tade balance
+
+servic balance.
+
+<!-- missing-text -->
+
+Sourœ: International Monetary Fund Balance of Payments; Haver .
+
+PBOCVice Governor Liu Guoqiang made the remarks in an interview with Financial News on May 24, 2019. 3 Of the 25 most recent forecasts in Bloomberg, none expects the RMB to trade weaker than 7 yuan per dollar by the end of the second quarter, and only 4 expect it to trade below that level by the end of the year.
+
+C
+
+( This p age is intentionally blank.)
+
+P
+
+J
+
+u
+
+Class II FOMC - Restricted (FR)
+
+Financing Conditions for Businesses and Households
+
+Financing conditions for businesses and households were little changed over the intermeeting period and, to date, do not appear to have been significantly affected by the heightened concern in financial markets about the outlook for the economy.  As such, financing conditions remain generally supportive of spending, except perhaps for ongoing tight conditions for households with low credit scores.
+
+- · Corporate bond issuance was strong in May, and the calendar for upcoming deals appears robust.  However, a few corporations reportedly chose not to issue as spreads and market volatility increased.
+- · Business lending overall appeared to decelerate somewhat in the second quarter, with the slowdown beginning before the recent market volatility. Strong issuance of corporate bonds was counterbalanced by subdued C&amp;amp;I loan growth and muted issuance of new-money institutional leveraged loans.
+- · Mortgage rates decreased notably and now stand at levels last seen in 2017, facilitating a solid pace of home-purchase originations.  Refinance originations increased but remained relatively muted.
+- · Consumer credit expanded at a moderate pace in the first quarter.  Interest rates on consumer debt remained above their levels in late 2015 and appeared to weigh somewhat on the demand for consumer credit.
+
+BUSINESS FINANCING CONDITIONS
+
+Nonfinancial Corporations
+
+The market volatility over the intermeeting period has left, so far, little discernible imprint on the flow of credit to corporations, and we judge that financing conditions for businesses overall have remained accommodative, with yields having remained low by historical standards.  A few corporations reportedly chose not to issue bonds in this climate, but the calendar for upcoming deals appears robust.  Early reports also do not indicate a significant slowdown in leveraged loan issuance in May.
+
+Taking a longer perspective, even before the rise in market volatility, net debt issuance appeared to decelerate somewhat in the second quarter from a very strong first
+
+Business Finance
+
+Selected Components of Net Debt Financing, Non fi nancial Firms
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Gross Issuance of Non fi nancial Corporate Bonds
+
+Note: Commercial and industrial loan data for May are estimates. Leveraged loan data for April and May are estimates. * Period-end basis.
+
+Source: Mergent Fixed Income Securities Database; Thomson Reuters LPC; Federal Reserve Board; Depository Trust &amp; Clearing Corporation.
+
+Institutional Leveraged Loan Gross Issuance, by Purpose
+
+<!-- missing-text -->
+
+Billions of dollars
+
+IPO Issuance by Non fi nancial Corporations
+
+Billions of dollars
+
+Note: Bonds are categorized by Moody's, Standard &amp; Poor's, and Fitch. Source: Mergent Fixed Income Securities Database.
+
+Commercial and Industrial Loans
+
+<!-- missing-text -->
+
+Billions of dollars
+
+Note: Data are calculated from changes in banks' outstanding commercial and industrial loan balances at period end. Large banks are de fi ned as the 25 largest banks by assets. Data are seasonally adjusted by Board sta ff . e Estimate.
+
+Source: Federal Reserve Board.
+
+Financial Ratios for Non fi
+
+nancial Corporations
+
+Source: Compustat.
+
+<!-- missing-text -->
+
+quarter pace.  Gross issuance of corporate bonds was strong in May, even if a bit below market expectations, following a spell of seasonal weakness in April.  Meanwhile, newmoney institutional leveraged loan issuance was muted in April.  C&amp;I loan growth also slowed somewhat in April and May after a period of stronger growth in the first quarter.
+
+Public equity issuance has been very strong in the second quarter even as equity prices have fallen.  Gross equity issuance through both initial and seasoned offerings remained robust in April and May.  Looking ahead, several sizable offerings are expected over the next few months.
+
+Near-term measures of corporate credit quality appeared to remain solid.  The volume of nonfinancial corporate bond upgrades outpaced that of downgrades in May. Similarly, the KMV expected year-ahead default rate continued to tick down in April and May, reaching its lowest point since last September, and it currently stands near the midpoint of its historical distribution.  After having been revised downward for several months, expectations of year-ahead earnings per share for S&amp;P 500 firms were little revised in recent months. 1
+
+Even so, preliminary information about firm balance sheets from the first quarter indicates that the aggregate ratio of liquid assets to total assets continued to recede from the extraordinarily high levels of recent years.  Some of the decrease in the liquid asset ratio is likely the result of the robust pace of share repurchases over the past year that was sparked by the Tax Cuts and Jobs Act of 2017.  Meanwhile, the aggregate debt-to-asset ratio increased notably in the first quarter, reportedly because of an accounting change that requires firms to bring operating leases onto their balance sheets. 2
+
+Small Business
+
+Available data suggest that the supply of credit to small businesses remained accommodative, while demand continued to be somewhat weak.  The percentage of respondents to the National Federation of Independent Business (NFIB) monthly member polls reporting in April that their borrowing needs were not satisfied remained low. Meanwhile, consistent with weak demand, the fraction of NFIB respondents with planned
+
+capital expenditures in the next six months held steady at a relatively low level.  Call Report data show continued slow growth in large banks' outstanding balances of small loans to businesses in the first quarter of this year.
+
+Commercial Real Estate
+
+Financing conditions remained generally accommodative for commercial real estate (CRE).  Bank CRE lending expanded in April and May at a slower rate than in the first quarter.  In CMBS markets, triple-A spreads widened slightly but remained near the low end of their post-crisis range, and agency and non-agency CMBS issuance was solid in May.  New commitments from life insurance companies to fund CRE mortgages continued to be robust through the first quarter, roughly matching their average pace over the past several years.
+
+MUNICIPAL GOVERNMENT FINANCING CONDITIONS
+
+Credit conditions in municipal bond markets remained accommodative.  Gross issuance of municipal bonds was solid in April and May, with new capital raising accounting for the majority of the issuance.  Municipal bond yields in both the secondary and primary markets decreased somewhat, while spreads over comparable-maturity Treasury securities widened somewhat in the secondary market.  Moreover, the credit quality of general obligation bonds continued to improve as the number of credit rating upgrades strongly outpaced that of downgrades in both April and May.
+
+HOUSEHOLD FINANCING CONDITIONS
+
+Residential Real Estate
+
+Financing conditions in the residential mortgage market eased moderately over the intermeeting period, as the rate on 30-year conforming mortgages moved down 35 basis points, in line with yields on 10-year Treasury securities.  With mortgage rates down more than 1 full percentage point since last November, home-purchase originations have returned to the solid levels seen in 2017.  In contrast, refinancing volumes moved up but remained fairly low, as many borrowers appear to have locked in financing during other low-rate periods in the past few years.  Cash-out refinancing volumes also remained low despite sustained increases in aggregate home equity.  Credit availability-as measured by our estimate of lenders' maximum available debt-to-income ratio-for residential mortgages to prime and near-prime borrowers looked to be accommodative
+
+Household Finance
+
+Mortgage Rate and MBS Yield
+
+Purchase and Re nance Originations /uniFB01
+
+<!-- missing-text -->
+
+Note: The mortgage-backed securities (MBS) yield is the Fannie Mae 30-year current-coupon rate.
+
+Source: For MBS yield, Barclays; for mortgage rate, Loansifter; for Treasury yield, Federal Reserve Bank of New York and Board sta /uniFB00 calculations.
+
+Mortgage Re nances /uniFB01
+
+<!-- missing-text -->
+
+Consumer Interest Rates
+
+<!-- missing-text -->
+
+Note: Credit card data re /uniFB02 ect rates at commercial banks on all credit card plans; data are reported quarterly and not seasonally adjusted.  Auto loans data are reported weekly and seasonally adjusted.
+
+Source: For credit cards, Federal Reserve Board; for auto loans, J.D. Power.
+
+<!-- missing-text -->
+
+Note: The data are seasonally adjusted by Federal Reserve Board Sta /uniFB00 . Source: For values prior to 2019, data reported under the Home Mortgage Disclosure Act of 1975; for values in 2019, Board sta /uniFB00 estimates.
+
+Consumer Credit
+
+<!-- missing-text -->
+
+Buying Conditions for Vehicles
+
+<!-- missing-text -->
+
+Note: Percent of consumers reporting it is a good time to buy a car due to low interest rates minus the percent of consumers reporting it is a bad time to buy a car due to high interest rates. Data are a 3-month moving average. Source: University of Michigan Surveys of Consumers.
+
+Financing Conditions
+
+and in line with levels seen in the early 2000s but remained relatively tight for borrowers with low credit scores.
+
+Consumer Credit
+
+Financing conditions in consumer credit markets appeared to remain generally supportive of growth in consumer spending, although supply conditions continued to be tight for subprime credit card borrowers.  Consumer credit expanded at a moderate pace in the first quarter, with bank credit data pointing to a pickup in April and May.  The moderate pace of consumer credit growth may reflect, in part, a restraint on demand brought about by the sustained increases in the past couple of years in consumer interest rates, which tend to be tied to shorter-term rates.  (The box 'Drivers of Recent Changes in Credit Card Interest Rates' provides more information on the change in credit card rates since December 2015.)  In recent months, though, auto interest rates have moved sideways, and the share of respondents to the University of Michigan Surveys of Consumers reporting favorable financing conditions for auto loans has risen, albeit from subdued levels.  In consumer ABS markets, issuance was robust, and spreads were little changed at low levels.
+
+FINANCING AND FINANCIAL CONDITIONS INDEXES
+
+A staff index that provides a measure of financing conditions for nonfinancial corporations indicates that financing conditions have tightened slightly, on net, over the intermeeting period but remained accommodative relative to historical standards.  The tightening in the financing conditions index is consistent with the decline in equity prices and widening of corporate spreads over the same period.  As shown in the appendix to this Tealbook section, financial conditions indexes that aggregate large sets of financial variables into summary series also generally pointed to tighter but broadly accommodative financial conditions.
+
+A
+
+u
+
+J
+
+u
+
+Drivers of Recent Changes in Credit Card Interest Rates
+
+Credit card interest rates, plotted in figure 1, have increased substantially over the past few years and have risen as much as 290 basis points since the December 2015 liftoff of the target federal funds rate from its effective lower bound.  They now stand at their highest levels since the first quarter of 2001.
+
+Figure 2 plots the spread of credit card interest rates over the prime rate (the top of the target range for the federal funds rate plus 300 basis points).  The vast majority of credit cards have variable rates that are linked to prime rates.  The spreads are much flatter than the card interest rates, with increases since December 2015 of about 35 to 65 basis points.  Thus, more than three-fourths of the rise in credit card rates since late 2015 reflect increases in the federal funds rate.
+
+The increases in spreads since December 2015 may be related to a greater prevalence of credit card rewards payments and rises in nonprime delinquencies.  Supervisory data (the FR Y-14M) show a substantial increase in credit card rewards over the past few years.  The increase in rates may help offset greater rewards costs to card issuers.  From the second quarter of 2015 through the first quarter of 2019, near-prime and subprime delinquency rates of 30 days or more increased about 75 basis points and 200 basis points, respectively.
+
+As shown in the table, the changes in spreads differ substantially by credit score, with spreads for prime accounts falling about 20 basis points, but spreads for near-prime and subprime accounts rising about 60 basis points and 85 basis points, respectively.  As subprime and near-prime borrowers are more likely to revolve balances and less likely to have cards with rewards than prime borrowers, they are probably bearing the increase in rates more heavily.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+P
+
+Appendix
+
+Technical Note on Financial Conditions Indexes
+
+The table 'Overview of Selected FCIs' provides a summary of various financial conditions indexes (FCIs) that have been developed at the Federal Reserve Board and elsewhere.  The historical evolution of these indexes is reported in the exhibit 'Selected Financial Conditions Indexes.'
+
+Overview of Selected FCIs
+
+<!-- missing-text -->
+
+Source: CRSP; Yahoo Finance; Moodys Bond Ratings; Ken French website; AQR Capital Management website; Federal Reserve Board, Senior Loan Officer Opinion Suvey on Bank Lending Practices; Bloomberg; Federal Reserve Banks of Chicago; St. Louis, and Kansas City:
+
+The first index in the table, the staff FCI for nonfinancial corporations, measures financing conditions for nonfinancial corporations.   This index is constructed as the difference in equity returns 1 between two portfolios of firms with credit ratings above and just below investment grade.  To the extent that speculative-grade firms are more sensitive to changes in financing conditions than investment-grade firms but have similar exposure to other shocks, movements in this index provide a measure of changes in financing conditions for nonfinancial corporations.
+
+The second index in the table measures the net share of domestic banks reporting tighter lending standards across all core loan categories in the Senior Loan Officer Opinion Survey on Bank Lending Practices.  Banks' responses for a given loan category are weighted by banks' holdings of those loans on their balance sheets. 2
+
+The other FCIs are constructed by aggregating a large set of financial variables into a summary series using various statistical methods.  While these indexes provide a useful summary of broad financial market developments, the movements in these indexes may reflect both changes in financing conditions and other shocks to the economy.
+
+Selected Financial Conditions Indexes
+
+Staff FCI for Nonfinancial Corporations
+
+<!-- missing-text -->
+
+Note: The financial conditions index (FCI) is the deviation from the long-run relation between the systematic components of the cumulative log returns of 2 portfolios of firms with credit ratings above and just below investment grade. The systematic components are derived from the 5-factor Fama-French asset pricing model, augmented with the momentum and quality minus junk factors.
+
+Source: CRSP; Yahoo Finance; Moody's Bond Ratings; Ken French website; AQR Capital Management website.
+
+SLOOS Bank Lending Standards Index
+
+<!-- missing-text -->
+
+Note: The index is a weighted average of the net percentage of domestic banks tightening standards for 11 loan categories, with weights given by the size of each loan category on banks' balance sheets.
+
+Source: Federal Reserve Board, Senior Loan Officer Opinion Survey on Bank Lending Practices.
+
+Mean and Range of External FCIs
+
+<!-- missing-text -->
+
+Note: Mean FCI represents the mean of FCIs developed by Goldman Sachs and the Federal Reserve Banks of Chicago, St. Louis, and Kansas City. The blue shaded region represents the range of these 4 standardized FCIs. Source: Bloomberg; The Federal Reserve Banks of Chicago, St. Louis, and Kansas City.
+
+Selected Financial Conditions Indexes (continued)
+
+Goldman Sachs FCI
+
+<!-- missing-text -->
+
+Note: The index is a weighted average of 5 financial variables: the federal funds rate, the 10-year Treasury yield, the triple-B yields spreads to Treasury, the S&amp;P price-to-earnings ratio, the broad value of the U.S. dollar. Weights are pinned down by the contribution of each financial variable on real gross domestic product growth over the following year using a vector auto-regression model. Source: Bloomberg.
+
+Chicago Fed NFCI
+
+<!-- missing-text -->
+
+Note: The index is based on 100 financial variables related to money markets (28 indicators), debt and equity markets (27 indicators), and the banking system (45 indicators). The index is weekly and is derived using a dynamic factor model. Source: Federal Reserve Bank of Chicago.
+
+St. Louis Fed Financial Stress Index
+
+<!-- missing-text -->
+
+Note: The index is the principal component of 18 variables including short- and long-term Treasury yields, corporate yields, money market and corporate bond spreads, bond and stock market volatility indicators, breakeven inflation rate, and the S&amp;P 500 index. Source: Federal Reserve Bank of St. Louis.
+
+For all panels: Indexes are standardized. Values above (below) zero represent tighter (easier) than average financial conditions. The shaded bars indicate periods of business recession as defined by the National Bureau of Economic Research. The dashed boxes denote monetary policy tightening cycles.
+
+Class II FOMC - Restricted (FR)
+
+Selected Financial Conditions Indexes (continued)
+
+Kansas City Fed Financial Stress Index
+
+<!-- missing-text -->
+
+Risks and Uncertainty
+
+ASSESSMENT OF RISKS
+
+We have become more concerned about downside risks to our economic projection since the previous Tealbook and now consider the risks to our baseline projection as tilted to the downside over the next year.  Beyond the next year, we continue to see the risks as skewed to the downside.
+
+Beginning with our assessment for the next year, while uncertainties have increased since April, we still view the uncertainty around the staff forecast of economic activity as being broadly in line with the average over the past 20 years, the benchmark used by the FOMC; that period includes a number of episodes with elevated uncertainty and market volatility.  However, we now judge the risks around our baseline projection for real GDP growth to be tilted to the downside, with a skew to the upside for the unemployment rate.  An important factor in our assessment is that trade policies and foreign economic developments, along with financial market reactions, seem more likely to move further in directions that would have more significant negative effects on U.S. economic activity than to resolve more favorably than assumed.  Also, the soft tone of some recent economic indicators, such as business investment and industrial production, could be pointing to a more substantial slowing in economic growth than in the baseline.  On the upside, many of the underlying fundamentals for household spending and business investment remain solid-bolstered, in part, by the 2017 tax cuts-with strong labor market conditions, low interest rates, and quite upbeat readings on consumer sentiment.  In these circumstances, consumer spending and investment could expand at a pace that is faster than in the staff projection.
+
+As shown in the bottom table of the 'Assessment of Key Macroeconomic Risks' exhibit, the probability estimate of moving into recession over the next year based on a term spread model has moved up to 67 percent, and the estimate from a model-averaging approach, which uses a selection of real and financial variables, has climbed to 51 percent; both estimates are higher than in the previous Tealbook and well above the unconditional recession probability of 23 percent.  In contrast, the four-quarter-ahead estimates of forecast risks around GDP growth and the unemployment rate, presented in the exhibit 'Time-Varying Macroeconomic Risk 1 Year Ahead,' are still not unusually wide or skewed.
+
+P
+
+J
+
+Assessment of Key Macroeconomic Risks
+
+Probability of Inflation Events
+
+(4 quarters ahead)
+
+<!-- missing-text -->
+
+Probability of Unemployment Events
+
+(4 quarters ahead)
+
+<!-- missing-text -->
+
+Probability of Recession Over Next 4 Quarters
+
+<!-- missing-text -->
+
+Note: 'Staff' represents stochastic simulations in FRB/US around the staff judgmental baseline; baselines for FRB/US, EDO, and BVAR are generated by those models. The 'BMA' model uses model averaging techniques to infer the probability from a selection of real and financial variables. 'Term Spread' shows the probability implied by the spread between the current month's 10-year and 3-month Treasury yields. 'Unconditional' is calculated using NBER recession dating from 1973:Q1 to the most recent quarter with a BEA estimate of GDP.
+
+Beyond a year ahead, we continue to be concerned about downside risks to our economic projection, given the historically low unemployment rate projected over the medium term.  As shown in the exhibit 'Conditional Distributions of Macroeconomic Variables 2 Years Ahead,' the estimated distributions are currently skewed to the upside for the unemployment rate and skewed to the downside for GDP growth two years ahead.   In addition, as indicated in the 1 exhibit 'Effective Lower Bound Risk,' the estimated probability of returning to the effective lower bound (ELB) over the next three years is currently 19 percent, and it rises further to around 34 percent by the end of the medium term.  Given the proximity of the federal funds rate to the ELB, monetary policy may have less capacity to offset negative economic shocks than positive ones, contributing to a downside skew in economic outcomes.
+
+With regard to inflation, the staff still sees average uncertainty around the projection, but with the risks to the forecast for economic activity tilted to the downside, the risks to the inflation projection would also tend to have a downward skew.  To the downside, the soft data on consumer prices earlier this year could be more persistent than assumed in the baseline.  In addition, underlying inflation could currently be even lower than assumed in the baseline.  Also, the exchange value of the dollar could appreciate more than expected and put downward pressure on inflation.  To the upside, an extended period with unusually tight resource utilization could eventually lead to greater upward pressure on wages and prices, consistent with the predictions of models that emphasize nonlinear effects of resource utilization on inflation.  In addition, an unexpectedly widespread and sustained increase in trade barriers could lead to higher inflation.
+
+Inflation risks would tend to be of relatively modest size as long as inflation expectations remained reasonably well anchored.  However, the risks could increase substantially, in either direction, if expectations were to follow actual inflation up or down.  Such movements in expectations could induce changes in inflation to build upon themselves and thus lead inflation to deviate more significantly and persistently from 2 percent.
+
+Time-Varying Macroeconomic Risk 1 Year Ahead
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+June 2019
+
+GDP Growth
+
+<!-- missing-text -->
+
+CPI In fl ation
+
+<!-- missing-text -->
+
+Percentage points
+
+Conditional Distributions of Macroeconomic Variables 2 Years Ahead
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+GDP Growth
+
+<!-- missing-text -->
+
+Percent
+
+CPI In fl ation
+
+<!-- missing-text -->
+
+Percent
+
+June 2019
+
+95th
+
+85th
+
+50th
+
+15th
+
+5th
+
+95th
+
+85th
+
+50th
+
+15th
+
+8.8
+
+6.9
+
+5.2
+
+4.4
+
+4.1
+
+June 2019
+
+4.7
+
+3.2
+
+1.1
+
+-3.4
+
+5th
+
+-5.1
+
+June 2019
+
+<!-- missing-text -->
+
+E ective Lower Bound Risk Estimate ff
+
+ELB Risk since Lifto ff
+
+Percent
+
+<!-- missing-text -->
+
+ELB Risk over the Projection Period
+
+Percent
+
+<!-- missing-text -->
+
+Note: The fi gures show the probability that the federal funds rate reaches the e ff ective lower bound (ELB) over the next 3 years starting in the given quarter. Details behind the computation of the ELB risk measure are provided in the box "A Guidepost for Dropping the E ff ective Lower Bound Risk from the Assessment of Risks" in the Risks and Uncertainty section of the April 2017 Tealbook A. The lower panel computes ELB risk over a forward-looking moving 3-year window using stochastic simulations in FRB/US beginning in the current quarter. The simulations are computed around the Tealbook baseline.
+
+ALTERNATIVE SCENARIOS
+
+To illustrate some of the risks to the outlook, we construct alternatives to the baseline projection using simulations of staff models.  We simulate each of these scenarios using one of two models maintained by the staff, which embed different macroeconomic structures and dynamics. 2 In four of the scenarios, the federal funds rate is governed by the baseline policy rule introduced in the April Tealbook, which assumes a smaller coefficient on the output gap. However, in the two scenarios that feature deteriorating economic conditions, we assume the same parameter values in the policy rule used in earlier Tealbooks, which puts more weight on the output gap than in the new baseline rule specification.  Under the conditions in these two scenarios, we judge it unlikely that monetary policy would react in the manner embodied in the new baseline rule, because output growth slows notably.  Finally, the size and composition of the SOMA portfolio are assumed to follow the baseline paths in all of the scenarios.
+
+Increased Uncertainty [FRB/US]
+
+The recent softness in some spending and production indicators may indicate that macroeconomic uncertainty is having a more adverse effect on the U.S. economy than assumed in the baseline projection.  In this scenario, we assume that uncertainty increases substantially more over the coming quarters and that this results in weaker business investment and consumer durable outlays both this year and next year.
+
+All told, GDP growth is 0.7 percent in the second half of this year and 1.6 percent in 2020, comparable with the slowing seen in the 2015-16 period, and the unemployment rate starts rising this year, reaching 4 percent in the second half of 2020.  With a more subdued path for economic activity, inflation runs slightly below the baseline over the projection period.  In this scenario, policymakers begin cutting rates this year, and the federal funds rate edges down to roughly 2 percent by 2021, as policymakers respond to the slowdown in economic activity in accordance with a policy rule that puts a greater weight on the output gap than in the baseline rule. 3
+
+U
+
+Alternative Scenarios
+
+(Percent change, annual rate, from end of preceding period except as noted)
+
+<!-- missing-text -->
+
+- 1. Percent, average for the final quarter of the period.
+
+J
+
+Lower Inflation Expectations [FRB/US]
+
+Total and core PCE price inflation have, on average, run below the Committee's 2 percent objective for most of the past decade.  In addition, some measures of longer-run inflation expectations have drifted down in the past several years.  In the baseline projection, longer-run inflation expectations relevant for wage and price setting are assumed to generate an underlying inflation trend that remains at 1.8 percent through the medium term.  However, there is a risk that actual inflation expectations are anchored at a level somewhat below what is assumed in the baseline.  In this scenario, we consider the possibility that the private sector's longer-run inflation expectations are consistent with underlying trend inflation that has been at 1.5 percent for a year now and that it will remain at that level for an extended period of time. Policymakers are assumed to currently recognize this lower underlying inflation trend.
+
+Lower inflation expectations lead to actual inflation running below the baseline and hovering slightly above 1.5 percent over the projection period.  Lower realized inflation implies that the federal funds rate stays below the baseline throughout the projection period and stands almost ½ percent below the baseline by 2024.  Real GDP growth as well as the unemployment rate are little changed over the projection period, as the nominal federal funds rate evolves in tandem with inflation, leaving real interest rates essentially unchanged.
+
+Stronger Aggregate Supply [FRB/US]
+
+The unemployment rate is currently about 1 percentage point below the staff's 4.6 percent estimate for its natural rate.  Nevertheless, wage gains have remained modest in recent years because, in the staff's assessment, underlying inflation has been below 2 percent and trend productivity growth has been slow.  However, another way of reconciling modest wage growth with a very low unemployment rate is that resource utilization may be less tight than assumed in the baseline.  In this scenario, the level of potential output in recent years is assumed to have been higher than judged in the baseline, such that the output gap was close to zero in the middle of last year.  Moreover, this scenario assumes that potential output growth in future years is faster than in the baseline.  Specifically, we assume that the natural rate of unemployment has been lower in the past several years than in the baseline and continues to fall to 3.75 percent at the end of 2019, more than ¾ percentage point lower than in the baseline.   We also assume that 4
+
+P
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Forecast Confidence Intervals and Alternative Scenarios
+
+Confidence Intervals Based on FRB/US Stochastic Simulations*
+
+Tealbook baseline and extension
+
+Increased uncertainty
+
+Lower inflation expectations
+
+- Stronger aggregate supply
+- Stronger aggregate demand
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Escalation of trade tensions
+
+Favorable trade deals
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+4-quarter percent change
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- * The dark gray shaded area is the 70 percent interval, and the light gray shaded area is the 90 percent interval from stochastic simulations around the Tealbook baseline.
+
+trend labor force participation has been decreasing at a slower rate than in the baseline for the past several years and continues to do so going forward.  In addition, structural productivity is assumed to grow about ¼ percentage point faster than in the baseline in the past several years and going forward.
+
+Because we assume that households and businesses fully recognize the higher potential growth and its implications for income and profits, consumer spending and investment are stronger.  GDP growth is, on average, about 1 percentage point per year above the baseline.  The unemployment rate falls further than in the baseline and declines to just below 2¾ percent by the end of 2024, almost 1½ percentage points lower than in the staff projection.  Nevertheless, the path for inflation is slightly below the baseline, on average, reflecting primarily the stronger productivity growth in this scenario.  Because policymakers are assumed to recognize the supply-side conditions and see the smaller positive output gap persisting for several years, the path of the federal funds rate is about 25 basis points lower, on average, than in the baseline.
+
+Stronger Aggregate Demand [FRB/US]
+
+Many of the underlying fundamentals for household spending and business investment remain solid, including quite upbeat readings on consumer sentiment, strong labor market conditions, and low interest rates.  In this scenario, we assume that consumer spending and, in turn, investment expand at a pace faster than in the baseline.  Given the strong cyclical improvement in labor force participation in recent years, we assume that these favorable conditions bring about greater labor force participation, a feature that is similar to what is in the staff baseline projection.
+
+Under these assumptions, GDP increases 3 percent, on average, in 2019 and 2020, which is a pace comparable with that in 2018.  With a greater-than-typical response from labor force participation boosting the supply of available workers, the unemployment rate declines to about 3 percent in 2021, a smaller decline than what the model's Okun's law relationship would suggest.  Inflation increases slightly, reaching 2.1 percent in 2024.  In response to the stronger economy, and with inflation little changed, the federal funds rate rises relative to the baseline, reaching about 3 percent in 2022.
+
+Escalation of Trade Tensions [GEMUS]
+
+Our current baseline assumes a ceasefire in ongoing trade disputes, meaning that the United States and its trading partners impose no new tariffs but that existing tariffs, including those raised in May on a sizable tranche of Chinese imports, remain in place.  However, President Trump has also threatened additional tariffs on all remaining imports from China not yet subject to tariffs.  In addition, the President announced a plan to impose tariffs on all Mexican imports starting on June 10, with the tariff rate gradually increasing in the second half of this year.
+
+While the effects of the tariffs imposed so far have been modest, it is likely that widespread and sustained increases in future tariffs would entail sizable adverse effects.  This scenario assumes that, in the second half of 2019, tariffs of 25 percent are imposed on about $300 billion of imports from Mexico and $275 billion of imports not previously tariffed from China and that Mexico and China partially retaliate.  Because higher U.S. tariffs reduce imports, while higher foreign tariffs reduce U.S. exports, these policies have only a small effect on the trade balance.  However, the higher cost of imported consumption goods depresses household spending while business spending declines, both as a result of the higher cost of imported capital goods and as lower expected profits cause corporate borrowing spreads to rise and equity prices to fall.  In addition, we assume that the heightened trade tensions cause a widespread decline in global sentiment, which, adding to the pressures previously described, leads to an overall decline in equity prices of about 20 percent by the end of 2019.
+
+All told, these developments result in a significant slowdown in the U.S. economy that lasts through 2020.  Real GDP growth drops to only 0.3 percent in the second half of 2019 and rises to only 1.3 percent in 2020.  Higher import prices boost core PCE inflation to 3.5 percent in the second half of this year before inflation falls below the baseline as the effect of the new tariffs dies out and as the economy slows down.  Because the jump in inflation is transitory, we assume that policymakers decide to 'see through' it and focus on the weakness in economic activity.  Accordingly, the federal funds rate follows a shallower path than in the baseline, declining to 1.9 percent by the end of 2020, 0.7 percentage point below the baseline. 5
+
+J
+
+Favorable Trade Deals [GEMUS]
+
+On the upside, there could be positive news on trade.  In this scenario, we assume not only that the United States avoids imposing tariffs on Mexico (as in our baseline), but that it reaches a trade deal with China, perhaps as soon as the proposed Trump-Xi summit on the sidelines of the G-20 meeting on June 28 and June 29.  In particular, we assume that the 25 percent tariff imposed by the United States on $180 billion in imports from China since September 2018, as well as the retaliation to these measures by China, are rolled back.  For the case of Mexico, we assume that some manner of resolution reduces uncertainty around trade with this country, thus boosting consumer and business confidence.
+
+Lower tariffs, stronger global confidence, and improved financial conditions boost economic activity in the United States and abroad.  U.S. real GDP expands 2.1 percent in the second half of 2019 and 2.4 percent in 2020.  Lower import prices caused by the rollback of the previously imposed tariffs cause core PCE inflation to drop to 1.7 percent in the second half of this year, before inflation returns to close to the baseline in 2020.  The federal funds rate is only slightly higher, on average, over the projection horizon.
+
+ALTERNATIVE MODEL FORECASTS
+
+As shown in the 'Alternative Model Forecasts' exhibit, the FRB/US model projects real GDP growth to slow from 3 percent in 2018 to about 1¾ percent in 2019 and to roughly 1½ percent in the next two years.   The forecast of real GDP growth is revised up 0.3 percentage 6 point in 2019 compared with the previous Tealbook.  The revision primarily reflects both betterthan-expected (from the model's perspective) consumption growth and a downward revision to the path of long-term interest rates in the first half (the model now conditions on the data and the staff forecast through the second quarter).  In terms of contour, the projected deceleration in real GDP mainly reflects the projection that both consumption and business investment growth fall back from what the model perceives as unusually strong readings in recent years.  In the case of consumption, the model could not explain those positive surprises based on fundamentals (wealth and income) and hence does not carry that strength forward in the projection; instead, it has consumption rising at a rate closer to the model's trend.  The model's assessment that asset prices (equity and property wealth) are currently above normal valuations and thus will fall or
+
+P
+
+Alternative Model Forecasts
+
+(Percent change, Q4 to Q4, except as noted)
+
+<!-- missing-text -->
+
+- 1. The EDO projections labeled 'Previous Tealbook' and 'Current Tealbook' integrate over the posterior distribution of model parameters.
+- 2. Percent, average for Q4.
+
+Decomposition of FRB/US Real GDP Growth Forecast
+
+<!-- missing-text -->
+
+Note:  Shading represents the projection period. Source:  Staff calculations.
+
+decelerate over the next year also contributes to the weakening in consumption growth through the wealth channel.  The model forecasts the output gap to fall from a current estimate of 1½ percent to about ½ percent at the end of 2021.  The unemployment rate rises slightly from 3.8 percent in 2019 to 4.1 percent at the end of 2021, still below its estimate of the natural rate of 4.6 percent.  Core inflation increases from 1.7 percent in 2019 to 2.0 percent in 2020 and 2021.
+
+The EDO model projects real GDP growth to average 2¼ percent over the next three years, close to the model's estimate of average potential growth.  The output gap is currently estimated to be negative 0.2 percent, and it remains slightly negative through 2021.  Core inflation hovers around the Committee's 2 percent objective after 2019.  For a number of years, wages have been below the level consistent with the model's wage Phillips curve, holding down marginal costs and depressing inflation over that period.  The model expects these wage shocks to fade gradually.
+
+Selected Tealbook Projections and 70 Percent Confidence Intervals Derived from Historical Tealbook Forecast Errors and FRB/US Simulations
+
+<!-- missing-text -->
+
+Note: Shocks underlying FRB/US stochastic simulations are randomly drawn from the 1969-2018 set of model equation   residuals. Intervals derived from Tealbook forecast errors are based on projections made from 1980 to 2018 for real GDP  and unemployment and from 1998 to 2018 for PCE prices. The intervals for real GDP, unemployment, and total PCE  prices are extended into 2021 using information from the Blue Chip survey and forecasts from the CBO and CEA. . . . Not applicable.
+
+Prediction Intervals Derived from Historical Tealbook Forecast Errors
+
+Forecast Error Percentiles
+
+Historical Distributions
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Historical Distributions
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: See the technical note in the appendix for more information on this exhibit.
+
+1. Augmented Tealbook prediction intervals use 1- and 2-year-ahead forecast errors from Blue Chip, CBO, and CEA to extend the Tealbook prediction intervals through 2021.
+
+R
+
+C
+
+Appendix
+
+Technical Note on 'Prediction Intervals Derived from Historical Tealbook Forecast Errors'
+
+This technical note provides additional details about the exhibit 'Prediction Intervals Derived from Historical Tealbook Forecast Errors.'  In the four large fan charts, the black dotted lines show staff projections and current estimates of recent values of four key economic variables: average unemployment rate in the fourth quarter of each year and the Q4/Q4 percent change for real GDP, total PCE prices, and core PCE prices.  (The GDP series is adjusted to use GNP for those years when the staff forecast GNP and to strip out software and intellectual property products from the currently published data for years preceding their introduction.  Similarly, the core PCE inflation series is adjusted to strip out the 'food away from home' component for years before it was included in core.)
+
+The historical distributions of the corresponding series (with the adjustments described above) are plotted immediately to the right of each of the fan charts.  The thin black lines show the highest and lowest values of the series during the indicated time period.  At the bottom of the page, the distributions over three different time periods are plotted for each series.  To enable the use of data for years prior to 1947, we report annual-average data in this section.  The annual data going back to 1930 for GDP growth, PCE inflation, and core PCE inflation are available in the conventional national accounts; we used estimates from Lebergott (1957) for the unemployment rate from 1930 to 1946. 1
+
+The prediction intervals around the current and one-year-ahead forecasts are derived from historical staff forecast errors, comparing staff forecasts with the latest published data.  For the unemployment rate and real GDP growth, errors were calculated for a sample starting in 1980, yielding percentiles of the sizes of the forecast errors.  For PCE and core PCE inflation, errors based on a sample beginning in 1998 were used.  This shorter range reflects both more limited data on staff forecasts of PCE inflation and the staff judgment that the distribution of inflation since the mid-1990s is more appropriate for the projection period than distributions of inflation reaching further back.  In all cases, the prediction intervals are computed by adding the percentile bands of the errors onto the forecast.  The blue bands encompass 70 percent prediction-interval ranges; adding the green bands expands this range to 90 percent.  The dark blue line plots the median of the prediction intervals.  There is not enough historical forecast data to calculate meaningful 90 percent ranges for the two inflation series.  A median line above the staff forecast means that forecast errors were positive more than half of the time.
+
+P
+
+J
+
+Because the staff has produced two-year-ahead forecasts for only a few years, the intervals around the two-year-ahead forecasts are constructed by augmenting the staff projection errors with information from outside forecasters:  the Blue Chip consensus, the Council of Economic Advisers, and the Congressional Budget Office.  Specifically, we calculate prediction intervals for outside forecasts in the same manner as for the staff forecasts.  We then calculate the change in the error bands from outside forecasts from one year ahead to two years ahead and apply the average change to the staff's one-year-ahead error bands.  That is, we assume that any deterioration in the performance between the one- and two-year-ahead projections of the outside forecasters would also apply to the Tealbook projections.  Limitations on the availability of data mean that a slightly shorter sample is used for GDP and unemployment, and the outside projections may only be for a similar series, such as total CPI instead of total PCE prices or annual growth rates of GDP instead of four-quarter changes.  In particular, because data on forecasts for core inflation by these outside forecasters are much more limited, we did not extrapolate the staff's errors for core PCE inflation two years ahead.
+
+The intervals around the historical data in the four fan charts are based on the history of data revisions for each series.  The previous-year, two-year-back, and three-year-back values as of the current Tealbook forecast are subtracted from the corresponding currently published estimates (adjusted as described earlier) to produce revisions, which are then combined into distributions and revision intervals in the same way that the prediction intervals are created.
+
+P
+
+J
+
+u
+
+P
+
+C
+
+Monetary Policy Strategies
+
+In this section, we discuss a range of strategies for setting the federal funds rate and compare the associated interest rate paths and macroeconomic outcomes with those in the Tealbook baseline projection.  Compared with the April Tealbook, the current projection of the output gap is narrower, as GDP growth is now anticipated to be slower this year and next year, while the inflation forecast is little changed.  In light of the staff's revisions to the outlook, the prescribed paths of the strategies over the medium run are generally lower than in the April Tealbook, though for most strategies, the differences are small.
+
+A special exhibit compares the stabilization properties of flexible average inflation targeting-a strategy in which policymakers seek to offset past inflation misses that occur over a fixed-length reference period-with those of flexible price-level targeting (FPLT), under which policymakers seek to offset all the inflation misses accumulated since a given reference date.  An additional exhibit provides updated estimates of the equilibrium real federal funds rate in the longer run.
+
+NEAR-TERM PRESCRIPTIONS OF SELECTED SIMPLE POLICY RULES
+
+The top panel of the first exhibit shows near-term prescriptions for the federal funds rate from four simple policy rules:  the inertial version of the Taylor (1999) rule, the Taylor (1993) rule, a first-difference rule, and an FPLT rule. 1 These near-term prescriptions take as given the Tealbook baseline projections for the output gap and core inflation, which are shown in the middle panels.   The top and middle panels also provide 2 the staff's baseline path for the federal funds rate.
+
+- · Reflecting the narrower output gap, the near-term prescriptions of the policy rules are slightly lower than in the April Tealbook.
+
+Policy Rules and the Staff Projection
+
+Near-Term Prescriptions of Selected Simple Policy Rules 1
+
+*
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*
+
+<!-- missing-text -->
+
+- 1. The lines denoted "Previous Tealbook projection" report prescriptions based on the previous Tealbook's staff outlook for inflation and resource slack. Rules that have a lagged policy rate as a right-hand-side variable are conditional on the current-Tealbook value of the lagged policy rate.
+- 2. The "FRB/US  *" is the level of the real federal funds rate that, if maintained over a 12-quarter period (beginning in the r current quarter) in the FRB/US model, sets the output gap equal to zero in the final quarter of that period given either the Tealbook or SEP-consistent projection. The SEP-consistent baseline corresponds to the March 2019 median SEP responses. The "Average projected real federal funds rate" is calculated under the Tealbook and SEP-consistent baseline projections over the same 12-quarter period as FRB/US r *.
+
+- · The inertial Taylor (1999) rule prescribes higher policy rates than the Tealbook baseline, because it responds more strongly to the positive output gap than the conditional attenuated rule underlying the Tealbook baseline projection.
+- · The Taylor (1993) rule, which does not feature an interest rate smoothing term, calls for higher policy rates than the inertial Taylor (1999) rule and the Tealbook baseline rule.
+- · The first-difference rule, which responds to the change in the expected output gap, advises keeping the federal funds rate fairly close to its current level because of the projection that the output gap will remain similar to its current size, on balance, over the next year.
+- · The FPLT rule, in an effort to eliminate a cumulative shortfall in the core PCE price index of 2.6 percent since the end of 2011, prescribes a decrease in the federal funds rate in the third quarter and a further decline to less than 2 percent in the fourth quarter of 2019.
+
+A MEDIUM-TERM NOTION OF THE EQUILIBRIUM REAL FEDERAL FUNDS RATE
+
+The bottom panel of the first exhibit reports estimates of a medium-term concept of the equilibrium real federal funds rate ( r *) generated under two baselines:  the Tealbook baseline and a projection consistent with the medians in the March 2019 Summary of Economic Projections (SEP).   In both cases, simulations of the FRB/US 3 model are used.  This concept of  *  labeled 'FRB/US r , r*, ' corresponds to the level of the real federal funds rate that, if maintained over a 12-quarter period starting in the current quarter, would bring the output gap to zero in the final quarter of that period.  This concept of r* is a summary of the projected underlying strength of the real economy and
+
+does not take into account considerations such as achieving the inflation objective or avoiding sharp changes in the federal funds rate.
+
+- · The current value of the Tealbook-consistent FRB/US r*, at 1.79 percent, is about 25 basis points lower than its estimate in the April Tealbook; the difference reflects the staff's projection of a narrower output gap.
+- · At 0.91 percent, the corresponding March SEP-consistent FRB/US r* remains significantly lower than the Tealbook-consistent FRB/US r* .  The difference stems from the fact that the SEP-consistent projection has output exceeding potential by a smaller amount over the medium term than does the current Tealbook forecast, while the paths for the real federal funds rate are broadly similar across the two projections.
+
+SIMPLE POLICY RULE SIMULATIONS
+
+The second exhibit reports the Tealbook baseline and results from dynamic simulations of the FRB/US model under the inertial Taylor (1999) rule, the Taylor (1993) rule, the first-difference rule, and the FPLT rule.  These simulations reflect the endogenous responses of resource utilization and inflation to the different federal funds rate paths implied by the policy rules.  The simulations for each rule are carried out under the assumptions that policymakers commit to following that rule in the future and that financial market participants, price setters, and wage setters correctly anticipate that monetary policy will follow through on this commitment and are aware of the implications for interest rates and the economy.  Compared with the previous Tealbook, most simple rules prescribe lower paths for the federal funds rate.  Over the near term, the size of the decrease varies by rule, but by 2023, all the simple rules imply policy rate paths that are lower by about 15 to 30 basis points relative to the corresponding prescriptions in the April Tealbook.
+
+- · Under the conditional attenuated policy rule used to construct the Tealbook baseline, the federal funds rate edges up by about ¼ percentage point over the next few years, leaving the policy rate little changed from the path in the April Tealbook.
+- · The inertial Taylor (1999) rule, which embodies the same degree of inertia as the Tealbook baseline rule but responds more strongly to the positive output
+
+gap, calls for the federal funds rate to increase at a faster pace and to reach nearly 3½ percent by mid-2021, after which it remains above the Tealbook baseline path for an extended period of time.  The less accommodative monetary conditions also produce an unemployment rate that, unlike in the Tealbook baseline, rises steadily toward the staff's estimate of the natural rate of unemployment.  As a result, inflation is lower, and the real 10-year Treasury yield is higher, than the corresponding values in the Tealbook projection.
+
+- · Similarly, the Taylor (1993) rule calls for increases in the federal funds rate over the rest of this year and early next year.  After that, the federal funds rate path prescribed by this rule is below the corresponding path under the inertial Taylor (1999) rule but above the path in the Tealbook baseline.  This initial difference arises because the Taylor (1993) rule has no inertial component and therefore adjusts the path of policy upward immediately in response to the high level of the current output gap.  The magnitude of the output-gap response in the Taylor (1993) rule is lower than in the inertial Taylor (1999) rule but greater than in the baseline rule underlying the staff's projection.  As a result, the paths for the real 10-year Treasury yield, unemployment rate, and inflation rate implied by the Taylor (1993) rule are between the corresponding paths under the inertial Taylor (1999) rule and the Tealbook baseline.
+- · The first-difference rule, which reacts to the expected change in the output gap rather than its level, prescribes small, gradual increases in the federal funds rate through 2020, followed by a sequence of reductions when the output gap is projected to narrow.  Later in the projection, the federal funds rate path under this rule drops slightly below its Tealbook counterpart.  As a result, relative to the Tealbook baseline, this prescription generates a similar near-term, but lower medium-term, unemployment rate path and somewhat higher inflation.
+- · The FPLT rule responds to, and seeks to eliminate, the cumulative shortfall of the level of core PCE prices from a target path for that price level that grows at an annual rate of 2 percent from the end of 2011 onward.  Eliminating the current 2.6 percent shortfall of the core PCE price index requires inflation to run above 2 percent in coming years.  Because the simulation embeds the assumptions that policymakers can credibly commit to closing this gap over
+
+Monetary Policy Strategies
+
+Simple Policy Rule Simulations
+
+Nominal Federal Funds Rate
+
+<!-- missing-text -->
+
+Real Federal Funds Rate
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Real 10-Year Treasury Yield
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+time and that financial market participants, price setters, and wage setters correctly anticipate the ensuing long period of a low federal funds rate, the path of the real 10-year Treasury rate immediately drops and remains below the Tealbook baseline throughout the period shown.  As a result, the unemployment rate is substantially lower than in the Tealbook baseline and all other simulations, dropping below 3¼ percent in 2021.  Inflation exceeds 2 percent by nearly ¼ percentage point, on average, over the next decade before slowly returning to 2 percent.
+
+OPTIMAL CONTROL SIMULATIONS UNDER COMMITMENT
+
+The third exhibit displays optimal control simulations under two different assumptions about policymakers' preferences captured by different specifications of the loss function.   The concept of optimal control employed here assumes policymakers are 4 able to commit future policymakers to their plans; such a commitment, where feasible, may lead to improved economic outcomes. 5
+
+- · The first simulation, labeled 'Equal weights,' presents the case in which policymakers are assumed to place equal weights on keeping headline PCE inflation close to the Committee's objective of 2 percent, on keeping the unemployment rate close to the staff's estimate of the natural rate of unemployment, and on keeping the federal funds rate close to its previous value.  Under this strategy, the path for the federal funds rate is significantly higher than the Tealbook baseline path, though this path has been revised down, relative to the April Tealbook, about 30 to 50 basis points over the next two years.   This strategy is designed to counter the projected sizable and 6 persistent undershooting by the unemployment rate of its natural rate that
+
+Monetary Policy Strategies
+
+Optimal Control Simulations under Commitment
+
+Nominal Federal Funds Rate
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+Real Federal Funds Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Real 10-Year Treasury Yield
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+occurs in the Tealbook baseline-an outcome that policymakers with the equal-weights loss function judge to be undesirable.  The smaller unemployment gap generates only moderate downward pressure on inflation because, in the FRB/US model, the response of inflation to the current level of resource utilization is small.
+
+- · The second simulation, labeled 'Asymmetric weight on ugap, ' uses a loss function that assigns no cost to deviations of the unemployment rate from the natural rate when the unemployment rate is below the natural rate, but is otherwise identical to the specification with equal weights.  Under this strategy, the path for the federal funds rate is considerably below the path under equal weights, but it is little changed relative to the April Tealbook and only slightly below the current Tealbook baseline path.  Policymakers choose this slightly more accommodative path for the policy rate because their desire to keep inflation close to 2 percent is not tempered by an aversion to the unemployment rate falling below its natural rate.  The tighter labor market pushes inflation more promptly toward 2 percent than in the case of equal weights.
+
+MAKEUP STRATEGIES IN A DISINFLATION SCENARIO
+
+The exhibit 'Makeup Strategies in a Disinflation Scenario' examines monetary policy strategies that aim to undo, in part or in full, past deviations of inflation from its 2 percent objective.  We present the effects of three makeup strategies:  a version of the FPLT rule and two parameterizations of a flexible average inflation targeting (FAIT) rule. 7 To illustrate the differences between these strategies, we consider their effects in a disinflation scenario.  Under the FPLT rule, policymakers commit to making up all inflation misses since the reference date, taken here to be 2011:Q4; inflation misses since that reference date never become bygones.  Under the FAIT rules we consider here, policymakers seek to make up for the cumulative deviation of inflation from 2 percent over a rolling window of fixed length:  four or eight years.  Specifically, under FAIT with an eight-year window, the reference interval ranges initially from 2011:Q4 to 2019:Q3, then from 2012:Q1 to 2019:Q4 in the subsequent quarter, and so forth; past inflation
+
+Monetary Policy Strategies
+
+Makeup Strategies in a Disinflation Scenario
+
+Nominal Federal Funds Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Core PCE Inflation
+
+<!-- missing-text -->
+
+Real 10-Year Treasury Yield
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+misses that drop out of the eight-year window are no longer relevant for policy and become bygones.  As with the FPLT rule, we assume that the commitment to pursue FAIT is viewed as credible.
+
+- · In the disinflation scenario, which is constructed using the conditional attenuated rule, persistent downward pressure causes inflation to fall from 1.6 percent in 2019:Q3 to 1.2 percent in early 2021 before slowly recovering to 2 percent by the end of 2026.   All three makeup strategies call for notably 8 lower paths of the policy rate than the path implied by the conditional attenuated rule (the black line).  The prescribed decline in the policy rate is larger under makeup rules that consider longer windows of past inflation misses, with the prescriptions of the eight-year FAIT rule and the FPLT rule remaining below 1 percent for several years.
+- · The path for core PCE inflation is shown in the middle panel of the exhibit. The shaded areas highlight past deviations of inflation from the 2 percent objective over the four- and eight-year intervals ending in 2019:Q3, the start date of the simulation.  Because the initial cumulative inflation gap under the eight-year FAIT rule (shown by the yellow cross-hatched area) is considerably larger than under the four-year FAIT rule (shown in red), the eight-year FAIT rule prescribes a much lower path for the federal funds rate than the four-year FAIT rule.  The shaded areas in the panel translate into the initial values in 2019:Q3 under the respective FAIT rules, shown in the lower-right panel, 'Rule-Specific Cumulative Inflation Gaps.'
+- · The differences between FAIT and FPLT stem from the fact that past inflation misses, should they not be offset in a timely fashion by subsequent abovetarget inflation readings, will eventually become bygones under the FAIT rules but not under FPLT.  The 'Rule-Specific Cumulative Inflation Gaps' panel reports the value of the cumulative inflation deviation from 2 percent, conditional on the relevant window associated with each makeup rule.  Under FPLT, this interval expands over time and, therefore, a negative cumulative inflation gap can only be resolved by periods of inflation exceeding 2 percent, like the one beginning in late 2022.  By contrast, under the FAIT rules, the
+
+negative cumulative inflation gap can be ameliorated not just by periods of inflation exceeding 2 percent, but also by the passage of time, as previous inflation deviations fall out of the relevant window.  Under the eight-year FAIT rule in this simulation, inflation returns to 2 percent in mid-2024, but the cumulative inflation gap moves up almost two years earlier, when large inflation misses that occurred in 2014 and 2015 become bygones.
+
+- · When faced with persistent undershooting or overshooting of the 2 percent inflation objective, policy rules that seek to make up for inflation deviations over relatively long periods can be associated with more severe timeinconsistency problems than policy rules with shorter windows.  In particular, in our disinflation scenario, the FPLT rule requires future policymakers in the years 2022 to 2026 to keep the federal funds rate down when the unemployment rate is extraordinarily low and inflation is running well above the Committee's 2 percent objective.  The public may be skeptical about whether policymakers would adhere to their price path target under such circumstances.  The FAIT rules return inflation to 2 percent less rapidly, but under paths for inflation that the public may perceive as more credible.
+
+ESTIMATES OF THE EQUILIBRIUM REAL FEDERAL FUNDS RATE IN THE LONGER RUN
+
+The next exhibit updates selected estimates of the equilibrium real federal funds rate in the longer run, denoted r LR .  This concept is the rate consistent with the economy operating at its potential once the transitory effects of economic shocks have abated. This rate, along with the Committee's inflation objective, determines the longer-run level of the nominal federal funds rate and other interest rates in the staff's projection and economic models.  In addition, r LR is also a parameter in many of the simple policy rules, including the staff's baseline policy rule, considered in this and other sections of Tealbook A.
+
+- · The top panel of the exhibit shows the range of historical values through 2019:Q1 for several model-based time-series estimates of r LR . 9 The estimates
+
+for 2019:Q1 range from 0.3 to 2 percent, with a mean of roughly 1 percent. The range and mean of the 2019:Q1 point estimates are only slightly changed from the corresponding statistics reported for 2018:Q4 in the March Tealbook. 10
+
+- · Time-series estimates of r LR are subject to considerable uncertainty, as depicted in the middle panel.  The sources of this uncertainty vary across the studies, reflecting factors such as the choice of econometric approach as well as the uncertainty that exists within each model about the prevailing state of the economy and of the model's parameter estimates.
+- · The lower panel of the exhibit reports longer-term forecasts of the real federal funds rate from selected sources.  The Tealbook baseline assumption, at ½ percent, is below the other measures, which range from 0.74 to 1.13 percent.  That said, the evidence presented in this exhibit, taken as a whole, indicates that the Tealbook baseline assumption is consistent with time-series and survey estimates, especially in light of the fact that all of these estimates are subject to considerable uncertainty.
+
+The final four exhibits tabulate the simulation results for key variables under the policy rules shown in the exhibit 'Simple Policy Rule Simulations' and optimal control simulations shown in the exhibit 'Optimal Control Simulations under Commitment.'
+
+Estimates of the Equilibrium Real Federal Funds Rate in the Longer Run
+
+Selected Time-Series Estimates
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+The latest time-series estimates are for 2019:Q1. The shaded vertical areas in the top panel are NBER recessions. The middle panel reports 68 percent uncertainty bands around each point estimate for 2019:Q1. See the technical appendix for sources.
+
+*
+
+Outcomes of Simple Policy Rule Simulations
+
+(Percent change, annual rate, from end of preceding period except as noted)
+
+<!-- missing-text -->
+
+- 1. Percent, av  erage for the final quarter of the period.
+
+M
+
+Outcomes of Simple Policy Rule Simulations, Quarterly
+
+(4-quarter percent change, except as noted)
+
+<!-- missing-text -->
+
+- 1.  Percent, av  erage for the quarter.
+
+Outcomes of Optimal Control Simulations under Commitment
+
+(Percent change, annual rate, from end of preceding period except as noted)
+
+<!-- missing-text -->
+
+- 1. Percent, av  erage for the final quarter of the period.
+
+M
+
+Outcomes of Optimal Control Simulations under Commitment, Quarterly
+
+(4-quarter percent change, except as noted)
+
+<!-- missing-text -->
+
+- 1.  Percent, av  erage for the quarter.
+
+Appendix
+
+Implementation of the Simple Rules and Optimal Control Simulations
+
+The monetary policy strategies considered in this section of Tealbook A typically fall into one of two categories.  Under simple policy rules, policymakers set the federal funds rate according to a reaction function that includes a small number of macroeconomic factors.  Under optimal control policies, policymakers compute a path for the federal funds rate that minimizes a loss function meant to capture policymakers' preferences over macroeconomic outcomes.  Both approaches recognize the Federal Reserve's dual mandate.  Unless otherwise noted, the simulations embed the assumption that policymakers will adhere to the policy strategy in the future and that financial market participants, price setters, and wage setters not only believe that policymakers will follow through with their strategy, but also fully understand the macroeconomic implications of policymakers doing so.  Such policy strategies are described as commitment strategies.
+
+The two approaches have different merits and limitations.  The parsimony of simple rules makes them relatively easy to communicate to the public, and, because they respond only to variables that are central to a range of models, proponents argue that they may be more robust to uncertainty about the structure of the economy.  However, simple rules omit, by construction, other potential influences on policy decisions; thus, strict adherence to such rules may, at times, lead to unsatisfactory outcomes.  By comparison, optimal control policies respond to a broader set of economic factors; their prescriptions optimally balance various policy objectives.  And, although this section focuses on policies under commitment, optimal control policies can more generally be derived under various assumptions about the degree to which policymakers can commit.  That said, optimal control policies assume substantial knowledge on the part of policymakers and are sensitive to the assumed loss function and the specifics of the particular model.
+
+Given the different strengths and weaknesses of the two approaches, they are probably best considered together as a means to assess the various tradeoffs policymakers may face when pursuing their mandated objectives.
+
+POLICY RULES USED IN THE MONETARY POLICY STRATEGIES SECTION
+
+The table 'Simple Rules' that follows gives expressions for four simple policy rules reported in the first two exhibits of the Monetary Policy Strategies section.  It also reports the expression for the conditional attenuated rule that the staff uses in the construction of the Tealbook baseline projection. 1 𝑅𝑅 𝑡𝑡 denotes the nominal federal funds rate prescribed by a strategy for quarter t; for quarters prior to the projection period under consideration, 𝑅𝑅 𝑡𝑡 corresponds to the historical data in the economic projection.  The right-hand-side variables of the first four rules include the staff's projection of trailing four-quarter core PCE price inflation for the current
+
+quarter and three quarters ahead ( 𝜋𝜋 𝑡𝑡 and 𝜋𝜋 𝑡𝑡+3 𝑡𝑡 | ), the output gap estimate for the current period ( 𝑦𝑦𝑔𝑔𝑔𝑔𝑔𝑔 𝑡𝑡 ), and the forecast of the three-quarter-ahead annual change in the output gap ( 𝑦𝑦𝑔𝑔𝑔𝑔𝑔𝑔 𝑡𝑡+3 𝑡𝑡 | -𝑦𝑦𝑔𝑔𝑔𝑔𝑔𝑔 𝑡𝑡-1 ).  The value of policymakers' longer-run inflation objective, denoted 𝜋𝜋 𝐿𝐿𝐿𝐿 , is 2 percent.  In the case of the flexible price-level targeting rule, the right-hand-side variables include an unemployment rate gap and a price gap.  The unemployment gap is defined as the difference between the unemployment rate, 𝑢𝑢 𝑡𝑡 , and the staff's estimate of its natural rate, 𝑢𝑢 𝑡𝑡 ∗ , which currently stands at 4.6 percent.  The price gap is defined as 100 times the difference between the log of the core PCE price level, 𝑔𝑔 𝑡𝑡 , and the log of the target price-level path, 𝑔𝑔 𝑡𝑡 ∗ .  The 2011:Q4 value of 𝑔𝑔 𝑡𝑡 ∗ is set to the 2011:Q4 value of the core PCE price index, and, subsequently, 𝑔𝑔 𝑡𝑡 ∗ is assumed to grow at a 2 percent annual rate.
+
+<!-- missing-text -->
+
+The first rule in the table was studied by Taylor (1993).  The inertial Taylor (1999) rule features more inertia and a stronger response to resource slack over time compared with the Taylor (1993) rule.  The inertial Taylor (1999) and rules that depend on a price gap, like the FPLT rule, have been featured prominently in analysis by Board staff.   The conditional 2 attenuated rule has the same form as the inertial Taylor (1999) rule but places a coefficient of α on the output gap that is conditional on economic conditions; in the current Tealbook projection, α is set to 0.2.  Where applicable, the intercepts of the simple rules, denoted 𝑟𝑟 𝐿𝐿𝐿𝐿 , are constant and chosen so that they are consistent with a 2 percent longer-run inflation objective and an equilibrium real federal funds rate in the longer run of 0.5 percent.  The prescriptions of the firstdifference rule do not depend on the level of the output gap or the longer-run real interest rate; see Orphanides (2003).
+
+NEAR-TERM PRESCRIPTIONS OF SELECTED POLICY RULES
+
+The 'Near-Term Prescriptions of Selected Policy Rules' reported in the first exhibit are calculated taking as given the Tealbook projections for inflation and the output gap.  When the Tealbook is published early in a quarter, the prescriptions are shown for the current and next quarters.  When the Tealbook is published late in a quarter, the prescriptions are shown for the next two quarters.  Rules that include a lagged policy rate as a right-hand-side variable are conditioned on the lagged federal funds rate in the Tealbook projection for the first quarter shown
+
+and then conditioned on their simulated lagged federal funds rate for the second quarter shown. To isolate the effects of changes in macroeconomic projections on the prescriptions of these inertial rules, the lines labeled 'Previous Tealbook projection' report prescriptions that are conditional on the previous Tealbook projections for inflation and the output gap but that use the value of the lagged federal funds rate in the current Tealbook for the first quarter shown.
+
+A MEDIUM-TERM NOTION OF THE EQUILIBRIUM REAL FEDERAL FUNDS RATE
+
+The bottom panel of the exhibit 'Policy Rules and the Staff Projection' provides estimates of one notion of the equilibrium real federal funds rate that uses alternative baselines: the Tealbook baseline and another one consistent with median responses to the latest Summary of Economic Projections (SEP).  The simulations are conducted using the FRB/US model, the staff's large-scale econometric model of the U.S. economy.  'FRB/US r* ' is the real federal funds rate that, if maintained over a 12-quarter period (beginning in the current quarter), makes the output gap equal to zero in the final quarter of that period, given either the Tealbook or the SEPconsistent economic projection.  This measure depends on a broad array of economic factors, some of which take the form of projected values of the model's exogenous variables.   The 3 measure is derived under the assumption that agents in the model form VAR-based expectations-that is, agents use small-scale statistical models so that their expectations of future variables are determined solely by historical relationships.
+
+The 'Average projected real federal funds rate' for the Tealbook baseline and the SEPconsistent baseline reported in the panel are the corresponding averages of the real federal funds rate under the Tealbook baseline projection and SEP-consistent projection, respectively, calculated over the same 12-quarter period as the Tealbook-consistent and SEP-consistent FRB/US r*. For a given economic projection, the average projected real federal funds rates and the FRB/US r* may be associated with somewhat different macroeconomic outcomes even when their values are identical.  The reason is that, in the FRB/US r* simulation, the real federal funds rate is held constant over the entire 12-quarter period, whereas, in the economic projection, the real federal funds rate can vary over time.
+
+FRB/US MODEL SIMULATIONS
+
+The results presented in the exhibits 'Simple Policy Rule Simulations' and 'Optimal Control Simulations under Commitment' are derived from dynamic simulations of the FRB/US model.  Each simulated policy strategy is assumed to be in force over the whole period covered by the simulation; this period extends several decades beyond the time horizon shown in the exhibits.  The simulations are conducted under the assumption that market participants as well as price and wage setters form model-consistent expectations and are predicated on the staff's extended Tealbook projection, which includes the macroeconomic effects of the Committee's large-scale asset purchase programs.  When the Tealbook is published early in a quarter, all of the simulations begin in that quarter; when the Tealbook is published late in a quarter, all of the simulations begin in the subsequent quarter.
+
+COMPUTATION OF OPTIMAL CONTROL POLICIES UNDER COMMITMENT
+
+The optimal control simulations posit that policymakers choose a path for the federal funds rate to minimize a discounted weighted sum of squared inflation gaps (measured as the difference between four-quarter headline PCE price inflation, 𝜋𝜋 𝑡𝑡 𝑃𝑃𝑃𝑃𝑃𝑃 , and the Committee's 2 percent objective), squared unemployment gaps ( 𝑢𝑢𝑔𝑔𝑔𝑔𝑔𝑔 𝑡𝑡 , measured as the difference between the unemployment rate and the staff's estimate of the natural rate), and squared changes in the federal funds rate.  In the following equation, the resulting loss function embeds the assumption that policymakers discount the future using a quarterly discount factor, 𝛽𝛽 = 0.9963 :
+
+<!-- formula-not-decoded -->
+
+The exhibit 'Optimal Control Simulations under Commitment' considers two specifications of the weights on the inflation gap, the unemployment gap, and the rate change components of the loss function.  The box 'Optimal Control and the Loss Function' in the Monetary Policy Strategies section of the June 2016 Tealbook B provides motivations for the specifications of the loss function.  The table 'Loss Functions' shows the weights used in the two specifications.
+
+<!-- missing-text -->
+
+The first specification, 'Equal weights,' assigns equal weights to all three components at all times.  The second specification, 'Asymmetric weight on ugap, ' uses the same weights as the equal-weights specification whenever the unemployment rate is above the staff's estimate of the natural rate, but it assigns no penalty to the unemployment rate falling below the natural rate. The optimal control policy and associated outcomes depend on the relative (rather than the absolute) values of the weights.
+
+For each of these specifications of the loss function, the optimal control policy is subject to the effective lower bound constraint on nominal interest rates.  Policy tools other than the federal funds rate are taken as given and subsumed within the Tealbook baseline.  The path chosen by policymakers today is assumed to be credible, meaning that the public sees this path as a binding commitment on policymakers' future decisions; the optimal control policy takes as given the initial lagged value of the federal funds rate but is otherwise unconstrained by policy decisions made prior to the simulation period.
+
+MAKEUP STRATEGIES IN A DISINFLATION SCENARIO
+
+The two types of simple rules shown in the special exhibit 'Makeup Strategies in a Disinflation Scenario' have been harmonized to use the same form as the staff's conditional attenuated rule, with an inertial coefficient of 0.85 and a smaller response to the output gap.  The FPLT rule used in the special exhibit differs from the one used in the 'Simple Policy Rules' section, as it responds to 𝛼𝛼 = 0.2 times the output gap rather than the unemployment gap with a coefficient of -1.  The table 'Makeup Rules' gives the exact expressions for the two simple policy rules used in this exhibit.
+
+<!-- missing-text -->
+
+𝜋𝜋 �𝑡𝑡-4𝑁𝑁+1 𝑡𝑡 , denotes the average core PCE inflation rate over the past N years.  All other variables are defined as in 'Policy Rules Used in the Monetary Policy Strategies Section' earlier in this appendix.
+
+ESTIMATES OF THE EQUILIBRIUM REAL FEDERAL FUNDS RATE IN THE LONGER RUN
+
+The top panel of the exhibit 'Estimates of the Equilibrium Real Federal Funds Rate in the Longer Run' shows a range of estimates of 𝑟𝑟 𝐿𝐿𝐿𝐿 from eight time-series models based on the following studies:  Christensen and Rudebusch (forthcoming); Del Negro, Giannone, Giannoni, and Tambalotti (2017); Holston, Laubach, and Williams (2017); Johannsen and Mertens (2016); Kiley (2015); Laubach and Williams (2003); Lewis and Vazquez-Grande (2019); and Lubik and Matthes (2015).  For comparability, all computations use the latest vintage of historical data through 2019:Q1.  Moreover, the estimates are 'one sided' in the sense that, at each point, they make use of historical data only up to that point in time.  As a result, their historical movements can differ from the 'two sided' estimates reported in some of those studies.
+
+Where possible, the middle panel reports 68 percent uncertainty bands around each model's point estimate for 2019:Q1.  The computation and interpretation of these bands are specific to each study.
+
+The bottom panel shows 𝑟𝑟 𝐿𝐿𝐿𝐿 values from selected forecasters.  These values were obtained as follows:
+
+- · 'Tealbook baseline' is the staff's assumption about the level of the equilibrium real federal funds rate in the longer run.
+- · 'Median SEP' is the median of FOMC participants' projections of the federal funds rate in the longer run minus the corresponding projection of PCE inflation as of the March 2019 SEP.
+
+- · 'Median Survey of Primary Dealers' equals the long-run median dealer forecast for the target rate minus the longer-run median dealer forecast of PCE inflation as of the April 2019 survey.
+- · 'Median Blue Chip (6-to-10-year)' equals the consensus five-year average (202529) forecast for the three-month Treasury bill rate minus the consensus five-year average (2025-29) forecast for the annual change in the GDP chained price index as of the March 2019 Blue Chip Economic Indicators survey.
+- · 'Congressional Budget Office (10-year)' equals the federal funds rate at the end of 2029 minus the annualized change in the PCE index at the end of 2029 as of January 2019.
+
+REFERENCES
+
+Christensen, Jens H.E., and Glenn D. Rudebusch (forthcoming).  'A New Normal for Interest Rates?  Evidence from Inflation-Indexed Debt,' Review of Economics and Statistics , https://doi.org/10.1162/rest_a_00821.
+
+Chung, Hess, Edward Herbst, and Michael T. Kiley (2014).  'Effective Monetary Policy Strategies in New Keynesian Models: A Reexamination,' NBER Macroeconomics Annual, vol. 29 (1), pp. 289 -344.
+
+Del Negro, Marco, Domenico Giannone, Marc P. Giannoni, and Andrea Tambalotti (2017). 'Safety, Liquidity, and the Natural Rate of Interest,' Brookings Papers on Economic Activity, Spring, pp. 235-316, https://www.brookings.edu/wpcontent/uploads/2017/08/delnegrotextsp17bpea.pdf.
+
+Erceg, Christopher, Jon Faust, Michael Kiley, Jean-Philippe Laforte, David López-Salido, Stephen Meyer, Edward Nelson, David Reifschneider, and Robert Tetlow (2012).  'An Overview of Simple Policy Rules and Their Use in Policymaking in Normal Times and Under Current Conditions,' memorandum to the Federal Open Market Committee, Board of Governors of the Federal Reserve System, Divisions of International Finance, Monetary Affairs, and Research and Statistics, July 18.
+
+Gust, Christopher, Benjamin K. Johannsen, David López-Salido, and Robert Tetlow (2016). ' r* :  Concepts, Measures, and Uses,' memorandum to the Federal Open Market Committee, Board of Governors of the Federal Reserve System, Division of Monetary Affairs, October 13.
+
+Holston, Kathryn, Thomas Laubach, and John C. Williams (2017).  'Measuring the Natural Rate of Interest:  International Trends and Determinants,' Journal of International Economics, vol. 108 (May), pp. S59-75.
+
+Johannsen, Benjamin K., and Elmar Mertens (2016).  'A Time Series Model of Interest Rates with the Effective Lower Bound,' Finance and Economics Discussion Series 2016-033. Washington:  Board of Governors of the Federal Reserve System, April, http://dx.doi.org/10.17016/FEDS.2016.033.
+
+Kiley, Michael T. (2015).  'What Can the Data Tell Us about the Equilibrium Real Interest Governors of the Federal Reserve System, August,
+
+Rate?'  Finance and Economics Discussion Series 2015-077.  Washington:  Board of http://dx.doi.org/10.17016/FEDS.2015.077.
+
+Laubach, Thomas, and John C. Williams (2003).  'Measuring the Natural Rate of Interest,' Review of Economics and Statistics, vol. 85 (November), pp. 1063-70.
+
+Lewis, Kurt F., and Francisco Vazquez-Grande (2019).  'Measuring the Natural Rate of Interest: A Note on Transitory Shocks,' Journal of Applied Econometrics , vol. 34 (April), pp. 425-36.
+
+Lubik, Thomas A., and Christian Matthes (2015).  'Time-Varying Parameter Vector Autoregressions:  Specification, Estimation, and an Application,' Economic Quarterly, vol. 101 (Fourth Quarter), pp. 323 -52.
+
+Orphanides, Athanasios (2003).  'Historical Monetary Policy Analysis and the Taylor Rule,' Journal of Monetary Economics, vol. 50 (July), pp. 983 -1022.
+
+Taylor, John B. (1993).  'Discretion versus Policy Rules in Practice,' Carnegie-Rochester Conference Series on Public Policy, vol. 39 (December), pp. 195 -214.
+
+--- (1999).  'A Historical Analysis of Monetary Policy Rules,' in John B. Taylor, ed., Monetary Policy Rules. Chicago:  University of Chicago Press, pp. 319 -41.
+
+C
+
+Authorized for Public Release
+
+J
+
+( This p age is intentionally blank.)
+
+lass I FOMC GLYPH&lt;150&gt; Restricted (FR)
+
+ne 7, 2019
+
+u
+
+P
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Staff Projections of Government-Sector Accounts and Related Items
+
+<!-- missing-text -->
+
+Greensheets
+
+Foreign Real GDP and Consumer Prices: Selected Countries (Quarterly percent changes at an annual rate)
+
+<!-- missing-text -->
+
+1. Foreign GDP aggregates calculated using shares of U.S. exports. 2. Foreign CPI aggregates calculated using shares of U.S. non-oil imports.
+
+Foreign Real GDP and Consumer Prices: Selected Countries (Percent change, Q4 to Q4)
+
+<!-- missing-text -->
+
+1. Foreign GDP aggregates calculated using shares of U.S. exports. 2. Foreign CPI aggregates calculated using shares of U.S. non-oil imports.
+
+U.S. Current Account
+
+<!-- missing-text -->
+
+Billions of dollars
+
+-562.5
+
+-552.7
+
+-526.9
+
+-488.5
+
+-449.1
+
+-432.9
+
+-407.8
+
+-365.2
+
+-348.8
+
+-426.8
+
+U.S. current account balance
+
+-612.0
+
+-615.2
+
+-555.9
+
+-488.5
+
+-449.1
+
+-432.9
+
+-407.8
+
+-365.2
+
+-348.8
+
+-426.8
+
+Previous Tealbook
+
+-2.4
+
+-2.5
+
+-2.5
+
+-2.4
+
+-2.3
+
+-2.3
+
+-2.2
+
+-2.1
+
+-2.1
+
+-2.6
+
+Current account as percent of GDP
+
+-2.6
+
+-2.8
+
+-2.6
+
+-2.4
+
+-2.3
+
+-2.3
+
+-2.2
+
+-2.1
+
+-2.1
+
+-2.6
+
+Previous Tealbook
+
+-608.5
+
+-600.7
+
+-615.1
+
+-622.1
+
+-552.3
+
+-502.0
+
+-498.5
+
+-489.6
+
+-461.1
+
+-537.4
+
+Net goods &amp; services
+
+172.3
+
+174.4
+
+214.6
+
+258.1
+
+235.1
+
+205.7
+
+214.7
+
+229.0
+
+215.4
+
+216.1
+
+Investment income, net
+
+347.8
+
+311.5
+
+302.7
+
+313.9
+
+298.4
+
+272.6
+
+284.6
+
+284.2
+
+283.3
+
+285.5
+
+Direct, net
+
+-175.4
+
+-137.1
+
+-88.1
+
+-55.8
+
+-63.3
+
+-66.9
+
+-70.0
+
+-55.3
+
+-67.9
+
+-69.4
+
+Portfolio, net
+
+-126.4
+
+-126.4
+
+-126.4
+
+-124.5
+
+-132.0
+
+-136.6
+
+-123.9
+
+-104.6
+
+-103.1
+
+-105.5
+
+Other income and transfers, net
+
+Abbreviations
+
+<!-- missing-text -->
+
+<!-- missing-text -->

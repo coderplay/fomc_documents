@@ -1,0 +1,636 @@
+Appendix 1:  Materials used by Mr. Faust
+
+Class I FOMC - Restricted Controlled (FR)
+
+Presentation on
+
+Simple Rules for Monetary Policy
+
+Jon W. Faust July 31, 2012
+
+July 31-August 1, 2012
+
+267 of 304
+
+<!-- missing-text -->
+
+Class I FOMC - Restricted Controlled (FR)
+
+Exhibit 1
+
+1. Historical Tracking of Taylor (1993)
+
+<!-- missing-text -->
+
+2. The Case for Simple Rules
+
+- Simple policy rules can,
+- - capture most of the benefits of sound policy that policymakers can realistically hope to attain.
+- - provide a transparent and predictable link between the policy rate and macroeconomic determinants.
+- - provide a useful discipline on the exercise of discretion.
+
+Taylor  1993 ( ) :
+
+𝑅𝑡 = 2.25 + 𝜋𝑡 + 0.5 ( 𝜋𝑡 - 𝜋 ∗ ) + 0.5 𝑔𝑎𝑝𝑡
+
+Taylor ( 1999 ) :
+
+𝑅𝑡 = 2.25 + 𝜋𝑡 + 0.5 ( 𝜋𝑡 - 𝜋 ∗ ) + 1.0 𝑔𝑎𝑝𝑡
+
+Inertial Taylor  1999 ( ) :
+
+𝑅𝑡 = 0.85 𝑅𝑡-1 +0.15[2.25 + 𝜋𝑡 +0.5( 𝜋𝑡 - 𝜋 ∗ ) + 1.0 𝑔𝑎𝑝𝑡 ]
+
+Outcome-based :
+
+𝑅𝑡 = 0.81 𝑅𝑡-1 +0.19[2.25 + 𝜋𝑡 + 0.73( 𝜋𝑡 - 𝜋 ∗ )
+
++  .94 𝑔𝑎𝑝𝑡 +2.72 ∆𝑔𝑎𝑝𝑡 + 2.05 ∆ 𝑅𝑡-1 ]
+
+First-difference :
+
+𝑅𝑡 = 𝑅𝑡-1 + 0.5 �𝜋𝑡+3 𝑡 | -𝜋 ∗ � + 0.5 Δ 4 𝑔𝑎𝑝𝑡+3 𝑡 |
+
+Nominal income targeting: 𝑅𝑡 = 0.75 𝑅𝑡-1 +0.25 (2.25 + 𝜋 ∗ + 𝑦𝑛𝑡 - 𝑦𝑛𝑡 ∗ )
+
+𝑅 is the federal funds rate; 𝜋 is generally the trailing, four-quarter rate of core PCE inflation; in the first-difference rule, 𝜋 is the projected four-quarter rate of headline inflation; 𝜋 ∗ is 2, the Committee's inflation target; and 𝑔𝑎𝑝 is the staff estimate of the output gap.  In the nominal income targeting rule, 𝑦𝑛𝑡 is 100 times the log of the level of nominal GDP and 𝑦𝑛𝑡 ∗ is 100 times the log of potential nominal GDP, where potential nominal GDP is defined as potential real GDP multiplied by a price target equal to the GDP price index in the fourth quarter of 2007 and growing thereafter at a rate of 2 percent per year.
+
+Class I FOMC - Restricted Controlled (FR)
+
+Exhibit 2
+
+1. Output Gap Measurement and the First-Difference Rule
+
+- Output gap is subject to substantial measurement error in practice.
+- Prescription of the first-difference rule is largely invariant to measured level of the gap.
+- In response to realistic measurement error, a substantial response to level of the output gap probably remains appropriate.
+
+2. Policy Simulations: Unemployment Rate
+
+3. Policy Simulations: Inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+4. Distribution of Liftoff Date
+
+<!-- missing-text -->
+
+5. Likelihood of Return to ELB within 4 Quarters
+
+probability
+
+<!-- missing-text -->
+
+Class I FOMC - Restricted Controlled (FR)
+
+Exhibit 3
+
+1. Reasons to Deviate from Standard Simple Rules at Present
+
+- Optimal policy computations (under perfect foresight) suggest maintaining accommodation longer than simple rules suggest.
+- Nonstandard structural features of economy at present might warrant deviating.
+- Risk management considerations argue for extra accommodation to offset asymmetric risks that bias economy toward effective lower bound.
+
+2. Simple Rules in a Comprehensive Policy Framework
+
+- Research supports that simple rules capture much of what good policy should aspire to in normal times.
+- Simple rules could be a useful part of, but are not a substitute for, a comprehensive policy framework.
+- Principles of forecast-based targeting could also be a useful part of an overall framework.
+
+Appendix 2:  Materials used by Mr. Potter
+
+Material for
+
+FOMC Presentation:
+
+Financial Market Developments and Desk Operations
+
+Simon Potter
+
+July 31, 2012
+
+Class II FOMC - Restricted FR
+
+July 31-August 1, 2012
+
+272 of 304
+
+Authorized for Public Release
+
+Class II FOMC - Restricted FR
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*'New Tools' added to most recent survey.
+
+Source: Federal Reserve Bank of New York Survey
+
+(5) MBS Option-Adjusted Spread to Treasury*
+
+<!-- missing-text -->
+
+*FNMA 30-year current coupon OAS to Treasury.
+
+Source: Barclays
+
+(2) Probability Distribution of First Increase in Federal Funds Target Rate*
+
+/g149 H1
+
+<!-- missing-text -->
+
+- *Average probabilities from dealer responses.
+
+Source: Federal Reserve Bank of New York Survey
+
+(4) Shorter-Term Interest Rates
+
+<!-- missing-text -->
+
+(6) Equity Prices
+
+<!-- missing-text -->
+
+Source: Bloomberg
+
+Class II FOMC - Restricted FR
+
+<!-- missing-text -->
+
+*10-year spreads to Germany.
+
+Source: Bloomberg
+
+(9) EONIA Swap Curves
+
+<!-- missing-text -->
+
+Source: Bloomberg
+
+<!-- missing-text -->
+
+*Occurred on same day as ECB meeting.
+
+Source: Bloomberg
+
+Exhibit 2
+
+<!-- missing-text -->
+
+(10) Two-Year Sovereign Yields
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- *Equal-weighted average of  publicly traded Libor panel banks as of 2008, ex-Barclays.
+
+Source: Bloomberg, Federal Reserve Bank of New York
+
+Class II FOMC - Restricted FR
+
+(13) MEP Operations
+
+(Through 07/27/12)
+
+<!-- missing-text -->
+
+- *There have also been $18.6 billion in redemptions to date. Source: Federal Reserve Bank of New York
+
+<!-- missing-text -->
+
+Source: Federal Reserve Bank of New York
+
+(17) Treasury and MBS Purchasable Room (Over Two-Year Horizon)
+
+<!-- missing-text -->
+
+- *Includes structured and non-standard securities, low-duration securities, less-liquid securities, and FIMA holdings.
+
+Source: Federal Reserve Bank of New York
+
+(14) Median Monthly Coverage Ratios for MEP Purchase Operations
+
+Oct. 2011
+
+<!-- missing-text -->
+
+Jan. 2012
+
+Apr. 2012
+
+Jul. 2012
+
+*Quality propositions are those classified in FRBNY's favorable-to-market bucket, which generally includes offers up to 3 to 6 ticks above market depending on sector.
+
+Source: Federal Reserve Bank of New York
+
+(16) Treasury Market Cost of Transacting*
+
+<!-- missing-text -->
+
+- *10-day moving average of price impact of simultaneously buying and selling $100 million of benchmark.
+
+Source: Brokertec, Federal Reserve Bank of New York
+
+(18) Monthly Treasury and MBS Purchases (Par Amounts)
+
+<!-- missing-text -->
+
+Source: Federal Reserve Bank of New York
+
+Class II FOMC - Restricted FR
+
+(19) Treasury and MBS Purchases and Issuance (Monthly Pace Under Hypothetical 2-Year LSAP)
+
+<!-- missing-text -->
+
+- *Excludes purchases under extended MEP.
+- **Includes $22 billion of monthly reinvestments.
+
+Source: Federal Reserve Bank of New York
+
+(20) Overnight Euro Area Repo Rates
+
+<!-- missing-text -->
+
+Source: Federal Reserve Bank of New York
+
+(21) Euro Portfolio Composition*
+
+<!-- missing-text -->
+
+- *SOMA holdings only; does not include ESF.
+- **German and French government debt.
+- Source: Federal Reserve Bank of New York
+
+Exhibit 4
+
+Appendix 3:  Materials used by Mr. Wilcox
+
+Class II FOMC - Restricted (FR)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+Forecast Summary
+
+Confidence Intervals Based on Tealbook Track Record
+
+Real GDP
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+PCE Prices
+
+<!-- missing-text -->
+
+Revisions: Real GDP
+
+<!-- missing-text -->
+
+PCE Prices Excluding Food and Energy
+
+<!-- missing-text -->
+
+Personal Saving Rate
+
+<!-- missing-text -->
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+<!-- missing-text -->
+
+Appendix 4:  Materials used by Chairman Bernanke
+
+Material for The Consensus Forecast Exercise
+
+July 31 - August 1, 2012
+
+uly 31-August 1, 2012
+
+281 of 304
+
+Authorized for Public Release
+
+J
+
+J
+
+<!-- missing-text -->
+
+J
+
+<!-- missing-text -->
+
+Alternative LSAP programs
+
+-  The 'Alternative A' program involves purchasing $600 billion of Treasury securities and $400 billion of agency MBS by the end of the third quarter of 2013.  The maturity distribution of the purchased securities is similar to that under the second LSAP program.
+-  The 'greater duration' program involves purchasing $750 billion of Treasury securities and $250 billion of agency MBS by late 2013.  The maturity distribution of the purchased Treasury securities is similar to that under the MEP (that is, longer than under the second LSAP program).
+-  Estimated term premium effects of the 'greater duration' programs are approximately twice as large as those under the 'alternative A' program.
+
+J
+
+<!-- missing-text -->
+
+J
+
+<!-- missing-text -->
+
+Projected Output Gap
+
+<!-- missing-text -->
+
+Projected Core Inflation
+
+J
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Appendix 5:  Materials used by Vice Chairman Dudley
+
+<!-- missing-text -->
+
+Euro Area Purchasing Managers Indexes
+
+<!-- missing-text -->
+
+Euro Stoxx Bank Price Index
+
+<!-- missing-text -->
+
+Italy and Spain: Nonresident Holdings of Public Debt Securities
+
+<!-- missing-text -->
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for FOMC Briefing on Monetary Policy Alternatives
+
+July 31-August 1, 2012
+
+290 of 304
+
+<!-- missing-text -->
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+-0.5
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+Experimental Consensus Forecast
+
+Federal Funds Rate
+
+Total Federal Reserve Assets
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+PCE Inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+5000
+
+4500
+
+4000
+
+3500
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+JUNE FOMC STATEMENT
+
+- 1. Information received since the Federal Open Market Committee met in April suggests that the economy has been expanding moderately this year.  However, growth in employment has slowed in recent months, and the unemployment rate remains elevated.  Business fixed investment has continued to advance.  Household spending appears to be rising at a somewhat slower pace than earlier in the year.  Despite some signs of improvement, the housing sector remains depressed.  Inflation has declined, mainly reflecting lower prices of crude oil and gasoline, and longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects economic growth to remain moderate over coming quarters and then to pick up very gradually.  Consequently, the Committee anticipates that the unemployment rate will decline only slowly toward levels that it judges to be consistent with its dual mandate.  Furthermore, strains in global financial markets continue to pose significant downside risks to the economic outlook.  The Committee anticipates that inflation over the medium term will run at or below the rate that it judges most consistent with its dual mandate.
+- 3. To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee expects to maintain a highly accommodative stance for monetary policy.  In particular, the Committee decided today to keep the target range for the federal funds rate at 0 to ¼ percent and currently anticipates that economic conditions-including low rates of resource utilization and a subdued outlook for inflation over the medium run-are likely to warrant exceptionally low levels for the federal funds rate at least through late 2014.
+- 4. The Committee also decided to continue through the end of the year its program to extend the average maturity of its holdings of securities.  Specifically, the Committee intends to purchase Treasury securities with remaining maturities of 6 years to 30 years at the current pace and to sell or redeem an equal amount of Treasury securities with remaining maturities of approximately 3 years or less.  This continuation of the maturity extension program should put downward pressure on longer-term interest rates and help to make broader financial conditions more accommodative.  The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee is prepared to take further action as appropriate to promote a stronger economic recovery and sustained improvement in labor market conditions in a context of price stability.
+
+AUGUST FOMC STATEMENT-ALTERNATIVE A
+
+- 1. Information received since the Federal Open Market Committee met in April June suggests that the economy has been expanding moderately economic activity decelerated somewhat over the first half of this year.  However,  Growth in employment has slowed been slow in recent months, and the unemployment rate remains elevated.  Business fixed investment has continued to advance.  Household spending appears to be has been rising at a somewhat slower pace than earlier in the year.  Despite some signs of improvement, the housing sector remains depressed. Inflation has declined been subdued in recent months , mainly reflecting lower prices of crude oil and gasoline, and longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects economic growth to remain moderate over coming quarters and then to pick up very gradually.  Consequently, the Committee anticipates that the unemployment rate will decline only slowly toward levels that it judges to be consistent with its dual mandate.  Furthermore, strains in global financial markets [ continue to | and issues relating to U.S. fiscal policy ] pose significant downside risks to the economic outlook.  The Committee anticipates that inflation over the medium term will run at or below the rate that it judges most consistent with its dual mandate.
+- 3. To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee also decided to continue through the end of the year its program to extend the average maturity of its holdings of securities begin a new large-scale asset purchase program . Specifically, the Committee now intends to purchase Treasury securities with remaining maturities of 6 years to 30 years at the current pace and to sell or redeem an equal amount of Treasury securities with remaining maturities of approximately 3 years or less increase its holdings of longer-term Treasury securities at a pace of about [ $45 ] billion per month and of agency mortgage-backed securities at a pace of about [ $30 ] billion per month . The Committee anticipates continuing to add to its holdings at least until it observes sustained improvement in labor market conditions, as long as projected medium-term inflation is close to its mandate-consistent level and longer-term inflation expectations remain stable. This continuation of the maturity extension program The increase in the Committee's securities holdings should put downward pressure on longer-term interest rates , support mortgage markets, and help to make broader financial conditions more accommodative. This new purchase program replaces the previously announced maturity extension program; therefore, the Committee is ending its sales of shorter-term Treasury securities and reinstituting its policy of rolling over maturing Treasury securities at auction. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee will regularly review the pace and composition of its securities purchases in light of the economic outlook and its ongoing assessments
+
+of the efficacy and costs of the program, and is prepared to take further action make adjustments as appropriate to promote a stronger economic recovery and sustained improvement in labor market conditions in a context of price stability.
+
+OR
+
+- 3'. To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee also decided to continue through the end of the year its program to extend the average maturity of its holdings of securities begin a new large-scale asset purchase program . Specifically, the Committee now intends to purchase Treasury securities with remaining maturities of 6 years to 30 years at the current pace and to sell or redeem an equal amount of Treasury securities with remaining maturities of approximately 3 years or less [ $600 billion ] of longer-term Treasury securities and [ $400 billion ] of agency mortgage-backed securities by the end of the third quarter of 2013, a combined pace of about [ $75 ] billion a month .  This continuation of the maturity extension program This action should put downward pressure on longer-term interest rates , support mortgage markets, and help to make broader financial conditions more accommodative. This new purchase program replaces the previously announced maturity extension program; therefore, the Committee is ending its sales of shorter-term Treasury securities and reinstituting its policy of rolling over maturing Treasury securities at auction. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee will regularly review the size and composition of its balance sheet in light of the outlook for inflation and labor market conditions and is prepared to take further action make adjustments as appropriate to promote a stronger economic recovery and sustained improvement in labor market conditions in a context of price stability.
+- 4. The Committee also decided today to keep the target range for the federal funds rate at 0 to ¼ percent and. To support sustained improvement in labor market conditions and to help ensure that inflation is close to its mandate-consistent level over the medium run, the Committee expects to maintain a highly accommodative stance for monetary policy as the economic recovery strengthens . In particular, the Committee currently anticipates that economic conditionsincluding low rates of resource utilization and a subdued outlook for inflation over the medium run-are likely to warrant exceptionally low levels for the federal funds rate are likely to be warranted at least through late 2014 mid-2015 .
+
+Note:  If policymakers decide that it is appropriate to reduce the remuneration rate on reserve balances, the Board of Governors would issue an accompanying statement that might read:
+
+In a related action, the Board of Governors voted today to reduce the interest rate paid on required and excess reserve balances from 25 basis points to 15 basis points effective with the reserve maintenance period that begins on August 9, 2012.
+
+AUGUST FOMC STATEMENT-ALTERNATIVE B
+
+- 1. Information received since the Federal Open Market Committee met in April June suggests that the economy has been expanding moderately economic activity decelerated somewhat over the first half of this year.  However, Growth in employment has slowed been slow in recent months, and the unemployment rate remains elevated.  Business fixed investment has continued to advance.  Household spending appears to be has been rising at a somewhat slower pace than earlier in the year.  Despite some further signs of improvement, the housing sector remains depressed.  Inflation has declined since earlier this year , mainly reflecting lower prices of crude oil and gasoline, and longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects economic growth to remain moderate over coming quarters and then to pick up very gradually.  Consequently, the Committee anticipates that the unemployment rate will decline only slowly toward levels that it judges to be consistent with its dual mandate.  Furthermore, strains in global financial markets [ continue to | and issues relating to U.S. fiscal policy ] pose significant downside risks to the economic outlook.  The Committee anticipates that inflation over the medium term will run at or below the rate that it judges most consistent with its dual mandate.
+- 3. To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee expects to maintain a highly accommodative stance for monetary policy.  In particular, the Committee decided today to keep the target range for the federal funds rate at 0 to ¼ percent and currently anticipates that economic conditions-including low rates of resource utilization and a subdued outlook for inflation over the medium run-are likely to warrant exceptionally low levels for the federal funds rate at least through [ late 2014 | mid-2015 ] .
+- 4. The Committee also decided to continue through the end of the year its program to extend the average maturity of its holdings of securities as announced in June, Specifically, the Committee intends to purchase Treasury securities with remaining maturities of 6 years to 30 years at the current pace and to sell or redeem an equal amount of Treasury securities with remaining maturities of approximately 3 years or less.  This continuation of the maturity extension program should put downward pressure on longer-term interest rates and help to make broader financial conditions more accommodative.  The Committee and it is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee is prepared to take further action as appropriate will closely monitor incoming information on economic and financial developments and will provide additional accommodation as needed to promote a stronger economic recovery and sustained improvement in labor market conditions in a context of price stability.
+
+AUGUST FOMC STATEMENT-ALTERNATIVE C
+
+- 1. Information received since the Federal Open Market Committee met in April June suggests that the economy has been expanding moderately this year.  However, growth in employment has slowed in recent months, and the unemployment rate remains elevated. Employment has shown further gains. Business fixed investment Private domestic demand has continued to advance, Household spending appears to be rising at a somewhat slower pace than earlier in the year.  Despite and the housing sector remains depressed has shown some signs of improvement. Inflation has declined since earlier this year , mainly reflecting lower prices of crude oil and gasoline, and longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects economic growth to remain moderate over coming quarters and then to pick up very gradually.  Consequently, the Committee anticipates that the unemployment rate will decline only slowly toward levels that it judges to be consistent with its dual mandate.  Furthermore, strains in global financial markets [ continue to | and issues relating to U.S. fiscal policy ] pose significant downside risks to the economic outlook.  The Committee anticipates that inflation over the medium term will run at or below about the rate that it judges most consistent with its dual mandate.
+- 3. To support a stronger the economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee expects to maintain a highly accommodative stance for monetary policy.  In particular, the Committee decided today to keep the target range for the federal funds rate at 0 to ¼ percent and currently anticipates that economic conditions-including low rates of resource utilization and a subdued outlook for inflation over the medium run-are likely to warrant exceptionally low levels for the federal funds rate at least through late [ 2013 | 2014  . ]
+
+OR
+
+- 3'. To support a stronger sustainable economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee expects to maintain a highly accommodative stance for monetary policy. In particular, the Committee decided today to keep the target range for the federal funds rate at 0 to ¼ percent and currently anticipates that economic conditionsincluding low rates of resource utilization and a subdued outlook for inflation over the medium run-are likely to warrant exceptionally low levels for the federal funds rate at least through late 2014. As rates of resource utilization rise toward levels consistent with maximum employment, the Committee eventually will need to make monetary policy less accommodative in order to ensure that the economy expands at a sustainable pace and to prevent inflation from persistently exceeding its longer-run objective.  In determining the appropriate time to increase its target for the federal funds rate, the Committee will consider a range of factors, including actual and projected labor market conditions, the medium-
+
+term outlook for inflation, and the risks to the achievement of the Committee's objectives.
+
+- 4. The Committee also decided to continue through the end of the year its program to extend the average maturity of its holdings of securities as announced in June Specifically, the Committee intends to purchase Treasury securities with remaining maturities of 6 years to 30 years at the current pace and to sell or redeem an equal amount of Treasury securities with remaining maturities of approximately 3 years or less.  This continuation of the maturity extension program should put downward pressure on longer-term interest rates and help to make broader financial conditions more accommodative.  The Committee is maintaining and to maintain its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee will regularly review the size and composition of its securities holdings and is prepared to take further action as appropriate adjust those holdings as necessary to promote maximum employment and a stronger economic recovery and sustained improvement in labor market conditions in a context of price stability.
+
+JUNE 2012 DIRECTIVE
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to continue the maturity extension program it began in September to purchase, by the end of June 2012, Treasury securities with remaining maturities of 6 years to 30 years with a total face value of $400 billion, and to sell Treasury securities with remaining maturities of 3 years or less with a total face value of $400 billion.  Following the conclusion of these purchases, the Committee directs the Desk to purchase Treasury securities with remaining maturities of 6 years to 30 years with a total face value of about $267 billion by the end of December 2012, and to sell or redeem Treasury securities with remaining maturities of approximately 3 years or less with a total face value of about $267 billion. For the duration of this program, the Committee directs the Desk to suspend its current policy of rolling over maturing Treasury securities into new issues.  The Committee directs the Desk to maintain its existing policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in the System Open Market Account in agency mortgage-backed securities.  These actions should maintain the total face value of domestic securities at approximately $2.6 trillion.  The Committee directs the Desk to engage in dollar roll transactions as necessary to facilitate settlement of the Federal Reserve's agency MBS transactions.  The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+AUGUST 2012 DIRECTIVE-ALTERNATIVE A
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to continue the maturity extension program it began in September to purchase, by the end of June 2012, Treasury securities with remaining maturities of 6 years to 30 years with a total face value of $400 billion, and to sell Treasury securities with remaining maturities of 3 years or less with a total face value of $400 billion.  Following the conclusion of these purchases, the Committee directs the Desk to purchase Treasury securities with remaining maturities of 6 years to 30 years with a total face value of about $267 billion by the end of December 2012, and to sell or redeem Treasury securities with remaining maturities of approximately 3 years or less with a total face value of about $267 billion begin a new large-scale asset purchase program . This program replaces the previously announced maturity extension program.  Specifically, [ the Desk is directed to purchase longer-term Treasury securities at a pace of about $45 billion per month and to purchase agency mortgage-backed securities at a pace of about $30 billion per month. | the Desk is directed to purchase $600 billion of longer-term Treasury securities and $400 billion of agency mortgage-backed securities by the end of the third quarter of 2013. ] For the duration of this program, the Committee directs the Desk to suspend its current The desk is also directed to reinstate the policy of rolling over maturing Treasury securities into new issues.  The Committee directs the Desk to maintain its existing policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in the System Open Market Account in agency mortgage-backed securities.  These actions should maintain the total face value of domestic securities at approximately $2.6 trillion.  The Committee directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency MBS transactions.  The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+AUGUST 2012 DIRECTIVE-ALTERNATIVE B
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to continue the maturity extension program it began announced in June September to purchase, by the end of June 2012, Treasury securities with remaining maturities of 6 years to 30 years with a total face value of $400 billion, and to sell or redeem Treasury securities with remaining maturities of 3 years or less with a total face value of $400 billion.  Following the conclusion of these purchases, the Committee directs the Desk to purchase Treasury securities with remaining maturities of 6 years to 30 years with a total face value of about $267 billion by the end of December 2012, and to sell or redeem Treasury securities with remaining maturities of approximately 3 years or less with a total face value of about $267 billion.  For the duration of this program, the Committee directs the Desk to suspend its current policy of rolling over maturing Treasury securities into new issues.  The Committee directs the Desk to maintain its existing policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in the System Open Market Account in agency mortgage-backed securities.  These actions should maintain the total face value of domestic securities at approximately $2.6 trillion. The Committee directs the Desk to engage in dollar roll transactions as necessary to facilitate settlement of the Federal Reserve's agency MBS transactions.  The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+AUGUST 2012 DIRECTIVE-ALTERNATIVE C
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to continue the maturity extension program it began announced in June September to purchase, by the end of June 2012, Treasury securities with remaining maturities of 6 years to 30 years with a total face value of $400 billion, and to sell or redeem Treasury securities with remaining maturities of 3 years or less with a total face value of $400 billion.  Following the conclusion of these purchases, the Committee directs the Desk to purchase Treasury securities with remaining maturities of 6 years to 30 years with a total face value of about $267 billion by the end of December 2012, and to sell or redeem Treasury securities with remaining maturities of approximately 3 years or less with a total face value of about $267 billion.  For the duration of this program, the Committee directs the Desk to suspend its current policy of rolling over maturing Treasury securities into new issues.  The Committee directs the Desk to maintain its existing policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in the System Open Market Account in agency mortgage-backed securities.  These actions should maintain the total face value of domestic securities at approximately $2.6 trillion. The Committee directs the Desk to engage in dollar roll transactions as necessary to facilitate settlement of the Federal Reserve's agency MBS transactions.  The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+Appendix 7:  Materials used by Ms. Yellen
+
+Class I FOMC - Restricted Controlled (FR)
+
+Questions
+
+regarding
+
+Experimental Forecast Exercise
+
+August 1, 2012
+
+July 31-August 1, 2012
+
+303 of 304
+
+Authorized for Public Release
+
+J
+
+3
+
+0
+
+4
+
+Questions
+
+- 1. Do you think the general approach used in this exercise would be helpful in elucidating a forecast that appropriately captures the consensus view of the Committee? What elements would you suggest be modified in future experiments?
+- 2. Should the Committee proceed with a second experiment? If so, do you have any specific suggestions regarding the design of that experiment and when it should take place?
+- 3. If the Committee proceeds with a second experiment, to what extent should participants be expected to provide input to the Chairman in advance of his initial preparation of the consensus forecast? Should a compilation of participants' initial input to the Chairman be circulated to all Committee participants; if so, should it be with or without attribution?

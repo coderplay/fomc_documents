@@ -1,0 +1,834 @@
+Prefatory Note
+
+The attached document represents the most complete and accurate version available based on original files from the FOMC Secretariat at the Board of Governors of the Federal Reserve System.
+
+Please note that some material may have been redacted from this document if that material was received on a confidential basis.  Redacted material is indicated by occasional gaps in the text or by gray boxes around non-text content.  All redacted passages are exempt from disclosure under applicable provisions of the Freedom of Information Act.
+
+Part 1
+
+August 6, 2009
+
+CURRENT ECONOMIC AND FINANCIAL CONDITIONS
+
+Summary and Outlook
+
+Class II FOMC - Restricted (FR)
+
+August 6, 2009
+
+Summary and Outlook
+
+Class II FOMC-Restricted (FR)
+
+Domestic Developments
+
+According to the advance estimate from the BEA, real GDP declined at an annual rate of 1 percent in the second quarter after plunging at a rate of 6½ percent in the first quarter. 1 In addition, a number of key indicators of activity around midyear-motor vehicle production, sales and starts of single-family homes, and initial claims for unemployment insurance-seem to have taken a turn for the better, and financial conditions have continued to improve.  In this projection, we have interpreted these developments as signaling that the downturn in economic activity is drawing to a close.
+
+Our projection for the change in real activity over the next year and a half is essentially the same as that in the June Greenbook.  To be sure, consumer spending has been lackluster lately, and-all else being equal-the sharp downward revision to real disposable income (DPI) growth reported by the BEA for the first half of 2009 would bode a softer trajectory for consumer spending in coming quarters.  But this negative influence on the outlook for aggregate demand is roughly offset in our projection by higher household net worth, lower corporate bond rates and spreads, a lower foreign exchange value of the dollar, and a stronger forecast for foreign growth.  Thus, as in June, we expect real GDP to increase at an annual rate of 1¼ percent, on average, in the second half of 2009 and 3 percent in 2010.  The projected increase in production in the second half of 2009 leads to a lessening in the pace of inventory liquidation; as we move into 2010, final sales should pick up, supported importantly by an ongoing improvement in economic and financial conditions.
+
+Interpreting the data on core PCE inflation is complicated by changes in the definition of the core measure, as well as by unusually low readings for some nonmarket components of the price index.   After accounting for these factors, the underlying pace of core 2
+
+inflation seems to be running a little higher than we had anticipated; in addition, survey measures of inflation expectations have shown no discernible decrease.  Nonetheless, with the unemployment rate having reached 9½ percent-and expected to rise further in the second half of this year before turning down next year-we still expect core PCE inflation to slow over the forecast period; the very low readings on hourly compensation lately suggest that such a process may already be in train.  In this Greenbook, core PCE prices are projected to rise about 1½ percent in 2009 and 1 percent in 2010, while overall PCE inflation is expected to total 1 percent and 1¼ percent, respectively, for those years.
+
+Key Background Factors
+
+We continue to assume that the FOMC will hold the target federal funds rate in the current range of 0 to ¼ percent through the end of the forecast period.  As was the case when we put together the June Greenbook, the expected path of the federal funds rate implied by futures quotes begins to rise early next year and exceeds 1 percent by the end of 2010.
+
+We have made only small adjustments to our assumptions for nontraditional policy actions.  In particular, we now assume that holdings of agency debt will peak at $150 billion at the end of 2009, $50 billion less than we had previously anticipated; this revision reflects a slower pace of purchases recently that is intended to avoid distorting pricing and compromising liquidity in the agency debt markets.  As in the June forecast, we expect that the Federal Reserve will have purchased a total of $1.25 trillion of agency mortgage-backed securities (MBS) and $300 billion of Treasury securities by the end of the year-the maximum amounts announced in March.  The Federal Reserve's holdings of long-term securities are assumed to run off passively starting in 2010.
+
+With respect to longer-term rates, the 10-year Treasury yield has been little changed, on net, in recent weeks; we continue to expect it to rise gradually through the end of next year.  The staff's assumed path for the federal funds rate implies a surprise for market participants that should put some downward pressure on long-term yields.  However, we expect this influence to be more than offset by the effect of moving through the period of very low short-term rates, implying that bond yields reflect the anticipated level of the federal funds rate after the economy has fully recovered.
+
+The conforming 30-year fixed mortgage rate has edged down to about 5¼ percent, just a little lower than we had anticipated in June.  We expect it to drift up to 5½ percent by the
+
+Key Background Factors Underlying the Baseline Staff Projection
+
+Federal Funds Rate
+
+Long-Term Interest Rates
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Equity Prices
+
+<!-- missing-text -->
+
+2005:Q1 = 100, ratio scale
+
+Crude Oil Prices
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+end of 2010, the same level and spread to long-term Treasury yields as in the previous forecast.
+
+Yields on BBB-rated corporate bonds have fallen 75 basis points since the close of the June Greenbook, and spreads relative to long-term Treasury yields have narrowed considerably.  Nonetheless, these spreads remain a little above their peaks in previous cycles; on the assumption that risk premiums in the bond market will continue to recede, we expect 10-year BBB corporate bond yields to decrease another 35 basis points by the end of 2010.
+
+Broad indexes of equity prices currently stand 11 percent above the level assumed in the June Greenbook, and we have raised the projected path for stock prices by a similar amount.  As in prior forecasts, we assume that the equity risk premium, which remains very high by historical standards, will move down gradually in coming quarters; largely as a result, stock prices are projected to rise at an average annual rate of about 15 percent through the end of 2010.
+
+The incoming information on house prices has not been quite as weak as we had anticipated-in fact, several measures have even risen a bit in recent months.  We have adjusted up the starting level of our house price forecast by almost 2½ percent in response to these data, but the noisiness of the house price indexes and a more dismal outlook for foreclosures makes us reluctant to extend the favorable price news forward. Indeed, we have marked up our projection for foreclosure starts and now expect them to exceed 2 million in 2010 for a third year in a row; the upward revision reflects indications of a higher-than-anticipated volume of foreclosure starts in the second quarter as well as a change in our assessment of the likely effectiveness of mitigation efforts.  All told, we still expect home prices to remain on a relatively steep downward trajectory, with the LoanPerformance house price index falling at an average annual rate of 8 percent over the next year and a half, about the same as in the June Greenbook.
+
+Regarding fiscal policy, the implementation of the spending and tax changes in the American Recovery and Reinvestment Act of 2009 (ARRA) generally seems to be proceeding about in line with our expectations; the one exception is benefits for emergency unemployment compensation, which appear to be running above our previous expectations.  However, the incremental boost to household spending from the higher level of these benefits is not large enough to materially change our estimate that, after accounting for multiplier effects, the package will contribute about 1 percentage point at
+
+an annual rate to the change in real GDP in the second half of 2009 and will add ¾ percentage point to real GDP growth in 2010.  All told, we expect the unified budget deficit to total about $1.4 trillion (10 percent of GDP) in fiscal 2009 and to remain in that vicinity in fiscal 2010, approximately the same projection as in the June Greenbook.
+
+In the foreign exchange markets, the broad real dollar has fallen about 2 percent since the time of the June Greenbook, and we project it to depreciate about 2 percent annually over the next year and a half.  The incoming data on economic activity abroad have been somewhat stronger than we had anticipated-indeed, foreign GDP now appears to have posted a small increase in the second quarter rather than the moderate decline that we had anticipated in the June Greenbook.  We have also revised up the forecast for foreign GDP over the projection period and now expect it to rise at an annual rate of 2¾ percent in the second half of 2009 and 3¼ percent in 2010.
+
+The spot price of West Texas intermediate (WTI) crude oil, at $71 per barrel, is the same as it was at the time of the June Greenbook.  Consistent with futures prices, which are also little changed since the June Greenbook, we expect the WTI price to rise gradually over the next year and a half as worldwide economic activity strengthens, ending 2010 in the neighborhood of $80.
+
+Recent Developments and the Near-Term Outlook
+
+As we had anticipated, the rate of decline in real GDP slowed significantly in the second quarter.   We continue to expect economic growth to resume in the second half of this 3 year, with real GDP rising at an annual rate of 1¼ percent, on average, in the third and fourth quarters.  The broad macroeconomic story for the second half of the year continues to center on an inventory cycle.  With production running well below the level of final sales during the past several quarters, firms have run off a good portion of their unwanted stocks.  Now that final demand seems to be stabilizing, we expect businesses to begin to move production back up toward the level of sales.  In terms of GDP accounting, this increased production will manifest itself as a positive contribution to economic growth coming from inventory investment.  As we move into 2010, a firming in final sales is expected to provide additional upward impetus to production.
+
+Summary of the Near-Term Outlook
+
+(Percent change at annual rate except as noted)
+
+<!-- missing-text -->
+
+The labor market deteriorated less in the second quarter than it had earlier in the year, but job losses remained substantial through June, and unemployment continued to climb. Labor demand is likely to contract further in coming months, though recent readings on initial claims and other available information suggest that the pace of job losses may have eased a bit in July.  Our current estimate is that private payrolls will decrease 200,000 per month, on average, in the third quarter, compared with an average monthly decline of more than 400,000 in the second quarter, while the unemployment rate is expected to move up to an average of 9¾ percent.  Employment is expected to continue to drop through the autumn-albeit at a diminishing rate-while the unemployment rate is projected to reach 10 percent in the fourth quarter.
+
+Industrial production seems headed for a solid advance in the third quarter after more than a year of steep declines.  With inventories at low levels and with General Motors and Chrysler restarting operations after emerging from bankruptcy, assemblies of light vehicles are slated to rise to an annual rate of nearly 6½ million units this quarter, 2 million units above their second-quarter pace.  In addition, the recent pattern of new orders and other advance indicators suggests that the contraction in output outside motor vehicles is abating.  All told, we expect manufacturing output to rise at an annual rate of 4½ percent in the third quarter and to increase further in the fourth quarter as motor vehicle assemblies move up another notch and output in other sectors rises moderately.
+
+The news from the housing sector has also been favorable.  In June, single-family starts posted an unexpectedly large increase, and sales of both new and existing homes have continued to trend up as purchasers reportedly have been drawn in by low mortgage rates and house prices as well as tax incentives for first-time homebuyers.  In response to these data, we have raised our projection for single-family starts in the second half of the year by 50,000 units at an annual rate, to 480,000 units.  However, total real residential investment likely will continue to fall through year-end because of the plunge in multifamily construction, although the projected drag on real GDP growth from housing will be only a small fraction of the negative 1 percentage point seen over the first half of the year.
+
+Real personal consumption expenditures (PCE) have been soft in recent months despite support from the tax and transfer provisions in ARRA.  After having fallen slightly, on net, over the first half of the year, real PCE is projected to rise at an annual rate of just 1 percent over the second half.  Sales of light vehicles spurted to an annual rate of 11¼ million units in July, 1½ million units above their second-quarter pace, boosted by the 'cash for clunkers' program.  But we see most of this boost as a temporary pullforward of sales that would have occurred otherwise.  More broadly, the projected slow pace of consumer spending this quarter and next reflects weakness in current and prospective household income as well as the lagged effects of the earlier drop in net worth.
+
+We estimate that real investment in equipment and software (E&amp;S) fell at an annual rate of 8 percent in the second quarter after two quarters of much steeper declines; we expect it to fall at a 5 percent rate, on average, in the second half of the year.  The enormous decreases in outlays on transportation equipment, which were an important negative for E&amp;S in 2008 and early 2009, seem to have ended, and orders for nondefense capital goods have picked up a bit.  In addition, corporate bond yields and spreads-though still elevated-have eased considerably.  But purchases of high-tech equipment remain subdued, and backlogs of unfilled orders outside of transportation and high tech are still shrinking, suggesting that spending in this broad category will continue to move lower.
+
+Outside the petroleum refining and power generation sectors, conditions for nonresidential construction remain dismal:  Vacancy rates have risen in recent quarters, and financing for new projects is extremely difficult to obtain.  Indeed, the architectural billings index points to further declines in construction spending for the rest of the year. In addition, drilling and mining activity has come under severe downward pressure from
+
+weak demand and low spot prices of natural gas.  We estimate that real nonresidential construction outlays declined at an annual rate of 30 percent, on average, over the first half of the year; we expect them to continue to plummet in the second half.
+
+After having subtracted about 1½ percentage points from the change in real GDP over the first half of this year, nonfarm inventory investment is projected to add a comparable amount in the second half as the pace of inventory liquidation diminishes.  In the third quarter, the positive swing in inventory investment is expected to be concentrated in the motor vehicle sector, where stocks are already at low levels.  However, we expect reductions in inventory liquidation to become more widespread in the fourth quarter as non-auto stocks come into closer alignment with sales.  Indeed, the latest readings from the ISM suggest that inventory positions are improving.
+
+Smoothing through the ups and downs in the quarterly data, real federal expenditures for consumption and gross investment posted a moderate increase over the first half of the year; we expect them to rise appreciably in the second half, consistent with appropriated funding for defense and the boost to nondefense spending from ARRA.  Meanwhile, state and local purchases are projected to eke out small gains in the third and fourth quarters as the grants in the fiscal stimulus package help states and localities maintain their spending in the face of very weak revenues.
+
+Based on international trade data through May and other information, we estimate that net exports added about 1 percentage point to the change in real GDP in the second quarter as a decline in exports was accompanied by a larger drop in imports.  With exports and imports expected to rebound as foreign and domestic demand picks up, the external sector's contribution to the change in real GDP is expected to be close to zero in the second half of the year.
+
+The BEA reported that total PCE prices rose at an annual rate of 1¼ percent in the second quarter and that core PCE prices rose at a 2 percent pace; both figures were lower than we had expected and were accompanied by downward revisions in the first quarter. However, much of the lower-than-expected rate of core inflation over the first half of this year reflects low estimates of nonmarket price inflation, which we do not expect to persist.  In contrast, increases in market-based PCE prices in recent months have run a little above our expectations.  Nonetheless, given the low levels of resource utilization in the economy (as well as an end to the tax-related jump in prices of tobacco products, which boosted core inflation in the second quarter), we continue to expect core inflation
+
+to slow in the second half of this year.  Our current forecast has core PCE prices increasing at an annual rate of 1¼ percent in the second half, a touch higher than in the last Greenbook.  Total PCE prices are projected to rise at an annual rate of 2¼ percent in that period, pushed up by large increases in energy prices.
+
+The Medium-Term Outlook
+
+Our forecast has the pace of real GDP picking up from an annual rate of 1¼ percent in the second half of 2009 to 3 percent in 2010.  The financial repair process remains an important aspect of the anticipated step-up in activity, and it seems to be proceeding about as we had anticipated in the June Greenbook.  Continued financial healing, accompanied by accommodative monetary policy, sets the stage for further improvements in household and business sentiment and an acceleration in aggregate demand.
+
+Household sector. We expect consumer spending to strengthen noticeably in 2010 as prospects for jobs and incomes brighten, negative wealth effects wane, and the availability of consumer credit improves.  Even so, the large reduction in wealth over the past couple of years and a desire by households to repair overstretched balance sheets will likely be damping influences on spending.  All told, our projection calls for real PCE to rise 2½ percent in 2010 after increasing ½ percent in 2009.  The personal saving rate averages 4½ percent in the second half of this year and drifts down only a little over the course of 2010.
+
+The basic story for the housing sector remains the same as in recent Greenbooksnamely, that housing demand will strengthen as household income picks up and low mortgage rates and lower real-estate prices enhance affordability.  The firming in demand, combined with the diminishing drag on production from the overhang of unsold new homes, should contribute to a gradual uptrend in new construction, with singlefamily housing starts moving up to a 720,000 unit pace by the end of 2010.  We expect construction in the multifamily sector to turn up as well, though these starts will likely remain well below the levels of recent years given the limited availability of credit for such projects and the sharp declines in prices of apartment buildings over the past year, reflecting the downward pressure on anticipated rents from high vacancy rates.  Given our projected path for housing starts, we expect residential investment to make a small positive contribution to real GDP growth in 2010-the first since 2005.
+
+Projections of Real GDP
+
+(Percent change at annual rate from end of preceding period except as noted)
+
+<!-- missing-text -->
+
+Business investment. We continue to expect real outlays for equipment and software to remain tepid in early 2010 but to subsequently rebound as business output picks up, financing constraints ease, and investment that had been deferred during the recession resumes.  By the second half of next year, our projection calls for real E&amp;S outlays to be rising at double-digit rates, bringing the increase over 2010 to 8 percent.
+
+We project that real outlays for nonresidential construction will fall 5½ percent in 2010 after having plunged 27½ percent in 2009.  Given our path for energy prices, outlays for
+
+drilling and mining structures should retrace part of the enormous decline posted in 2009. But spending on nonresidential buildings will likely continue to experience substantial downward pressure from a toxic brew of negative fundamentals:  elevated vacancy rates in the wake of weak cyclical demand, resale activity that has slowed to a trickle, and extremely bleak financing conditions.  Indeed, with the flow of credit to finance new projects and to refinance expiring loans on existing properties likely to be disrupted for an extended period of time, we expect the recuperation in financing conditions for this sector to be more drawn out and less pronounced than for other sectors.
+
+We expect inventories to be back in reasonable alignment with sales around the turn of the year.  Accordingly, after adding substantially to output growth during the second half of this year, inventory investment is projected to contribute modestly to growth in real activity in 2010.
+
+Government spending. Given our fiscal policy assumptions, the rise in real federal expenditures for consumption and investment is projected to slow from 5 percent in 2009 to 2½ percent in 2010, with decelerations in both defense and nondefense purchases.  In the state and local sector, construction spending should be bolstered in 2010 by the infrastructure grants in ARRA, but budget pressures will likely continue to force governments to hold the line on operating expenditures.  As a result, we expect real state and local purchases to rise just 1 percent next year.
+
+Net exports. Given the downward revision to the path of the dollar and the stronger projection for foreign activity, we now expect that real exports will rise about 5 percent in 2010.  However, real imports are also expected to accelerate.  As a result, real net exports are projected to be a slight negative for the change in real GDP in 2010 after having made a positive contribution of nearly 1 percentage point in 2009. (The International Developments section provides more detail on the outlook for the external sector.)
+
+Aggregate Supply, the Labor Market, and Inflation
+
+We have made no significant revisions in this Greenbook to our estimates of aggregate supply over the forecast period.   Thus, structural productivity is still assumed to rise 4 about 1½ percent per year in 2009 and 2010 while potential GDP is assumed to increase 2 percent per year.  Given the downward revisions to real GDP for 2008 and the first quarter of 2009, the GDP gap is now estimated to have reached negative 7½ percent of
+
+<!-- missing-text -->
+
+potential GDP in the second quarter of 2009, more than 1 percentage point wider than assumed in the June Greenbook; it is expected to widen a bit further by the end of this year before narrowing gradually to 6¾ percent by the end of 2010.
+
+Productivity and the labor market. Mirroring the downward revision to output over the past year or so, productivity in the nonfarm business sector now appears to have risen at an annual rate of less than 1 percent over the five quarters ending in the first quarter of 2009-more than 1 percentage point below the previously published figure and substantially below our estimate of its structural trend.  That said, productivity still seems to have posted an outsized gain in the second quarter.  Given that employers have already made deep cuts in employment and hours, we expect productivity to rise at about its trend rate over the next six quarters.  Meanwhile, our forecast for employment is similar to that in the June Greenbook, with private payroll employment expected to stabilize in the fourth quarter of 2009 and then rise 140,000 per month in 2010.  Given this pace of hiring, the unemployment rate is projected to edge down from 10 percent in the fourth quarter of 2009 to 9.6 percent by the end of 2010.
+
+Inflation Projections
+
+(Percent change, Q4 to Q4, except as noted)
+
+<!-- missing-text -->
+
+Prices and labor costs. Definitional changes aside, the projection for core PCE inflation over the next year and a half is a little higher than in the June Greenbook, consistent with our interpretation of the incoming price data and the relative stability of recent survey readings on inflation expectations.  Nonetheless, we continue to expect inflation to be subdued over the projection period, mainly because of the low level of resource utilization in our forecast.  In all, we now expect core PCE inflation to drop from 2 percent in 2008 to about 1½ percent in 2009 and 1 percent in 2010.  Given our projections for food and energy prices, total PCE prices increase 1 percent in 2009 and 1¼ percent in 2010.
+
+Meanwhile, the incoming data on hourly compensation have been strikingly low.  The employment cost index (ECI) rose at an annual rate of just ¾ percent in the first and second quarters, and based on the revised NIPA data, we estimate that the 'productivity and cost' (P&amp;C) measure of hourly compensation fell at an annual rate of about 1¾ percent over the first half of this year after rising 2½ percent in 2008.   For some time, 5 we had been forecasting a sharp deceleration in hourly compensation in response to the weak labor market and low rates of overall price inflation; the incoming information suggests that the deceleration has already occurred.  Looking forward, we have lowered our forecast for hourly compensation in the second half of 2009 somewhat, but we have made no major changes to the forecast for 2010.
+
+Financial Flows and Conditions
+
+We project a moderate expansion of domestic nonfinancial debt in the second half of this year and in 2010, reflecting a rapid increase in federal government debt and a temperate rise in state and local government debt.  Borrowing by households and nonfinancial businesses is expected to remain extremely light by historical standards.
+
+Household debt contracted at an annual rate of about 1 percent in the first half of the year, and we expect a similar rate of decline in the second half.  We expect mortgage debt and nonmortgage consumer credit to be restrained by the relatively low level of spending for housing and consumer durables and by limited credit availability.  Although we anticipate that household borrowing will resume next year as the economy improves, the rise in debt will be anemic because of the elevated unemployment rate, continued deleveraging, and lending standards that are still relatively tight.
+
+Nonfinancial business debt is expected to increase slightly in the second half of this year after a flat first half.  Although credit conditions facing nonfinancial firms-particularly those with access to capital markets-have improved markedly in recent months, we anticipate that the rise in debt for nonfinancial businesses will remain sluggish through the end of the forecast period, in part because the low level of capital expenditures should limit the demand for external funds.  In addition, banks' standards for business loans are expected to ease only slightly.
+
+Federal government debt is expected to balloon over the forecast period as the deficit remains extremely large.  All told, we anticipate net federal borrowing of about
+
+$1.6 trillion in 2009 and about $1.2 trillion in 2010.  In the state and local government sector, borrowing rebounded in the second quarter as strains in the municipal bond market eased.  We expect state and local government borrowing to slow to a more sustainable pace over the projection period, in part because infrastructure stimulus grants will finance some of the rise in the sector's capital outlays.
+
+M2 was little changed, on net, in June and July.  M2 is projected to contract over the second half of this year as households continue to reallocate some of their wealth toward riskier assets.  In 2010, M2 is forecast to increase less rapidly than nominal GDP, as improvements in economic and financial market conditions continue to reduce demand for M2 assets.
+
+The Long-Term Outlook
+
+We have extended the staff forecast to 2013, using the FRB/US model and staff assessments of long-run supply-side conditions, fiscal policy, and other factors.  The contour of the long-run outlook depends on the following key assumptions:
+
+- · Monetary policy aims to stabilize PCE inflation at 2 percent in the long run, consistent with the longer-term inflation projections provided by the majority of FOMC participants in June.
+- · No further nontraditional monetary policy actions are undertaken beyond those that have already been announced.  This assumption implies a gradual shrinking of the Federal Reserve's balance sheet over time.
+- · Risk premiums on corporate bonds and equity continue to fall back toward historically more normal levels beyond 2010, and banks gradually ease their lending terms and standards.
+- · The fiscal stimulus package continues to boost the level of government spending beyond 2010, as the grants in the package raise state and local government outlays only gradually.  By 2013, spending out of these grants is essentially complete.
+- · Government budget deficits narrow after 2010.  This improvement mostly reflects the effects of the economic recovery on tax receipts and transfer payments.
+
+- · From 2011 to 2013, the foreign exchange value of the dollar is assumed to depreciate about 2¼ percent per year in real terms.  The price of WTI crude oil rises gradually about $85 per barrel by the end of 2013, consistent with futures prices.  Under these assumptions, movements in the prices of energy and imports have only minor implications for domestic inflation.  Foreign real GDP expands 4¼ percent per year, on average, as the economic recovery abroad picks up speed.
+- · The NAIRU remains flat at 5 percent, and potential GDP expands 2½ percent per year, on average, over the 2011-13 period.
+
+The unemployment rate enters 2011 still at a very high level, and inflation is noticeably below the assumed long-run target.  Under the assumptions used to construct the baseline extension, the federal funds rate remains at the effective lower bound through early 2012. The lingering effects of financial turmoil continue to fade after 2010, and the recovery in residential construction gains momentum.  Coupled with stimulative monetary policy, these factors propel real GDP to increase 5 percent per year, on average, from 2011 through 2013.  With actual output rising faster than its potential rate by a wide margin, the unemployment rate declines steadily over this period and reaches the NAIRU in 2013. Core PCE inflation moves up modestly after 2011 as economic activity recovers and long-run inflation expectations are assumed to remain well anchored.
+
+The Long-Term Outlook
+
+(Percent change, Q4 to Q4, except as noted)
+
+<!-- missing-text -->
+
+- 1. Percent, average for the final quarter of the period.
+
+Alternative Scenarios
+
+In this section, we consider risks to the staff projection (as represented by the extended Greenbook baseline) using simulations of the FRB/US model.  In the first scenario, we assume that the improvement in financial conditions observed since the spring proves to be short-lived, and financial stresses intensify rather than abate.  The second scenario examines another downside risk to activity-the possibility that, in the wake of the financial and economic turmoil of the past two years, households boost their saving rate by more than in our baseline.  By contrast, the third scenario considers the possibility that financial healing will proceed more rapidly than we anticipate.  The next two scenarios examine opposing inflation risks-specifically, that long-run inflation expectations move up significantly, or, alternatively, that we have substantially underestimated disinflationary pressures.  The final scenario considers the possibility that the recession will have persistent adverse effects on labor market functioning.  In each of these scenarios, we assume that the federal funds rate follows the prescriptions of a version of the Taylor rule, subject to an effective lower bound of 12½ basis points.  Furthermore, these scenarios are conditioned on the baseline assumptions for other policy actions (such as long-term asset purchases).
+
+Intensified financial fragility. Although financial conditions have improved considerably since early spring, the financial system remains fragile.  In this scenario, we assume some of the recent improvement is unwound and financial strains re-intensify. Loan losses, such as for commercial real estate, rise considerably more than expected, and banks find it difficult to raise private capital, leading them to tighten lending terms and standards.  Credit availability is further restricted by a failure of private securitization activity to resume as expected.  The faltering in the pace of financial healing raises risk premiums on corporate bonds by about 200 basis points and lowers equity prices about 30 percent relative to baseline over the next year.  Moreover, interest rates on conventional mortgages increase about 100 basis points and home prices fall about 5 percent further than in the baseline.  In this financial environment, households and businesses curtail their spending, and real GDP falls at an annual rate of 1¼ percent over the latter half of this year and barely increases in 2010.  The unemployment rate peaks at nearly 11 percent late next year.  Beyond 2010, real activity gathers momentum as financial strains abate and credit availability improves.  Nonetheless, the unemployment rate remains appreciably above baseline through 2013, causing inflation to be more subdued and delaying the eventual tightening in monetary policy.
+
+Alternative Scenarios
+
+(Percent change, annual rate, from end of preceding period except as noted)
+
+<!-- missing-text -->
+
+- 1. Percent, average for the final quarter of the period.
+
+Higher saving rate . The personal saving rate has moved up considerably in recent quarters from what had been a very low level by historical standards.  In the baseline, we expect the saving rate to drift down from its current level to about 4 percent over the next few years-in line with our assessment of fundamentals.  However, there is a chance that households restrain their spending more markedly, perhaps reflecting a permanently reduced access to credit or households' reassessment of the risks associated with high levels of debt or large cyclical fluctuations in employment.  In this scenario, the saving rate moves up to 7 percent by next year and remains elevated through 2013, bringing it roughly in line with its average level in the late 1980s and early 1990s.  As a result, real GDP contracts during the latter half of 2009 and then rises less rapidly than the baseline through 2010.  The unemployment rate rises to nearly 11 percent by the end of 2010 and inflation slows noticeably, delaying the liftoff of the federal funds rate until mid-2013. Thus, given our baseline assessment that the federal funds rate will have to remain near zero for some time, higher saving exacerbates the challenges associated with fostering economic recovery over the next few years, even though it would be desirable in the longer run.
+
+Faster pace of financial recovery . In this scenario, we examine the possibility that financial healing gains more momentum than we currently anticipate, and that the attendant improvement in household and business sentiment generates a robust recovery. At the end of next year, relative to baseline, risk premiums on corporate bonds are 100 basis points lower, equity prices are 35 percent higher, and house prices are 10 percent higher.  In addition, terms and standards on loans have eased more substantially.  Under these more favorable financial conditions, household and business spending increases appreciably, and the unemployment rate drops to 9 percent by the end of next year.  Inflation is modestly above baseline as a result.  In the face of a much more rapid take-up of slack, the federal funds rate lifts off from zero in early 2011, helping to restrain the pace of the expansion in the out-years.  Nevertheless, the unemployment rate drops to about 4½ percent by the end of 2013, ½ percentage point below the staff projection.
+
+Higher inflation expectations. Measures of expected long-run inflation have not moved down over the past year despite a weak economy and a noticeable deceleration in wages and prices.  One possible explanation is that the extraordinary expansion of the Federal Reserve's balance sheet has increased public concerns about higher future inflation.  In this scenario, we consider the possibility that these concerns manifest themselves in an increase in long-run inflation expectations to 3 percent by early next year, thereby
+
+boosting actual inflation and becoming partially self-fulfilling.  Core PCE inflation averages 1½ percent in 2010 and then climbs steadily, reaching 2½ percent by 2013. That development in turn brings forward the liftoff in the federal funds rate to mid-2011 but leaves real activity essentially at baseline.
+
+Greater disinflation. Although inflation pressures ease in the staff projection, we may have understated the extent to which pronounced economic weakness will force some firms to trim nominal price increases.  Indeed, some econometric models followed by the staff suggest that inflation could slow considerably more than in the staff projection.  In this scenario, we allow inflation to follow a path more consistent with these models, with the result that core PCE inflation drops to ½ percent in the second half of this year and moves down close to zero in 2010, where it remains through 2011.  With the federal funds rate pinned at the zero lower bound, the drop in inflation puts the real federal funds rate above its path in the baseline.  Real long-term rates are also above baseline, but not by enough to materially alter the outlook for real GDP.
+
+Labor market damage . The unusual depth and breadth of the downturn could well impair labor market efficiency by more than in the baseline projection, perhaps through unusually large intersectoral adjustments or the adverse effects of prolonged unemployment on workers' skills.  This scenario considers the possibility that these factors have been boosting the NAIRU and will continue to do so, such that it reaches 6½ percent in 2010 and remains there through 2011 before drifting back down.  Because this unfavorable supply-side development has adverse implications for household income and corporate profits, consumption and investment are weaker than in the baseline.  As a result, real GDP just edges up in the second half of this year and rises only 2¼ percent next year.  The unemployment rate peaks at about 11 percent in 2010.  Over the course of this scenario, the average increase in the unemployment rate, relative to baseline, is somewhat less than that of the NAIRU, implying less slack.  Hence, inflationary pressures are slightly greater than in the staff forecast.
+
+Selected Greenbook Projections and 70 Percent Confidence Intervals Derived from Historical Greenbook Forecast Errors and FRB/US Simulations
+
+<!-- missing-text -->
+
+Notes: Shocks underlying FRB/US stochastic simulations are randomly drawn from the 1969-2008 set of model equation residuals.
+
+Intervals derived from Greenbook forecast errors are based on projections made from 1979-2008, except for PCE prices excluding food and energy, where the sample is 1981-2008.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Forecast Confidence Intervals and Alternative Scenarios
+
+Confidence Intervals Based on FRB/US Stochastic Simulations
+
+Extended Greenbook baseline
+
+Intensified financial fragility
+
+Higher saving rate
+
+Real GDP
+
+Faster pace of financial recovery
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Higher inflation expectations
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+PCE Prices excluding Food and Energy
+
+4-quarter percent change
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Federal Funds Rate
+
+<!-- missing-text -->
+
+Evolution of the Staff Forecast
+
+Change in Real GDP
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+-0.5
+
+-1.0
+
+-1.5
+
+-2.0
+
+-2.5
+
+-3.0
+
+10.5
+
+10.0
+
+9.5
+
+9.0
+
+8.5
+
+8.0
+
+7.5
+
+7.0
+
+6.5
+
+6.0
+
+5.5
+
+5.0
+
+4.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Because the core PCE price index was redefined as part of the comprehensive revisions to the NIPA, projections prior to the August 2009 Greenbook are not strictly comparable with more recent projections.
+
+( P age I-24 is intentionally blank.)
+
+Changes in GDP, Prices, and Unemployment (Percent, annual rate except as noted)
+
+1. Because the core PCE price index was redefined as part of the comprehensive revisions to the NIPA, the current and previous projection lines are not strictly comparable. 2. Level, except for two-quarter and four-quarter intervals. 3. Percent change from two quarters earlier; for unemployment rate, change is in percentage points. 4. Percent change from four quarters earlier; for unemployment rate, change is in percentage points.
+
+<!-- missing-text -->
+
+Changes in Real Gross Domestic Product and Related Items (Percent, annual rate except as noted)
+
+<!-- missing-text -->
+
+1. Change from fourth quarter of previous year to fourth quarter of year indicated. 2. Billions of chained (2005) dollars. 3. Not applicable, as the data in the previous Greenbook are in chained (2000) dollars.
+
+Changes in Real Gross Domestic Product and Related Items (Change from fourth quarter of previous year to fourth quarter of year indicated, unless otherwise noted)
+
+<!-- missing-text -->
+
+1. Billions of chained (2005) dollars. 2. Not applicable, as the data in the previous Greenbook are in chained (2000) dollars.
+
+Contributions to Changes in Real Gross Domestic Product (Percentage points, annual rate except as noted)
+
+<!-- missing-text -->
+
+Changes in Prices and Costs (Percent, annual rate except as noted)
+
+1. Change from fourth quarter of previous year to fourth quarter of year indicated. 2. Because the indexes for food prices and core PCE prices were redefined as part of the comprehensive revision to the NIPA, the current and previous projection lines are not strictly comparable. 3. Private-industry workers. 4. Data in history reflect the staff's translation of newly revised NIPA data. 5. Core goods imports exclude computers, semiconductors, oil, and natural gas.
+
+<!-- missing-text -->
+
+Changes in Prices and Costs (Change from fourth quarter of previous year to fourth quarter of year indicated, unless otherwise noted)
+
+1. Because the indexes for food prices and core PCE prices were redefined as part of the comprehensive revision to the NIPA, the current and previous projection lines are not strictly comparable. 2. Private-industry workers. 3. Data in history reflect the staff's translation of newly revised NIPA data. 4. Core goods imports exclude computers, semiconductors, oil and natural gas.
+
+<!-- missing-text -->
+
+Other Macroeconomic Indicators
+
+1. Change from fourth quarter of previous year to fourth quarter of year indicated, unless otherwise indicated.
+
+<!-- missing-text -->
+
+2. Change, millions.
+
+3. Percent, annual values are for the fourth quarter of the year indicated.
+
+4. Percent difference between actual and potential GDP; a negative number indicates that the economy is operating below potential.
+
+Annual values are for the fourth quarter of the year indicated.
+
+5. Percent change, annual rate.
+
+6. Level, millions, annual values are annual averages.
+
+7. Percent change, annual rate, with inventory valuation and capital consumption adjustments.
+
+8. Billions of dollars, annual values are annual averages.
+
+Class II FOMC Restricted (FR)
+
+Other Macroeconomic Indicators (Change from fourth quarter of previous year to fourth quarter of year indicated, unless otherwise noted)
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+Item
+
+<!-- missing-text -->
+
+Employment and production
+
+Nonfarm payroll employment 1
+
+Unemployment rate 2
+
+Previous Greenbook 2
+
+GDP gap 3
+
+Previous Greenbook 3
+
+Industrial production 4
+
+Previous Greenbook 4
+
+Manufacturing industr. prod. 4
+
+Previous Greenbook 4
+
+Capacity utilization rate - mfg. 2
+
+Previous Greenbook 2
+
+Housing starts 5
+
+Light motor vehicle sales 5
+
+Income and saving
+
+Nominal GDP 4
+
+Real disposable pers. income 4
+
+Previous Greenbook 4
+
+Personal saving rate 2
+
+Previous Greenbook 2
+
+Corporate profits 6 Profit share of GNP 2
+
+Net federal saving 7
+
+Net state &amp; local saving 7
+
+Gross national saving rate 2
+
+Net national saving rate 2
+
+1. Change, millions.
+
+2. Percent, values are for the fourth quarter of the year indicated.
+
+3. Percent difference between actual and potential GDP; a negative number indicates that the economy is operating below potential.
+
+Values are for the fourth quarter of the year indicated.
+
+4. Percent change.
+
+5. Level, millions, values are annual averages.
+
+6. Percent change, with inventory valuation and capital consumption adjustments.
+
+7. Billions of dollars,values are annual averages.
+
+Staff Projections of Federal Sector Accounts and Related Items (Billions of dollars except as noted)
+
+0.0
+
+<!-- missing-text -->
+
+August 6, 2009
+
+Change in Debt of the Domestic Nonfinancial Sectors
+
+(Percent)
+
+<!-- missing-text -->
+
+Flow of Funds Projections: Highlights
+
+Class II FOMC
+
+(Billions of dollars at seasonally adjusted annual rates except as noted)
+
+Restricted (FR)
+
+2010
+
+2009
+
+2008
+
+Q4
+
+Q3
+
+Q2
+
+Q1
+
+Q4
+
+Q3
+
+Q2
+
+Q1
+
+Q4
+
+Q3
+
+2010
+
+2009
+
+2008
+
+2007
+
+Category
+
+<!-- missing-text -->
+
+Note. Data after 2009:Q1 are staff projections.GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt; 1. Average debt levels in the period (computed as the average of period-end debt positions) divided by nominal GDP.GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt; 2. Includes change in liabilities not shown in home mortgages and consumer credit.GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt; 3. Average debt levels in the period (computed as the average of period-end debt positions) divided by disposable personal income. 4. For corporations, excess of capital expenditures over U.S. internal funds. 5. NIPA state and local government saving plus consumption of fixed capital and net capital transfers. n.s.a.  Not seasonally adjusted.
+
+( P age I-36 is intentionally blank.)
+
+Class II FOMC-Restricted (FR)
+
+International Developments
+
+The global economic collapse around the turn of the year appears to have given way to a diversity of performances across the foreign economies during the second quarter.  In Asia, policy stimulus in China boosted second-quarter growth by substantially more than we had expected in June, and exports and industrial production rebounded sharply from low levels across the region.  We project that growth in Asia will remain elevated in the near term but see the second-quarter pace as unlikely to be sustained going forward.
+
+In contrast, data for Europe, Canada, and Mexico have generally been mixed, consistent with continued subpar performance in the second quarter, roughly in line with the June Greenbook.  Improved conditions in financial markets, recent readings on forwardlooking indicators, and upward revisions to economic performance in Asia have helped to raise our projection for growth in these economies beyond the second quarter, but persisting financial headwinds will likely keep growth subdued over the forecast period.
+
+(Percent change from end of previous period, annual rate, except as noted)
+
+<!-- missing-text -->
+
+Note:  Changes for years are measured as Q4/Q4; half-year is Q4/Q2.
+
+Together, these projections yield a path for total foreign growth that edged positive last quarter and is expected to rise to a moderate 3¼ percent pace in 2010.  Compared with the June Greenbook, this forecast is 2 percentage points higher in the second quarter and 1 percentage point higher in the second half of this year, primarily as a result of the stronger growth in Asia, but up only slightly in 2010.
+
+After having risen 1 percent last quarter, overall consumer prices are projected to increase at a rate of roughly 1¾ percent over the rest of the forecast period.  Despite the substantial slack in the foreign economies, we are not seeing a marked decline in core inflation.  Our projections for inflation, as well as for oil and other commodity prices, are little changed from the previous Greenbook.
+
+We estimate that, on average, U.S. exports and imports continued to decline in the second quarter, but in the current quarter we forecast some bounceback in both, followed by steady growth thereafter.  We revised up our projection for exports a little, in line with the improvement in foreign growth and the lower value of the dollar, which has depreciated about 2 percent since the last Greenbook.  In contrast, the effects of the lower dollar should weigh on import growth slightly.  Combined, these changes result in a contribution of net exports to U.S. GDP growth that is about ¼ percentage point higher on average over the forecast period.
+
+Emerging Market Economies
+
+The shape of the recovery in the emerging market economies (EMEs) appears to differ across regions.  Recent data suggest that the recovery in emerging Asia may be more V-shaped than we had thought.  Chinese GDP leapt an estimated 18½ percent at an annual rate in the second quarter, as fiscal measures and accelerated bank lending had larger and more rapid effects than we had anticipated.  Elsewhere in Asia, robust industrial production and exports suggest that second-quarter GDP growth rates also rebounded sharply.  In most cases, the rebound appears to be partly a result of demand from China.  But strong domestic demand also contributed to Korea's GDP increasing at a near 10 percent pace.  For emerging Asia as a whole, we now estimate that GDP rose at an annual rate of 12½ percent in the second quarter, 10 percentage points stronger than previously projected.  Although we do not expect this pace of growth to be sustained, we have marked up our outlook for the rest of the year by about 2½ percentage points.
+
+In contrast to Asia, signs of a generalized bounceback in Latin America are not yet evident.  Real GDP in the region is estimated to have continued contracting in the second quarter, owing to a sizable decline in Mexico, where the negative impact of the H1N1 influenza virus and depressed auto production due to the restructuring of General Motors and Chrysler weighed on growth.
+
+For the EMEs as a whole, we estimate that growth rebounded to 4½ percent at an annual rate in the second quarter, about 4¾ percentage points higher than in the June Greenbook. We project that real GDP growth in the EMEs will rise to 5½ percent in the third quarter,
+
+as Latin America's growth turns positive while Asia's moderates.  This projection is almost 2 percentage points higher than in the June Greenbook.  Thereafter, the pace of expansion in the EMEs averages 4½ percent, slightly stronger than in the last Greenbook. Notably, however, we see a risk that growth, especially in Asia, may slow more substantially as the impetus from policy stimulus wanes, particularly if demand in the rest of the world remains subdued.
+
+After declining in the first quarter, consumer prices in the EMEs are expected to rise at an annual rate that averages slightly more than 2 percent over the forecast period.  This forecast is little changed from the June Greenbook.
+
+Staff Projections for Foreign GDP Growth by Region
+
+<!-- missing-text -->
+
+Note:  Changes for years are measured as Q4/Q4; half-year is measured as Q4/Q2.
+
+Advanced Foreign Economies
+
+Japan's exports surged in the second quarter, boosted by trade with the rest of Asia, and its industrial production rebounded sharply.  In other advanced foreign economies (AFEs), industrial production and exports have ceased their free-fall but have yet to convincingly turn around, and unemployment rates have continued to rise.  More positively, purchasing managers' indexes for manufacturing production and new orders have moved up noticeably across the advanced foreign economies.  In addition, retail sales appear to be picking up in Canada and the United Kingdom, although sales remain weak in the euro area.  For the AFEs in aggregate, we estimate that the decline in activity moderated in the second quarter, with GDP falling 2¼ percent at an annual rate.
+
+Thereafter, we are projecting that output growth will turn positive, rising gradually from less than ¾ percent in the third quarter to 2½ percent by the end of 2010.  This path is up ¾ percentage point in the second half of this year and around ¼ percentage point next
+
+year.  These upward revisions reflect ongoing improvements in financial markets, signs that the deterioration in credit conditions may be abating, rebounding business and consumer sentiment, and strengthening demand from the EMEs.
+
+After having dropped at an annual rate of ¾ percent in the first half of this year, we expect consumer prices in the AFEs to increase at a 1½ percent rate in the second half and to rise at a pace of 1 percent next year.  This projection balances the inflationary effects of recent increases in commodity prices against the disinflationary effects of strong currency appreciations and sizable output gaps.  Outside of Japan, we do not anticipate that these countries will experience sustained deflation despite persistent slack, in large part because inflation expectations have remained fairly well anchored.
+
+As in the previous Greenbook, we assume that major central banks hold their policy rates unchanged at very low levels throughout the remainder of this year and next.  We expect that over the forecast period, central banks will begin to set up their exit strategies from quantitative easing but will not implement them in any meaningful way before the end of 2010.  Fiscal stimulus programs across the advanced foreign economies appear to have boosted growth in the second quarter, as suggested by improved final sales, particularly for automobiles, and more robust construction spending in a number of countries.  Going forward, we expect the impact from fiscal stimulus programs to peak in the second half of this year, adding roughly 1 percentage point to AFE growth for the year as a whole, with the additional impact of automatic stabilizers more than doubling the effect.
+
+International Financial Markets
+
+Overnight interest rates in the euro area declined to about 35 basis points in the wake of the European Central Bank's (ECB) June 24 auction of €442 billion of one-year term funding.  Market expectations of overnight interest rates in the euro area at the end of 2010 are down slightly from the time of the last Greenbook, and the market does not appear to expect overnight rates to rise above 1 percent, the current level of the ECB's main refinancing rate, until the second half of 2010.  Gilt yields jumped and market expectations of policy rates in the United Kingdom increased slightly when the Bank of England (BOE) surprised markets by leaving the size of its Asset Purchase Facility unchanged at £125 billion at its July MPC meeting.  Market participants were divided as to whether the BOE would authorize any further purchases at its August meeting; however, citing the depth of the recession, the MPC decided to raise its purchases to £175 billion. Benchmark gilt yields fell about 20 basis points on the announcement and expectations for future policy rates eased.  Currently, the market appears to expect that
+
+the BOE may begin raising rates in the first half of 2010.  The Bank of Japan kept its policy rate unchanged at 0.10 percent but extended the expiration dates of several of its temporary liquidity measures aimed at aiding credit markets until the end of the year, while the Bank of Canada reiterated its conditional commitment to keep its policy rate at 25 basis points until the second quarter of 2010.
+
+Although any decisions to tighten monetary policy appear to be some time off, officials at the ECB and BOE have begun to publicly discuss the outlines of a possible exit strategy. Deputy Governor Charles Bean was quoted as saying that the BOE would 'quite likely' raise its benchmark interest rate before selling any securities held through its Asset Purchase Facility.  ECB officials have indicated that a decision to drain excess liquidity need not be made before interest rates were raised in the euro area.  ECB officials have also implied that the ECB would eventually revert to its pre-crisis methods of conducting refinancing operations, in which it auctioned fixed amounts of funds rather than offering whatever banks demand at fixed rates.
+
+Stock markets rose, on net, as positive U.S. earnings reports and news of strong growth in emerging Asia lifted investor sentiment.  European and Japanese stock indexes have increased roughly 9 percent and 6 percent, respectively, since the June Greenbook. European bank share prices are up about 17 percent over the same period, at least partly encouraged by second-quarter earnings that have been reported to date.  Some European banks (like some U.S. banks) enjoyed sizable earnings from their investment banking business in the second quarter, some of which might be temporary.  Notably, Spanish banks reported strong growth in their net interest income.  Nevertheless, European banks also recorded sizable increases in their loan loss provisions-a reminder that loan losses remain a substantial risk to profits.  Stock prices in most EMEs have registered doubledigit gains, and mutual fund flows to the EMEs again turned positive after a brief period of outflows in late June.
+
+The ongoing improvement in the global outlook and resulting increase in investor risk appetite seemed to lead to some further decline in the dollar.  Since the June Greenbook, the dollar has depreciated about 3¾ percent on a trade-weighted basis against the major foreign currencies and about 1¼ percent against the currencies of our other important trading partners.
+
+As a result of this recent decline, the starting point for the projected path of the staff's broad real index of the dollar is roughly 2 percent lower than in the June Greenbook.  We
+
+project that the broad real value of the dollar will depreciate at an annual rate of about 2 percent over the forecast period, consistent with pressures associated with financing persistent U.S. current account deficits.
+
+The Swiss National Bank (SNB) intervened in foreign exchange markets
+
+- , since its announcement in March
+
+that it would buy foreign exchange with an eye toward limiting further appreciation of the Swiss franc as part of its monetary policy operations;
+
+- .  SNB Board member Thomas Jordan has since publicly stated that the SNB would continue to intervene as it deemed useful.
+
+Commodity Prices
+
+After fluctuating between $60 and $70 per barrel for most of the time since the June Greenbook, the spot price of West Texas intermediate (WTI) oil closed on August 4 at $71.42 per barrel, about unchanged on net.  The prices of far-dated futures contracts remain elevated, with the December 2017 contract closing most recently at just under $95 per barrel.  High levels of oil inventories and increases in OPEC oil production have weighed on oil prices in the near term.  Offsetting this downward pressure, however, is the apparent strengthening of demand in China and other Asian economies.  Consistent with the path of futures prices, we project that the spot price of WTI will rise to $80 per barrel by the end of next year.  Relative to the June Greenbook, this projection is little changed over the remainder of this year and about $2 higher, on average, next year.
+
+Prices for nonfuel commodity prices are up only a bit since the previous Greenbook, with higher metals prices largely offset by lower agricultural prices.  Metals prices have been supported by strong demand from China, whose import volumes for copper and nickel were at record levels in June.  Going forward, we expect small increases in commodity prices, consistent with readings from futures markets and essentially unchanged from the June Greenbook.
+
+Prices of Internationally Traded Goods
+
+Following a 2¼ percent decline in the second quarter, core import prices are projected to increase nearly 3 percent at an annual rate in the second half of this year on account of previous increases in commodity prices and the depreciation of the dollar.  As commodity prices flatten out and dollar depreciation slows, core import price inflation is projected to decline to about 1 percent in 2010.  Compared with the June Greenbook, this forecast has been revised up ¾ percentage point in the second half of this year, reflecting the lower
+
+level of the dollar.  For the remainder of the forecast period, the projection is little changed.
+
+<!-- missing-text -->
+
+Note:  Prices for core exports exclude computers and semiconductors.  Prices for core imports exclude computers, semiconductors, oil, and natural gas.  Both prices are on a national income and product account chain-weighted basis.
+
+The price of imported oil for multiquarter periods is the price for the final quarter of the period.  Imported oil includes both crude oil and refined products.
+
+Core export prices increased 3 percent in the second quarter on the back of a brisk rise in the prices of material-intensive export goods, and should move up at a similar pace in the second half of this year.  Core export prices are then expected to decelerate to a rate of 1 percent by the end of 2010, as the effects of commodity price inflation wane.  Relative to the June Greenbook, the projection is up about ½ percentage point.
+
+Trade in Goods and Services
+
+Trade data for May show an expansion of exports after a prolonged period of weakness. Nevertheless, as a result of their earlier decline, we estimate that real exports of goods and services fell 5½ percent at an annual rate in the second quarter.  In the current quarter, we project that exports will jump 10 percent as they begin to recover from their remarkably depressed level.  We then expect exports to grow steadily but at a slower pace for the remainder of the forecast, supported by our projection for foreign GDP growth. An improved foreign outlook, as well as the weaker dollar and an assumption of some cyclical bounceback, led us to mark up our projection for export growth by about 4¼ percentage points in the second half of this year and by 1¼ percentage point in 2010.
+
+<!-- missing-text -->
+
+Note:  Changes for years are measured as Q4/Q4; half-year is measured as Q4/Q2.
+
+Real imports of goods and services are estimated to have declined at an annual rate of 12½ percent in the second quarter.  Imports continued to decline in May, although the fall was modest in comparison with other recent decreases.  In the current quarter, we project that imports will rise 10½ percent, rebounding from their second-quarter low, boosted by a projected recovery in imports of automotive products.  Imports are then expected to grow at a 4¾ percent pace in 2010, supported by the recovery in U.S. GDP growth. Compared with the June Greenbook, our forecast for the second half is little changed and for 2010 is down ½ percentage point as higher projected domestic oil production displaces imports.  We note that the quarterly pattern of real oil imports has been significantly smoothed, taking into account changes in the BEA's methodology for seasonal adjustment.
+
+Alternative Simulation
+
+Although our baseline forecast is for a moderate recovery in the foreign economies in the second half of this year, it is possible that foreign growth may rebound more quickly. This upside risk seems most plausible in the emerging Asian economies, where recovery already appears to be taking hold.  In contrast, in the AFEs-particularly in Europecontinued weakness in financial conditions seems to limit the upside risks.  Accordingly, we use the FRB/Global model to examine the effects of an asymmetric pickup in foreign demand that is concentrated in the Asian EMEs.  In this simulation, we assume that U.S. and foreign monetary policies follow Taylor rules subject to the zero lower bound constraint on nominal interest rates.
+
+The foreign demand shock begins in 2009:Q3 and is calibrated to raise growth in Asian EMEs by 2 percentage points per year through the end of 2010, and in Canada, Japan,
+
+and Latin America by 1 percentage point per year.  There is no positive shock to European growth.  In aggregate, foreign GDP growth rises about 1 percentage point above baseline in 2009:H2 and in 2010, and then gradually declines to baseline.  Stronger foreign demand boosts the growth of U.S. real GDP about ¼ percentage point in 2010 and 2011.  U.S. exports rise because of higher foreign activity and a depreciation of the dollar (in reaction to tighter foreign monetary policy), while U.S. domestic demand increases only slightly.  This effect on U.S. GDP is amplified compared with the situation in which the economy is not at the zero lower bound for nominal interest rates, because U.S. policy rates do not rise immediately in response to this shock.  Core PCE price inflation increases about 0.1 percentage point in 2010:H2 and in 2011 mainly because of higher resource utilization.  The nominal trade balance as a percent of GDP improves almost 0.5 percentage point by 2013.
+
+Alternative Scenario:
+
+Stronger Foreign Demand
+
+<!-- missing-text -->
+
+Note:  H1 is Q2/Q4; H2 is Q4/Q2.  U.S. real GDP and U.S. PCE prices are the average rates over the period. The federal funds rate and the trade balance are the values for the final quarter of the period.
+
+Evolution of the Staff Forecast
+
+Current Account Balance
+
+Greenbook publication date
+
+<!-- missing-text -->
+
+Foreign Real GDP
+
+Greenbook publication date
+
+<!-- missing-text -->
+
+Core Import Prices*
+
+<!-- missing-text -->
+
+Greenbook publication date
+
+<!-- missing-text -->
+
+OUTLOOK FOR FOREIGN REAL GDP AND CONSUMER PRICES: SELECTED COUNTRIES
+
+(Percent changes)
+
+______________________________________________________________________________________________________________
+
+<!-- missing-text -->
+
+------------ of which:
+
+------------------- of which:
+
+1. Foreign GDP aggregates calculated using shares of U.S. exports. 2. Harmonized data for euro area from Eurostat. 3. Foreign CPI aggregates calculated using shares of U.S. non-oil imports. 4. CPI excluding mortgage interest payments, which is the targeted inflation rate.
+
+Class II FOMC                                                             August 6, 2009
+
+Restricted (FR)
+
+OUTLOOK FOR FOREIGN REAL GDP AND CONSUMER PRICES: SELECTED COUNTRIES
+
+(Percent, Q4 to Q4)
+
+___________________________________________________________________________________________________
+
+Projected
+
+Measure and country                   2002   2003   2004   2005   2006   2007   2008   2009   2010
+
+___________________________________________________________________________________________________
+
+<!-- missing-text -->
+
+REAL GDP (1)
+
+------------ of which:
+
+CONSUMER PRICES (3)
+
+------------------- of which:
+
+1. Foreign GDP aggregates calculated using shares of U.S. exports. 2. Harmonized data for euro area from Eurostat. 3. Foreign CPI aggregates calculated using shares of U.S. non-oil imports. 4. CPI excluding mortgage interest payments, which is the targeted inflation rate.
+
+Class II FOMC                                                                          August 6, 2009
+
+OUTLOOK FOR U.S. INTERNATIONAL TRANSACTIONS
+
+________________________________________________________________________________________________________________
+
+Projected
+
+2002     2003     2004     2005     2006     2007     2008     2009     2010
+
+________________________________________________________________________________________________________________
+
+<!-- missing-text -->
+
+Billions of dollars
+
+<!-- missing-text -->
+
+________________________________________________________________________________________________________________
+
+1. Merchandise exports excluding computers and semiconductors. 2. Merchandise imports excluding oil, natural gas, computers, and semiconductors.
+
+Class II FOMC                                                                                     August 6, 2009
+
+OUTLOOK FOR U.S. INTERNATIONAL TRANSACTIONS
+
+___________________________________________________________________________________________________________________________
+
+2005                            2006                            2007
+
+----------------------------    ----------------------------    ---------------------------
+
+Q1      Q2      Q3      Q4      Q1      Q2      Q3      Q4      Q1      Q2      Q3      Q4
+
+___________________________________________________________________________________________________________________________
+
+I-50
+
+<!-- missing-text -->
+
+___________________________________________________________________________________________________________________________
+
+Billions of dollars, s.a.a.r.
+
+<!-- missing-text -->
+
+___________________________________________________________________________________________________________________________
+
+Class II FOMC                                                                                     August 6, 2009
+
+OUTLOOK FOR U.S. INTERNATIONAL TRANSACTIONS
+
+___________________________________________________________________________________________________________________________
+
+------------------- Projected ---------------------
+
+2008                            2009                            2010
+
+----------------------------    ----------------------------    ---------------------------
+
+Q1      Q2      Q3      Q4      Q1      Q2      Q3      Q4      Q1      Q2      Q3      Q4
+
+___________________________________________________________________________________________________________________________
+
+<!-- missing-text -->
+
+Billions of dollars, s.a.a.r.
+
+<!-- missing-text -->
+
+___________________________________________________________________________________________________________________________
+
+( P age I-52 is intentionally blank.)
+
+Abbreviations
+
+<!-- missing-text -->

@@ -1,0 +1,747 @@
+Prefatory Note
+
+The attached document represents the most complete and accurate version available based on original files from the FOMC Secretariat at the Board of Governors of the Federal Reserve System.
+
+Please note that some material may have been redacted from this document if that material was received on a confidential basis.  Redacted material is indicated by occasional gaps in the text or by gray boxes around non-text content.  All redacted passages are exempt from disclosure under applicable provisions of the Freedom of Information Act.
+
+Restricted Controlled (FR) Class I FOMC -
+
+to the FOMC Monetary Policy Report on Economic Conditions and
+
+<!-- missing-text -->
+
+Alternatives Book B
+
+Monetary Policy
+
+September 14, 2017
+
+is intentionally blank.) (This page
+
+Authorized for Public Release
+
+Monetary Policy Alternatives
+
+The data received over the intermeeting period have continued to underscore a tension between ongoing strengthening of the labor market and economic activity, on the one hand, and soft inflation readings, on the other.  The two employment reports received since the July meeting indicate that the labor market has strengthened further.  Moreover, other data releases suggest that real GDP growth stepped up in the second quarter to a pace notably above that of potential output.  Meanwhile, 12-month changes in headline and core PCE prices have continued to run near 1½ percent.  More recently, the country has borne the effects of hurricanes Harvey and Irma, particularly in Texas and Florida. Although information is incomplete and assessments are subject to change, the staff currently anticipates that there will be appreciable effects on quarter-to-quarter outcomes for output and inflation in the second half of the year, but that the implications over the medium term will be minimal.
+
+As discussed in the box 'Monetary Policy Expectations and Uncertainty,' market participants seem to have interpreted previous communications as indicating that it is highly likely the Committee will announce, in its September statement, that it will initiate its program for balance sheet normalization, but would defer to a later date an increase in the target range for the federal funds rate.  Over the intermeeting period, financial conditions have eased further including a decline in the broad dollar of about 1.5 percent, a decline in the 10-year Treasury rate of about 15 basis points, and an increase in stock prices of almost 1 percent, while the perceived probability of another increase in the federal funds rate before year end is slightly lower than at the time of the July meeting.
+
+The principal policy questions that the Committee faces at this meeting are, first, whether the condition specified in the July postmeeting statement for commencing the balance sheet normalization program-namely that 'the economy evolves broadly as anticipated'-has been satisfied, and second, whether the incoming data and expectations about future monetary policy suggest a need to change the Committee's communications regarding the likely paths of the economy or the federal funds rate.
+
+This Tealbook contains three draft statements for the Committee's consideration. They offer somewhat different assessments of the recent information on labor market conditions, economic activity, and inflation.  All three statements have the Committee announce the initiation of the program of balance sheet reduction.  They also leave the
+
+Monetary Policy Expectations and Uncertainty
+
+Over the intermeeting period, market participants' expectations appeared to converge on the view that the Committee will announce the beginning of its balance sheet normalization plan in the September postmeeting statement. Respondents to the Desk's Surveys of Primary Dealers and Market Participants attached a median probability of 90 percent to such an announcement being made at the upcoming meeting (not shown).
+
+Under the assumption of zero term premiums, quotes on federal funds futures contracts suggest that investors now attach a probability of about 40 percent to a 25 basis point rate hike by year end (with virtually all probability concentrated on the December meeting), down from 50 percent just prior to the July FOMC meeting (figure 1). Using a staff term structure model to adjust for term premiums, the implied probability of a rate hike before year end stands at about 65 percent, 15 percentage points lower than at the time of the July FOMC meeting (figure 2). 1 Respondents to the Desk's surveys on average assigned about a 55 percent probability to another rate increase this year, with most of this probability attached to the December meeting (not shown). The average survey based probability was 65 percent in the July survey. -----
+
+The probability distribution of the level of the federal funds rate at the end of 2018 implied by options quotes under the assumption of zero term premiums has shifted slightly to the left since the July meeting (figure 3). The distribution attaches the highest odds, at about 40 percent probability, to scenarios in which the federal funds rate is in the 1¼ to 1½ percent range. The average distribution across respondents to the September Desk surveys (figure 4) is notably more diffuse than its counterpart from the options markets.
+
+The estimated market based path of the expected federal funds rate depends on the term premium assumed in the analysis. The federal funds rate path implied by a straight read of OIS quotes assuming zero term premiums (the black line in figure 5) moved down over the intermeeting period, declining up to 20 basis points by the end of 2020. These market implied forward rates are consistent with an expected federal funds rate of about 1.4 percent at the end of 2018 and 1.7 percent at the end of 2020. The expected path of the federal funds rate adjusting for term premiums as estimated by the staff term structure model (the light blue line) has also declined a bit since the July FOMC meeting. However, the model based path continues to suggest a faster pace of rate increases than the unadjusted path, with an expected federal funds rate of 2.1 percent at the end of 2018 and almost 2.9 percent at the end of 2020. The model based path for the -----
+
+federal funds rate is roughly consistent with the modal path from the September Desk surveys (the brown line) and the Committee's June median SEP projections (the dark blue dots) for 2017 and 2018. Of note, however, the model based path is a mean expectation of the federal funds rate whereas the survey based path is based on respondents' modal expectations. Computing a mean path from the surveys (based on the surveys' unconditional and conditional probability distribution results) requires making a number of assumptions. Under a set of reasonable assumptions, the survey implied mean path constructed from respondents' probability distributions (the golden squares) lies noticeably below both the modal path from the surveys and the model implied mean path. 2 ----
+
+Results from the model and the surveys also shed light on market participants' expectations of the longer run level of the federal funds rate (the far right dots in figure 5). The staff term structure model estimates that the federal funds rate will average 3.7 percent over the period five to ten years ahead, a downward revision of about 5 basis points relative to estimates before the July FOMC meeting. This level remains 0.7 percentage points above the median projection for the longer run federal funds rate from the June SEP and almost 1 percentage point above the median from the September Desk surveys. ---
+
+Recent market commentary on the likely path of the federal funds rate has focused on the implications of the soft inflation readings since the spring for the inflation outlook. The Survey of Primary Dealers asks respondents to assess the most likely level of future core PCE inflation. As shown by the golden horizontal bars in figure 6, the median estimate of core PCE inflation in 2017 was 1.5 percent in the September survey, 0.1 percentage points lower than in July. Although the median forecast for 2018, at 1.9 percent, was unchanged from the July survey, forecasts have, on average, shifted down slightly in the September survey.
+
+<!-- missing-text -->
+
+Note: Probabilities implied by a bincmial tree fittec to settlement prices on fed funds futures contracts, assuming the next policy action is either no change or a 25 basis point increase In rates and no Intermeering moves The effective federal funcs rate until the next FOMC meeting is assumed to be equal to the observed rate on the previous non-month-end business cay
+
+Source: CME Group; Federa Reserve Boarc staff estimates
+
+Figure 3: Market-Implied Probability Distribution of the Federal Funds Rate; Year-End 2018
+
+<!-- missing-text -->
+
+Note: Estimated from Eurodollar futures options; accounting for the differences in LIBOR the levels and option-implied volalilities of and the feceral funds rate but no: acjusled for risk premiums
+
+Source CME Group; Federal Reserve Boara staff estimates
+
+Figure 5: Federal Funds Rate Projections
+
+<!-- missing-text -->
+
+- Estimated using overnight index swap quotes with spline approach and term premium of zero basis poirls
+- Eslimaled using lerm slructure model maintained by Board slaff and adjusted for lerm premiums The longer model-implied forecast for :he expected federal funds rale to 10 years ahead Median of the respondenls' rnodal palhs for the federal {unds rate ,
+- Eslimated from respondents' year-end probability dislribulions conditional on relurning and nol
+- Source Blocmnberg; Blue Chip Financia Forecasts; Federal Reserve Boarc staff estimates: FRBNY.
+
+<!-- missing-text -->
+
+Figure 4: Desk Survey Probability Distribution of the Federal Funds Rate; Year-End 2018
+
+<!-- missing-text -->
+
+Ncle: Average unconditional probabilities across primary dealers and market participants for different ranges of Ihe federal funds rate at the end of 2018. Source:   FRBNY
+
+Figure 6: Dealer Survey Estimates of Core PCE Inflation
+
+<!-- missing-text -->
+
+Note:
+
+Dots scaled by number of respondents
+
+Based on all responses from the Survey of Primary Dealers
+
+Source FRBNY
+
+target range for the federal funds rate unchanged at this meeting, but they differ on the signal they provide the public about the future stance of monetary policy.
+
+-  In characterizing the labor market, the Alternatives note that it has continued either to 'strengthen,' in Alternatives A and B, or 'tighten,' as in Alternative C.
+- o Alternative A acknowledges that job gains 'have remained solid, on average,' but adds that the unemployment rate 'has changed little in recent months' and wage gains 'have continued to be subdued.'  In contrast, Alternative B notes that job gains 'have remained solid in recent months' and the unemployment rate 'has stayed low.'  Alternative C states that job gains 'have remained strong' and that the unemployment rate 'remains at a low level.'
+-  The three Alternatives are identical in their descriptions of inflation, stating that overall and core inflation rates 'have declined this year,' and 'are running below' the Committee's 2 percent inflation objective.
+- o In describing inflation expectations, Alternatives A and B are unchanged from the July postmeeting statement, saying that market-based measures of inflation compensation 'remain low' and that survey-based measures are 'little changed, on balance.'  Alternative C describes both market-based measures of inflation compensation and survey-based measures of inflation expectations as 'little changed, on balance.'
+-  With regard to economic activity, the three Alternatives differ modestly in how they describe household spending and business fixed investment.
+- o Alternative A states that both household spending and business fixed investment 'have been expanding at moderate rates.'  Alternatives B and C have the same description as Alternative A for household spending but note that growth in business fixed investment 'has picked up in recent quarters.' The July statement merely noted that both household spending and business fixed investment 'have continued to expand.'
+-  When characterizing the economic outlook:
+- o The principal addition to the three statements is an assessment of the effects of hurricanes Harvey and Irma, which appears in identical form in all three Alternatives.  After acknowledging the hardship inflicted by the hurricanes, it indicates that, while the storms and the recovery from them 'will affect economic activity in the near term,' it is not likely that 'the course of the
+
+national economy over the medium term' will be altered materially.  In addition, the three Alternatives acknowledge the temporary effect of the hurricanes on inflation due to increases in the prices of gasoline and some other items.
+
+- o After allowing for the effects of the hurricanes, Alternatives A and B reaffirm the Committee's expectation that economic activity will expand at a moderate pace; Alternative C suggests that growth of employment and economic activity will moderate to 'sustainable rates in the medium term.'
+- o With regard to the labor market, Alternatives A and B indicate that conditions will 'strengthen somewhat further,' while Alternative C, as already noted, suggests that employment growth will 'moderate' to a 'sustainable' rate.
+- o On the outlook for inflation, Alternatives B and C repeat the wording of the July statement that inflation on a 12-month basis is expected to 'remain somewhat below' 2 percent in the near term.  Alternative A hints at a more gradual return of inflation to 2 percent, by dropping the word 'somewhat' to state that the Committee expects inflation to 'remain below' 2 percent in the near term.  Over the medium term, however, the three Alternatives all reaffirm the forecast that inflation will 'stabilize around' the Committee's 2 percent objective, just as in the July statement.
+- o Each Alternative retains the assessment of the July statement that the nearterm risks to the economic outlook appear roughly balanced, and that the Committee is monitoring inflation developments closely.
+-  With regard to the policy decisions for this meeting, all three alternatives announce that the balance sheet normalization program will begin in October.  In addition, all three Alternatives state that the Committee decided it is appropriate to maintain the current target range of the federal funds rate at 1 to 1¼ percent.  However, the three Alternatives differ in noteworthy ways on the expected path for the federal funds rate that is judged necessary to achieve the economic outcomes noted above.
+- o Alternative B retains the language from earlier statements, namely that 'gradual increases' in the federal funds rate will be warranted and that the funds rate is likely to remain, 'for some time,' below its longer-run normal level.
+- o Alternative A is silent on what adjustments, if any, would be required for the Committee to achieve its objectives, stating simply that 'appropriate monetary
+
+policy accommodation' would suffice, and noting that it is 'assessing the likelihood that recent low readings on inflation will persist.'  In this way, Alternative A, while not closing the door to additional rate hikes, introduces the possibility that that no further rate hikes may be necessary, or even that a reduction might become appropriate.
+
+- o In contrast, Alternative C suggests that 'further gradual increases' in the stance of policy are expected.  It also adds the words 'for the time being' immediately after the policy announcement in paragraph 3, hinting at a rate hike as soon as at the next meeting.  Finally, Alternative C deletes the text that says the federal funds rate is 'likely to remain, for some time,' below longerrun normal levels.  In conjunction with the addition of the word 'further' in paragraph 2, noted above, these changes would in all likelihood be taken as saying that policy accommodation would be removed somewhat more quickly, or that the federal funds rate might climb to a higher level during this tightening cycle, than previously suggested.
+
+JULY 2017 FOMC STATEMENT
+
+- 1. Information received since the Federal Open Market Committee met in June indicates that the labor market has continued to strengthen and that economic activity has been rising moderately so far this year. Job gains have been solid, on average, since the beginning of the year, and the unemployment rate has declined. Household spending and business fixed investment have continued to expand. On a 12-month basis, overall inflation and the measure excluding food and energy prices have declined and are running below 2 percent. Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. The Committee continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, and labor market conditions will strengthen somewhat further. Inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term. Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments. The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+- 5. For the time being, the Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. The Committee expects to begin implementing its balance sheet normalization program relatively soon, provided that the economy evolves broadly as anticipated; this program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.
+
+(This page is intentionally blank.)
+
+September 14, 2017
+
+SEPTEMBER 2017 ALTERNATIVE A
+
+- 1. Information received since the Federal Open Market Committee met in June July indicates that the labor market has continued to strengthen and that economic activity has been rising moderately so far this year. While job gains have been remained solid, on average, since the beginning of the year, and the unemployment rate has declined changed little in recent months and wage gains have continued to be subdued .  Household spending and business fixed investment have continued to been expand ing at moderate rates .  On a 12-month basis, overall inflation and the measure excluding food and energy prices have declined this year and are running below 2 percent.  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. Hurricanes Harvey and Irma have devastated many communities, inflicting severe hardship.  Storm-related disruptions and rebuilding will affect economic activity in the near term, but past experience suggests that the storms are unlikely to materially alter the course of the national economy over the medium term. The Committee continues to expect s that, with gradual adjustments in the stance of appropriate monetary policy accommodation , economic activity will expand at a moderate pace, and labor market conditions will strengthen somewhat further. Higher prices for gasoline and some other items in the aftermath of the hurricanes will likely boost inflation temporarily; apart from that effect, inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term.  Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent while assessing the likelihood that recent low readings on inflation will persist .  The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to
+
+prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+- 5. For the time being, the Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. In October, the Committee expects to begin implementing its will initiate the balance sheet normalization program relatively soon, provided that the economy evolves broadly as anticipated; this program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.
+
+In future FOMC statements, paragraph 5 could become:  'Balance sheet normalization is proceeding in accordance with the program that the Committee initiated in October 2017; that program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.'
+
+SEPTEMBER 2017 ALTERNATIVE B
+
+- 1. Information received since the Federal Open Market Committee met in June July indicates that the labor market has continued to strengthen and that economic activity has been rising moderately so far this year.  Job gains have been remained solid, on average, since the beginning of the year in recent months , and the unemployment rate has declined stayed low .  Household spending has been expanding at a moderate rate, and growth in business fixed investment have continued to expand has picked up in recent quarters .  On a 12-month basis, overall inflation and the measure excluding food and energy prices have declined this year and are running below 2 percent.  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. Hurricanes Harvey and Irma have devastated many communities, inflicting severe hardship.  Storm-related disruptions and rebuilding will affect economic activity in the near term, but past experience suggests that the storms are unlikely to materially alter the course of the national economy over the medium term.  Consequently, the Committee continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, and labor market conditions will strengthen somewhat further. Higher prices for gasoline and some other items in the aftermath of the hurricanes will likely boost inflation temporarily; apart from that effect, inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term.  Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent.  The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+- 5. For the time being, the Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. In October, the Committee expects to begin implementing its will initiate the balance sheet normalization program relatively soon, provided that the economy evolves broadly as anticipated; this program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.
+
+In future FOMC statements, paragraph 5 could become:  'Balance sheet normalization is proceeding in accordance with the program that the Committee initiated in October 2017; that program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.'
+
+SEPTEMBER 2017 ALTERNATIVE C
+
+- 1. Information received since the Federal Open Market Committee met in June July indicates that the labor market has continued to strengthen tighten and that growth of economic activity has been rising moderately so far this year picked up .  Job gains have been solid remained strong , on average, since the beginning of the year, and the unemployment rate has declined remains at a low level .  Household spending has been expanding at a moderate rate, and growth in business fixed investment have continued to expand has picked up in recent quarters .  On a 12-month basis, overall inflation and the measure excluding food and energy prices have declined this year and are running below 2 percent.  Market-based measures of inflation compensation remain low; and survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. Hurricanes Harvey and Irma have devastated many communities, inflicting severe hardship.  Storm-related disruptions and rebuilding will affect economic activity in the near term, but past experience suggests that the storms are unlikely to materially alter the course of the national economy over the medium term. The Committee continues to expect s that, with further gradual adjustments in the stance of monetary policy, growth in economic activity and employment will expand at a moderate pace to sustainable rates in the medium term , and labor market conditions will strengthen somewhat further. Higher prices for gasoline and some other items in the aftermath of the hurricanes will likely boost inflation temporarily; apart from that effect, inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term. Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent for the time being .  The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant further gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are
+
+expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+- 5. For the time being, the Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. In October, the Committee expects to begin implementing its will initiate the balance sheet normalization program relatively soon, provided that the economy evolves broadly as anticipated; this program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.
+
+In future FOMC statements, paragraph 5 could become:  'Balance sheet normalization is proceeding in accordance with the program that the Committee initiated in October 2017; that program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.'
+
+THE CASE FOR ALTERNATIVE B
+
+Economic Conditions and Outlook
+
+-  The two employment reports that were received during the intermeeting period indicate that the labor market strengthened further, about as expected.
+- o Nonfarm payroll employment rose an average of 185,000 over the three months ending in August, well above estimates of the level necessary to maintain a constant unemployment rate.  Even so, the labor force participation rate climbed 0.2 percentage point to 62.9 percent, and thus the unemployment rate remained about flat, albeit at a level below all participants' estimates of its longer-run normal level in the June SEP.  Finally, wage growth continued to be subdued.
+-  Over the 12 months ending in July, both headline and core PCE price inflation were at 1.4 percent.
+- o Prior to hurricanes Harvey and Irma, headline and core PCE inflation had both come in very close to expectations.  While inflation readings had been surprisingly low during the spring and early summer months, that decline is believed to reflect, in part, idiosyncratic factors; as a matter of simple accounting, these unexpectedly low prior readings on PCE and CPI inflation will hold down 12-month inflation measures for some time.  The idiosyncratic factors, and the effects of the storm-related disruptions, have not changed the staff's view that the underlying trend in inflation remains at a rate of about 1¾ percent.
+- o The economic effects of the hurricanes are expected to include a sizable increase in prices of gasoline that will temporarily raise headline inflation, but the effects on other items will likely be too small to leave an imprint on core inflation.
+- o Measures of longer-run inflation expectations, both market- and survey-based, were little changed over the intermeeting period.
+-  Economic activity expanded at a moderate pace, on average, over the first half of the year, with contributions coming from a broad set of expenditure categories including personal consumption expenditures and business fixed investment.  Hurricane Harvey is estimated to have had a substantial negative effect on the extraction of crude oil and natural gas, on chemical production and refining, and on transportation, in south
+
+Texas.  Hurricane Irma, on the other hand, is currently estimated to have smaller effects.  For national output and employment, the implications of the two storms, taken together, are expected to be modest and temporary.
+
+-  Financial conditions eased over the intermeeting period, as captured by a decline of the 10-year Treasury rate of 15 basis points since the Committee met in July, a fall in the exchange value of the dollar of about 1½ percent, and a rise in stock prices of about 1 percent.  Meanwhile, financial market participants have marked down slightly the likelihood of an increase in the target range for the federal funds rate before yearend.  Respondents to the Desk's surveys in September also reduced their estimates of the likelihood of an increase in the federal funds rate before year-end, on average.
+
+Policy Strategy
+
+-  Policymakers may view the information received over the intermeeting period as indicating that the labor market is close to maximum sustainable employment, if not somewhat beyond it, while inflation continues to run below the 2 percent objective. Policymakers also may view the available information as indicating, on balance, that economic activity is growing about as expected and along lines consistent with the medium-term achievement of their policy objectives.  On that basis, they may judge that the course of policies they sketched out in previous meetings, including a gradually rising path for the target range for the federal funds rate and prompt commencement of the balance sheet normalization program, remains appropriate.
+-  Policymakers may see the medium-term outlook for inflation and the labor market as little changed since their previous meeting, with the unemployment rate falling a bit further below their estimates of the longer-run normal rate of unemployment, and inflation reaching 2 percent by 2019.  They may also concur with the judgment of the staff, described elsewhere in this Tealbook, that there is sufficient evidence to reduce their estimates of the longer-run normal rate of unemployment.  They may therefore judge that the economy is on essentially the same course as it was in July and thus a statement like that in Alternative B is appropriate.
+-  Policymakers might also regard the current meeting as a propitious time for initiating their balance sheet normalization program without a simultaneous change in the target range for the federal funds rate.  They may judge such a combination as maximizing the chances that the program's commencement will go smoothly, while also enabling them to observe the initial stages of the process before raising the federal funds rate further.
+
+-  Policymakers may also judge that some additional data would be helpful for assessing whether the Consumer Price Index report for August presages the end of the recent string of low readings on core PCE price inflation.  That might be the case if those low readings were largely the result of idiosyncratic price changes; if so, the 12month measure of PCE inflation could be expected to establish an upward course toward policymakers' 2 percent objective in the coming year.  Similarly, although policymakers may agree with the staff's assessment of the likely effects of the hurricanes on employment and output, they might choose to wait until it has been established that the effects will prove to be as limited as predicted.
+-  Policymakers might continue to judge that the risks to the outlook in the near term remain roughly balanced, amid expected near-term fluctuations associated with the effects of the hurricanes and recent inflation developments that bear close watching.
+-  Policymakers may judge that market expectations regarding the future path of the federal funds rate are broadly consistent with the Committee achieving its objectives over the medium term.  Or they might believe that, in light of the information becoming available over the next couple of intermeeting periods, it would be premature to be concerned with the market's current assessment of the Committee's next adjustment to monetary policy.  For either of these reasons, these policymakers might conclude that no change in statement language aimed at inducing a reassessment by markets of future monetary policy actions would be appropriate at this time.
+-  As shown in the 'Monetary Policy Expectations and Uncertainty' box, federal funds futures quotes (without adjustment for term premiums) imply that market participants on average regard the odds of a rate hike at the September meeting as negligible and see about a 40 percent probability that the federal funds rate will be raised again by the end of the year.  Results from the September Desk's surveys show that the average expectation of the likelihood of a further increase in the federal funds rate before year-end is 55 percent.  The surveys also show that market participants perceive a very high likelihood that the FOMC will announce, next week, the initiation date for its balance sheet normalization plan.  Taken together, this suggests that the unchanged language in paragraphs 3 and 4 of Alternative B would likely generate a muted response in financial markets.
+
+THE CASE FOR ALTERNATIVE C
+
+Economic Conditions and Outlook
+
+-  The Committee's assessment, earlier this year, that real GDP growth would pick up from the low rate reported in the first quarter proved to be accurate.  Much, but not all, of the rebound has come in the form of increased consumer spending.  Indeed, there has been a broad strength across expenditure categories.  The economy's recent momentum may lead policymakers to expect that aggregate demand in the second half of 2017 and in 2018 could grow considerably faster than the economy's potential output.
+-  Total nonfarm payroll employment continued to rise at a pace that is well above what is commonly regarded as necessary to maintain a constant unemployment rate.  The moderation over the three months ending in August was entirely due to weak government employment which might be a statistical anomaly; in contrast, private payrolls rose 191,000 per month, on average, over the last three months.  The momentum in the labor market poses the risk of a significant overshooting of maximum employment.
+-  The unemployment rate was about flat over the intermeeting period, but this move was accompanied by an increase in the labor force participation rate of 0.2 percentage point to 62.9 percent.  The increase in the labor force participation rate runs against a downward trend reflecting demographic forces and could be one sign that labor is becoming scarce.  Other signs of incipient labor shortages may include the dwindling proportion of individuals who are employed part time for economic reasons, the apparent reduction in geographical labor force mobility, and the prospective curtailment of immigration.  These observations are consistent with the fact that the projected unemployment rate remains below all participants' estimates of its longerrun normal level in the June SEP.  Accordingly, some policymakers may judge that an overly gradual reduction in policy accommodation could result in either a noteworthy overshooting of the Committee's inflation objective that could be costly to reverse, or to imbalances that might prove difficult to unwind without a rapid and disruptive tightening in policy.
+-  Although most measures of nominal wages have yet to show much acceleration, the Atlanta Fed wage tracker, which measures wage growth of a class of employees who have been in continuous employment, has registered stronger growth.  Consequently, some policymakers might be persuaded that the 'Steeper Phillips Curve' alternative
+
+scenario shown in the 'Risks and Uncertainties' section of Tealbook A might be germane to the current situation.
+
+Policy Strategy
+
+-  In light of continued strong job gains in recent months, policymakers may be concerned that reducing accommodation at the pace communicated by the Committee's recent statements and actions could lead to substantial undershooting of the longer-run normal rate of unemployment.  Policymakers may judge that such undershooting would pose upside risks to inflation and raise the likelihood that policy may need to be tightened relatively abruptly.
+-  Some policymakers might note that the staff projects a somewhat stronger economy in this Tealbook than was the case in July, with conventional measures of resource utilization showing greater tightness at the end of the projection period, despite a slightly steeper projected path for the federal funds rate.  On this basis, these policymakers might conclude that upside risks that were present in July have been exacerbated.
+-  Policymakers may note that the intermeeting period has seen a further marked decrease in longer-term bond rates as well as in mortgage rates, more depreciation of the exchange value of the dollar, and continuing low levels of financial market volatility.  Noting that financial conditions have eased for the past year and a half, some policymakers might conclude that financial market conditions have not been moving in a manner consistent with the actual and expected future stance of monetary policy.  Against this background, they may be concerned that repeating recent communications about future monetary policy will reinforce market expectations of a very gradual reduction of policy accommodation which could spur undue risk-taking in financial markets that might ultimately endanger financial stability.
+-  For all of the above reasons, and in view of the outlook for inflation beyond this year, policymakers may opt to signal an increased likelihood of an increase in the federal funds rate in the not-too-distant future, and to reinforce this signal with the suggestion that either more increases in the federal funds rate might be warranted than previously thought, or that increases could come more rapidly.  Accordingly, policymakers might favor a statement along the lines of Alternative C which, among other things, removes the existing language suggesting that the policy rate would remain below normal levels for some time.
+
+-  A statement like Alternative C would surprise market participants.  If the public were to infer that the Committee intends to pursue a less accommodative policy stance in the future as a matter of policy preferences-that is, holding constant their outlook for the economy-then medium- and longer-term real interest rates would likely rise, as would the exchange value of the dollar, and equity prices and inflation compensation would probably fall.  If instead investors were to see a statement like Alternative C as primarily reflecting an upbeat assessment of the strength of the U.S. economic expansion, and not a revelation about policymaker preferences, then equity prices might fall less than otherwise, or even rise, and inflation compensation might rise as well.
+
+THE CASE FOR ALTERNATIVE A
+
+Economic Conditions and Outlook
+
+-  Both headline and core inflation continue to run noticeably below the Committee's 2 percent inflation objective.  In nearly every report from March through July, CPI and PCE price indexes were softer than generally expected.  The weak inflation readings may partly or largely be due to one-off or temporary factors.  However, the staff projects headline and core PCE price inflation rates to stand near 1.5 percent by the end of the year, reflecting in part weakness in some price categories-such as housing services and other market-based services-that has been more persistent than anticipated.
+-  Recent readings on market-based measures of inflation compensation and surveybased measures of longer-term inflation expectations are little changed over the intermeeting period but are low by historical standards.  Moreover, the Michigan survey of inflation expectations over the next five to ten years has steadily declined over the past four years.
+-  The combination of solid job gains and subdued growth in wages suggests that the labor market may not yet have reached maximum employment.  Recent increases in payroll employment have been well above what is commonly thought to be necessary to maintain a constant unemployment rate, and yet that was also true last year, but rising labor force participation last year kept the unemployment rate almost unchanged; indeed, a string of positive surprises in labor force participation this year have induced upward revisions by the staff to estimates of trend labor force participation.
+
+-  The factors that have held down PCE price inflation in recent months may well be transitory, but the Dallas Fed's 12-month trimmed mean inflation rate slipped 0.1 percentage points to 1.6 percent in July after having held steady for three months. Moreover, policymakers may note that despite the surprising near-term strength in economic activity, the staff has not materially changed its inflation forecast beyond this year:  Headline PCE price inflation, measured on a four-quarter basis, is projected to be very low this year, at 1.5 percent, and remain a bit below 2 percent in 2018.  If the staff assessment that the output gap has now been positive for over a year is correct, it might mean that the output sensitivity in the short-run Phillips curve is weak and that inflation will drift downward with long-term inflation expectations, along the lines of the 'Different Inflation Process' alternative simulation shown in the Risks &amp;amp; Uncertainty section of Tealbook A.
+-  The bulk of the news on expenditures and production over the past few months has been either consistent with expectations or a touch to the strong side.  But the weak spots recently have been in the most interest-sensitive components of the economy, namely, residential investment and automobile sales.  This weakness could indicate that the neutral rate of interest is lower than thought.  The fact that longer-term interest rates have declined since the beginning of the year, without any concomitant indications of significant deterioration in long-term inflation expectations, could be taken as supporting this conclusion.  A lower neutral rate would point to a more gradual, or a more abbreviated, pace of increases in the target range for the federal funds rate.
+
+Policy Strategy
+
+-  Although economic activity has been rising moderately on average in the last few quarters, the absence of inflation pressures allows the Committee to remain patient in removing accommodation.  Taking into account the soft inflation readings of late, and the uncertainty surrounding the inflation outlook, policymakers may judge that tighter resource utilization is necessary for inflation to step up, or that allowing higher levels of activity would be an acceptable risk for policymakers to take.
+-  The uncertainties associated with quantifying the effects of recent hurricanes on activity and prices would also support a cautious approach to removing policy accommodation, all else equal.
+-  Additionally, policymakers may be concerned that removing policy accommodation too quickly may harm the credibility of the Committee's 2 percent longer-run
+
+inflation objective and of the Committee's statement that positive and negative deviations from this objective are treated symmetrically.
+
+-  Moreover, if policymakers, like the staff, have revised down their estimates of the longer-run normal interest rate since June, they may judge that the current stance of monetary policy is less accommodative than previously thought.  They might also note that a lower longer-run normal interest rate, all else equal, implies a higher likelihood of the federal funds rate returning to the effective lower bound, which would argue for greater caution in removing accommodation.
+-  On the basis of these arguments, policymakers might want to communicate not just that no increase in the target range for the federal funds rate is warranted at this meeting, but also to suggest that no further tightening will be forthcoming until there is evidence that the recent softness in inflation is unlikely to persist.  They might wish to pair this change with removing the language, contained in many previous statements, that 'gradual increases' in the federal funds rate are warranted to achieve the Committee goals.
+-  Financial market quotes and the Desk's September surveys indicate that market participants see little or no chance of an adjustment in the federal funds rate at this meeting.  Nevertheless, a statement along the lines of Alternative A would likely be regarded as a significant change in the Committee's policy outlook.  If the public were to take the changes outlined in Alternative A as reflecting Committee pessimism regarding the future course of inflation, then market-based measures of inflation compensation would presumably fall.  In addition, medium- and longer-term real interest rates would likely fall, as would the exchange value of the dollar and equity prices.  If instead investors were to see this statement as primarily reflecting a clarification of policy preferences-perhaps as a statement of renewed resolve to get inflation rapidly and consistently up to 2 percent-then inflation compensation could rise, real longer-term interest rates would probably fall less than under the alternative interpretation, and equity prices might rise as well.  The effect on the dollar would be ambiguous, with lower real rates and higher future inflation pointing to depreciation, but stronger economic activity suggesting the opposite.
+
+IMPLEMENTATION NOTE
+
+Inasmuch as all of the Alternatives incorporate a decision to initiate the balance sheet normalization plan in October, and none includes an increase in the target range for the federal funds rate at this meeting, only one implementation note is shown on the following pages.  It indicates no changes in the target range for the federal funds rate or in the Federal Reserve's administered rates.  A decision to initiate the change in reinvestment policy described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans would be reflected in new language in the domestic policy directive, which, as usual, will be released as part of the implementation note.  The necessary new language is included in the directive portion of the implementation note that begins on the next page.  In that note, struck-out text indicates language deleted from the July implementation note, bold red underlined text indicates added language, and blue underlined text indicates text that links to websites.
+
+There are two noteworthy aspects of the red language.  First, the draft directive instructs the Desk to implement the balance sheet reduction plan 'in October 2017' rather than 'on October 1, 2017.'  The reasons for specifying 'October' rather than 'October 1' are:  (1) the SOMA holds Treasury securities that mature in October, but none that mature before October 31; (2) the Desk receives a final (though not always accurate) estimate of the amount of MBS principal that it is likely to receive during a month on the 8th business day of that month, and it announces on the 9th business day the operations that it plans to conduct to reinvest that principal (moreover, in early October the Desk will still be reinvesting MBS principal received in September); and (3) October 1 is a Sunday.  Second, the draft directive includes a short sentence stating that: 'Small deviations from these amounts for operational reasons are acceptable.'  The reason for including the 'small deviations' sentence is that, while the Desk should be able to reinvest precisely all but $6 billion of maturing Treasury securities (unless the Treasury cannot auction new debt to redeem maturing securities), it may not be operationally feasible to reinvest exactly all but $4 billion of principal from MBS, though the Desk normally should be able to come close.  This sentence is intended to allow the Desk some modest operational flexibility.  If the Desk anticipates that it will not be feasible to come close, it would consult with the Chair and Committee.
+
+A
+
+Implementation Note for September 2017 Alternatives A, B, and C
+
+Release Date:  September 20, 2017
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on July 26 September 20 , 2017:
+
+-  The Board of Governors of the Federal Reserve System voted   unanimously   to [ ] maintain the interest rate paid on required and excess reserve balances at 1.25 percent.
+-  As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective July 27 September 21 , 2017, the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of 1 to 1-1/4 percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 1.00 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a percounterparty limit of $30 billion per day.
+
+The Committee directs the Desk to continue rolling over maturing Treasury securities at auction Treasury securities maturing during September, and to continue reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities the principal payments received through September from the Federal Reserve's holdings of agency debt and agency mortgagebacked securities .
+
+Effective in October 2017, the Committee directs the Desk to roll over at auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month that exceeds $6 billion, and to reinvest in agency mortgage-backed securities the amount of principal payments from the Federal Reserve's holdings of agency debt and agency mortgagebacked securities received during each calendar month that exceeds $4 billion.  Small deviations from these amounts for operational reasons are acceptable.
+
+The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+-  In a related action, the Board of Governors of the Federal Reserve System voted unanimously to approve the establishment of the primary credit rate at the existing level of 1.75 percent.
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.
+
+More information regarding open market operations and the details of operational plans for reducing reinvestments may be found on the Federal Reserve Bank of New York's website.
+
+Projections
+
+BALANCE SHEET AND INCOME
+
+The staff has prepared projections of the Federal Reserve's balance sheet and key elements of the associated income statement that are consistent with the interest rate paths incorporated in the staff's baseline economic outlook presented in Tealbook A.
+
+The 'September Tealbook baseline' scenario incorporates a revised assumption for the Treasury General Account (TGA) to capture the Treasury's current policy to 'hold a level of cash generally sufficient to cover one week of outflows.'   In line with 1 the average of weekly outflows over the past five years, we now assume that the TGA will be equal to 1.3 percent of nominal GDP, replacing the previous assumption of a constant level of $150 billion.  Consequently, we forecast that the TGA will increase from about $260 billion in the current quarter to about $425 billion by the end of the projection period.   This change moves the projected timing of normalization of the size 2 of the balance sheet to the summer of 2021, one quarter earlier than in the July Tealbook, because the longer-run path of SOMA holdings will be boosted by the larger TGA. Annual remittances will also be slightly larger after normalization.
+
+In addition, the September baseline includes paths for interest rates that are generally a bit higher than in the July Tealbook.  The path for the federal funds rate is slightly steeper and about 14 basis points higher on average over the forecast period, with the rate projected to rise to just above 4 percent in 2021 before moving down to about 2½ percent by the end of the projection period.  The path for longer-term interest rates has been revised lower for the next three quarters, but is generally higher than in the July forecast for the remainder of the projection period.
+
+The key policy assumptions associated with the balance sheet projections are highlighted below.
+
+SeStePEer glyph&lt;c=20,font=/EGABBE+TimesNewRomanPS-BoldMT&gt;glyph&lt;c=23,font=/EGABBE+TimesNewRomanPS-BoldMT&gt;glyph&lt;c=15,font=/EGABBE+TimesNewRomanPS-BoldMT&gt; glyph&lt;c=21,font=/EGABBE+TimesNewRomanPS-BoldMT&gt;glyph&lt;c=19,font=/EGABBE+TimesNewRomanPS-BoldMT&gt;glyph&lt;c=20,font=/EGABBE+TimesNewRomanPS-BoldMT&gt;glyph&lt;c=26,font=/EGABBE+TimesNewRomanPS-BoldMT&gt;
+
+-  Reinvestment policy. We assume that the Committee will announce a change in its reinvestment policy at the September meeting and that, in October, it will begin implementing the balance sheet normalization program as described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans. 3
+-  Longer-run reserve balances. As in our July projections, we assume that the longer-run level of reserve balances is $500 billion.   There is a great deal of 4 uncertainty about the longer-run level of reserves, which could be affected by factors such as structural changes in the banking system, the effects of regulation on banks' demand for reserves, and the Committee's ultimate choice of a long-run operating framework.  The actual longer-run level of reserves may turn out to be appreciably smaller or larger than the staff assumption.
+
+Key features of the balance sheet and income projections are described below:
+
+-  SOMA redemptions and reinvestment. As reported in the table below, under our assumption that the new reinvestment policy will begin in October, $18 billion and $12 billion in Treasury and agency securities, respectively, are projected to be redeemed in the fourth quarter of this year.  In 2018, $229 billion and $146 billion in Treasury and agency securities, respectively, are projected to be redeemed. Cumulative redemptions from the onset of the phase-in until normalization of the size of the balance sheet are projected to be nearly $1.4 trillion, of which $838 billion are in Treasury securities and $541 billion are in agency debt and MBS.
+
+<!-- missing-text -->
+
+*through normalization of the balance sheet size
+
+As shown in the upper left panel of the exhibit titled 'Total Assets and Selected Balance Sheet Items,' once the cap for monthly reductions in SOMA holdings of Treasury securities has been fully phased in, reinvestment of some principal from maturing Treasury securities would occur mostly in the middle month of each quarter, when large amounts of such securities held in the SOMA will mature.  In contrast, the $20 billion fully phased-in cap for agency securities is not projected to bind with the assumed path for interest rates.  MBS paydowns, which are uncertain, are projected to run at a fairly steady monthly pace, even though, as shown by the blue bars in the figure, receipts and reinvestments of principal from MBS securities have historically displayed considerable variability.  In light of the projected rise in longer-term interest rates, they are also expected to run at lower monthly amounts further along the projection horizon.  Realized MBS paydowns will reflect the evolution of interest rates and other factors, and thus could differ significantly from projected values.
+
+-  Balance sheet. Normalization of the size of the balance sheet is projected to occur in the third quarter of 2021, one quarter earlier than projected in the July Tealbook, with the revision reflecting the assumed increase in the level of the TGA (see the exhibit titled 'Total Assets and Selected Balance Sheet Items' and the table that follows the exhibit).  At the time reserve balances reach $500 billion, total assets are projected to stand at roughly $3 trillion, with about $2.9 trillion in total SOMA securities holdings composed of $1.6 trillion of Treasury securities and $1.2 trillion of MBS.  Total assets and SOMA holdings rise thereafter, keeping pace with the projected increases in Federal Reserve notes in circulation, the TGA, and Federal Reserve Bank capital.
+
+When the size of the balance sheet is normalized, assets and liabilities are each projected to stand at roughly 13 percent of nominal GDP, after having reached a peak of 23 percent in the third quarter of 2017.  Focusing on liabilities, the assumed
+
+2014
+
+2016
+
+2018
+
+Total Assets and Selected Balance Sheet Items
+
+September Tealbook baseline July Tealbook baseline
+
+SOMA Redemptions and Reinvestments
+
+Total Assets
+
+Billions of dollars
+
+Redemptions
+
+Reinvestments
+
+MBS &amp; agency debt
+
+Treasuries
+
+Projections begin
+
+September
+
+2017
+
+2017
+
+2018
+
+Reserve Balances
+
+Monthly
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2020
+
+2021
+
+Billions of dollars
+
+2026
+
+2028
+
+2030
+
+SOMA Agency MBS Holdings
+
+Billions of dollars
+
+Monthly
+
+2010
+
+2012
+
+2019
+
+2020
+
+2022
+
+2024
+
+2026
+
+2028
+
+2030
+
+80
+
+60
+
+40
+
+20
+
+0
+
+-20
+
+-40
+
+-60
+
+-80
+
+3500
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+0
+
+2400
+
+2200
+
+2000
+
+1800
+
+1600
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+Monthly
+
+2006
+
+Total Reserves
+
+Other Liabilities
+
+Treasury General Account
+
+Federal Reserve notes in circulation
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+Billions of dollars
+
+2024
+
+2026
+
+5500
+
+5000
+
+4500
+
+4000
+
+3500
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+0
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+2028
+
+2030
+
+SOMA Treasury Holdings
+
+<!-- missing-text -->
+
+Liabilities as a Share of GDP
+
+Percent
+
+2028
+
+2030
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Federal Reserve Balance Sheet End-of-Year Projections -- September Tealbook
+
+(Billions of dollars)
+
+<!-- missing-text -->
+
+- *Loans and other credit extensions includes primary, secondary, and seasonal credit; central bank liquidity swaps; and net portfolio holdings of Maiden Lane LLC.
+
+$500 billion longer-run level of reserve balances would amount to 2 percent of nominal GDP in 2021; this share declines modestly over the remainder of the forecast period with reserve balances assumed constant at $500 billion while nominal GDP continues to rise.  Federal Reserve notes in circulation are assumed to remain at 8½ percent of nominal GDP.  Other liabilities, including the TGA, foreign repo pool, and DFMU balances, amount to roughly 2½ percent of GDP at the end of the projection period.5
+
+-  Federal Reserve remittances. Remittances to the Treasury are projected to decline from $92 billion in 2016 to about $78 billion this year (See the 'Income Projections' exhibit).  The step-down reflects higher interest expense resulting from the recent increases in the target range for the federal funds rate and the associated increases in interest on reserves as well as the projection for another rate hike this year. 6 Remittances are projected to continue to decline in coming years, reaching a trough of $38 billion in 2019, as the size of the SOMA portfolio decreases and the target range for the federal funds rate moves up further.  Subsequently, remittances gradually increase as Treasury securities are added to the SOMA portfolio to match the expansion of currency and other liability items.  The Federal Reserve's cumulative remittances from 2009 through 2030 are nearly $1.5 trillion.  Throughout the projection period, annual remittances are equivalent, on average, to about 0.25 percent of nominal GDP, which is slightly higher than the pre-crisis average share, as shown in the bottom left panel of the 'Income Projections' exhibit.  No deferred asset is projected. 7
+
+Relative to the July Tealbook, projected cumulative remittances from 2017 through 2021 are $12 billion higher.  Interest expense is slightly lower as reserves are roughly $100 billion lower through 2021 due to the assumption for a higher TGA level. Additionally, interest income is a bit higher as the path for longer-term interest rates was revised upward compared to the July Tealbook.  After the size of the balance
+
+Income Projections
+
+September Tealbook baseline July Tealbook baseline
+
+Interest Income
+
+Interest Expense
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Realized Capital Gains
+
+<!-- missing-text -->
+
+Remittances as a Percent of GDP
+
+<!-- missing-text -->
+
+Earnings Remittances to Treasury
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+sheet is normalized, SOMA securities holdings will be larger than projected in the July Tealbook, primarily due to the change in the TGA assumption, and as a result, interest income will be higher compared with July.  On net, throughout the projection period cumulative remittances to the Treasury are $70 billion higher than in the July Tealbook.
+
+-  Unrealized gains or losses. The staff estimates that the SOMA portfolio was in a net unrealized gain position of about $126 billion at the end of August.   The net 8 unrealized gain or loss position of the portfolio going forward will depend primarily on the path of longer-term interest rates.  In the September Tealbook, these rates are expected to rise over the next couple of years, and as a result, the portfolio is projected to shift to an unrealized loss position at the start of next year.  The portfolio is expected to record a peak unrealized loss of $142 billion in 2019:Q3.  This is about $22 billion larger than in the July Tealbook as a result of the higher path for longerterm interest rates this Tealbook.  Of the overall projected peak unrealized loss, $41 billion is attributable to holdings of Treasury securities and $102 billion to holdings of agency MBS.  The unrealized loss position subsequently narrows and returns to an unrealized gain position by the end of the projection period for two reasons:  First, the value of securities acquired under successive large-scale asset purchase programs (LSAPs) returns to par as those securities approach maturity; second, securities purchased after normalization are projected to increase in value above par as interest rates, which are elevated for some time, move down toward their longer-run levels.
+-  Term premium effects. As shown in the table 'Projections for the 10-Year Treasury Term Premium Effect,' the elevated amount of securities held in the SOMA is estimated to be currently reducing the term premium in the 10-year Treasury yield (and thus the level of that yield) by 90 basis points in the third quarter of 2017, unchanged from the previous Tealbook.   The term premium effect is a touch more 9
+
+Projections for the 10-Year Treasury Term Premium Effect
+
+(Basis Points)
+
+<!-- missing-text -->
+
+negative than in the previous Tealbook throughout the remainder of the projection period.  This revision is primarily due to the assumed increase in the TGA and the resulting higher projected securities holdings after normalization.  The term premium effect gradually fades over the projection period.
+
+-  SOMA characteristics. As shown in the top panel of the 'Projections for the Characteristics of SOMA Holdings' exhibit, at the time of normalization the SOMA portfolio holds 57 percent and 43 percent in Treasury and agency securities, respectively.  After normalization, the share of Treasury securities increases so that Treasury securities account for about 85 percent of total SOMA holdings by the end of the projection period.
+
+The weighted-average duration of the SOMA Treasury portfolio is currently about 6¼ years (see the middle panel of 'Projections for the Characteristics of SOMA Holdings' exhibit).  It is subsequently projected to decline slightly this year as the securities in the portfolio approach maturity, and to rise thereafter until the size of the balance sheet is normalized in the third quarter of 2021. 10
+
+After reaching its peak, the duration of the SOMA Treasury portfolio is projected to decline as the Desk resumes purchases of Treasury securities to keep pace with the increase in Federal Reserve notes in circulation, Federal Reserve Bank capital, and other liability items, as well as the ongoing replacement of MBS principal repayments.  The duration contour in this later portion of the projection is based on the assumption that, for some time after purchases of Treasury securities resume in 2021, the Federal Reserve will limit its purchases to Treasury bills until they account for one-third of the Treasury portfolio, close to the pre-crisis composition (currently the SOMA portfolio holds no Treasury bills).  Thereafter, purchases of Treasury securities are assumed to be spread across the maturity spectrum (see the bottom panel, 'Maturity Composition of SOMA Treasury Portfolio').
+
+Projections for the Characteristics of SOMA Holdings
+
+SOMA Holdings
+
+<!-- missing-text -->
+
+SOMA Weighted-A verage Treasury Duration
+
+<!-- missing-text -->
+
+Maturity Composition of SOMA Treasury Portfolio
+
+<!-- missing-text -->
+
+(This page is intentionally blank.)
+
+September glyph&lt;c=20,font=/EGABDF+TimesNewRomanPSMT&gt;glyph&lt;c=23,font=/EGABDF+TimesNewRomanPSMT&gt;, glyph&lt;c=21,font=/EGABDF+TimesNewRomanPSMT&gt;glyph&lt;c=19,font=/EGABDF+TimesNewRomanPSMT&gt;glyph&lt;c=20,font=/EGABDF+TimesNewRomanPSMT&gt;glyph&lt;c=26,font=/EGABDF+TimesNewRomanPSMT&gt;
+
+Abbreviations
+
+ABS
+
+asset-backed securities
+
+BEA
+
+Bureau of Economic Analysis, Department of Commerce
+
+BHC
+
+bank holding company
+
+CDS
+
+credit default swaps
+
+CFTC
+
+Commodity Futures Trading Commission
+
+C&amp;I
+
+commercial and industrial
+
+CLO
+
+collateralized loan obligation
+
+CMBS
+
+commercial mortgage-backed securities
+
+CPI
+
+consumer price index
+
+CRE
+
+commercial real estate
+
+DEDO
+
+section in Tealbook A, 'Domestic Economic Developments and Outlook'
+
+Desk
+
+Open Market Desk
+
+DFMU
+
+Designated Financial Market Utilities
+
+ECB
+
+European Central Bank
+
+ELB
+
+effective lower bound
+
+EME
+
+emerging market economy
+
+EU
+
+European Union
+
+FAST Act
+
+Fixing America's Surface Transportation Act
+
+FDIC
+
+Federal Deposit Insurance Corporation
+
+FOMC
+
+Federal Open Market Committee; also, the Committee
+
+GCF
+
+general collateral finance
+
+GDI
+
+gross domestic income
+
+GDP
+
+gross domestic product
+
+GSIBs
+
+globally systemically important banking organizations
+
+HQLA
+
+high-quality liquid assets
+
+IOER
+
+interest on excess reserves
+
+ISM
+
+Institute for Supply Management
+
+LIBOR
+
+London interbank offered rate
+
+<!-- missing-text -->

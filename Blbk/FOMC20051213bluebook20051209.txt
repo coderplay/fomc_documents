@@ -1,0 +1,478 @@
+Prefatory Note
+
+The attached document represents the most complete and accurate version available based on original files from the FOMC Secretariat at the Board of Governors of the Federal Reserve System.
+
+Please note that some material may have been redacted from this document if that material was received on a confidential basis.  Redacted material is indicated by occasional gaps in the text or by gray boxes around non-text content.  All redacted passages are exempt from disclosure under applicable provisions of the Freedom of Information Act.
+
+CLASS I FOMC - RESTRICTED CONTROLLED (FR)
+
+DECEMBER 9, 2005
+
+MONETARY POLICY ALTERNATIVES
+
+PREPARED FOR THE FEDERAL OPEN MARKET COMMITTEE BY THE STAFF OF THE BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM
+
+Class I FOMC - Restricted Controlled (FR)
+
+MONETARY POLICY ALTERNATIVES
+
+Recent Developments
+
+- (1) Investors had largely anticipated the FOMC's decision at the November meeting to raise the target federal funds rate 25 basis points to 4 percent, to maintain its assessment that the risks to price stability and sustainable growth were balanced, and to retain the 'policy accommodation' and 'measured pace' references.  As a result, financial asset prices changed relatively little immediately after the announcement.   However, expectations for the path of monetary policy dropped in 1 response to the release of the minutes on November 22, which cited the potential risks of excessive policy tightening and suggested the possibility of changes to the statement in the near future.  Inflation data were benign over the intermeeting period, while the news on spending and output was generally a little stronger, on balance, than investors had expected.  On net over the intermeeting period, market participants marked up slightly their path for the funds rate through the middle of next year, but policy expectations beyond that horizon fell somewhat (Chart 1). 2 Futures quotes indicate that investors currently expect a 25-basis-point hike in the target at the upcoming meeting, attach a high probability to a similar increase in January, and place some odds on a quarter-point move at the March meeting.  Half of the respondents to the Desk's latest dealer survey expect the Committee to change the 'measured pace' language in the upcoming statement, and most anticipate some
+
+Chart 1 Interest Rate Developments
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Estimates from federal funds and eurodollar futures, with an allowance for term premia and other adjustments.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Spot wholesale price of gasoline.
+
+*Estimated from federal funds futures.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- *Estimates based on smoothed nominal and inflation-indexed
+- Treasury yield curves, and are adjusted for the indexation-lag effect.
+
+Class I FOMC - Restricted Controlled (FR)
+
+modification to the characterization of policy as 'accommodative.'  Option-implied uncertainty about the expected path for policy over the next six months edged a bit higher over the period.
+
+- (2) Yields on two-year nominal Treasury securities fell about 5 basis points over the intermeeting period, while those on ten-year nominal Treasury issues declined around 10 basis points, on net.   Thus, the yield curve flattened slightly, leaving its 3 slope considerably lower than in recent years (see box entitled 'Possible Interpretations of the Term Structure of Interest Rates').  Amid reassuring data on core inflation and mixed readings on energy prices, TIPS-based inflation compensation for the next five years fell about 10 basis points after adjusting for carry effects, while the five-year forward measure moved down a bit further.   According to 4 the Michigan survey, the short- and long-term inflation expectations of households retraced a considerable portion of the increases observed after the hurricanes struck the Gulf Coast.
+- (3) Broad stock indexes advanced about 4 to 6 percent over the intermeeting period, propelled by news suggesting continued robust economic growth with moderate inflation (Chart 2).  Implied volatility on major equity indexes declined substantially, on net, to very low levels.  Apart from mounting troubles in the auto industry, the credit quality of nonfinancial firms generally remained solid, given their strong balance sheets and profits.  The delinquency rate on C&amp;amp;I loans stayed at a
+
+Possible Interpretations of the Term Structure of Interest Rates
+
+The shape of the money market and Treasury yield curves contains information about investors' expectations of the trajectory of policy, economic growth, and inflation in coming quarters.  The Eurodollar futures curve currently slopes downward after the middle of next year, which suggests that investors attach significant odds to a change in the direction of monetary policy around that time.  Under our standard assumption for the term premium, futures rates imply about a 25-basis-point decline in the target funds rate between mid-2006 and the end of 2007.  Generally in line with futures quotes, the average expected target funds rate from the Desk's recent survey declines almost 10 basis points from the middle of next year to the end of 2006.  Investors' anticipation of a modest policy easing sometime after the middle of next year is consistent with expectations of a moderate slowing in economic growth or a decline in inflation.
+
+Researchers have noted that the Treasury yield curve tends to invert shortly before business cycle peaks, and a few commentators have argued that the current shape of the term structure is a harbinger of a slowdown or even a recession.  However, the yield curve has flattened only a touch over the intermeeting period, and its slope remains positive and close to its historical average at most horizons.  Based on simple regressions that control for the comparatively low level of the estimated term premium, the current slope of the term structure - as measured by the difference between three-month and ten-year Treasury yields - implies real GDP growth rates that are quite comparable to Board staff and private forecasts.  In addition, the slope of the term structure now implies only small odds on a contraction in output anytime within the next two years.  For details on the staff's analysis of the implications of the shape of the yield curve and GDP growth expectations, see 'Some Perspectives on Longer-Term Yields,' memo to the Federal Open Market Committee, June 23, 2005, pages 49-67.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Perpetuity Treasury yield minus Philadelphia Fed 10-year expected inflation. Note. + Denotes the latest observation using daily interest rates and stock prices and latest earnings data from I/B/E/S.
+
+Bond Default and C&amp;I Loan Delinquency Rates
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Basis points Corporate Bond Spreads*
+
+<!-- missing-text -->
+
+*Measured relative to an estimated off-the-run Treasury yield curve.
+
+Class I FOMC - Restricted Controlled (FR)
+
+historically low level in the third quarter, and bond defaults increased a bit further in October, mainly reflecting bankruptcy filings by Delphi and Refco.  Yields on investment-grade corporate debt moved about in line with those on comparable Treasury securities, leaving risk spreads about unchanged, and speculative-grade debt spreads were up only a little, despite intensified credit concerns in the auto sector. Year-end pressures in money markets have been minimal (see box entitled 'Year-end Pressures').
+
+- (4) The major-currency index of the dollar's foreign exchange value rose about ¾ percent on balance over the intermeeting period (Chart 3) . 5 The dollar gained more than 3 percent versus the yen, as Japanese authorities publicly pressured the Bank of Japan to delay transition from its quantitative easing policy.  The dollar also appreciated about 1½ percent against the euro.  Social unrest in France may have weighed on the euro early in the period, and market commentary suggested that an additional negative factor for the euro was continued repatriation of funds from Europe by U.S. firms prompted by the tax break provided under the Homeland Investment Act.  The European Central Bank raised its minimum refinancing rate 25 basis points on December 1-its first policy move in almost two and one-half years-but investors reportedly interpreted subsequent comments by ECB President Trichet as signaling less tightening ahead than they had anticipated.  The dollar depreciated 1¾ percent vis-à-vis the Canadian dollar, as Canadian domestic demand continued to be robust. The Bank of Canada raised its overnight policy rate 25 basis points on December 6 and indicated that additional tightening likely will be needed.  Yields on long-term government securities in major foreign industrial countries edged down on balance over the period.  Stock markets registered substantial gains, led by Japan's Nikkei
+
+C
+
+Year-end Pressures
+
+As in 2003 and 2004, year-end pressures in money markets have been muted so far in 2005.  As shown in the left-hand panel of the chart below, the spread of yields on thirty-day A2/P2 commercial paper over those on A1/P1 paper remained low as the maturity date crossed year-end.  Although the volume of outstanding commercial paper has increased in 2005, the continued strength in business credit quality has likely damped the premium investors require to hold lower-rated paper over the turn of the year.  In repo markets, there are some signs of special demand for Treasury as opposed to other collateral in contracts that extend over year-end, but the spread of one-month term federal funds over comparable Treasury RP rates, as noted in the right panel, has stayed low and does not point to any significant concerns about yearend pressures in the funds market.  Indeed, federal funds futures quotes imply that investors do not expect the effective federal funds rate to deviate much from the expected target over year-end.  The persistent low volatility of the effective funds rate in recent years along with expectations that the Desk will provide ample liquidity at year-end has probably reduced pressures in uncollateralized overnight funding markets.
+
+<!-- missing-text -->
+
+Chart 3 International Financial Indicators
+
+<!-- missing-text -->
+
+Stock Price Indexes
+
+<!-- missing-text -->
+
+Ten-Year Government Bond Yields
+
+<!-- missing-text -->
+
+EMBI+ Index
+
+<!-- missing-text -->
+
+Class I FOMC - Restricted Controlled (FR)
+
+index, which moved up nearly 10 percent on signs of improving growth and prospects for earnings.  Stock prices in the euro area and Canada rose 6 to 7 percent.
+
+- (5) The dollar fell about 1 percent over the intermeeting period against an index of currencies of our other important trading partners.  The dollar depreciated 2½ percent against the Mexican peso amid growing optimism about economic performance there.  The dollar also fell 1¾ percent versus the Brazilian real .  Stock prices moved up strongly in both countries, and Mexican and Brazilian sovereign yield spreads narrowed.  Equity prices also rose substantially in a number of Asian emerging market economies, including Taiwan and Korea, although exchange rates versus the dollar generally moved in narrow ranges.
+- (6) Domestic nonfinancial sector debt grew at a 9 percent annual rate in the third quarter, similar to its pace over the first half of the year, but is expected to decelerate somewhat in the current quarter (Chart 4).  Household mortgage debt expanded at an annual rate of 14 percent in the third quarter, but it is likely to slow somewhat in the current quarter against the backdrop of increases in mortgage rates. Bankruptcy filings have remained at very low levels after surging just before the new bankruptcy reform legislation became effective on October 17.  Although commercial paper outstanding appears to have been about flat on balance in the fourth quarter, overall business-sector debt has continued to expand at a fairly brisk pace, reflecting strong growth in C&amp;amp;I lending and moderate net bond financing.  Federal debt is projected to advance at about a 7¾ percent annual rate in the current quarter, up from the 5 percent pace posted in the third quarter, while state and local government borrowing is expected to moderate as the pace of advance refundings declines.
+- (7) M2 growth slowed in November, reflecting recent increases in the opportunity cost of money holdings.  The deceleration was especially apparent in liquid deposits and retail money market funds.  Waning mortgage prepayment effects stemming from the rise in mortgage interest rates appeared to more than offset a
+
+2005
+
+Chart 4 Debt and Money
+
+Growth of Nonfinancial Debt
+
+Growth of Household Debt
+
+<!-- missing-text -->
+
+- p Projected.
+
+Household Bankruptcies
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- *Source. Visa Bankruptcy Notification Service.
+
+Growth of M2
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+2005
+
+Note. Commercial paper and C&amp;I loans are seasonally adjusted, bonds are not.
+
+- e Estimated.
+
+M2 Velocity and Opportunity Cost
+
+<!-- missing-text -->
+
+- p Projected.
+
+Class I FOMC - Restricted Controlled (FR)
+
+hurricane-related boost to M2.  An increased relative attractiveness of equity investments may also have damped M2 growth.  The rise in share prices in November was accompanied by a strong rebound in net inflows into domestic equity funds.  M2 is expected to expand at about the same pace as nominal GDP in the current quarter. Appendix B analyzes the growth of money and nonfinancial debt this year.
+
+Class I FOMC - Restricted Controlled (FR)
+
+Economic Outlook
+
+- (8) Data on spending and production generally came in on the high side of expectations over the intermeeting period, leading the staff to trim its assessment of the impact of the recent hurricanes on the economy and to mark up somewhat its assessment of the near-term momentum to spending.  In addition, recent data on productivity prompted the staff to revise up a bit its forecast for structural productivity growth.  With the economic expansion seen as a little stronger than had previously been forecast, the staff now assumes that the federal funds rate rises into early next year before leveling out at 4½ percent, 25 basis points higher than in the last Greenbook.  Stock prices are projected to rise at a rate sufficient to provide riskadjusted returns comparable to those on fixed-income instruments, and the foreign exchange value of the dollar is expected to decline gradually.  With policy assumed to be on hold after early next year, longer-term interest rates are about flat over the forecast period.  Oil prices are projected to remain near current levels over the next two years.  Against this backdrop, the staff sees output growing near potential over 2006 and 2007, with very little remaining slack in the economy.  The indirect effects of this year's large run-up in energy prices are expected to push core PCE inflation to about 2 percent next year, but, as those effects wane and productivity growth remains strong, core inflation is projected to slow to 1¾ percent in 2007.  With energy prices flattening out, headline inflation roughly matches core inflation over the forecast period.
+
+Policy Alternatives
+
+- (9) This Bluebook breaks with the staff's usual practice by presenting two policy alternatives-B and C-that differ only in their statement language; both entail an increase in the target federal funds rate of 25 basis points (Table 1) .  Given the absence of major surprises in the economic and financial environment during the intermeeting
+
+P
+
+Table 1: Alternative Language for the December FOMC Announcement
+
+<!-- missing-text -->
+
+Class I FOMC - Restricted Controlled (FR)
+
+period, the choice of another 25 basis point firming at this meeting would be consistent with the Committee's indication in November that policy tightening can likely proceed at a measured pace.  A policy firming of that dimension would also be consistent with the staff forecast, in which modest further tightening is projected to be sufficient to contain inflation and foster sustainable growth.  This Bluebook's particular focus on the announcement is motivated by the Committee's interest in modifying its statement language before long, as evidenced by the considerable discussion at the last meeting and the ensuing intermeeting survey of meeting participants' preferences for the announcement.  Under Alternative B, the form of the assessment of risks would be modified notably, with the Committee indicating explicitly a judgment that some further tightening would be necessary to keep the risks to both sustainable economic growth and price stability roughly in balance.  By contrast, Alternative C retains much of the form as well as important elements of the content of the November FOMC statement, including the characterization of policy as accommodative and the 'measured pace' language.  However, the rationale section of Alternative C would convey greater concerns about inflation than the comparable portion of Alternative B.  As always, the Committee could choose to use the rationale language from one alternative with the assessment of risks language from another, or it could adopt different language altogether.
+
+- (10) The Committee might believe that a 25 basis point firming of policy at this meeting is appropriate for a number of reasons.  In the staff forecast, output remains near potential, and core inflation, though boosted for a time by the indirect effects of higher energy prices, ends the projection period near 1¾ percent-a level that many members may see as compatible with their price stability objective.  If the Committee believes the Greenbook forecast is plausible and acceptable, then it would probably find the 25 basis point policy firming at this meeting assumed in that projection to be attractive.  Put a bit differently, the Committee may see the current constellation of
+
+Class I FOMC - Restricted Controlled (FR)
+
+asset prices and interest rates in financial markets as likely to be consistent with output running near potential and inflation remaining contained.  If so, then it might want to ratify market expectations of a further 25 basis point tightening at this meeting.  Of course, should the Committee's outlook have changed significantly since the November meeting, it might wish to select a different setting for its policy instrument than assumed in the alternatives discussed below.
+
+Alternative B
+
+- (11) The Committee may favor the statement language of Alternative B if it thinks that somewhat higher federal funds rates are likely to prove necessary to limit pressures on resources and promote price stability but also believes that this tightening phase could be ending fairly soon.  The resilience of the economy in the face of hurricane-related disruptions, already limited margins of slack in resource markets, and the pressures on inflation from elevated energy prices may incline the Committee to believe that additional firming will probably be necessary even after a 25 basis point move at this meeting.  But the Committee may be of the view that, with policy accommodation now significantly reduced, the appropriate timing and extent of additional policy firming are becoming more uncertain.  Declines in energy prices and inflation expectations from their recent peaks may have eased members' concerns about the inflation outlook.  And the real federal funds rate (as measured using lagged inflation to proxy for inflation expectations) is now within the range of staff estimates of its equilibrium value (Chart 5).  Moreover, with a 25 basis point tightening at this meeting, the federal funds rate would be above the range of prescriptions from policy rules based on a target for inflation of 1½ percent (Chart 6), and one more tightening would bring the rate to the top of the range that the rules would call for even in the second half of next year.
+
+Chart 5
+
+Equilibrium Real Federal Funds Rate
+
+Short-Run Estimates with Confidence Bands
+
+<!-- missing-text -->
+
+Notes: The actual real federal funds rate is constructed as the difference between the quarterly average of the observed nominal funds rate and the log difference of the core PCE price index over the previous four quarters.  For the current quarter, the nominal funds rate used is the target federal funds rate as of the Bluebook publication date.
+
+Short-Run and Medium-Run Measures
+
+<!-- missing-text -->
+
+Notes: Confidence intervals and bands reflect uncertainties about model specification, coefficients, and the level of potential output.  The final column indicates the values for the current quarter based on the estimation for the previous Bluebook, except that the TIPS-consistent measure and the actual real funds rate are the values published in the previous Bluebook.
+
+* Improvements have been made to the FRB/US procedures for projecting foreign economic conditions and domestic energy production in real time; these procedures have also been applied to the estimate shown in the "Previous Bluebook" column (revised up about 1/2 percentage point).
+
+Equilibrium Real Rate Chart: Explanatory Notes
+
+The equilibrium real rate is the real federal funds rate that, if maintained, would be projected to return output to its potential level over time.  For the first three measures listed below, the short-run equilibrium rate is defined as the rate that would close the output gap in twelve quarters given the corresponding model's projection of the economy.  For the first two measures, the medium-run concept is the value of the real funds rate projected to keep output at potential in seven years under the assumption that monetary policy acts to bring actual and potential output into line in the short run and then keep them equal thereafter.  The TIPS-based factor model measure provides an estimate of market expectations for the real federal funds rate seven years ahead.  The actual real federal funds rate shown in the chart employs the log difference of the core PCE price index over the previous four quarters as a proxy for expected inflation, with the staff projection used for the current quarter.
+
+<!-- missing-text -->
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: Rule prescriptions for 2005Q4 through 2006Q3 are calculated using current Greenbook projections for inflation and the output gap (or unemployment gap).  For rules that contain the lagged funds rate, the rule's previous prescription for the funds rate is used to compute prescriptions for 2006Q2 and 2006Q3.  It is assumed that there is no feedback from the rule prescriptions to the Greenbook projections through 2006Q3.  The TIPS-based rule is computed using average TIPS and nominal Treasury yields to date.
+
+Policy Rules Chart: Explanatory Notes
+
+In all of the rules below, i t denotes the federal funds rate, π t the staff estimate at date   of trailing fourt quarter core PCE inflation, (yt - yt *) the staff estimate (at date  ) of the output gap, t π * policymakers' long-run objective for inflation, i t-1 the lagged federal funds rate, g t-1 the residual from the rule's prescription the previous quarter, (yt+3|t - yt+3|t *) the staff's three-quarter-ahead forecast of the output gap, ( Δ yt+3|t -Δ yt+3|t *) the staff's forecast of output growth less potential output growth three quarters ahead, π t+3|t a three-quarter-ahead forecast of inflation, and (ut+3|t - ut+3|t *) a three-quarter-ahead forecast of the unemployment gap.  Data are quarterly averages taken from the Greenbook and staff memoranda closest to the middle of each quarter, unless otherwise noted.
+
+<!-- missing-text -->
+
+- RMSE for rules with imposed coefficients is calculated setting π * = 1.5 .
+
+a
+
+Class I FOMC - Restricted Controlled (FR)
+
+- (12) The rationale portion of the statement for Alternative B notes that the expansion in economic activity appears solid despite elevated energy prices and disruptions related to the hurricanes.  The reference to policy accommodation has been dropped:  If the federal funds rate is seen as nearing its equilibrium value, the Committee may no longer wish to suggest that policy accommodation is boosting growth.  Members may also want to take this opportunity to remove the reference to the support to economic activity provided by robust underlying growth in productivity.  In assessing inflation, the Committee may want to acknowledge the relatively benign core inflation readings in recent months and again indicate that longer-term inflation expectations remain contained.  However, given the apparent underlying strength of aggregate demand, members may want to note that 'possible increases in resource utilization as well as elevated energy prices have the potential to add to inflation pressures.'
+- (13) The assessment of risks portion of the statement for Alternative B resolves some of the complications and tensions that have arisen in the current language.  It starts by removing the arguably tautological statement that 'appropriate policy' should keep the risks to sustainable growth and price stability balanced, and it also drops the indication that 'policy accommodation can be removed at a pace that is likely to be measured.'  Instead, the assessment notes that 'some further measured policy firming is likely to be needed to keep the risks to both price stability and sustainable economic growth roughly in balance.'  The Committee may find this formulation attractive because it simplifies the existing wording considerably but does not greatly change its message regarding the likely near-term path for policy.  If the Committee continues to expect that policy will be adjusted gradually, almost surely in increments of 25 basis points, then the retention of the word 'measured' would seem appropriate.  And the use of the word 'some' would suggest that the Committee expects that the necessary amount of additional tightening is not large.  Given the
+
+Class I FOMC - Restricted Controlled (FR)
+
+considerable uncertainty about the level of the equilibrium federal funds rate, members may no longer be confident that policy is accommodative, and so welcome the deletion of the reference to the removal of policy accommodation here as well as in the rationale section.  This deletion might seem even more appropriate if members see a possibility that the federal funds rate will need to be raised above its equilibrium value in order to keep inflation contained.  As in recent announcements, the Committee might want to emphasize that policy actions will depend on evolving economic conditions.  Along these lines, the last sentence in the statement notes that 'the Committee will respond to changes in economic prospects as needed to maintain price stability and foster sustainable economic growth.'
+
+- (14) Market participants uniformly expect a 25 basis point rate hike at this meeting.  The desk's survey of primary dealers indicates that most anticipate deletion or modification of the references to accommodative policy and that about half anticipate that the Committee will drop or modify the 'measured pace' phrase.  But market participants appear not to foresee a change in the formulation of the assessment of risks at this meeting.  Given the extent of the changes proposed for Alternative B, it is difficult to be confident of how the new statement will be interpreted by investors.  On the one hand, the rationale portion of the statement-by downplaying the adverse effects on activity of higher energy prices and the hurricanes, and pointing to increases in resource utilization as a potential source of inflation pressure-may be seen as somewhat hawkish, leading investors to mark up their path for policy.  On the other hand, the indication in the risk assessment that 'some further measured tightening is likely to be needed' to keep risks balanced would seem to be roughly congruent with current market expectations for policy.  And the fact that the Committee was making substantial changes to the statement might be seen by investors as a sign that it expected to stop tightening soon.  On balance, policy expectations could move a little higher, causing modest increases in interest rates,
+
+Class I FOMC - Restricted Controlled (FR)
+
+declines in stock prices, and strengthening of the dollar.  These market effects could be somewhat larger if the removal of the reference to 'policy accommodation,' coupled with the concerns expressed about the potential inflationary effects of increases in resource utilization, led some market participants to conclude that the Committee's intent was not merely to bring the real funds rate to a neutral level but rather to move toward outright policy restraint.
+
+Alternative C
+
+- (15) Should the Committee be particularly concerned about the inflation outlook and still see the stance of policy as accommodative, it may prefer Alternative C.  While energy prices have eased this fall, they remain much higher than a year ago, and other commodity prices have increased as well.  And although labor costs have generally been well-behaved of late, the Committee may believe that labor market slack has been essentially eliminated.  Aggregate demand has proven quite resilient in the face of higher interest rates and hurricane-related disruptions, and it will be boosted further in coming quarters by rebuilding in the Gulf region.  Given this apparent momentum to economic activity, members may be concerned about the risk that the short-term equilibrium real federal funds rate could be considerably higher than most of the staff estimates and aggregate demand could significantly overshoot the economy's potential.  Moreover, in current circumstances the Committee may be concerned that it will need to boost the federal funds rate to a level above its equilibrium if the temporary boost to inflation caused by the run-up in energy and other commodity prices begins to be built into expected inflation along the lines of the 'deteriorating inflation expectations' alternative Greenbook scenario.  As a result, the Committee may believe that it is premature to give a signal that the end of this policy tightening phase is in sight.
+
+Class I FOMC - Restricted Controlled (FR)
+
+- (16) If the Committee takes this view, then it might be inclined to retain some of the statement language used at its last meeting.  Such a statement could start by indicating that the economic expansion remains vigorous.  Given the strength seen in underlying aggregate demand and the possible upward pressures on inflation, the statement might continue to characterize the stance of policy as accommodative.  The inflation discussion could note that 'relatively high levels of resource utilization as well as elevated energy prices have the potential to add to inflation pressures.'  The reference to the relatively high levels of resource utilization, in contrast to the concerns about possible increases in resource utilization expressed in Alternative B, would indicate greater concern about pressures on inflation arising from this source and might suggest that monetary policy now would be oriented particularly toward slowing growth in aggregate demand to a pace at or below that of potential output. The assessment of risks portion of the statement could again indicate that, with 'appropriate policy,' the risks to both of the Committee's dual objectives should be kept roughly balanced and that policy accommodation can be removed at a measured pace.
+- (17) Release of the statement for Alternative C would lead market participants to boost noticeably their expectations for policy tightening.  As noted previously, investors appear to have put some odds on the Committee dropping or modifying the 'accommodation' and 'measured pace' phrases at this meeting as a prelude to winding up this tightening phase.  Moreover, the concerns expressed about the 'relatively high levels of resource utilization' would come as a surprise to investors. Regarding near-term expectations, the retention of the 'measured pace' language could lead investors not only to conclude that a quarter-point move in January was virtually certain but also to mark up appreciably the odds on a policy tightening in March.  And, beyond that point, the anticipated path for policy would probably
+
+Class I FOMC - Restricted Controlled (FR)
+
+steepen as well.  Reflecting the change in policy expectations, short- and intermediateterm interest rates would rise, stock prices decline, and the dollar appreciate.
+
+Money and Debt Forecasts
+
+- (18) In the staff forecast, M2 growth is projected to rise from 4 percent in 2005 to 4¾ percent in 2006 and 5¼ percent in 2007 (Table 2).  With monetary policy on hold after early next year, the substantial rise in the opportunity cost of M2 seen in recent years should start to unwind a bit.  Nonetheless, M2 velocity is forecast to rise a little further next year, reflecting lagged adjustments to higher opportunity costs, but flatten out in 2007.  Growth of the debt of domestic nonfinancial sectors is forecast to slow from 9 percent this year to 7¼ percent next year and 6½ percent in 2007. The bulk of the slowdown is in the household sector, where a moderation in the pace of house price appreciation is expected to damp growth in mortgage debt.  With longterm interest rates staying near current levels, state and local government borrowing is projected to slow considerably as advance refunding activity tapers off.  By contrast, federal government debt growth is expected to pick up a bit, reflecting some deterioration in the budget deficit.
+
+<!-- missing-text -->
+
+- * This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
+
+Directive and Balance of  Risks Statement
+
+- (19) Draft language for the directive and draft risk assessments identical to those presented in Table 1 are provided below.
+
+Directive Wording
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with MAINTAINING/increasing/REDUCING the federal funds rate AT/to an average of around ____________ 4 percent.
+
+Risk Assessments
+
+- B. The Committee judges that some further measured policy firming is likely to be needed to keep the risks to both price stability and sustainable economic growth roughly in balance.  In any event, the Committee will respond to changes in economic prospects as needed to maintain price stability and foster sustainable economic growth.
+- C. The Committee perceives that, with appropriate monetary policy action, the upside and downside risks to the attainment of both sustainable growth and price stability should be kept roughly equal. With underlying inflation expected to be contained, the Committee believes that policy accommodation can be removed at a pace that is likely to be measured. Nonetheless, the Committee will respond to changes in economic prospects as needed to fulfill its obligation to maintain price stability.
+
+Treasury Yield Curve
+
+Spread Between Ten-year Treasury Yield and Federal Funds Rate
+
+<!-- missing-text -->
+
+- + Denotes most recent weekly value.
+- Note. Blue shaded regions denote NBER-dated recessions.
+
+Treasury Yield Curve*
+
+Maturity in Years
+
+<!-- missing-text -->
+
+- *Smoothed yield curve estimated from off-the-run Treasury coupon securities.  Yields shown are those on notional par Treasury securities with semi-annual coupons.
+
+Dollar Exchange Rate Indexes
+
+<!-- missing-text -->
+
+- + Denotes most recent weekly value.
+
+<!-- missing-text -->
+
+Stock Indexes
+
+<!-- missing-text -->
+
+- * Based on trailing four-quarter earnings.
+- + Denotes most recent weekly value.
+- * Deflated by the CPI.
+- + Denotes most recent weekly value.
+
+<!-- missing-text -->
+
+Note. Blue shaded regions denote NBER-dated recessions.
+
+One-Year Real Interest Rates
+
+<!-- missing-text -->
+
+- * Mean value of respondents.
+- * ASA/NBER quarterly survey until 1990:Q1; Philadelphia Federal Reserve Bank Survey of Professional Forecasters thereafter.  Median value of respondents.
+- + Denotes most recent weekly Treasury constant maturity yield less most recent inflation expectation.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note. Blue shaded regions denote NBER-dated recessions.
+
+Long-Term Real Interest Rates*
+
+Real Ten-Year Treasury Yields
+
+<!-- missing-text -->
+
+Nominal and Real Corporate Bond Rates
+
+<!-- missing-text -->
+
+- * For real rates, measures using the Philadelphia Fed Survey employ the ten-year inflation expectations from the Blue Chip Survey until April 1991 and the Philadelphia Federal Reserve Bank Survey of Professional Forecasters thereafter (median value of respondents).  Measures using the Michigan Survey employ the five- to ten-year inflation expectations from that survey (mean value of respondents).
+- + For TIPS and nominal corporate rate, denotes the most recent weekly value. For other real rate series, denotes the most recent weekly nominal yield less the most recent inflation expectation.
+
+Note. Blue shaded regions denote NBER-dated recessions.
+
+Commodity Price Measures
+
+Journal of Commerce Index
+
+<!-- missing-text -->
+
+CRB Spot Industrials
+
+<!-- missing-text -->
+
+CRB Futures
+
+<!-- missing-text -->
+
+Note. Blue shaded regions denote NBER-dated recessions.
+
+Growth of Real M2 and M3
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Inflation Indicator Based on M2
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- 1. Change in the implicit GDP price deflator over the previous four quarters.
+
+Note: P* is defined to equal M2 times V* divided by potential GDP. V*, or long-run velocity, is estimated using average velocity over the 1959:Q1-to-1989:Q4 period and then, after a break, over the interval from 1993:Q1 to the present. For the forecast period, P* is based on the staff M2 forecast and P is simulated using a short-run dynamic model relating P to P*. Blue areas indicate periods in which P* is notably less than P. Gray areas denote the projection period.
+
+Selected Interest Rates (Percent)
+
+<!-- missing-text -->
+
+Appendix A Table 2
+
+Money Aggregates
+
+Seasonally Adjusted
+
+<!-- missing-text -->
+
+- p preliminar  y
+- e estimated
+
+Appendix A Table 3
+
+Changes in System Holdings of Securities  1
+
+(Millions of dollars, not seasonally adjusted)
+
+December 8, 2005
+
+<!-- missing-text -->
+
+- 1.  Change from end-of-period to end-of-period.  Excludes changes in compensation for the effects of inflation on the principal of inflation-indexed securities.
+- 2.  Outright purchases less outright sales (in market and with foreign accounts).
+- 3.  Outright purchases less outright sales (in market and with foreign accounts).  Includes short-term notes acquired in exchange for maturing bills.  Excludes maturity shifts and rollovers of maturing issues, except the rollover of inflation compensation.
+- 4.  Includes redemptions (-) of Treasury and agency securities.
+- 5.  RPs outstanding less reverse RPs.
+- 6.  Original maturity of 13 days or less.
+- 7.  Original maturity of 14 to 90 days.
+
+C
+
+l
+
+P
+
+Appendix B:  Review of  Debt and Money Growth in 2005
+
+Total debt of domestic nonfinancial sectors expanded an estimated 9 percent in 2005, about the same as in 2004.   However, the composition of debt growth was 1 somewhat different from the previous year, as borrowing by nonfinancial businesses picked up this year while federal borrowing dropped back.
+
+Nonfinancial businesses were able to finance the somewhat tepid rise in capital expenditures in 2005 in large part with the increase in internal funds generated by substantial profits amid this year's solid economic expansion.  Nonetheless, business borrowing accelerated as net equity retirements surged, reflecting elevated merger and acquisition activity and a considerable rise in share buybacks.  Short-term business borrowing, particularly from banks, rose significantly, but issuance of long-term debt stayed near last year's moderate rate.  All told, debt of nonfinancial businesses grew an estimated 8 percent.  In the household sector, overall debt expanded about 10¾ percent.  Home mortgage debt grew briskly again in 2005, as fixed-rate mortgage rates remained low for most of the year, and house prices continued to rise rapidly through the third quarter.  Household bankruptcy filings spiked ahead of the new bankruptcy law that took effect in October, but various measures of household credit quality generally remained solid.  Borrowing by the Treasury moderated this year as higher-than-expected tax receipts contributed to a reduction in the federal budget deficit, even after substantial federal outlays related to Hurricane Katrina.
+
+M2 growth slowed in 2005, owing to the widening in the opportunity cost that accompanied the rise in short-term market interest rates during the year.  Although significantly below growth in nominal income, the expansion in M2 was a bit above that suggested by the historical relationship of M2 with income and opportunity cost. Annual M2 growth was probably buoyed by a rise in mortgage prepayments that began in the second quarter, by the flattening of the yield curve this year, and by increased currency and liquid deposit holdings in the aftermath of Hurricane Katrina.
+
+Domestic Nonfinancial Sector Debt
+
+The pace of borrowing by nonfinancial businesses picked up somewhat in 2005, reflecting a rise in short-term borrowing.  In particular, business lending by commercial banks surged, with considerable increases registered by both large and small banks.  In survey responses throughout the year, senior loan officers reported
+
+P
+
+further easing of business lending standards and terms as well as continued strengthening of loan demand, although the pace of these changes slowed toward the end of the year.  Most survey respondents attributed the stronger demand to borrowers' increased financing needs for inventories and accounts receivable as well as for investment in plant and equipment; a substantial fraction of respondents also pointed to a pickup in merger and acquisition activity.  Growth in commercial paper outstanding was more modest, but it nonetheless picked up a little relative to 2004.  In contrast, net bond issuance was tepid this year, as modest capital expenditures, strong balance sheets and profits, and, later in the year, rising longer-term interest rates apparently limited the demand for longer-term financing.
+
+Gross equity issuance remained moderate in 2005, while net equity issuance dropped into deeply negative territory amid soaring equity retirement activity.  Cashfinanced mergers surged and share repurchases hit new records, spurred partly by the substantial liquidity that firms had accumulated in recent years.  In addition, equity retirements may have been boosted this year by repatriated earnings from foreign subsidiaries under a temporary tax break.
+
+Commercial mortgage debt grew rapidly in 2005, owing to improved fundamentals in the commercial real estate market.  Rents on commercial properties rose this year following significant declines earlier in the decade, vacancy rates edged a bit lower, and nonresidential construction picked up.  Gross issuance of commercialmortgage-backed securities (CMBS) has likely reached a record pace in the fourth quarter, prompting a modest increase in spreads.  Credit quality appeared to remain solid, as delinquency rates for commercial mortgages held by banks and for those pooled into CMBS trended down over the year, while delinquencies for mortgages held by insurance companies remained low.
+
+Outside of the automobile and airline sectors, indicators of credit quality for nonfinancial companies remained quite favorable in 2005, reflecting robust profits and solid economic expansion.  Although the downgrades of the debt of General Motors and Ford garnered a lot of attention over the course of the year, the net proportion of total outstanding corporate debt that was downgraded this year was relatively small.  After trending down over most of the year, the six-month trailing bond default rate moved up noticeably in the fall, owing in part to the bankruptcies of Delta and Northwest Airlines, as well as Delphi, the largest auto parts supplier.  While these bankruptcies were largely anticipated, their timing may have been advanced to avoid changes in the federal bankruptcy code that became effective in October. Despite these high-profile difficulties, expected defaults over the coming year, as estimated by KMV, are quite low.  Risk spreads on corporate bonds were consistent with this relatively upbeat assessment of credit quality and remained generally low
+
+P
+
+throughout the year.  Spreads of speculative-grade corporate yields over comparablematurity Treasury yields rose a good bit in the spring amid reports of troubles at GM and Ford and concerns that high energy prices could damp the economic expansion, but a substantial portion of that increase was subsequently reversed.  Spreads on investment-grade corporate securities widened modestly through the spring and were little changed thereafter.  Strains in the credit derivatives markets were also evident in the spring, particularly following the sharp change in default correlation implied by the prices of tranches of synthetic collateralized debt obligations, but these strains subsequently eased.
+
+In 2005, household debt expanded nearly 11 percent, about the same brisk pace registered in 2004.  House price appreciation remained robust through the first three quarters of the year, and home mortgage debt continued its rapid growth.  Meanwhile, consumer credit expanded again at a modest pace this year.  Overall, the expansion in household debt outpaced the growth in disposable personal income; as a result, the financial obligations ratio edged higher, although it remains below the peak it reached earlier this decade.
+
+Households stampeded to file for bankruptcy in the weeks leading up to October 17, the date when the new bankruptcy law took effect.  The law was designed to make it more difficult for households to discharge their debts through Chapter 7 filings.  Including the elevated filings during the spring, when the legislation was passed, bankruptcy reform appears to have boosted filings by about 750,000.  Since the new law became effective, filings have been significantly below their average of recent years.  The surge in bankruptcies does not seem to signal a deterioration in household credit quality, as various measures of delinquencies remained relatively low this year.  Nonetheless, chargeoffs on consumer loans are widely expected to jump in the fourth quarter, reflecting the surge in bankruptcies.  Consistent with that expectation, some large banks stated in their third-quarter earnings reports that they had increased provisioning for losses on consumer loans, especially credit card loans. When asked about the impact of the new legislation, respondents to the October Senior Loan Officer Opinion Survey indicated that they expected lower credit losses on new loans to households going forward.  The survey respondents generally reported that they did not foresee changing their lending policies, nor did they foresee a change in loan demand from their existing customers as a result of the new bankruptcy law.
+
+The expansion in households' assets outstripped the increase in household debt through the third quarter of 2005, and the ratio of household net worth to disposable personal income moved a bit further above its long-run average.  Household wealth was boosted by the substantial home price appreciation through the first three
+
+P
+
+quarters of this year and by moderate gains in equity prices.  Net purchases of equity mutual funds were subdued, with the bulk of the net inflows going to international funds.  Net purchases of bond mutual funds were relatively strong.
+
+Financing activity by state and local governments picked up in 2005.  Gross issuance of municipal securities was brisk through the third quarter, supported by relatively low intermediate- and long-term interest rates.  Advance refundings were elevated over this period relative to last year, but as interest rates moved higher in the fourth quarter, refunding issues slowed significantly.  The bulk of the new-capital issuance reportedly was earmarked for education-related projects.  Credit quality in the state and local sector generally remained stable over the year.  Reflecting the difficulties of GM and Ford, the obligations of numerous municipal issuers in Michigan, most recently the city of Detroit, were downgraded this year.  In addition, several hurricane-related downgrades were made in the fourth quarter, and some bonds from the affected regions remain on watch.  Despite these isolated troubles, rating upgrades slightly outpaced downgrades in 2005.
+
+Borrowing by the Treasury moderated somewhat in calendar year 2005, with federal debt rising 7 percent.  The improvement reflected a surge in tax receipts, which contributed to a reduction in the budget deficit.  On net, the federal deficit is expected to total about $325 billion this year, down from around $400 billion in 2004. As widely anticipated, the Treasury announced in August that it would reintroduce regular semiannual issuance of a thirty-year nominal bond; the first such auction will occur on February 9, 2006.  The federal debt ceiling did not need to be raised this year, but staff estimates suggest that debt subject to limit could reach the ceiling during the first quarter of next year.
+
+Bank Credit
+
+Commercial bank credit expanded briskly again in 2005, rising about 10¼ percent, quite a bit above the growth in total domestic nonfinancial sector debt. Commercial and industrial loan growth jumped to 14 percent, the fastest pace in more than two decades.  As noted above, loan officers reported in quarterly surveys that they had eased terms and standards on business loans this year and that demand had strengthened.  Real estate lending by banks was also brisk again this year, but cooled somewhat in the fourth quarter as longer-term interest rates backed up.  In contrast, after a strong first-quarter expansion, consumer loans on banks' books rose more moderately over the balance of the year.
+
+P
+
+M2 Monetary Aggregate 2
+
+M2 rose 4 percent in 2005, significantly less than the growth in nominal income and the lowest annual rate of expansion in about a decade.  Reflecting the tightening in the stance of monetary policy over the year, the opportunity cost of holding M2 assets increased significantly as changes in rates on M2 assets lagged those in market rates, as is typical.  Consequently, growth in liquid deposits was damped considerably after a double-digit expansion over the previous several years.  Some offset was provided by a rapid increase in small time deposits, rates on which remained better aligned with short-term market rates.  After having contracted sharply in the past couple of years, retail money market mutual fund shares were about flat on net, as the relative return on such balances improved.
+
+M2 growth did not slow quite as much as would be expected based on its historical relationship with nominal income and opportunity cost, likely reflecting, at least in part, several identifiable factors.  First, relatively low longer-term interest rates resulted in a mild pickup in mortgage prepayments beginning in the second quarter. Mortgage prepayment activity tends to boost M2 because some of the funds are held in liquid deposits for a time before being distributed to holders of mortgage backed securities.  Second, the substantial flattening of the yield curve this year may have left households relatively less tempted to seek returns by shifting assets out of deposits in favor of longer-term instruments.  Finally, Hurricane Katrina likely added a little to the growth rate of M2 this year, as funds for living expenses provided by the federal government to displaced households, funds advanced by insurance companies, and a rise in currency usage probably buoyed M2 over the last four months of the year.

@@ -1,0 +1,597 @@
+Prefatory Note
+
+The attached document represents the most complete and accurate version available based on original files from the FOMC Secretariat at the Board of Governors of the Federal Reserve System.
+
+Please note that some material may have been redacted from this document if that material was received on a confidential basis.  Redacted material is indicated by occasional gaps in the text or by gray boxes around non-text content.  All redacted passages are exempt from disclosure under applicable provisions of the Freedom of Information Act.
+
+Class III FOMC - Internal (FR)
+
+CURRENT ECONOMIC AND FINANCIAL CONDITIONS
+
+Supplemental Notes
+
+Prepared for the Federal Open Market Committee by the staff of the Board of Governors of the Federal Reserve System
+
+August 1, 2008
+
+Contents
+
+<!-- missing-text -->
+
+Supplemental Notes
+
+The Domestic Nonfinancial Economy
+
+National Income and Product Accounts, 2008:Q2 and Annual Revision
+
+According to the advance estimate by the Bureau of Economic Analysis (BEA), released on Thursday, July 31, real gross domestic product (GDP) rose at an annual rate of 1.9 percent in the second quarter after having increased 0.9 percent in the first quarter. Both consumer spending and business investment recorded moderate gains last quarter, but defense spending rose briskly for a second quarter, and net exports contributed a sizable 2½ percentage points to the change in real GDP.  In contrast, a steep drawdown of inventories in the second quarter subtracted nearly 2 percentage points from the change in real GDP.
+
+The overall price index for personal consumption expenditures (PCE) rose at an annual rate of 4.2 percent in the second quarter, reflecting the continued surge in energy prices and substantial increases in food and beverage prices.  PCE prices excluding food and energy decelerated to an annual rate of 2.1 percent last quarter following larger increases in the previous two quarters.  Similarly, the market-based component of core PCE prices posted a smaller increase last quarter than in the preceding two quarters.
+
+On the income side of the accounts, real disposable personal income (DPI), which was temporarily boosted by the distribution of the tax rebates, jumped at an annual rate of 11.3 percent in the second quarter.  Corporate profits in the first quarter, the most recent quarter with available data, fell by $17.5 billion, and the profit share of gross national product (GNP) edged down to 11.2 percent. 1
+
+Thursday's release also included the BEA's annual revision of the national income and product accounts (NIPA) for the period beginning in the first quarter of 2005.  This year's revisions mainly reflected the incorporation of newly available source data, including the Census Bureau's annual surveys and Internal Revenue Service's tabulations of corporate tax returns.  On a four-quarter change basis, real GDP growth was revised down in each of the three years: 0.2 percentage point in 2005, 0.2 percentage point in 2006, and 0.1 percentage point in 2007.  The downward revisions were concentrated in PCE, especially spending on housing services for which the BEA incorporated updated Census
+
+Bureau data on vacancy rates.  Real PCE is now estimated to have risen 0.2 percentage point per year more slowly during the 2005-07 period.  In addition, modest downward revisions were made to residential investment and spending by state and local governments.
+
+Although the overall contour of GDP growth in 2005 and 2006 was little changed, the pattern in 2007 now shows a significantly faster rise in real GDP in the first half of the year and a significantly slower pace in the second half.  The revised figures now indicate that real GDP edged down at an annual rate of 0.2 percent in the fourth quarter of last year.
+
+The BEA's revisions to its price indexes were generally small.  Core PCE inflation was revised up 0.1 percentage point in 2007 only; its market-based component was revised down 0.1 percentage point in that year.  However, the increases in overall GDP prices are now estimated to have been larger in both 2005 and 2007, mainly because of a sizable upward revision to the index for residential construction.
+
+On the income side of the accounts, real gross domestic income (GDI) was revised up, on net, even as GDP was revised down.  The revised data now indicate that over the 2005-07 period, the increases in both real GDI and real GDP averaged 2½ percent per year.  Real DPI is now estimated to have risen more quickly in 2006 and more slowly in 2007; in both years, personal interest income (derived from Internal Revenue Service data) was revised up, but in 2007 these revisions were more than offset by downward-revised estimates of compensation (both employer contributions for health insurance and wages and salaries).  On net, DPI and PCE were revised by similar magnitudes, and the level of the personal saving rate early this year was little revised.
+
+Corporate profits were revised up in all three previous years, and the share of economic profits in GNP at the end of 2007 stood at 11.5 percent, up ½ percentage point from the previously reported estimate.  Much of the upward revision to profits stemmed from a revision to the capital consumption adjustment-that is, to new BEA estimates that revised down economic depreciation relative to companies' reported depreciation.  By industry, the upward revisions to profits were concentrated in the domestic nonfinancial sector; financial sector profits were revised down in 2006 and 2007.
+
+The annual NIPA revision also provided information about the magnitude of upcoming revisions to measures of productivity and compensation per hour in the nonfarm business sector.  We now estimate that output per hour in the nonfarm business sector rose at an annual rate of about 1½ percent in 2005, ½ percent in 2006, and almost 3 percent in
+
+2007; each of these figures is roughly 0.2 percentage point lower than the current estimates.   In addition, we estimate that increases in compensation per hour in the 3 nonfarm business sector will be revised down roughly ¾ percentage point in both 2006 and 2007.
+
+Labor Market Developments
+
+The labor market continued to weaken in July, with payroll employment continuing to slide and the unemployment rate rising further.
+
+Private payroll employment fell 76,000 in July, only a bit less than the average monthly decline of 96,000 during the first six months of the year.  By industry, the pattern of job losses in July was roughly similar to those earlier in the year, although July's report showed a smaller decline in construction than earlier.  Nonbusiness services, which include health and education, remained the only notable source of net additions to employment.  Jobs on state and local government payrolls increased 25,000.  Last month's gain was less than in the preceding two months, for which revised estimates now show average monthly gains of more than 40,000, but is in line with the average so far this year.
+
+The average workweek of production and nonsupervisory workers edged down in July and, with the drop in employment, resulted in a decline of 0.4 percent in the index of hours for production workers.  This measure of hours worked decreased at an annual rate of about 1 percent in the first two quarters of 2008.
+
+In the household survey, the unemployment rate rose to 5.7 percent in July, while the labor force participation rate was unchanged at 66.1 percent.  Although jobless rates moved higher for most demographic groups, the increase for men aged 25 and older was notable.  Another measure of slack, the number of persons working part time for economic reasons as a percent of household employment, moved up further in July and now stands at its highest level since 1994.
+
+Initial claims for unemployment insurance stepped up sharply to 448,000 in the week ending July 26.  The Employment and Training Administration believes that state offices are determining that some individuals responding to the availability of extended unemployment benefits are, instead, eligible for regular state benefits.  The level of insured unemployment continued to trend up in the week ending July 19; the four-week
+
+moving average of continuing claims stood at 3.17 million, up from 3.10 million in midJune.
+
+ISM Survey of Manufacturers
+
+The Report on Business , prepared by the Institute for Supply Management (ISM), suggests that manufacturing activity was unchanged in July after a slight expansion in June.  The overall purchasing managers' index (PMI)-a weighted sum of the diffusion indexes for new orders, production, employment, supplier deliveries, and inventoriesmoved down 0.2 index point, to 50.0.  The index of new orders, the most useful indicator of near-term manufacturing activity in this report, fell 4.6 index points to 45.0, the lowest reading since October 2001.  The production index edged up in July to 52.9, and the employment index popped up above 50 after low readings in recent quarters.  The index for supplier deliveries was unchanged from June at 55.1, as delivery performance of suppliers to manufacturing organizations continued to slow.
+
+Among indexes not part of the PMI, the index of orders backlogs suggested that backlogs shrunk somewhat more rapidly in July than in June.  The report indicated that new export orders increased less rapidly than in recent months but that imports continued to contract for a sixth consecutive month.  The vast majority of respondents again reported having paid higher prices last month.  Only two commodities-caustic soda and sulfuric acidwere cited as in short supply.
+
+Both inventory indexes reversed their increases from June.  The index for own inventories suggested a decline in manufacturers inventories in July, after it had indicated a one-month accumulation in June.  The index of customer inventories also fell back in July, with only 17 percent of respondents reporting that they viewed their customers' inventories as too high.
+
+Construction Spending
+
+The report on nominal construction put in place for June showed continued steep declines in outlays for residential buildings and a further rise in outlays for nonresidential structures.  In the nonresidential sector, nominal spending for office has been about flat, and spending for commercial buildings has moved down, on net, in recent months; spending for manufacturing, power, and the broad category of other structures has continued to post noticeable increases.
+
+Nominal construction spending by state and local governments edged down in June, but the decline came on the heels of new estimates for April and May that were higher than previously reported.
+
+Labor Costs
+
+Labor costs continued to increase at a moderate rate during the second quarter, with little sign as yet of higher overall price inflation passing through to higher worker compensation.  The employment cost index (ECI) for hourly compensation of privateindustry workers rose at annual rate of 2.3 percent over the three months ending in June. The 12-month change through June in the ECI was 3.0 percent, equal to its average pace from 2005 to 2007.  ECI wages and salaries rose at annual rate of 3.0 percent in the second quarter, while benefits rose at an annual rate of only 1.9 percent during the same period.  The 12-month changes in both wages and salaries and benefits are about the same as their average change in past two years.  The relative stability in the overall change in employer costs for benefits masks a deceleration in most components of benefits that was largely offset by a pickup in employer contributions to retirement and savings plans over the past 12 months.
+
+Based on the revised data on labor compensation from the national income and product accounts and updated estimates of hours worked, we estimate that hourly compensation in the nonfarm business sector rose at an annual rate of 3.7 percent in the second quarter of 2008 after having risen at an annual rate of 5.5 percent in the first quarter.  In both 2006 and 2007, the rise in hourly compensation is now about ¾ percentage point less than previously reported, reflecting downward revisions to both wage and salary accruals and benefits.  Currently, the four-quarter change through the second quarter of this year, at 4½ percent, is about the same as the downward-revised increase posted over the preceding four quarters.   Despite the revisions, nonfarm compensation per hour is still reported to have increased at a rate significantly higher than the ECI.  The revised data continue to indicate a marked deceleration in unit labor costs over the four quarters ending in the second quarter because of a noticeable acceleration in labor productivity.
+
+Average hourly earnings of production and nonsupervisory workers rose 0.3 percent in July to a level 3.4 percent higher than it was a year earlier.  This measure of wage change has decelerated noticeably over the past year; in the 12 months ending in July 2007, average hourly earnings increased 4.1 percent.
+
+Real Gross Domestic Product and Related Items
+
+(Percent change from previous period at a compound annual rate; based on seasonally adjusted data, chain-type quantity indexes)
+
+<!-- missing-text -->
+
+- 1. Level, billions of chained (2000) dollars.
+- 2. Billions of dollars.
+- 3. Economic profits as a share of GNP.
+- n.a. not available.
+
+Price Indexes for Gross Domestic Product
+
+(Based on seasonally adjusted data, chain-type indexes)
+
+<!-- missing-text -->
+
+NOTE:  Percent change from previous period at compound annual rates
+
+Annual Revision to the National Income and Product Accounts
+
+(Four-quarter percent change)
+
+Real GDP
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+<!-- missing-text -->
+
+5
+
+4
+
+3
+
+2
+
+1
+
+<!-- missing-text -->
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+<!-- missing-text -->
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+-20
+
+-25
+
+<!-- missing-text -->
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+<!-- missing-text -->
+
+Annual Revision to the National Income and Product Accounts
+
+Real DPI
+
+Personal Saving Rate
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+<!-- missing-text -->
+
+Profits as a Share of GNP
+
+13
+
+11
+
+9
+
+7
+
+<!-- missing-text -->
+
+Compensation per Hour*
+
+8
+
+6
+
+4
+
+2
+
+0
+
+<!-- missing-text -->
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+<!-- missing-text -->
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+<!-- missing-text -->
+
+Unit Labor Costs*
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+<!-- missing-text -->
+
+400
+
+300
+
+200
+
+100
+
+0
+
+-100
+
+-200
+
+-300
+
+-400
+
+Changes in Employment
+
+(Thousands of employees; seasonally adjusted)
+
+<!-- missing-text -->
+
+- 1. Nonbusiness services comprises education and health, leisure and hospitality, and "other."
+- 2. Establishment survey.  Annual data are percent changes from Q4 to Q4.  Quarterly data are percent changes from preceding
+- quarter at an annual rate.  Monthly data are percent changes from preceding month.
+- 3. Establishment survey.
+
+Changes in Private Payroll Employment
+
+<!-- missing-text -->
+
+Aggregate Hours and Workweek of Production and Nonsupervisory Workers
+
+<!-- missing-text -->
+
+Selected Unemployment and Labor Force Participation Rates
+
+(Percent; based on seasonally adjusted data)
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+Labor Force Participation Rate
+
+<!-- missing-text -->
+
+Summary of Manufacturing ISM Report on Business
+
+(Seasonally Adjusted)
+
+Purchasing Managers Index
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Supplier Deliveries and Imports
+
+<!-- missing-text -->
+
+Employment and Production
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+New Construction Put in Place
+
+<!-- missing-text -->
+
+- 1. Percent changes calculated from more digits than shown in table.
+- 2. Contains components not shown separately.
+- 3. Includes religious, educational, lodging, amusement and recreation, transportation, and health care.
+- r  Revised.
+- p  Preliminary.
+
+(Seasonally adjusted annual rate)
+
+Major Components
+
+Selected Nonresidential Components
+
+700
+
+150
+
+<!-- missing-text -->
+
+100
+
+<!-- missing-text -->
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+Change in Employment Cost Index of Hourly Compensation for Private-Industry Workers
+
+<!-- missing-text -->
+
+- 1. Seasonally adjusted by the Bureau of Labor Statistics.
+
+Change in ECI Benefits (confidential)
+
+(Private-industry workers; 12-month change)
+
+Health Insurance
+
+<!-- missing-text -->
+
+Retirement and Savings
+
+<!-- missing-text -->
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+Hourly Compensation and Unit Labor Costs
+
+(Percent change from preceding period at compound annual rate; based on seasonally adjusted data)
+
+<!-- missing-text -->
+
+- *All values are staff estimates.
+
+Compensation per Hour
+
+(Percent change from year-earlier period)
+
+<!-- missing-text -->
+
+Average Hourly Earnings
+
+(Percent change from year-earlier period)
+
+<!-- missing-text -->
+
+Unit Labor Costs
+
+<!-- missing-text -->
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+Commercial Bank Credit
+
+(Percent change, annual rate, except as noted; seasonally adjusted)
+
+<!-- missing-text -->
+
+Note.  Yearly annual rates are Q4 to Q4; quarterly and monthly annual rates use corresponding average levels.  Data have been adjusted to remove the effects of mark-to-market accounting rules (FIN 39 and FAS 115), the initial consolidation of certain variable interest entities (FIN 46), the initial adoption of fair value accounting (FAS 159), and the effects of sizable thrift-to-bank and bank-to-thrift structure activity in October 2006, March 2007, and October 2007. Data also account for breaks caused by reclassifications.
+
+- 1. Billions of dollars.  Pro rata averages of weekly (Wednesday) levels.
+- 2. Excludes interbank loans.
+- 3. Includes an estimate of outstanding loans securitized by commercial banks.
+- 4. Includes security loans and loans to farmers, state and local governments, and all others not elsewhere classified. Also includes lease financing receivables.
+- 5. Includes private mortgage-backed securities; securities of corporations, state and local governments, and foreign governments; and any trading account assets that are not Treasury or agency securities.
+- e  Estimated.
+
+III-T-1
+
+Selected Financial Market Quotations
+
+(One-day quotes in percent except as noted)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- 1.  Secondary market.
+- 2.  Financial commercial paper.
+- 3.  Bid rates for Eurodollar deposits collected around 9:30 a.m. eastern time.
+- 4.  Derived from a smoothed Treasury yield curve estimated using off-the-run securities.
+- 5.  Derived from a smoothed Treasury yield curve estimated using all outstanding securities and adjusted for the carry effect.
+- 6.  Most recent Thursday quote.
+- 7.  Constant-maturity yields estimated from Fannie Mae domestic noncallable coupon securities.
+- 8.  Derived from smoothed corporate yield curves estimated using Merrill Lynch bond data.
+
+_______________________________________________________________________
+
+NOTES:
+
+August 6, 2007, is the day before the August 2007 FOMC meeting. January 31, 2008, is the day after the January 2008 FOMC meeting.
+
+June 24, 2008, is the day before the most recent FOMC monetary policy announcement.
+
+_______________________________________________________________________

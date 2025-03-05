@@ -1,0 +1,755 @@
+June 24-25, 2003
+
+Appendix 1: Materials used by Mr. Reinhart
+
+Exhibit 1
+
+<!-- missing-text -->
+
+Costs associated with a low overnight nominal interest rate
+
+- Compressing rates on those instruments that typically provide returns below the overnight federal funds rate.
+- Thinning brokering; and
+- Fostering the misimpression that monetary policy has become ineffective.
+
+<!-- missing-text -->
+
+Exhibit 2
+
+The Implementation of Monetary Policy
+
+- Monetary policy actions are implemented by altering the Federal Reserve System's balance sheet.
+
+Combined balance sheet of the Federal Reserve System
+
+Billions of U.S. dollars, 6/11/2003
+
+<!-- missing-text -->
+
+- Changes in the size of the balance sheet
+
+are reflected directly in the overnight federal funds rate until it is driven to zero
+
+- Changes in the composition of the balance sheet
+
+potentially could influence term premiums
+
+- Both could influence expectations about the expected path of policy.
+
+The Transmission of Monetary Policy
+
+- The principal channel of transmission of monetary policy to spending is through the prices and returns of long-lived assets.
+- Those returns depend on the current and expected future path of short-term interest rates as well as risk premiums.
+- Some economists argue that the quantity of liquidity has an effect on spending independent of its influence on the current overnight interest rate.
+
+Three forms of monetary impetus
+
+The Committee can provide impetus to the economy at an unchanged current short-term interest rate
+
+By encouraging investors to expect short rates to be lower in the future than they currently anticipate, and
+
+By shifting relative supplies to affect risk premiums.
+
+If the overnight rate is already at zero, the Committee may be able to provide additional impetus to the economy
+
+By oversupplying reserves at the zero funds rate.
+
+Caveats
+
+Exhibit 4
+
+Shaping interest rate expectations
+
+How can the Federal Reserve encourage lower interest rate expectations?
+
+Commitment can take two forms
+
+- Unconditional commitment
+
+The Committee pledges to hold short-term rates at a low level for x period of time.
+
+<!-- missing-text -->
+
+- Conditional commitment
+
+The Committee pledges to hold short-term rates at a low level until y happens.
+
+- Words ultimately have to be matched by deeds for the public to believe.
+- The Committee may be concerned about its credibility.
+
+Altering the composition of the central bank balance sheet
+
+Average Maturity of Treasury Debt
+
+<!-- missing-text -->
+
+- Acquiring longer-term securities
+
+could lower risk premiums on Treasury securities, and may convince investors that the Committee intends to keep interest rates low because lengthening the maturity of the portfolio would impose capital losses in the future should the Committee put policy on a firmer course than currently anticipated.
+
+- The Committee could alter the composition of the System Open Market Account
+
+indirectly,  by instructing the Desk to tilt its purchases toward longer-term issues (perhaps by targeting a longer average maturity of the System Open Market Account), or directly,  by putting a ceiling on one or more points along the structure of interest rates.
+
+- There is little empirical evidence to suggest that relative supplies influence risk premiums.
+- Purchases of securities might have to be massive to enforce a ceiling if investors came to doubt that the FOMC would keep interest rates low.
+
+At that point, there would be a risk that the targeted securities would become disconnected from the rest of the yield curve and private rates.
+
+- Why should a central bank issuing a fiat currency care about capital gains or losses?
+
+Caveats
+
+Altering the size of a central bank's balance sheet
+
+- A central bank usually eases monetary policy by expanding the stock of reserves.
+- Currently, most central banks calibrate their easing in terms of the price of reserves--i.e., the overnight federal funds rate.
+- The Committee could switch its focus from the price of reserves to the quantity of reserves (or the growth of reserves).
+
+to drive the funds rate to zero and possibly provide further monetary stimulus by oversupplying reserves at the zero funds rate.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Oversupplying reserves could affect the economy
+
+- by lowering the returns on the assets purchased to supply those extra reserves,
+- by convincing market participants that the overnight interest rate will be kept low, and
+- by working through a quantity channel, if it exists.
+- A long-run association does not provide much guidance about the short-run performance of the economy, implying it would be difficult to calibrate the effects of policy and risks confusing market participants.
+- The public has to be convinced that the increase in reserves will stick around, so there still will be a communications challenge.
+
+Caveats
+
+Some precedents
+
+- The Federal Reserve has always appreciated the importance of correctly aligning market expectations.
+- The Federal Reserve operates in all segments of the Treasury market, and
+
+<!-- missing-text -->
+
+from 1942 to 1951 enforced a ceiling on the yield curve.
+
+<!-- missing-text -->
+
+- The Federal Reserve targeted nonborrowed reserves from 1979 to 1982.
+
+<!-- missing-text -->
+
+-5
+
+Exhibit 8
+
+Issues regarding sequencing
+
+These forms of monetary policy stimulus could be put in place
+
+- Once the overnight rate has already been driven to zero;
+- As a way of driving the overnight rate to zero; or
+- Before the overnight rate hits zero (and perhaps as a result it need never get there).
+
+Other alternatives
+
+The Federal Reserve could
+
+- lower the primary credit  rate and loosen other discount window policies;
+- purchase other assets, perhaps including by seeking legislation to expand its authority; or
+- coordinate policy with the Treasury.
+
+Exhibit 9
+
+Four questions
+
+- Are there any alternatives that the Committee particularly favors for additional study?
+- Are there any alternatives that should be dropped immediately from consideration?
+- How does the Committee assess the costs of very low nominal overnight interest rates, and are they such that an alternative policy should be put in place at a funds rate above zero?
+- How should the Committee's assessment of these policy alternatives be conveyed to the public in the months ahead?
+
+June 24-25, 2003
+
+Appendix 2: Materials used by Mr. Kos
+
+Exhibit 1
+
+The F.R. Balance  Sheet &amp; Domestic Financial Portfolio
+
+Combined balance sheet of the Federal Reserve  System Billions of U.S. dollars,  6/11/2003
+
+<!-- missing-text -->
+
+The Domestic  Financial Portfolio includes
+
+- * Outright Holdings of  Treasury Securities  (domestic  SOMA)
+- *  RPs, and Reverse RPs arranged in the market
+
+Working Assumption
+
+- * only operate in assets currently authorized to hold
+
+Size and  Composition of SOMA Holdings of Treasury Securities by Remaining  Maturity
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Excess_Reserve_Levels and the_Federal Funds_Rate
+
+- Changes in the target funds rate have had little impact on excess demand
+- Deviations from period-average excess demand cause rate swings within a maintenance period, wide daily swings in excess can occur sharp
+- The size of the Domestic Financial Portfolio is set exogenously by:
+- excess demand associated with the funds rate target
+- banks ' requirements to hold reserve balances
+- autonomous factors (e.g., currency; float)
+
+Exhibit 4
+
+Alternative Approaches  for Conducting Monetary Policy
+
+Change the Composition  of the Balance  Sheet
+
+- -Extend  Average Maturity  of  the domestic SOMA
+- -Set Ceilings  on Treasury Yields
+- -Use of  Derivative  Instruments
+- * excess reserves stay low and can target a positive funds rate
+
+Expand the Size of the Balance Sheet
+
+- Use reverse RPs or raise requirements with the above alternative methods
+- excess reserves remain low in this case
+- Do not sterilize the impact of the above approaches on excess reserves
+- Quantitative Easing Objective
+- excess rises and short-term rates fall to zero in these cases
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Exhibit 6
+
+Extend Average Maturity of  the Domestic SOMA
+
+- *  redeem $200 billion of bills over six months (=$8 bn. per week)
+- *  buy 3to  10-year coupon issues  (equal percentage  holdings of each issue)
+- *  this extends average  maturity of SOMA from 42 to 64 months
+- *  but eliminates most liquidity in the domestic SOMA
+
+SOMA Holdings
+
+Value  of Holdings
+
+<!-- missing-text -->
+
+Percent  of Outstanding Supply
+
+*
+
+Now
+
+E
+
+After 6
+
+months
+
+<!-- missing-text -->
+
+Ceilings on Treasury Yields
+
+<!-- missing-text -->
+
+Design  Issues
+
+- * Ceiling structures: step function;  smooth function;  discrete points, etc.
+- * Desk Operations:  "Hard" versus "Soft"  ceilings
+- * Broader Policy Context
+- - the primary mechanism  for influencing longer term yields
+- - supports commitment to a path of future short-term rates
+
+Exhibit 8 Use of Derivative  Instruments
+
+Types  of Instruments
+
+- * Sell options  and forwards  on term RPs with future  settlement dates
+- * Sell put options on Treasury Securities
+
+=&gt; Best structure determined by other specific  operating  objectives
+
+Impact on Portfolio
+
+- None at time of sale
+- potentially huge if exercised
+
+unless structured to make a net cash payout
+
+Transmission Channel to Longer Term Rates
+
+- provides symbolic support to other policy goals
+- adds 'credibility" by exposing the Fed to possible losses
+- reduces risk premia
+
+Exhibit 9
+
+Reverse RPs and Higher Requirements
+
+Reverse RPs and  higher  requirements  are  additional  tools that:
+
+- -blow up the size of  the balance  sheet
+- -but can still target a positive funds rate
+
+Expand Level  of Reverse  RPs
+
+- *  term operations,  regular auction cycle
+- * financing  through primary dealers'  balance  sheets may be a constraint
+- * replacing  long-term  Treasury debt with a short-term nonnegotiable  debt
+- *  but it may just recycle Treasury  debt
+
+Expand Level of Requirements to Hold Balances
+
+- imposes costs on banks unless pay interest
+- or may be ineffective because of sweep programs
+
+Exhibit 10
+
+Expanding Excess Reserves
+
+Policies  that  entail  an expansion  of  excess reserves
+
+- -also blow up the size of the balance sheet
+- -and push the funds rate to near-zero
+
+Not Sterilizing Impact of Alternative Approaches
+
+- e.g. extending maturity of portfolio, rate ceilings; use of derivatives
+- enhances operational flexibility to pursue other operating objectives
+
+High Excess  as  an Explicit Objective:  Quantitative Easing
+
+- *  achieved with an orderly purchase of Treasury securities
+- *  could be paired with an objective to extend the maturity of the SOMA
+
+Exhibit 11
+
+Summary Observations
+
+Achieving Policy Objectives
+
+- through direct impact of SOMA holdings on supply and prices
+- through market expectations about future policy rates
+
+Other Issues
+
+- Exit Strategies
+- market expectations can complicate a clean exit
+- length of time before the balance sheet returns to its original state
+- Co-Ordination with Treasury Debt Management
+- critical if rely on direct impact of SOMA holdings to affect yields
+- Capital Losses
+- potential for realized losses on the FR balance sheet
+- potential for private sector losses
+
+June 24-25, 2003
+
+Appendix 3: Materials used by Mr. Kos
+
+Implied Rates on Eurodollar Futures Contracts
+
+<!-- missing-text -->
+
+2-Year Note
+
+<!-- missing-text -->
+
+10-Year Note
+
+<!-- missing-text -->
+
+April 1, 2003 - June 23, 2003
+
+Investment Grade
+
+<!-- missing-text -->
+
+High Yield and EMBI+
+
+<!-- missing-text -->
+
+Page 2
+
+U.S. Equity Indices
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Index
+
+Select Emerging Market Equity Indices
+
+Index
+
+4/1/2003 = 100
+
+April 1, 2003 - June 23, 2003
+
+4/1/2003 = 100
+
+<!-- missing-text -->
+
+U.S. Dollars per Euro
+
+(inverted scale)
+
+U.S. Dollars per Euro (inverted scale)
+
+<!-- missing-text -->
+
+Dollar-Yen Exchange Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Euro-Area 3-Month Deposit Rates and Rates Implied by Traded Forward Rate Agreements
+
+April 1, 2003 - June 23, 2003
+
+LIBOR Fixing 3M Forward 6M Forward  9M Forward
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+BOJ Current
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Basis Points
+
+Basis Points
+
+<!-- missing-text -->
+
+10-Year Debt Yield
+
+<!-- missing-text -->
+
+MBS
+
+<!-- missing-text -->
+
+Appendix 4: Materials used by Mr. Oliner, Ms. Johnson, and Mr. Wilcox
+
+STRICTLY CONFIDENTIAL (FR) CLASS I-FOMC*
+
+Material for
+
+Staff Presentation on the Economic Outlook
+
+June 24, 2003
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Chart 3 Household Financial Conditions
+
+Personal Bankruptcy Rate*
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*30-year fixed mortgage rate minus average rate on mortgages in GSE pools.
+
+Household Delinquency Rates
+
+<!-- missing-text -->
+
+- * Consumer and residential real estate loans.
+
+Augmented Debt Service Burden*
+
+<!-- missing-text -->
+
+*Standard series augmented to include rent payments, auto lease payments, property taxes, and homeowners' insurance.
+
+Real House Prices*
+
+<!-- missing-text -->
+
+Chart 4 Corporate Financial Conditions
+
+<!-- missing-text -->
+
+- * Seasonally adjusted.
+- e Staff estimate.
+- * Ratio of interest expense plus current debt to after-tax cash flow.  Source. Compustat.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Defined-Benefit Pension Plans
+
+- ● Contributions by S&amp;amp;P 500 firms tripled in 2002, reaching $45 billion.
+- ● Funding gap is concentrated among investment-grade firms.
+- ● Even for these firms, last year's contributions amounted to only a small part of their cash flow.
+- * Weighted by firm-level liabilities.  Excludes defaulted firms.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Financial Developments
+
+Nominal Dollar Indexes
+
+<!-- missing-text -->
+
+*Trade-weighted average against major foreign currencies.
+
+<!-- missing-text -->
+
+- **Includes major currencies and other important trading partners.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Effects of U.S. Dollar Depreciation
+
+Constant Short-Term Interest Rates
+
+U.S. PCE Inflation and Import Price Inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+U.S. Real GDP Growth
+
+U.S. PCE Inflation and Import Price Inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Effects in Foreign Countries
+
+(Contribution in percentage points, AR)
+
+<!-- missing-text -->
+
+- *Exchange rates and short-term interest rates at 2002:Q1 values.
+- **Taylor Rules govern short-term interest rates.  Exchange rates react.
+
+Monetary Policy Stance Abroad
+
+Euro Area
+
+Output Gap*
+
+<!-- missing-text -->
+
+Canada
+
+Output Gap*
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Weights of 1/2 each on output gap and difference of inflation from 2 percent. **6-quarter ahead staff forecast for headline inflation.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Weights of 1/2 each on output gap and difference of inflation from 2 percent. **6-quarter ahead staff forecast for headline inflation.
+
+U.S. External Outlook
+
+<!-- missing-text -->
+
+- *Years are Q4/Q4; half years are Q2/Q4 or Q4/Q2.
+- **Aggregates weighted by shares of U.S. exports.
+
+Real Exchange Rate Outlook
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- *Years are Q4/Q4; half years are Q2/Q4 or Q4/Q2.
+- **Aggregates weighted by shares of U.S. exports.
+
+Contribution to U.S. GDP Growth
+
+<!-- missing-text -->
+
+Billions of dollars, AR
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+ECONOMIC PROJECTIONS FOR 2003
+
+<!-- missing-text -->
+
+Central tendencies calculated by dropping high and low three from ranges.
+
+ECONOMIC PROJECTIONS FOR 2004
+
+<!-- missing-text -->
+
+June 24-25, 2003
+
+Appendix 5: Materials used by Mr. Reinhart
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Estimates from  options on eurodollar futures  contracts, adjusted  to estimate  expectations  for the federal funds  rate, five months  hence.
+
+Selected  Equity Indexes
+
+<!-- missing-text -->
+
+Probability of Policy Action  Implied  by Option Prices  on  Federal  Funds  Futures
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Estimates from options on eurodollar futures contracts, adjusted to
+
+estimate  expectations for the federal funds rate.
+
+Selected Ten-year Yields
+
+<!-- missing-text -->
+
+*AA
+
+and  BBB rates based on yield curves  derived from Merrill  Lynch  data.
+
+The  Case  for Easing 25 Basis Points
+
+- + Ratify at least a  portion of the easing currently built into market  prices.
+- " Work down  resource slack quicker.
+- + View the costs of insurance as low given that inflation expectations are well contained.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Median five to ten-year  inflation expectations. **Measured as the inflation rate at which the price of the indexed security equals the value of a portfolio of zero-coupon securities that replicates  its payments.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+The Case  for Easing  50 Basis Points
+
+- Re-establish the degree of monetary  policy accommodation of late last year.
+- Fatten the cushion  of inflation protection from  the zero bound.
+- Provide needed stimulus if the Greenbook assessment of aggregate  demand  is too optimistic.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Private Sector Forecasts Private Sector  Forecasts
+
+<!-- missing-text -->
+
+The  Case  for Keeping the  Funds  Rate  Unchanged
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Real M2  and Real  Bank Credit*
+
+<!-- missing-text -->
+
+Exhibit 5
+
+The  Assessment  of Risks
+
+On May 6th, the  Committee
+
++ Separated the risk assessment,
+
+-- Risks  regarding its objective of sustainable economic growth
+
+-- Risks  regarding its objective of  price stability
+
+-- Balance of those two  risks
+
++ Voted only on the policy rate
+
+A  Proposal
+
+- Return to the practice of voting on the assessment of risks
+- Choose among  generic formulations of the three sentences
+- Allow  discretion to the drafters
+
+For Today's Choice
+
+<!-- missing-text -->
+
+MMS Survey  Results
+
+<!-- missing-text -->

@@ -1,0 +1,997 @@
+Prefatory Note
+
+The attached document represents the most complete and accurate version available based on original copies culled from the files of the FOMC Secretariat at the Board of Governors of the Federal Reserve System.  This electronic document was created through a comprehensive digitization process which included identifying the bestpreserved paper copies, scanning those copies, 1 and then making the scanned versions text-searchable. 2 Though a stringent quality assurance process was employed, some imperfections may remain.
+
+Please note that some material may have been redacted from this document if that material was received on a confidential basis.  Redacted material is indicated by occasional gaps in the text or by gray boxes around non-text content.  All redacted passages are exempt from disclosure under applicable provisions of the Freedom of Information Act.
+
+Part 2
+
+January 22, 2003
+
+CURRENT ECONOMIC AND FINANCIAL CONDITIONS
+
+Recent Developments
+
+Confidential (FR)   Class III FOMC
+
+January 22, 2003
+
+Recent Developments
+
+Domestic Nonfinancial Developments
+
+Domestic Nonfinancial Developments
+
+Overview
+
+Economic activity appears to have nearly been at a standstill in the fourth quarter, with a sharp drop in motor vehicle production and renewed shedding of non-auto inventories accounting for the deceleration in output from the previous quarter.  As yet, however, there are few signs that this weakness is cumulating. Final sales excluding motor vehicles increased in the fourth quarter, led by spending by the household sector.  Retail sales rose at a moderate pace in November and December, and housing starts climbed further.  However, the business sector remained stagnant:  Purchases of equipment and software seem to have been flat last quarter, and spending on nonresidential structures likely fell again.  Moreover, payrolls declined in the last two months of the year, and the unemployment rate increased to 6.0 percent.  In part because of continued economic slack, core consumer price inflation declined through the end of 2002.
+
+Labor Market Developments
+
+The labor market was anemic at year-end.  Employment on private nonfarm payrolls fell 115,000 in December after a downward-revised drop of similar size in November.  Private payrolls now stand at their lowest level since September 1999.  The December decline in employment, combined with a 0.1 hour reduction in the average workweek, to 34.1 hours, resulted in a 0.2 percent decrease in the aggregate hours of production or nonsupervisory workers. 1 Aggregate hours during the fourth quarter matched the average level in the third quarter.
+
+Manufacturing employment fell 65,000 in December; job losses were widespread, and the one-month diffusion index of manufacturing payrolls dropped to 37.5, its lowest level in a year. 2 In the related help-supply industry, employment recovered part of its November drop.  Employment in retail trade declined 104,000 in December, although the BLS attributed some of this decline to subpar hiring for the holiday season, which suggests that employment may rebound in January (on a seasonally adjusted basis), as firms have fewer workers to lay off.  The only bright spots in last month's employment report were the
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+service industry apart from help supply (where employment rose 54,000) and the finance, insurance, and real estate industry (which added 8,000 jobs). 3
+
+In the household survey, the unemployment rate remained at 6.0 percent in December after a 0.3 percentage point rise in November.  We had been puzzled about the absence of a rise in unemployment over the summer and early fall, and the recent increase brings the unemployment rate back in line with our interpretation of the payroll data and other labor market indicators.  The labor force participation rate dropped again in December, perhaps because workers discouraged by bleak employment prospects decided to leave the job market; for the fourth quarter the participation rate averaged 66.5 percent, down nearly 1/2 percentage point from a year earlier.  Meanwhile, the number of long-term unemployed rose, and the number of recent job losers remained at an elevated level, indicating continuing difficulties for job seekers and a high rate of layoffs.
+
+Recent data on initial claims for unemployment insurance do not suggest much change in the tenor of the labor market in January.  Adjusted using seasonal factors calculated without data from the post-September 2001 period, the fourweek moving average of initial claims was 385,000 in the week ended January 11, at the low end of the range it has occupied since the end of November. 4 The four-week moving average of insured unemployment, adjusted using alternative seasonal factors, stood at 3.43 million in the week ended January 4, a level down from the previous month.  In the week ended December 28, 804,000 individuals were receiving TEUC benefits. 5
+
+Other indicators also imply that the labor market remains weak.  Both the Conference Board and Michigan surveys registered a small deterioration in employment expectations in December and, according to the preliminary report of the Michigan survey, expectations remained unchanged in January.  In addition, the gap between the proportion of individuals finding jobs hard to get and the proportion finding jobs plentiful increased last month.  Although layoff announcements as tracked by the outplacement firm Challenger, Gray and Christmas, Inc., declined substantially in December, the fourth-quarter average was still above levels in the spring and summer.  Moreover, layoff announcements as tracked by FRB staff are rising so far in January.  Firms responding to the National Federation of Independent Businesses survey of small businesses reported an uptick in hiring plans in December; however, this measure is quite volatile, and the current level is not far removed from lows reached in 2001 and 2002.
+
+Industrial Production
+
+Industrial production, pushed down by a sharp drop in motor vehicle assemblies and a decline in electricity generation, decreased 0.2 percent in December. Excluding motor vehicles and parts, manufacturing output rose 0.2 percent after having fallen about one-quarter percent in each of the previous two months. Mining production, supported by a surge in oil and gas drilling, increased 1.6 percent.
+
+Output of high-tech goods gained 0.5 percent in December and was up 4.1 percent (annual rate) in the fourth quarter, a smaller increase than the 7-1/2 percent rise in the third quarter.  A sharp deceleration in semiconductor production more than accounted for the reduced rate of increase in high-tech output. 6 The production of computers and peripheral equipment rose 1.2 percent in December and was up at an annual rate of nearly 20 percent in the fourth quarter.  Roughly offsetting this increase was a further 16 percent (annual rate) drop in the output of communications equipment.
+
+Turning to transportation equipment, motor vehicle assemblies tumbled 1 million units (annual rate) in December, and related parts production declined as well.  Commercial aircraft output in December was 36 percent below its level a year earlier.  Although Boeing has completed the downshift in production announced in the wake of September 11, 2001, it is expected to make moderate further cuts in output this year.  The company disclosed recently that 75 plane orders were cancelled last year, a significant fraction of the 251 new orders it
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+had booked in 2002.  In contrast, the output of military aircraft and equipment continues to rise.
+
+In manufacturing outside high-tech and transportation, industrial production increased in December for the first time since August.  Refinery output picked up substantially; production disruptions on the Gulf Coast following a shutoff of supply from Venezuela were apparently more than offset by production gains elsewhere.  The production of consumer goods and the output of business equipment were flat in December after earlier declines.  Increases in textiles, paper, and chemicals pushed up materials production.
+
+Indicators of future conditions have been mixed but on the whole point to slightly firmer activity in coming months.  The diffusion index of new orders from the Institute of Supply Management (ISM) leaped to 63.3 in December after having hovered around 50 since July.  A jump in this index in late 2001 preceded a pickup in output in the first half of 2002.  The regional diffusion indexes of new orders, some of which now extend through January, also appear to have improved recently.  However, real adjusted orders for durable goods in November were down 0.9 percent from the level three months earlier, and the three-month IP diffusion index improved a little in December but remained below 50.
+
+<!-- missing-text -->
+
+- 1. Orders excluding defense capital goods, nondefense aircraft, and motor vehicle parts.
+- 2. Primary metals, most fabricated metals, most stone, clay, and glass products,
+
+household appliances, scientific instruments, and miscellaneous durable goods.
+
+- . . . Not applicable.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+II-11
+
+In the semiannual ISM survey released in December, the number of purchasing managers indicating that their companies plan to increase capital expenditures in 2003 exceeded the number indicating a planned decrease; a diffusion index of these responses correlates well with annual changes in manufacturing investment.  Together with low operating rate (73.6 percent in December), the index suggests that manufacturing investment will increase modestly this year, implying an expansion of manufacturing capacity in 2003 of only about 1-1/2 percent.  This pace would represent an acceleration from last year's increase of roughly 1 percent but would still be one of the smallest increases in the post-World War II period.
+
+Motor Vehicles
+
+Following two lackluster months, purchases of light vehicles, buoyed by another run-up in customer incentives, surged in December to an annual rate of 18.2 million units.  Confidential data from the major firms indicate that sales to consumers accounted for most of last month's increase, although fleet sales to businesses also rose.  Nearly all of the December sales gain went to General Motors and Ford, and last year was the second consecutive year that GM used price incentives to generate small increases in its market share after several decades of decline.  For the fourth quarter as a whole, light vehicle sales were 16.5 million units at an annual rate, down from the robust third-quarter pace but a touch above the average level of sales in the first half of the year.
+
+According to J.D. Power and Associates, manufacturers have cut back the average level of customer incentives per vehicle over the first two weeks of January from December's elevated level.  Although industry sources say confidentially that they expect some payback of sales from the torrid December pace, they still anticipate that remaining incentives will support sales of about 16 million units in January.
+
+Total production of motor vehicles fell in December to 11.9 million units (annual rate) and averaged 12.4 million units for the fourth quarter as a whole, sharply off the third-quarter pace.  Lower production and stronger sales in December pushed light vehicle stocks down to 2.7 million units at year-end. Based on average sales in the fourth quarter, this inventory represented 63 days' supply, in line with manufacturers' targeted range.  In January, assemblies are scheduled to move up to a 12.6 million unit rate, and weekly production data through the first three weeks of the month are consistent with this pace.  For the first quarter as a whole, schedules call for production of 12.4 million units; at
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+this rate, sales would need to be similar to their level in the fourth quarter to avoid an inventory buildup. 7
+
+<!-- missing-text -->
+
+Note. Components may not sum to totals because of rounding.
+
+- 1. Production rates reflect Ward's Communications' latest estimates for January.
+
+Consumer Spending
+
+Consumer spending, with a substantial boost from purchases of motor vehicles, appears to have advanced at a brisk pace in the last two months of 2002. Outside motor vehicles, recent gains have been more modest.  Nominal spending in the retail control category-which excludes auto dealers and building material and supply stores-increased 0.3 percent in both November and December.  Although December data on outlays for services are not yet available, we estimate that real personal consumption expenditures excluding motor vehicles rose at an annual rate of roughly 2-3/4 percent for the fourth quarter as a whole.
+
+Real disposable personal income increased 0.3 percent in November, and the October change was revised up to 0.2 percent.  These gains owe, in part, to a continued rise in wages and salaries despite the weak growth in hours worked; this pattern is consistent with the solid, if unspectacular, recent increases in real hourly earnings.
+
+The personal saving rate has remained above 4 percent in recent months, and it averaged close to 3-3/4 percent for 2002 as a whole.  The marked increase in
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+saving relative to the roughly 2-1/2 percent average saving rate of the preceding two years is likely a response by households to the erosion in household net worth.  The rise in equity values over the fourth quarter will probably lead the ratio of household net worth to disposable income to move up for the first time in a year.
+
+According to the preliminary report, the Michigan Survey Research Centers index of consumer sentiment moved down in early January, more than reversing its December increase.  Both the Michigan and Conference Board indexes have shown only modest improvements, on balance, since their lows in October.
+
+Housing Markets
+
+Construction and sales of single-family homes remained strong late last year, with continued support from very low mortgage rates.  Single-family starts rose in December to an annual rate of 1.47 million units.  The large backlog of unused permits and a ratio of starts to permits (adjusted for starts that occurred in areas where permits are not required) that is only slightly above the historical average suggest that starts are likely to remain quite strong in coming months.  For the fourth quarter as a whole, starts were up at an annual rate of 25 percent from the third quarter and were 12-1/2 percent higher than a year earlier.
+
+New home sales rose 5.7 percent in November, to an annual rate of 1.07 million units, the latest in a recent succession of record highs.  The yearover-year rates of change in the average and median prices for new homes were 5-3/4 percent and -1/2 percent, respectively, in November, bringing both price changes toward the lower end of their ranges in 2002.  Existing home sales decreased a bit in November to 5.56 million units, but that level still exceeded any figure recorded prior to last year.  Year-over-year increases in the average and median prices for existing homes picked up to 11-1/4 percent and 9-3/4 percent, respectively, in November-the fastest rates seen in 2002. Neither these price measures nor the ones for new homes adjust for shifts in the characteristics of the units sold.  For the third quarter (the most recent data available), the quality-adjusted new home price increase over the preceding year was 3.8 percent-about the middle of its high range over the past four years. Further moderation in repeat-sales prices for existing homes reduced the rate of increase to the lower part of its elevated range over the same period.
+
+Among more current indicators of housing demand, the number of applications for mortgages associated with home purchases is only a touch below the record high reached last summer.  Moreover, in early January the Michigan Survey's measure of household attitudes toward homebuying
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+remained at one of the highest levels in the past three years, with a sizable proportion of respondents mentioning low mortgage rates as a contributory factor.  In addition, according to the National Association of Home Builders, builders' ratings of current new home sales moved up in January to the highest level in three years.
+
+In the multifamily sector, housing starts increased 5.5 percent in December, to an annual rate of 362,000 units.  Although permit issuance jumped about 30 percent last month to a level far above that of starts, permit cancellations were also unusually high, leaving the backlog of unused permits unchanged. Notwithstanding the December increase, multifamily homebuilding in the fourth quarter as a whole was below the average pace seen during the past few years.  Market conditions for multifamily housing have deteriorated significantly during the past year, as vacancy rates have increased, rents have fallen, and property values have stagnated.
+
+Equipment and Software
+
+Real outlays for equipment and software appear to have moved sideways in the fourth quarter of last year.  Business purchases of motor vehicles fell a good bit in the fourth quarter, while aircraft spending increased.  Spending aside from transportation equipment seems to have been about unchanged, consistent with the 'wait-and-see' attitude toward new projects widely reported by firms. Indeed, investment still looks weaker than would be predicted by the recent pattern of business output, real corporate cash flow, and the user cost of capital.
+
+In the high-tech sector, nominal shipments of computing equipment dropped 2.8 percent in November (not at an annual rate), partially reversing the 5.3 percent run-up posted in October.  Yet, with computer prices falling at an annual rate of about 20 percent in the fourth quarter, real computer spending is on track for a double-digit gain.  Nominal shipments of communications equipment bucked their prolonged downward trend by rising nearly 7 percent in November.  However, the declines in preceding months suggest that real communications spending fell last quarter.  Real spending on software appears to have been up slightly in the fourth quarter, according to the revenue reports now available from some of the major software vendors.
+
+Outside the high-tech sector, a fallback in shipments in November more than reversed October's modest increase and left November's level of shipments slightly below the third-quarter average.  Most of the November decline was attributable to a pronounced drop in the engines and turbines category.
+
+The latest data on orders were also subdued.  As of November, the level of new orders for non-defense capital goods was still running below the level of
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+shipments.  New orders excluding the high-tech sector subsided in November, led by declines in industrial machinery and in engines and turbines.
+
+Business demand for light motor vehicles appears to have improved in December (according to confidential information from the major auto producers), following substantial weakness earlier in the quarter.  Fleet sales were more than 30 percent higher in 2002 than in 2001, but still below the pace in 2000.  Sales of medium and heavy trucks fell again in December, as the inventory of engines produced under pre-October emissions regulations has now run off. 8
+
+Nonresidential Construction
+
+Data on construction put in place in October and November imply that real outlays for nonresidential construction posted a much smaller decline than the third quarter's 21 percent (annual rate) decrease.  In particular, average spending in October and November in the 'other commercial' sector, which includes retail space and warehouses, was just 1 percent lower (at an annual rate) than in the third quarter following a drop of 27 percent between the second and third quarters.  However, the weak performance of property values and rents through at least the third quarter (the latest data available) suggests the likelihood of renewed deterioration.  Average expenditures for institutional construction in October and November rebounded at nearly a 35 percent rate from their third-quarter average, more than reversing a 12 percent decrease in the third quarter.
+
+At the same time, spending in both the office and industrial sectors has continued to drop sharply.  Outlays for construction of office buildings were 30 percent (annual rate) lower in October and November, on average, than in the third quarter.  The vacancy rate for office buildings reached 16.5 percent in the fourth quarter-the highest level since early 1994.  Spending on industrial structures was 33 percent (annual rate) lower in October and November than in the third quarter.  Real expenditures for industrial structures in November were the lowest on record, which dates back to January 1964.  The vacancy rate for industrial buildings edged up to a record 11.2 percent in the fourth quarter, although increases in the rate have continued to taper off.
+
+Inventories
+
+The book value of manufacturing and trade inventories excluding motor vehicles dropped sharply in October and was essentially unchanged in
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+November.  Manufacturers ran off stocks in both months, while wholesale inventories outside the motor vehicle sector posted a large decline in October and then were stable in November.  A rise in retail inventories excluding motor vehicles in November more than reversed the October decline.  With only small gains in sales and shipments in the October-November period, book value inventory-sales ratios have been generally flat.
+
+The staff's flow-of-goods system, which measures stocks wherever held and values them at factory-gate prices, suggests that the days' supply of inventories dropped in November and December after moving up earlier.  Most of the volatility in this series has been in stocks of motor vehicles and parts, which fell sharply with the run-up in light vehicle sales in December.  Excluding motor vehicles and parts, days' supply has edged down over the past few months, with only scattered imbalances evident across industries.
+
+Federal Government
+
+The twelve-month federal unified budget deficit continued to edge up in November and December, as receipts remained weak and non-interest outlays were strong.  However, both the weakness in receipts and the strength in outlays show some signs of moderating.  Meanwhile, the Congress renewed the extended unemployment benefits program and returned to work on fiscal year 2003 appropriations.
+
+Receipts in November and December averaged 4 percent below their level a year earlier, as the effect of tax reductions enacted in the past two years continued to outweigh the influence of higher incomes.  Daily data for January suggest that individual nonwithheld collections continue to run below yearearlier levels, consistent with meager year-end capital gains distributions reported by mutual fund companies. 9 Outlays increased more slowly in November and December than earlier in the year, with non-interest spending up 7-1/2 percent on a year-over-year basis compared with the double-digit pace registered previously.  A deceleration in nondefense discretionary spending accounts for much of this slowdown, a reflection in part of the lack of regular appropriations for fiscal 2003.
+
+The Congress enacted a five-month renewal of the extended unemployment benefits program, which offers up to thirteen additional weeks of benefits for individuals who have exhausted benefits provided under state programs.  If the Congress does not renew the program again, new enrollments for these benefits
+
+<!-- missing-text -->
+
+will be cut off after May, but those who are already enrolled at the end of May can continue to receive extended benefits through the end of August.
+
+The Senate and House leadership have targeted getting all thirteen discretionary appropriations bills for fiscal 2003 under a $751 billion cap on budget authority. Only the defense and military construction bills have passed so far, leaving $385 billion for the eleven unfinished bills.  The Senate has rolled these remaining bills together into an omnibus bill, while the House has passed a place-holder bill lacking specific funding levels.  The final level and distribution of funding will be resolved in conference.
+
+In advance of its February 3 release of the fiscal 2004 budget, the Administration has proposed a broad package of tax reductions.  The package would accelerate the implementation of tax cuts passed in 2001, including marginal rate cuts, marriage penalty relief, and an increase in the child tax credit; it would also reform the tax code to ensure that each dollar of corporate income that had already been taxed at the corporate level would not be taxed further at the individual level.  The Administration estimates that the bill would lower revenues by $670 billion over the fiscal 2003-2013 period, with roughly a $100 billion drop in tax liability for calendar 2003.
+
+State and Local Governments
+
+Recent indicators suggest that spending by state and local governments increased slowly in the fourth quarter.  Employment gains averaged 16,000 per month during the quarter-a bit above the average pace of the prior six months, but well below the increases reported the year before.  Real construction spending in October and November averaged 0.7 percent (not at an annual rate) above the third-quarter level.  Most of the increase was in building of schools; outlays for highway construction were below the third-quarter average.
+
+With new governors assuming office in nearly half of the states and forty-four state legislatures convening, state governments will begin in earnest this month to close fiscal 2003 budget gaps and prepare fiscal 2004 budgets. 10 Most states estimate that without further budgetary actions, spending will surpass resources (receipts plus previous year surpluses) both this year and next.  Corrective measures will likely include both real restraint-including program cuts, employee layoffs, and tax increases-and financial maneuvers such as fund transfers or debt financing that do not affect current taxes or spending.  For example, officials in some states intend to tap remaining rainy day funds (which currently hold about $10 billion nationwide) and other reserve accounts;
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+California and New York have proposed issuing new debt backed by future payments from the tobacco settlement.
+
+Prices and Labor Costs
+
+Prices of consumer goods and services other than food and energy continued to decelerate through the end of last year.  The core CPI rose 1.9 percent over the twelve months of 2002, compared with an increase of 2.7 percent the previous year.  Core PCE prices appear to have risen 1.6 percent over the twelve months of 2002, a touch less than in the previous year (the official estimate will be released January 31).  However, overall consumer prices rose significantly more rapidly in 2002 than in 2001, with the boost stemming from a marked run-up in energy prices following a sharp decline in the previous year.  Prices of petroleum products spiked upward again at year-end, largely reflecting supply disruptions in Venezuela.
+
+Prices for items other than food and energy increased a bit more slowly as 2002 drew to a close.  The core CPI rose 0.1 percent in December, a touch below the increases of the preceding couple of months.  Prices for core commodities slipped 0.3 percent in December after a decline in November of the same size; the twelve-month decline for this component was 1.5 percent, compared with a very small decline in the previous year.  Much of the recent softness in core commodity prices reflects drops in the prices of apparel and used cars and trucks, as well as some weakening in prices for new vehicles. 11 However, prices of other commodities also declined in December, in line with widespread reports of year-end discounting by merchants.  Prices for core services increased 0.2 percent in December and 3.4 percent for the year, down from a 4.0 percent rise in 2001.
+
+The CPI for energy fell 0.4 percent in December, as retailers apparently absorbed much of the run-up in prices for crude oil.  However, survey data through mid-January suggest that retail energy prices have picked up, implying that margins are recovering to more typical levels.  Spot prices of natural gas are also up this month, as unusually cold weather and high prices for heavy fuel oil have raised household and industrial demand, reducing inventories to a level 1 percent below the seasonal norm.  Food prices rose 0.3 percent in December after a similar rise in the previous month; the weakness in prices for livestock
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+II-34
+
+products that helped hold down food prices through last summer appears to have run its course, as evidenced by the recent surge in the spot price for cattle.
+
+Prices for capital equipment, as measured in the producer price index, fell 0.4 percent in December after a marked increase in October and a moderate decline in November.  Substantial month-to-month swings in prices of cars and light trucks have accounted for much of the recent see-saw movement in this category.  For the year, capital equipment prices declined 0.9 percent.
+
+Prices at earlier stages of processing have generally been increasing.  Although the PPI for intermediate materials other than food and energy edged down 0.1 percent in December, prices were up 1.6 percent over the most recent twelve-month period, compared with a 1.6 percent decline posted in the previous year.  The PPI for core crude materials rose 0.2 percent in December, and over the twelve months of 2002, these prices were up 12.4 percent.  Broadbased spot industrial indexes such as the Commodity Research Bureau index and the Journal of Commerce industrial index have moved up since the last Greenbook.  Over the course of 2002, these commodity indexes retraced the declines seen in the preceding year.
+
+Near-term inflation expectations from the Michigan survey continued to drift down through early January.  Median expected inflation for the next twelve months was 2.4 percent in the first part of January, at the low end of the range seen since last spring.  Median expectations of inflation over the next five to ten years held near the 2-3/4 mark that was the norm for most of last year.
+
+Since the last Greenbook, we have received little new information about labor costs.  Average hourly earnings of production or nonsupervisory workers on private nonfarm payrolls rose 0.3 percent in December after having increased 0.2 percent in November.  Over the twelve months of 2002, average hourly earnings rose 3.0 percent, a substantial deceleration from the 3.8 percent rate of increase posted for the previous year.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Domestic Financial Developments
+
+Selected Financial Market Quotations
+
+(One-day quotes in percent except as noted)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- 1.  Secondary market.
+- 2.  Bid rates for eurodollar deposits collected around 9:30 a.m. Eastern time.
+- 3.  Derived from a smoothed Treasury yield curve estimated using off-the-run securities.
+- 4.  Most recent Thursday quote.
+- 5.  Derived from smoothed corporate yield curves estimated using Merrill Lynch bond data.
+- 6.  Merrill Lynch Master II high-yield bond.
+- 7.  For week ending Friday previous to date shown.
+
+_______________________________________________________________________
+
+NOTES:
+
+June 26, 2000, is the day before the FOMC meeting that ended the most recent period of policy tightening. September 10, 2001, is the day before the terrorist attacks. December 9, 2002, is the day before the most recent FOMC meeting.
+
+_______________________________________________________________________
+
+Selected Interest Rates
+
+Expected Federal Funds Rates Estimated from
+
+<!-- missing-text -->
+
+Treasury Yield Curve
+
+Note.  Estimates from federal funds and eurodollar futures rates with an allowance for term premia and other adjustments.
+
+<!-- missing-text -->
+
+Short-Term Interest Rates
+
+<!-- missing-text -->
+
+- * On Jan 9, 2003, the primary credit rate replaced the discount rate.
+
+Long-Term Interest Rates
+
+<!-- missing-text -->
+
+Domestic Financial Developments
+
+Overview
+
+The escalation of global tensions since the last FOMC meeting and the weaker cast to incoming economic data apparently induced investors to scale back their expectations of near-term economic growth and to postpone the anticipated onset of Federal Reserve policy firming until the fall.  This revision to the policy outlook has pulled down short-term rates.  Investors apparently still expect the economic expansion to gain traction, though, as longer-term yields were off only slightly and risk appetites appeared to grow, with corporate yield spreads narrowing-especially for riskier credits. Equity prices have moved over a wide range since early December, in part as market participants have tried to come to grips with geopolitical risks and the heavy flow of economic data and of corporate earnings reports. On net, broad equity indexes, which had been up as much as 5 percent at one point, were down a touch by the close of Greenbook.
+
+Business borrowing continues to be tepid.  In contrast, household borrowing remains brisk, fueled by strong growth of mortgage debt.  Debt issuance by state and local governments has continued to be boosted by low interest rates and weak tax revenues, and federal borrowing is poised to accelerate.
+
+Interest Rates, Stock Prices, and Corporate Risk Spreads
+
+The FOMC's decision at the December meeting to leave the federal funds rate target unchanged and to retain a balanced assessment of risks was widely expected and had little impact on financial markets.  Over the rest of December, Treasury yields moved down as much as 30 basis points, as rising geopolitical concerns weighed heavily on investor sentiment.  Yields then jumped in early January on the better-than-expected ISM manufacturing report and the Administration's proposal of a larger-than-expected fiscal stimulus package. Recently, concerns about geopolitical risks have intensified, pushing yields back down. On balance, Treasury coupon yields declined 5 to 20 basis points since the last FOMC meeting, with the largest drop at the short end of the curve.
+
+The expected path for the funds rate has shifted down since the last FOMC meeting.  Market participants still give little weight to the possibility of nearterm policy ease but have pushed back to the fall the date that monetary tightening is expected to commence, trimming about 50 basis points from the cumulative amount of tightening anticipated by mid-2004.
+
+Inflation compensation, as measured by the spread between the ten-year nominal and inflation-indexed Treasury yields, rose since the last FOMC meeting, with the bulk of the rise following a reopened auction for the indexed security that apparently added to market liquidity.  Survey data suggests that inflation expectations have remained steady.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Share prices, after having risen by more than 5 percent in early January, have since trended down, leaving broader equity indexes off a shade since the last FOMC meeting.  Although prices for most industry groups posted only small changes, utilities recorded a sizable gain, partly reflecting the efforts of the sector's most distressed firms to reduce leverage.  Uncertainty about near-term share prices, as reflected in the implied volatility on the S&amp;P 100 (VIX), declined a little after the turn of the year.
+
+Corporate bond yields fell for all rating categories over the intermeeting period, and risk spreads continued to move down from their October peaks.  Spreads on BBB-rated and high-yield bonds declined across a broad range of industries but narrowed dramatically in the telecom, energy, and utility sectors, and lowerrated bonds showed the greatest gains.  The shrinkage in risk spreads since October is likely due, in part, to the dwindling number of revelations about corporate malfeasance, which has bolstered confidence that the worst news about the corporate sector is already out.
+
+In contrast to the experience of the previous four years, year-end pressures in the commercial paper market were tame at the end of 2002.  In early January, quality spreads for commercial paper rapidly declined to typical levels, and new issue volumes rebounded from seasonally depressed levels in late December.
+
+Business Finance
+
+Gross issuance of corporate bonds remained moderate in December and in the beginning of  January, with junk bonds accounting for about one-quarter of the total. Firms in the energy and utility sectors dominated the action, but even a few telecom issues were floated, probably to take advantage of the sizable drop in rates and spreads in these sectors.  Nonetheless, net debt financing by nonfinancial firms was only slightly positive in the fourth quarter, as commercial paper and C&amp;I loans registered declines and a spate of bond retirements held down net bond issuance.
+
+The latest Senior Loan Officer survey indicated that about 20 percent of domestic banks, on net, tightened their lending standards on business loans over the past three months, little changed from the survey taken last November.  At the same time, the fraction of banks reporting weaker demand for business loans fell sharply from prior surveys.  In response to a special question, most banks indicated that the ability to purchase or sell credit protection in the credit default swap market has had no effect on the amount of business credit extended, on net.
+
+Net equity issuance by nonfinancial firms likely has remained negative in recent months. Weak share prices have put a damper on gross equity issuance for some
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+time, and in December initial public offerings totaled just $400 million, completing the weakest year for IPOs by nonfinancial firms since 1990.  There have been no IPOs since year-end, and the calendar of upcoming issues looks sparse.  Seasoned offerings, in contrast, continued at a moderate pace in December and the first half of January, with energy and utility firms accounting for about half of the issues.  With regard to equity retirements, share repurchases are estimated to have fallen a bit in the fourth quarter, and retirements from merger activity slowed further.
+
+Corporate Credit Quality and Earnings
+
+Having already lowered their fourth-quarter earnings forecasts late last year, analysts made only modest additional modifications over the intermeeting period.  With about one-fifth of S&amp;P 500 firms reporting, we estimate that fourth-quarter earnings per share grew about 18 percent over a year ago, implying a profit level down slightly from the third quarter on a seasonally adjusted basis.  The reports have been largely in line with market expectations, and analysts' downward revisions to year-ahead earnings were about average in December and January, despite some negative forward-looking comments from industry leaders such as Microsoft and IBM.
+
+Lagging indicators of the credit quality of nonfinancial corporations suggest that severe financial distress persists for some firms.  The bond default rate remained high in December.  Ratings downgrades of corporate bonds by Moody's continue to far exceed upgrades, and recovery rates are at the low end of the past few years.  The aggregate year-ahead expected default frequency (EDF) based on firm-level data from KMV remains at a historically high level.
+
+Commercial Real Estate Finance
+
+Commercial mortgage debt is estimated to have increased in the fourth quarter at an 8 percent annual rate, about the same pace as in the third quarter.  Businesses may be substituting commercial mortgage debt for other types of borrowing, providing some support for commercial mortgage debt growth despite reduced construction activity.  As is typical at year-end, CMBS issuance surged in December, boosting fourth-quarter issuance and putting temporary upward pressure on CMBS spreads.  Nonetheless, total CMBS issuance last year was down 24 percent from that in 2001.  In December, delinquencies on CMBS were unchanged but remained elevated, while the most recent readings of commercial mortgage delinquencies at commercial banks and at life insurance companies were little changed at relatively low levels.
+
+Household Finance
+
+Mortgage debt continued to grow at a rapid clip in the fourth quarter, as mortgage rates hit another historic low over the intermeeting period.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Refinancing activity, though off a bit from its record high in November, has remained strong.  Mortgage borrowing may be damping consumer credit growth to the extent that households withdraw home equity in order to pay down loans with higher interest rates.  Indeed, consumer credit is estimated to have been weak in the fourth quarter, continuing the deceleration that has been evident for more than a year.  As in previous Senior Loan Officer surveys, a modest proportion of banks in the January survey reported tighter standards for consumer loans.  In addition, for the second consecutive survey, a small number of banks reported tighter standards for residential mortgages, marking the first evidence of tightening in this sector since the early 1990s.
+
+Household delinquency rates have remained stable in recent quarters, and bankruptcies fell back from their recent upward trend.  The ratio of household assets to disposable income likely increased a bit in the fourth quarter, as stock prices moved up and house prices continued to rise, albeit at a more modest pace than in previous quarters.  With regard to the allocation of mutual fund assets, households have continued to boost their investments in bond funds, while equity funds received no net inflow, on balance, during November and December.
+
+State and Local Government Finance
+
+Gross issuance of long-term municipal bonds continued at a robust pace in January, though down from fourth quarter's elevated rate.  New capital issuance was relatively heavy in the education and health-care sectors, and housingrelated issuance was also robust.  Advanced refunding activity remained strong, as long-term municipal bond yields edged down over the intermeeting period to levels that are at the low end of the past few years.
+
+By all accounts, state and local governments are facing significant fiscal difficulties, as reflected in recent readings on credit quality.  The number of bonds downgraded by Standard and Poor's outpaced upgrades over the intermeeting period, and the spreads on revenue bonds ticked up from already elevated levels. Of note, Standard and Poor downgraded California, affecting about $40 billion in debt.
+
+Treasury and Agency Finance
+
+Current estimates suggest that the federal budget will record small surpluses for December and January, but the budget is anticipated to return to deficit beginning in early February.  The level of federal debt is once again very near the statutory debt limit, and staff estimates suggest that the debt limit will be reached by the middle of February.  If Congress fails to raise the debt ceiling by then, the Treasury could continue operations for some time by dis-investing certain public trust funds, as it did last summer.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+III-13
+
+Over the past two years, the Treasury has increased issuance disproportionately at the short end of the yield curve to meet recent increases in funding needs. Issuance of both Treasury bills and two-year notes has grown significantly, perhaps putting some upward pressure on short-term Treasury yields.
+
+Agency spreads to Treasuries were little changed over the intermeeting period and remain at the low end of last year's range.  Since October, Fannie Mae's duration gap has remained within its target band of plus or minus six months. Freddie Mac continued to keep its duration gap very close to zero.
+
+Money and Bank Credit
+
+Growth of M2 slowed in December to a 2.7 percent annual rate from nearly 8 percent in both October and November owing largely to moderating growth of liquid deposits. 1 Preliminary data for January, however, suggests that the growth of liquid deposits is rebounding somewhat.  M3 growth in December was 7 percent, close to the average for the fourth quarter, as strong flows into institutional money market funds and RPs more than offset declines in large time deposits.
+
+Bank credit grew at an 8-1/2 percent annual rate in December, on continued strength in banks' purchases of securities and lending to households.  The growth of real estate lending remained robust despite some slowing.  Consumer loan growth, adjusted for securitizations, also slowed a bit.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Appendix
+
+January 2003 Senior Loan Officer Opinion Survey
+
+The January 2003 Senior Loan Officer Opinion Survey on Bank Lending Practices addressed changes in the supply of, and demand for, bank loans to businesses and households over the past three months.  In addition, the survey contained a set of supplementary questions that focused on banks' participation in the credit default swap market.  Fifty-eight domestic and nineteen foreign banking institutions responded to the survey.
+
+Although domestic and foreign institutions continued to tighten lending standards and terms for commercial and industrial (C&amp;I) loans over the past three months, the fractions doing so were about unchanged from the October survey.  Business loan demand again was reportedly weaker on balance, but the net fraction of banks that reported weaker demand was significantly lower than in the previous survey, as several banks reported stronger demand.  Both domestic and foreign institutions continued to report concern about the economic outlook as well as industry-specific problems.
+
+A significant portion of large domestic bank respondents and half of foreign institutions use credit default swaps either to hedge loan risk or to increase credit exposure.  However, most other domestic banks reported that they made little or no use of credit default swaps, which they view as a relatively expensive and complicated way to hedge loan risk.
+
+On the household side, the fractions of banks that tightened standards and terms on credit cards and other consumer loans remained at the modest levels of recent surveys. However, evidence that some banks are beginning to tighten standards on home mortgages appeared for the second consecutive survey.  Demand for consumer loans was about unchanged on net, but the net fraction of banks that reported stronger demand for home mortgages declined sharply.
+
+Lending to Businesses
+
+In January, the percentage of domestic banks that reported having tightened standards on C&amp;I loans to large and middle-market firms over the past three months remained at about 20 percent for the third consecutive survey.  In contrast to the previous two surveys, however, three of the banks that tightened lending standards to larger firms in the most recent survey classified the tightening as considerable.
+
+On the other hand, the number of domestic banks that reported tightening terms on large and middle-market borrowers declined a bit between the October and the January surveys: the net share of banks that reported raising fees on credit lines fell to 22 percent from 30 percent, while the net share of banks that reported increasing collateralization requirements slipped to 17 percent from 23 percent.  Two banks reported reducing spreads for some loans in part because of more aggressive competition from other lenders.  Nonetheless, the percentage of banks that reported increasing premiums on riskier loans remained high, at around 40 percent.
+
+III-A-2
+
+The percentage of domestic banks that reported tightening standards for small firms edged down from 18 percent in October to 14 percent in January.  The percentage of banks tightening terms on small firms also moved down slightly.  This finding is somewhat inconsistent with the most recent NFIB survey of small businesses, in which the net fraction of small businesses that reported having difficulty obtaining credit rose from 0 percent in November to 5 percent in December.
+
+Although a less favorable economic outlook is still cited by most domestic banks as at least a somewhat important reason for tightening lending conditions, the fraction of banks that reported this as a very important reason declined from 23 percent in October to 12 percent in January.  In addition, the fraction of banks citing reduced tolerance for risk fell from 71 percent in October to 63 percent in the current survey.  By contrast, the percentage of domestic banks that reported that worsening industry-specific problems were a reason for tightening standards rose substantially, from 39 percent in October to 66 percent in January.
+
+The fraction of U.S. branches and agencies of foreign banks that tightened standards and terms on C&amp;I loans over the past three months trended down for the second consecutive survey.  The percentage of foreign institutions that had tightened standards for customers seeking C&amp;I loans or credit lines declined from 60 percent in August and 50 percent in October to 32 percent in the current survey.  Similarly, the fractions of foreign institutions that tightened the surveyed terms on business loans generally fell over the past three months.  Between the October and January surveys, the fraction of foreign institutions that raised premiums on loans to riskier customers declined from 55 percent to about 40 percent, and the fraction of foreign institutions that increased spreads on all loans over their cost of funds fell from 65 percent in the previous survey to 47 percent.  Foreign institutions that tightened standards or terms generally cited a less favorable economic outlook and reduced tolerance for risk as the most important reasons for tightening.
+
+The number of domestic banks reporting weaker demand from both large and small firms declined in January.  For large and medium-size firms, the net percentage of banks that reported weaker demand fell from 53 percent in October to 33 percent in the current survey.  For small firms, the net percentage tumbled from 48 percent to 21 percent.  This result is consistent with reports in the year-end earnings announcements of a few regional bank holding companies that they had noted a pickup in lending to middle-market firms during the fourth quarter.  Similarly, the net share of branches and agencies of foreign banks reporting weaker demand decreased to 21 percent in January from 40 percent in October.
+
+As in previous surveys, almost all domestic banks that experienced weaker loan demand reported that a decline in customers' need for bank loans to finance capital expenditures was at least a somewhat important reason for the weakness in demand. Reduced needs to finance mergers and acquisitions, inventories, and accounts receivable also continue to be cited by most banks as at least somewhat important reasons for weaker demand.  The eleven domestic banks that reported an increase in demand for C&amp;I loans over the past three months listed a variety of reasons for this increase, including a shift to bank financing from non-bank credit sources and an
+
+III-A-3
+
+increased need for inventory financing.  The most frequently cited reasons for weaker loan demand at branches and agencies of foreign banks continued to be a decline in merger and acquisition activity and reduced customer investment in plant and equipment.
+
+Credit default swaps. Credit default swaps (CDS) have become an increasingly important tool for managing credit risk at a number of financial institutions.  Of the thirty-five large domestic banks that participated in the survey, about 35 percent use CDS to hedge risk in their C&amp;I loan portfolio.  Even among those banks that use CDS, however, the majority do so for less than 4 percent of their total C&amp;I loan commitments (outstanding loans plus unused lines of credit).  By contrast, about half of the foreign banks surveyed reported purchasing credit protection using CDS, and 25 percent indicated that more than 8 percent of their C&amp;I loan commitments are hedged in this fashion.  The most commonly cited reason, by both foreign and domestic institutions, for buying credit protection is that purchasing the CDS is superior to selling a loan because it preserves the bank's relationship with the borrower.
+
+Smaller fractions of domestic and foreign banks use CDS to acquire credit exposure, and most banks that do invest in CDS report that such exposure is equivalent to less than 4 percent of their total C&amp;I loan commitments.  For domestic banks, the two most important reasons for selling credit protection were its risk diversification benefits and its relative profitability.  Foreign banks also cited the ability to diversify credit risk as the most important reason for selling credit protection.  Most banks reported that their participation in the CDS market did not affect their direct C&amp;I lending.  However, a few banks indicated that the ability to hedge credit risk by purchasing CDS allowed them to moderately increase their direct lending.
+
+Most of the activity in the CDS market is done through dealers.  On average, domestic banks purchased nearly 80 percent of their credit protection from dealers, and more than 85 percent of that volume runs through dealers headquartered in the U.S.  Dealers are the counterparty for an even greater share of credit protection sold by domestic banks, and almost all sales are to dealers headquartered in the U.S.  Between 50 percent and 60 percent of the CDS transactions by branches and agencies of foreign banks are also conducted with dealers headquartered in the U.S., but about a third of their purchases and sales of CDS are with dealers headquartered outside the U.S.
+
+Domestic banks had a more positive view about liquidity in the market for CDS than foreign institutions.  Three-fourths of domestic banks that participated in the market reported that it was somewhat easy or inexpensive to unwind a position in a CDS under normal market conditions.  Moreover, domestic banks indicated that  current liquidity conditions were about normal or somewhat better than normal.  By contrast, 75 percent of foreign banks indicated that it was at least somewhat difficult or expensive to unwind positions under normal market conditions, and about 50 percent characterized the current market as less liquid than normal.  Nearly all banks that participate in the CDS market indicated that market quotes on CDS spreads are useful in imputing a value for loan assets or pricing new loans under normal market conditions.  Of domestic banks that do not participate in the CDS market, about half still find market quotes at least somewhat useful for pricing loans.
+
+III-A-4
+
+Of domestic banks that do not use CDS to hedge loans or as standalone investments, 82 percent indicated that they found CDS to be expensive relative to the benefits derived from them.  Sixty-six percent of these banks indicated that they do not use CDS because they are generally riskier and more complicated than loans, and 47 percent indicated that it was difficult to find CDS offered in the amounts or maturities they desired.
+
+Commercial real estate lending. The net fraction of domestic banks that reported tightening standards on commercial real estate loans over the past three months slipped from 22 percent in October to 14 percent in January.  No foreign institutions reported changing standards for these loans in the current survey, down from three in the October survey.  Demand continued to weaken at domestic banks, but the net share of banks reporting weaker demand declined from 48 percent to 21 percent.  Demand edged up at foreign institutions, with one more foreign bank reporting stronger demand than reported weaker demand.
+
+Lending to Households
+
+The share of banks tightening standards on residential mortgage loans edged up to 11 percent in January from 10 percent in the October survey.  Notably, these were the first two indications of any noticeable tightening in over a decade.  The net fraction of respondents that reported stronger demand for mortgages to purchase homes over the past three months dropped to 8 percent in January from 40 percent in the previous survey.  Moreover, the share of banks reporting substantially stronger demand fell from 14 percent in October to 2 percent in the current survey.
+
+As in the October survey, about 15 percent of domestic banks indicated that they had tightened standards on credit card loans over the past three months.  However, in the current survey the share of banks that reported tightening standards for other consumer loans edged down to 9 percent in January.  Despite the recent release of new regulatory guidelines dealing with some aspects of banks' credit card lending, none of the banks in the survey reported increasing the minimum monthly payment for their credit card holders.  Indeed, few banks reported that they had tightened any terms on either their credit card loans or other consumer loans.  On net, demand for consumer loans was reportedly about unchanged over the past three months.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+International Developments
+
+International Developments
+
+U.S.  International Transactions
+
+Trade in Goods and Services
+
+The deficit in U.S. international trade in goods and services was $40.1 billion in November, much larger than in October (revised), as an increase in imports exceeded that of exports.  For October and November, the deficit averaged $452 billion at a seasonally adjusted annual rate, about $10 billion larger than in the third quarter.
+
+<!-- missing-text -->
+
+Imports of goods and services in November jumped 4.9 percent from a low point in October to the highest level recorded since January 2001.  Imports of goods rebounded 5.5 percent from an October level that was held down by port closures on the West Coast.  Increases were recorded in the categories of consumer goods, computers, other capital goods, automotive products, and foods.  However, the value of imported oil declined.  Services payments grew 2.0 percent in November, about twice as fast as in October, owing largely to rises in travel and other transportation.  On average in October and November, the value of imported goods and services grew 1¾ percent at an annual rate from the third-quarter level.  Imports of goods rose ¾ percent, and services payments rose 6¾ percent.
+
+Exports of goods and services rose 1.1 percent in November following a small decline in October.  Exports of goods increased 1.0 percent in November, but remained below the third-quarter average level.  Small increases in exports of industrial supplies (particularly chemicals and fuels), foods, and consumer goods were nearly offset by declines in exports of aircraft, semiconductors, and automotive products.  Services receipts rose 1.2 percent, only slightly less than in October, led by increases in travel, other transportation, and other private
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+services.  For October and November, the average value of exports of goods and services declined 1¾ percent at an annual rate from the third quarter.  Exports of goods fell 6 percent, whereas services receipts rose 8‰ percent.
+
+Prices of Internationally Traded Goods
+
+Non-oil imports. In December, the price of imported non-oil goods and the price of imported core goods ticked up 0.1 and 0.2 percent, respectively, overturning similarly sized decreases in November.  Within core goods, the largest price increase was observed in foods, feeds and beverages, which rose 0.5 percent, prompted by higher prices for coffee and for meat, poultry, and other edible animal products.  Prices also edged up in non-oil industrial supplies, which rose 0.3 percent, prompted by higher prices for natural gas and unfinished metals.  For the fourth quarter on average, core import prices were up 1‰ percent at an annual rate, a slightly higher rate of increase than in the third quarter.
+
+Oil. The BLS price of imported oil rose 7.4 percent in December after falling a revised 9.2 percent in November.  The spot price of West Texas intermediate (WTI) also rose in December, climbing above $30 per barrel towards the end of the month.  The spot price of WTI has remained elevated in January and is currently trading around $34 per barrel.  The recent increase in oil prices primarily reflects supply disruptions caused by the strike in Venezuela and the market's perception that the United States is intensifying its preparations for military action in Iraq.
+
+Exports. Both the price of total U.S. exported goods and the price of exported core goods edged down 0.2 percent in December, after having risen almost every month since February.  Within core goods, the largest price movement in December was a 0.6 percent decrease in the price of exported agricultural products, driven largely by lower prices for wheat and corn.  Prices in other major categories were generally little changed.  For the fourth quarter on average, core export prices were up 1‰ percent at an annual rate, slower than the third quarter's 4 percent pace.
+
+U.S. Current Account through 2002:Q3
+
+In the third quarter, the U.S. current account deficit was $508 billion (s.a.a.r.), little changed from the second quarter (revised).  The trade deficit on goods and services widened slightly, resulting from a minor increase in the merchandise trade deficit and a small reduction in the services trade surplus.  The deficit on investment income moved lower in the third quarter, as portfolio investment payments declined in response to lower U.S. interest rates.  The deficit on other income and unilateral transfers was little changed.  The current account deficit for the second quarter was revised down $9 billion (s.a.a.r.), owing to an upward
+
+revision to the trade surplus on services and a downward revision to the deficit on investment income.
+
+(Billions of dollars, seasonally adjusted annual rate)
+
+<!-- missing-text -->
+
+Source:  U.S. Department of Commerce, Bureau of Economic Analysis.
+
+U.S. International Financial Transactions
+
+Foreign official assets held in the United States (line 1 of the Summary of U.S. International Transactions table) decreased slightly in October but increased by a substantial $21 billion in November.  Partial data, from the Federal Reserve Bank of New York, indicate a further increase of $23 billion in December, .  Given the available data, it appears foreign official reserves in the United States increased by about $105 billion in 2002, compared with $7 billion in 2001.
+
+Foreign private net purchases of U.S. securities (line 4) continued at their recent level during the October-November period, leaving the pace of net foreign purchases slightly below 2001' s record level.  Net purchases of Treasury securities (line 4a) were very small in both months, but nonetheless totaled $55 billion during the July-November period, following net sales in the first half of 2002 as well as in the preceding two years.  Agency securities (line 4b) were purchased at a robust rate in both months, and net purchases of corporate debt securities (line 4c) rebounded in November from the relatively low levels of recent months.  Foreign net acquisitions of U.S. equities (line 4d) remained
+
+Summary of U.S. International Transactions
+
+(Billions of dollars, not seasonally adjusted except as noted)
+
+<!-- missing-text -->
+
+NOTE:  The sum of official and private financial flows, the current account balance, the capital account balance, and the statistical discrepancy is zero.  Details may not sum to totals because of rounding.
+
+- 1.  Changes in dollar-denominated positions of all depository institutions and bank holding companies plus certain transactions between broker-dealers and unaffiliated foreigners (particularly borrowing and lending under repurchase agreements). Includes changes in custody liabilities other than U.S. Treasury bills.
+
+- 4.  Transactions by nonbanking concerns and other banking and official transactions not shown elsewhere plus amounts resulting from adjustments made by the Department of Commerce and revisions in lines 1 through 5 since publication of the quarterly data in the Survey of Current Business.
+- 5. Consists of transactions in nonproduced nonfinancial assets and capital transfers.
+
+n.a.  Not available.    ...  Not applicable.
+
+modest in both October and November and for 2002 are averaging less than half the pace of the 1999-2001 period.
+
+U.S. residents were modest net purchasers of foreign securities (line 5) in both October and November, with net purchases of foreign equities (line 5b) slightly exceeding net sales of foreign bonds (line 5a) in both months.  U.S. residents have been net sellers of foreign bonds on a regular basis during 2002, with net sales reaching $24 billion through November.  Smaller net acquisitions of foreign equities during the year have created the possibility that 2002 could become the first year since 1955 during which U.S. residents were net sellers of foreign securities.
+
+Net banking flows (line 3) continued to be volatile and were roughly offsetting during October-November, with most flows attributed to inter-office funding activity.
+
+Balance of payments data for the third quarter show U.S. direct investment abroad (line 6) exceeding foreign direct investment in the United States (line 7) for the fifth consecutive quarter.  U.S. direct investment abroad continued at its pace of recent quarters while foreign direct investment in the United States, though low by past standards, was nonetheless well above its exceptionally low level of the second quarter.
+
+The statistical discrepancy was negative $46 billion in the third quarter following a discrepancy of positive $54 billion in the second quarter.  A negative statistical discrepancy indicates some combination of underreporting of the current account deficit or overreporting of net capital inflows.
+
+Foreign Exchange Markets
+
+The dollar recorded sizable declines against all the currencies in the major currencies index in the period since the December FOMC meeting, slipping almost 4 percent on a trade-weighted basis.  The largest depreciations were against the Swiss franc (6‰ percent), the euro (5¾ percent), and the yen (4… percent).  The timing of the dollar's move is difficult to reconcile with economic data released over the period, which showed Japanese economic growth approaching zero again and the weak German economy possibly in a double-dip recession.  Market participants linked the dollar's weakness to the building tensions over Iraq and North Korea.  The increasingly large U.S. current account deficit may have exacerbated these pressures on the dollar.  The U.S. dollar slipped 1¾ percent against the Canadian dollar, as the strength of the Canadian economy continues to surprise market participants.
+
+<!-- missing-text -->
+
+Much of strong performance of the Swiss franc appeared to be related to safe haven demand.  Safe haven flows also played a role, along with the weakness of the dollar, in the 10 percent jump of the price of gold, which reached a six-year high.
+
+The euro-area stock market, which registered a 6 percent decline in share prices, underperformed the U.S. market.  Global tensions appeared to weigh on stocks at the end of 2002, but prices rebounded sharply after the New Year's holiday, partly on relief that the turn of the year had passed without geopolitical
+
+disruptions and on a much stronger-than-expected U.S. ISM report.  However, prices headed down again late in the period as worries that growth in Europe would be sluggish were added to the other threats.  European telecommunication and utility firms were the only sectors to have rising share prices, following gains in these sectors on U.S. exchanges.  The Topix index of Japanese share prices was little changed over the period.
+
+<!-- missing-text -->
+
+Euro-area ten-year benchmark bond yields declined 28 basis points over the intermeeting period, reflecting expectations of slower growth, particularly in Germany.  The yield on the benchmark ten-year Japanese government bond fell 20 basis points to a four-year low of 0.81 percent, and the yield on the 20-year JGB also hit a four-year low at 1.29 percent.  The prices of Japanese long-term bonds were supported in part by an announcement by the Japanese government that bond issuance would increase less in the coming fiscal year than market participants had expected.
+
+The European Central Bank cut its policy rates by 50 basis points on December 5.  The Bank of Japan, the Bank of Canada, and the Bank of England did not adjust their monetary policy stances during the period, and three-month interest rates were little changed.
+
+Financial market sentiment toward Brazil and Argentina improved markedly over the intermeeting period.  On January 16 Argentina signed a letter of intent with the IMF for a program that would refinance $6.6 billion in debt payments coming due through August.  The Argentine stock market gained 11 percent, the peso soared 17 percent against the dollar, and the yield spread of Argentina's debt narrowed 130 basis points on net, albeit from a very high level.  The administration of newly inaugurated Brazilian President Lula signaled its intention to run a tight fiscal policy and reform Brazil's pension system, helping assuage concerns in the market.  To counter an inflation rate well above its target, the central bank of Brazil raised its key policy rate a total of 350 basis points to 25.50 percent.  The real appreciated 8 percent against the dollar, Brazil's EMBI+ spread contracted 270 basis points on balance, while the Brazilian stock market tallied a 9.5 percent gain.  Above-target inflation also forced the central bank of Mexico to tighten monetary policy, its third tightening in four months.  The Mexican peso depreciated 6 percent against the dollar. The recent bout of weakness of U.S. and European equities was also felt in Latin American bond trading, which gave back some of their gains late in the period.
+
+<!-- missing-text -->
+
+The Venezuelan bolivar tumbled 32 percent against the dollar, to a new low, and Venezuela's EMBI+ spread widened 500 basis points, as the ongoing general strike that began in early December has slashed oil revenue.  On January 22, the central bank of Venezuela closed the foreign exchange market in an effort to stem the outflow of official reserves.
+
+In developing Asia, tensions over the North Korean situation weighed on South Korean equity prices, which fell 12 percent.  Despite these worries, the Korean won appreciated 2¾ percent versus the dollar, somewhat less than the yen's gain against the dollar.  Share prices in most other Asian stock markets rose between 2 and 5 percent in the period since the December FOMC meeting, helped in part by more favorable sentiment towards technology stocks.
+
+.  The Desk did  not intervene during the period for the accounts of the System or Treasury.
+
+Developments in Foreign Industrial Countries
+
+Indicators for the fourth quarter imply slower growth in many major foreign industrial countries.  Japanese industrial production dropped considerably on average over the first two months of the quarter, and household expenditures declined as well.  In the euro area, declines in retail sales and consumer confidence suggest that consumer spending remains sluggish.  Signs of moderating growth in the British service sector indicate a softening in the pace of expansion despite the continued strength in housing.  In contrast, Canadian data point to strength led by retail sales, employment and construction.
+
+Twelve-month consumer-price inflation rose in most major foreign industrial countries.  In Canada and the euro area, higher energy prices were partially responsible for the upturn.  In the United Kingdom, rapid increases in housing prices also added significantly to the rise in inflation.  Japanese prices continued to fall, though at a slightly reduced pace.
+
+In Japan , recent indicators point to a marked slowing in the pace of growth following a brief upturn in the second and third quarters.  Industrial production dropped 1.6 percent in November from the previous month.  The broader all-industries index of output fell 0.3 percent in October.  Indicators of consumer spending have weakened.  Household expenditures were down roughly 1 percent on average in October and November from the third-quarter average.  New car registrations declined slightly during the fourth quarter.  Recent data on business fixed investment have been mixed.  Nonresidential building starts recovered some in October and November from the third quarter.  However, core machinery orders, a more forward-looking indicator, fell in October and November.  On the other hand, exports are showing signs of renewed strength, with real exports for October and November on average about 5 percent above the third-quarter average.  Real imports fell roughly 2 percent.
+
+Labor market conditions remain very soft.  The unemployment rate edged down to 5.3 percent in November from the record-high in October.  However, the fall resulted from unemployed persons exiting the labor force and was accompanied by a continued decline in employment.  The job-offers-to-applicants ratio, a key leading indicator of employment conditions, was up slightly to 0.57 in November, but remains at low levels.  Core consumer goods prices in the Tokyo area (which exclude fresh food but include energy) fell 0.1 percent in December from the previous month, and were down 0.7 percent from a year earlier. Wholesale prices for domestic goods fell 1.2 percent in December from a year earlier.
+
+Japanese Economic Indicators
+
+(Percent change from previous period, except as noted, s.a.)
+
+<!-- missing-text -->
+
+- 1. Mining and manufacturing.
+- 2. Private sector, excluding ships and electric power.
+- 3. Excluding ships and railway vehicles.
+- 4. Percent.
+- 5. Level of indicator.
+- 6. Tankan survey, diffusion index.
+- 7. Percent change from year earlier, n.s.a.
+- n.a.  Not available.  ...  Not applicable.
+
+The Bank of Japan' s Tankan index of business conditions improved slightly in December, with the level of the aggregate diffusion index for business sentiment among firms of all sizes and across all industries edging up to -28 from -30 in September.  However, survey respondents projected a decline in the index, to -31, for March.  Other survey indicators were also generally consistent with weakness in economic activity going forward.  Indicators of excessive employment levels improved a bit, but remained at elevated levels.  Forecasts for profits and sales were generally revised down.  The outlook for investment spending remained very weak, with capital expenditures across all firms projected to decline 5.1 percent in FY2002, which ends this March.
+
+The Ministry of Finance submitted its draft budget for FY2003 to the Cabinet on December 20.  Expenditures are slated to rise a bit, reflecting increased spending
+
+on social security, debt servicing, and tax grants to local governments.  Tax revenues are projected to drop, in part because of planned tax cuts of around ¥1.8 trillion (about 0.4 percent of GDP).  As a result, the budget will require new bond issuance for FY2003 of ¥36 trillion, up from FY2002's expected total ¥35 trillion issuance, the combination of ¥30 trillion from the original budget and ¥5 trillion from the supplemental budget (and in excess of Prime Minister Koizumi's commitment to a ¥30 trillion ceiling on bond issuance).  Nevertheless, the overall fiscal stance this year is expected to be broadly neutral, as the recently announced supplementary budget (which will hit spending this year) is a little less stimulative than the one a year ago.
+
+Recent data suggest that euro-area consumer spending remains sluggish.  Euroarea retail sales rebounded in October, but German retail sales plummeted in November to their lowest level since April 1998, and French consumption of manufactured products declined as well in November.  Euro-area consumer confidence slipped for the third straight month in December, to its lowest level in more than five years, with consumer perceptions of the general economic situation and employment conditions deteriorating sharply.
+
+Euro-area industrial production registered strong gains in November, putting the October-November average 0.7 percent above the third-quarter level, but it is unclear whether those gains mark the start of an upturn in euro-area growth. Much of the November increase owed to sharp increases in automobile production, spurred in part by a runup in Italian auto sales ahead of the announced December expiration of government incentives to buy environmentally friendly cars.  The incentive has since been extended for three months.
+
+German manufacturing orders also picked up in November, owing entirely to a rise in foreign orders.  In contrast, the euro-area purchasing managers' index (PMI) for manufacturing, thought to be the best timely indicator of production, declined further below the 50 level (the threshold for positive growth) to 48.4 in December, its lowest level since January 2002.  The European Commission's measure of industrial confidence registered a small increase in December, boosted by improved production expectations and order books and a fall in stocks of finished products.
+
+The twelve-month rate of euro-area consumer price inflation remained just above the European Central Bank's (ECB) target ceiling of 2 percent in December. Excluding energy and unprocessed food, twelve-month inflation remained at 2.4 percent in November.  Producer price inflation picked up a bit in December to about 1 percent.
+
+Euro-Area Economic Indicators
+
+(Percent change from previous period except as noted, s.a.)
+
+<!-- missing-text -->
+
+- 1. Excludes construction.
+- 2. Percent. Euro area standardized to ILO definition.  Includes Eurostat estimates in some cases.
+- 3. Diffusion index based on European Commission surveys in individual countries.
+- 4. Diffusion index based on European Commission surveys in individual countries.
+- 5. Eurostat harmonized definition.  Percent change from year earlier.
+- n.a.  Not available.
+
+The ECB reduced its key policy rate by 50 basis points on December 5 to 2.75 percent, citing evidence that inflationary pressures are easing, owing in particular to the sluggish economic expansion, while downside risks to the economy have not vanished.  The ECB left rates unchanged at its January 9 meeting, but it continued to emphasize the high level of uncertainty.
+
+In the United Kingdom , data for the fourth quarter are mixed, but on balance point to moderate growth, with the manufacturing sector remaining relatively weak and with growth in the service sector slowing. Average industrial production for October and November fell 0.5 percent compared with the thirdquarter average, but manufacturing output increased in November.  Exports fell significantly in the first two months of the quarter.  In recent months, the manufacturing PMI has been falling, with December's index indicating contraction in the sector.  November retail sales grew only 0.1 percent after growing briskly in October, and the leading survey of retail sales indicates weak
+
+sales in December.  December's services PMI continued to indicate a notable expansion, but at a reduced pace.
+
+(Percent change from previous period except as noted, s.a.)
+
+<!-- missing-text -->
+
+- 1. Percent.
+- 2. Three-month average centered on month shown.
+- 3. Percentage of firms expecting output to increase in the next four months less percentage expecting output to decrease.
+- 4. Average of the percentage balance from consumers' expectations of their financial situation, general economic situation, unemployment, and savings over the next 12 months.
+- 5. Excluding mortgage interest payments.  Percent change from year earlier.
+- 6. Percent change from year earlier.
+- ...  Not applicable.  n.a.  Not available.
+
+Housing prices increased around 25 percent in the twelve months ending in December according to the two leading surveys, despite some anecdotal evidence that the housing market is cooling.  The average construction PMI rose in the fourth quarter.  Borrowing to finance the purchase of homes moderated in December, though it remained robust.
+
+The few available indicators of confidence suggest a further slowing of growth. Consumer sentiment worsened in December, mostly due to lower expectations of the general economic situation. In January, business confidence edged up to a level just below its fourth-quarter average.  Both confidence measures are still well above their lows in late 2001.
+
+Labor market conditions remained tight.  The official claims-based unemployment rate held steady at 3.1 percent in December, near a record low. The twelve-month rate of retail price inflation (excluding mortgage interest payments) rose to 2.6 percent in the fourth quarter, above the Bank of England's 2‰ percent target.  The increase in inflation partially reflected higher housing prices.  The twelve-month growth rate of average earnings edged up to 4.0 percent in November.
+
+In Canada , real GDP measured by industry increased 4.2 percent (s.a.a.r.) in October.  The retail sector and residential construction exhibited particular strength.  Retail sales jumped in October, after stagnating since June, led by purchases of clothing and motor vehicles.  Housing starts in the fourth quarter increased to their highest level since 1990, as low mortgage rates continue to support the sector.  Industries related to residential construction, such as wood products and home furnishings, benefitted from the housing boom.  Industrial production grew only slightly in October, as flat manufacturing growth and declines in the oil and gas extraction sector held down the index.  In November, manufacturing shipments fell 1.3 percent led by a decrease in the production of motor vehicles.
+
+(Percent change from previous period except as noted, s.a.)
+
+<!-- missing-text -->
+
+- 1. Percent.
+- 2. Percent change from year earlier, n.s.a.
+- 3. Level of index, 1991 = 100.
+- n.a.  Not available.  ...  Not applicable.
+
+The unemployment rate remained at 7.5 percent in December after falling slightly in November.  An increase in employment was offset by a rise in the labor force participation rate, leaving the unemployment rate unchanged. Over the course of 2002, Canadian employment increased 3.7 percent, the largest twelve-month increase since 1988.  In December, the twelve-month rate of headline CPI inflation fell to 3.9 percent from 4.3 percent in November, but remained above the ceiling of the Bank of Canada's 1 to 3 percent target band. In the fourth quarter year-over-year inflation was 3.8 percent, reflecting higher energy prices, increases in tobacco taxes, as well as higher automobile insurance premiums. Core inflation, excluding food and energy prices, rose to 3.9 percent in December from 3.7 percent the month before.
+
+External Balances
+
+(Billions of U.S. dollars, s.a.a.r.)
+
+<!-- missing-text -->
+
+- 1. Not seasonally adjusted.
+- n.a.  Not available.  ...  Not applicable.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Economic Situation in Other Countries
+
+Although growth in the emerging market economies remains positive on balance, it has slowed considerably from the first half of last year.  In South America, the economic and political environment remains quite unfavorable. Venezuela's economy has been brought to a standstill by an ongoing national strike against the government.  In Argentina, even though the economy appears to have bottomed out, there are no signs of a sustained recovery.  In Brazil, financial market anxieties have calmed some since the presidential election, but economic indicators are still mixed.  The pace of recovery in Mexico seems to have moderated.  In emerging Asia, which experienced fairly rapid growth earlier last year, economic conditions have softened somewhat in Korea, Taiwan, and the ASEAN countries, while indicators in Hong Kong suggest sluggish growth.  Only in China has growth remained strong.
+
+In Brazil , indicators since the last Greenbook show a mixed picture of real activity in the fourth quarter.  Real retail sales remained flat in October and November, although auto sales were up 8 percent on average for the quarter. Industrial production rose ‰ percent in November, the sixth consecutive month of increase, and was up nearly 3 percent on average in October and November relative to the third quarter.  However, unemployment has continued to climb. The trade balance showed further considerable improvement, reflecting both weak domestic demand and increased competitiveness in the wake of the large depreciation of the currency through much of last year.  Reflecting the continued pass-through from the depreciation of the real , inflation ended the year with a twelve-month increase of 12.6 percent, well above the ceiling of 5.5 percent under the inflation-targeting regime.  Concerns about inflation prompted the central bank to raise its benchmark interest rate to 25 percent in December, up 700 basis points since the central bank started raising rates in mid-October.  On January 21, the government raised the upper bound of the 2003 inflation target from 6.5 percent to 8.5 percent, citing its desire to reduce inflation more gradually in order to spur output growth.  The upper bound of the 2004 inflation target was, however, reduced from 6.25 to 5.5 percent.  On January 22, the Brazilian central bank tightened monetary policy another 50 basis points.
+
+Financial conditions continued the improvement seen since mid-October, driven by president Lula's appointment of senior economic officials considered market-friendly and by promises of the Lula government, which took office January 1, to enact fiscal and monetary reforms.  The real has retraced more than one-third of the 40 percent decline in its value since April.  However, market concerns about the government's commitment to prudent fiscal and monetary policies remain.
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual figures are Q4/Q4.
+- 2. Percent.  'Open' unemployment rate.
+- 3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.  Price index is IPC-A.
+- 4. Billions of U.S. dollars, annual rate.
+- 5. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a.  Not available.    ...  Not applicable.
+
+In Argentina , data releases since the December Greenbook support the view that the economy has bottomed out, even though there have been no signs of a sustained recovery.  In spite of the devaluation earlier last year, inflation has been contained by the very weak economy, the suppression of utility rate increases, and the stabilization of the peso since mid-year (supported by very high real interest rates and capital controls).  The CPI rose 41 percent in 2002 on a twelve-month basis, but the monthly rate of change diminished to 0.2 percent in December.  The weak economy also contributed to an improvement in the trade balance.  Bank deposits have been rising since mid-year, but are still at a very low level.
+
+Reflecting deep divisions within the Argentine government, BCRA President Aldo Pignanelli resigned in early December, marking the third departure of an Argentine central bank president in 2002.  His replacement is Alfonso Prat Gay, an economist and an associate of Economy Minister Roberto Lavagna.  Citing its deep fiscal problems, Argentina's government defaulted on payments to the World Bank in late 2002 and to the Inter-American Development Bank (IADB) on January 15.  The default on the IADB payment came amid intense negotiations between Argentina and the Fund that resulted, on January 16, in the signing of a letter of intent on a new IMF program that would refinance $6.6 billion in debt payments due to the IMF through August, providing some breathing room for the new government slated to take office in May.
+
+The program is expected to be considered by the IMF's Executive Board by January 24.  On January 17, Argentina made its scheduled $1 billion payment to the IMF.  The Argentine government is also expected to clear its arrears of roughly $1.5 billion with the World Bank and the IADB, as well as honor an estimated $2.5 billion in payments due to these institutions through August.
+
+Argentine Economic Indicators
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual figures are Q4/Q4.
+- 2. Percent, n.s.a.  Data are released for May and October only.  Figures for Q2 reflect data for May.
+- 3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+- 4. Billions of U.S. dollars, annual rate.
+- 5. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a.  Not available.    ...  Not applicable.
+
+In Mexico, incoming data have been mixed but overall suggest that the recovery continued into the fourth quarter of last year, even though its pace has moderated.  The index of overall economic activity (a proxy for monthly real GDP) increased 0.6 percent in October and exports rose in November.  By contrast, industrial production declined slightly in November, and business confidence fell back in December after posting a significant increase in November.  Imports in November grew about twice as much as exports, widening the trade deficit.  Twelve-month inflation for December came in at 5.7 percent, well above the government's target of 4‰ percent.  Concerned that this would fuel inflationary expectations and put pressure on wage and salary negotiations, thereby jeopardizing the ambitious target of 3 percent inflation for this year, the Bank of Mexico tightened monetary policy for the third time since the beginning of September.  The policy move may also have been partly intended to stem the recent depreciation of the peso.
+
+In mid-December, the Mexican congress approved the 2003 fiscal deficit target of ‰ percent of GDP proposed by the government.  However, the congress modified the original proposal by increasing the budgeted oil price and earmarking the additional revenue for spending on agriculture, education, and health.  (The official government budget deficit leaves out many obligations. For 2002 the overall public sector borrowing requirement taking into account all of the government's liabilities was about 3.2 percent of GDP, while the official fiscal deficit figure is likely to come in at about 0.7 percent of GDP.)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual figures are Q4/Q4.
+- 2. Percent; counts as unemployed those working one hour a week or less.
+- 3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+- 4. Billions of U.S. dollars, annual rate.
+- 5. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a.  Not available.    ...  Not applicable.
+
+Since the December Greenbook, an ongoing national strike in Venezuela has intensified difficulties in the already crumbling economy and paralyzed the country's vital oil industry.  The strike began December 2 and is led by a coalition of opposition groups, including business and labor interests, hoping to force a national referendum on the rule of President Chavez.  The government is struggling to provide basic necessities such as food and gasoline to the population, as shortages of most goods are commonplace.  So far domestic and international attempts to find a negotiated settlement between the two sides have failed.  Oil production is estimated to have declined 80 to 90 percent since early December, resulting in enormous fiscal and economic costs.  The country is struggling to make debt payments, spreads on sovereign debt have risen
+
+markedly, and the value of the currency against the dollar is down sharply since the start of the strike.  On January 22, Venezuelan authorities announced a five-days suspension of foreign exchange trading.
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual figures are Q4/Q4.
+- 2. Percent, n.s.a.
+- 3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+- 4. Billions of U.S. dollars, annual rate.
+- 5. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a.  Not available.    ...  Not applicable.
+
+Following solid economic growth in the third quarter, recent indicators for Korea point to some softening in conditions.  Industrial production rose modestly in November, primarily due to surprising strength in the high-tech industries.  Indicators for December have been mixed.  Consumer and investor confidence were weighed down by the uncertain global environment, including the situation in North Korea, while the unemployment rate moved down.  In January, the Korean central bank once again left its target rate unchanged at 4.25 percent.  However, the central bank has been putting pressure on banks to reduce consumer mortgage and credit card lending in order to control the runup in consumer debt over the past two years.  The recent strength in export growth, which moderated only slightly in November, contributed to an almost $17 billion trade surplus that month.
+
+Korean Economic Indicators
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual figures are Q4/Q4.
+- 2. Percent.
+- 3. Percent change from year earlier, except annual changes, which are Dec./Dec.
+- 4. Billions of U.S. dollars, annual rate.
+- 5. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a.  Not available.    ...  Not applicable.
+
+Since the last Greenbook, economic conditions in the ASEAN region have softened further.  Real GDP growth in Thailand moderated to 4 percent in the third quarter, as government spending dropped sharply.  Industrial production in the region generally slowed, with data on the high-tech industry particularly weak. Apart from the Philippines, the region continued to record solid trade surpluses as a result of declining imports.
+
+Despite world-wide increases in oil prices, inflation in the region remained moderate.  Indonesia crept closer to achieving single-digit inflation on a twelve-month basis.  In November, Singapore's prices increased on a twelve-month basis for the first time since June 2002.
+
+ASEAN Economic Indicators:  Growth
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual figures are Q4/Q4.
+- 2. Annual figures are annual averages.
+- 3. Staff estimate.
+- n.a.  Not available.    ...  Not applicable.
+
+ASEAN Economic Indicators:  Trade Balance
+
+(Billions of U.S. dollars, s.a.a.r.)
+
+<!-- missing-text -->
+
+- n.a.  Not available.
+
+ASEAN Economic Indicators:  CPI Inflation
+
+(Percent change from year earlier, except as noted)
+
+<!-- missing-text -->
+
+- 1. December/December.
+- n.a.  Not available
+
+The Chinese economy finished last year with a strong fourth quarter.  The government has already indicated that real GDP growth reached 8 percent last year (although they have not yet released the official fourth-quarter data). Exports rose 30 percent last year, slightly outpacing the growth of imports, which were up 28 percent.  In all, the trade surplus widened by more than $7 billion in 2002.  Production continued to expand in the fourth quarter, with the latest figures showing output growth significantly above third-quarter levels. Mild deflation persisted through December.
+
+Chinese Economic Indicators
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 2. Percent change from year earlier.  Annual figures are year over year.
+- 3. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+- n.a.  Not available.    ...  Not applicable.
+
+After a surge in activity in the third quarter, the Hong Kong economy appears to have slowed again.  The unemployment rate did not improve over the past two months, and deflation continued.  Both issues have received considerable attention in the press, and the public is starting to question the effectiveness of the economic policies of the government.  Perhaps in response to this, Chief Executive Tung in an early-January speech emphasized the government's efforts to stimulate the domestic economy, indicating that Hong Kong will continue to pursue an expansionary fiscal policy.  There is some concern about the fiscal situation, however, with the deficit likely having exceeded 5 percent of GDP in 2002.
+
+Hong Kong Economic Indicators
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual figures are Q4/Q4.
+- 2. Percent.  Monthly numbers are averages of the current and previous two months.
+- 3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+- 4. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+- n.a.  Not available.    ...  Not applicable.
+
+The Taiwanese economy has been hit hard by slowing production in its critical high-tech sector.  After declining in the third quarter, industrial production continued to fall in the fourth quarter, with the output of high-tech goods leading the decline.  Imports have remained flat in the fourth quarter, while exports have risen somewhat.  While this widened the trade surplus, a lack of growth in imports of electronic components could indicate future weakness in exports of electronic products, which rely on these imported intermediate goods.  Finally, a base month effect led to a shift from deflation to inflation for Taiwanese consumer prices in December on a twelve-month basis.  On a month-to-month basis (not shown), however, there was only a small uptick in prices in December.
+
+Taiwan Economic Indicators
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual figures are Q4/Q4.
+- 2. Percent.
+- 3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+- 4. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+- 5. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a.  Not available.    ...  Not applicable.

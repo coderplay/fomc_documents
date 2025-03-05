@@ -1,0 +1,1122 @@
+July 30-31, 2019
+
+Authorized for Public Release
+
+256 of 329
+
+Appendix 1:  Materials used by Messrs. Giannoni, Gagnon, and Curdia
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on
+
+Review of Monetary Policy Framework
+
+Marc Giannoni, Etienne Gagnon, and Vasco Cúrdia Exhibits by Jay Faris, Stephanie Harrington, Patrick Molligo, and Charlotte Singer July 30, 2019
+
+Supporting memos and contributors listed on final page of packet.
+
+July 30-31, 2019
+
+Authorized for Public Release
+
+257 of 329
+
+Working definition of the 'current framework'
+
+Includes everything in the Statement on Longer-run Goals and Monetary Policy Strategy, plus:
+
+- ම The use of tools that have already been deployed
+- ම Interest rate policy
+- ම Forward guidance (FG)
+- ම Balance sheet policies (BSP)
+- ම 'Bygones are Bygones' approach
+- ම For example, policy does not respond to the history of inflation
+
+Last page
+
+The 'Consensus' Statement
+
+Statement on Longer-run Goals and Monetary Policy Strategy
+
+- ම Reiterates dual mandate goals
+- ම Specifies an explicit numerical inflation objective
+- ම Provides a numerical estimate related to maximum employment
+- ම Emphasizes symmetry around the inflation objective
+- ම Articulates 'balanced approach'
+- ම Acknowledges importance of balance of risks, including risks to the financial system
+
+Absent from current statement
+
+- ම Does not specify how framework operates in the vicinity of the ELB
+- ම Does not consider whether anchored expectations are a necessary condition for price stability
+- ම Does not endorse 'make-up' policies (average inflation or 'over-the-cycle' policies) Last page
+
+Key environmental features stressing the current framework
+
+Lower (and uncertain)  * r
+
+- ම Implies greater likelihood of hitting ELB
+
+Persistently low inflation has lowered longer-run expectations
+
+- ම Motivates an exploration of tools that return inflation more quickly to target, and avoid erosion of expectations
+
+Changes in the process governing inflation
+
+- ම Lower and uncertain natural rate of unemployment U *
+- ම Flatter and uncertain slope of Phillips curve
+- ම Harder to move inflation from below or above target
+- ම Other factors leading to persistently lower inflation
+
+Last page
+
+Two types of potential alterations to policy
+
+Within current framework
+
+- ම Different use of existing tool set
+
+Outside current framework
+
+- ම Strategies would take 2 percent inflation goal as given
+- ම But allow policies that intentionally move goal variables away from their target values
+- ම For example, 'make-up' policies that seek above-target inflation if historical inflation has been low
+- ම A number of variants to be discussed
+
+Last page
+
+Staff memo focal areas
+
+- ම Examine post-Great Recession period
+- ම Lessons about the efficacy of our tools and costs entailed in their use
+- ම Did the framework constrain the Committee in the use of its tools?
+- ම Discuss structural challenges noted earlier
+- ම What policy challenges and risk trade-offs are posed by these structural changes?
+- ම Looking forward, is the current framework likely to be effective in achieving dual mandate goals, especially given structural challenges, and given the likelihood of hitting the ELB ?
+- ම How do widely-discussed alternative strategies work? How robust are they to alternative assumptions?
+- ම Distributional consequences of monetary policy, augmentations to the use of interest rate, FG and BSP tools.
+
+Last page
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+Last page
+
+Sources: Federal Reserve Board; FRED, Federal Reserve Bank of St. Louis.
+
+PCE Inflation
+
+<!-- missing-text -->
+
+Last page
+
+Longer-Term Inflation Expectations and Compensation
+
+<!-- missing-text -->
+
+Last page
+
+Sources: University of Michigan Survey of Consumers; Federal Reserve Bank of Philadelphia; Federal Reserve Board staff calculations.
+
+Federal Funds Rate
+
+<!-- missing-text -->
+
+Last page
+
+Central Bank Balance Sheets
+
+<!-- missing-text -->
+
+Last page
+
+Source: Haver Analytics.
+
+Summary
+
+We draw mixed conclusions about U.S. economic performance and monetary policy under the current framework.
+
+- ම To some extent, outcomes since the crisis reflect the challenges of conducting monetary policy in a changing economy using untested tools, rather than shortcomings of the current framework.
+- ම Policymakers could act more forcefully in the future even under the current framework.
+- ම A key concern is that inflation has run modestly below 2 percent for many years, and some measures of longer-run inflation expectations are low.
+
+An important unresolved issue is whether the Committee can, under the current framework, keep inflation expectations anchored at levels consistent with achievement of its symmetric inflation goal.
+
+Last page
+
+Structural Changes Pose Challenges for Monetary Policy
+
+- · Declining and uncertain natural rate of interest ( r* )
+- · Declining and uncertain natural rate of unemployment ( u* )
+- · Flatter Phillips curve
+- · Proximity to the effective lower bound (ELB)
+- · Concerns about the stability of longer-run inflation expectations
+
+Last page
+
+Misperceived r* Entails Asymmetric Costs
+
+Nominal Federal Funds Rate
+
+- · Uncertainty about r* and proximity to ELB produce asymmetric risks, may prompt policymakers to err on the side of assuming a lower r*
+- · r* lower by 75 bp than historical path, starting in 2016
+- · Private actors know it, the central bank doesn't
+- · Tighter monetary policy implied by overestimating r* leads to worse economic outcomes, exacerbated by ELB
+- · Underestimating r* eliminates persistent undershoot of inflation
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+Real Federal Funds Rate
+
+<!-- missing-text -->
+
+Core PCE Inflation
+
+<!-- missing-text -->
+
+Sluggish Inflation Expectations Pose a Challenge
+
+Nominal Federal Funds Rate
+
+- · Interaction between flatter Phillips curve and low inflation is a challenge, even worse if expectations adjust sluggishly to policy actions
+- · Simulate economy going forward under optimal control without further shocks
+- · Adaptive expectations: low inflation realizations feed into persistently low inflation expectations, requiring more accommodative policy
+- · Steeper Phillips curve requires less unemployment undershooting to stabilize inflation
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+Real Federal Funds Rate
+
+<!-- missing-text -->
+
+Core PCE Inflation
+
+<!-- missing-text -->
+
+Summary of Findings
+
+- · Uncertainty about r* and proximity to the ELB produce asymmetric risks, which may prompt policymakers to err on the side of assuming a lower r*
+- · The interaction between a flatter Phillips curve and low inflation poses a considerable challenge for policymakers
+- · Challenge compounded if expectations adjust sluggishly to policy actions
+- · Uncertainty about u* makes the determination of appropriate policy difficult
+- · A flatter Phillips curve complicates inference about u*
+- · ELB limits policy space in the event of a downturn
+- · Given flatter Phillips Curve, a downturn may warrant prolonged period at the ELB
+- · Prolonged low rates could foster the buildup of financial vulnerabilities
+- Last page · Might warrant moderation in the use of low rates for a very long time
+- · Limited understanding of linkages between low rates and financial stability
+
+Scope for Improving the Consensus Statement?
+
+- · The Statement acknowledges some of the tradeoffs in the paragraph on the balanced approach in promoting the dual mandate when the two objectives are not complementary
+- · Considerations that became important in recent times are not fully reflected in the Statement
+- · Could recognize that policy tradeoffs may be affected by the proximity to the ELB
+- · Could mention risk management considerations in the vicinity of the ELB:
+- · Asymmetric risks due to uncertainty regarding r* and u*
+- Last page · Financial stability risks that may arise during prolonged periods of low interest rates, which might otherwise be desirable
+
+Class II FOMC - Restricted (FR)
+
+Questions for Discussion of Framework Review at the July 2019 FOMC Meeting
+
+- 1. In what ways do you think that the current framework has helped the Committee achieve its objectives since the framework was adopted in 2012?  In what ways (if any) do you believe that the framework may have constrained the Committee's ability to achieve its Dual Mandate goals over that same period?
+- 2. In light of what the Committee has learned about the efficacy and costs of forward guidance and asset purchases over the past decade, how might you use these tools differently, within the current framework, to minimize the effect of the ELB on economic outcomes?
+- 3. What scope, if any, do you see for enhancing the Statement on Longer-Run Goals and Monetary Policy Strategy to better reflect the challenges posed by the ELB and by uncertainty about U* and r*, the role of inflation expectations, risks to financial stability, and possible interactions among these?
+
+Class II FOMC - Restricted (FR)
+
+Supporting Memos and Contributors
+
+Altig, David, Jeff Fuhrer, Marc Giannoni, and Thomas Laubach (2019).  'The Federal Reserve's Review of Its Monetary Policy Framework: A Roadmap,' memorandum to the Federal Open Market Committee, Board of Governors of the Federal Reserve System, July 12.
+
+Caldara, Dario, Etienne Gagnon, Enrique Martínez-García, and Christopher J. Neely (2019).  'Monetary Policy and Economic Performance since the Financial Crisis,' memorandum to the Federal Open Market Committee, Board of Governors of the Federal Reserve System, July 12.
+
+Ajello, Andrea, Isabel Cairó, Vasco Cúrdia, Thomas A. Lubik, and Albert Queralto (2019).  'Monetary Policy Tradeoffs and the Federal Reserve's Dual Mandate,' memorandum to the Federal Open Market Committee, Board of Governors of the Federal Reserve System, July 18.
+
+July 30-31, 2019
+
+Authorized for Public Release
+
+276 of 329
+
+Appendix 2:  Materials used by Mr. Evans
+
+Class I FOMC - Restricted Controlled (FR)
+
+Presentation Materials for
+
+President Evans' Comments on the Monetary Policy Framework Review
+
+Charles L. Evans
+
+July 30, 2019
+
+<!-- missing-text -->
+
+time
+
+Appendix 3:  Materials used by Ms. Logan
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on
+
+Financial Developments and Open Market Operations
+
+Lorie Logan Exhibits by Ashley Rhodes July 30, 2019
+
+Class II FOMC -Restricted (FR)
+
+<!-- missing-text -->
+
+Exhibit 1
+
+(2) Key Questions
+
+- 1. How have market participants' expectations for monetary policy evolved in the U.S. and abroad over the intermeeting period?
+- 2. How have shifts in global policy expectations impacted financial conditions?
+- 3. How have market participants' views of global risks changed?
+
+(3) Distribution of Modal Target Rate Forecast for July FOMC Meeting
+
+Note: Based on all responses to the Surveys of Primary Dealers and Market Participants.
+
+<!-- missing-text -->
+
+Source: FRBNY
+
+(5) Year-End 2019 Target Fed Funds Rate PDF
+
+<!-- missing-text -->
+
+Note: Based on all responses to the July Surveys of Primary Dealers and Market Participants.
+
+Source: FRBNY
+
+<!-- missing-text -->
+
+(4) Distribution of Modal Target Rate Forecast for Year-End 2019
+
+Note: Based on all responses to the Surveys of Primary Dealers and Market Participants.
+
+Source: FRBNY
+
+(6) Balance Sheet Runoff Expectations, Conditional on a Rate Cut in July Percent of
+
+<!-- missing-text -->
+
+Class II FOMC -Restricted (FR)
+
+(7) Survey Respondents' Expectations for July FOMC Statement and Press Conference
+
+Statement
+
+- · Most expect reference to uncertainties about the outlook to remain in statement
+- · Many expect 'closely monitor' and 'act as appropriate' language to remain
+
+Press Conference
+
+- · Some expect rate cut to be described as 'precautionary' in light of growth and inflation risks
+
+Note: Based on all responses to the July Surveys of Primary Dealers and Market Participants.
+
+Source: FRBNY
+
+(9) Market-Based Measures of Forward U.S. and Euro Area Inflation Compensation
+
+<!-- missing-text -->
+
+Note: U.S. measure is derived from TIPS-implied breakevens, euro area derived from inflation swap rates.
+
+Source: Bloomberg, Federal Reserve Board of Governors
+
+<!-- missing-text -->
+
+Source: Bloomberg, Federal Reserve Board of Governors
+
+(8) Foreign Central Bank Policy Rate
+
+<!-- missing-text -->
+
+Source: Bloomberg, World Bank
+
+(10) Global Equity Indices
+
+<!-- missing-text -->
+
+(A) Dec. FOMC (B) Chair Powell's "patient" remarks (C) Mar. FOMC (D) Chair Powell Chicago remarks (E) Jun. FOMC/Pres. Draghi Sintra speech *Indexed to 08/31/2018.
+
+Source: Bloomberg
+
+(12) Expectations for U.S.-China Trade Policy
+
+<!-- missing-text -->
+
+Note: Based on all responses to the Surveys of Primary Dealers and Market Participants.
+
+Source: FRBNY
+
+Class II FOMC -Restricted (FR)
+
+(13) Money Market Overview
+
+- · Money market rates were somewhat higher and exhibited more variability over the intermeeting period
+- · Pass-through from repo rates contributed to this pressure, as banks competed for funding from lenders with repo alternatives
+- · Ongoing rise in money market rates occurring in the context of longer run trend toward lower reserves
+
+Exhibit 3
+
+(14) Overnight Rates
+
+<!-- missing-text -->
+
+Intermeeting Periods
+
+Note: Excludes day before month-end, month-end, and day following month-end.
+
+Source: Bloomberg, Federal Reserve Board of Governors, FRBNY
+
+(15) Effective Fed Funds Rate and Median Eurodollar/Selected Deposit Rate to IOER
+
+<!-- missing-text -->
+
+(16) Intraday Dispersion of Fed Funds and Eurodollar Trades Relative to Median
+
+(17) SOFR and EFFR Rates
+
+<!-- missing-text -->
+
+Source: FRBNY
+
+<!-- missing-text -->
+
+Note: Shaded area indicates July intermeeting period. Excludes day before month-end, month-end, and day following month-end. Source: FRBNY
+
+Class II FOMC -Restricted (FR)
+
+(18) Net Primary Dealer Inventories of Treasury Securities by Institution
+
+inventories.
+
+<!-- missing-text -->
+
+Source: FRBNY
+
+(20) Daily Reserve Levels vs Daily EFFR-IOER Spread
+
+<!-- missing-text -->
+
+Note: Excludes day before month-end, month-end, and day following month-end.
+
+Source: FRBNY
+
+(22) Actual and Projected Reserve Balances
+
+<!-- missing-text -->
+
+Note: Projections are 5-day moving averages. Projections assume early-August debt ceiling resolution. Source: Desk Calculations, FRBNY
+
+Exhibit 4
+
+(19) Daily Reserve Levels vs Daily EFFR-IOER Spreads
+
+<!-- missing-text -->
+
+Note: Excludes day before month-end, month-end, and day following month-end.
+
+Source: FRBNY
+
+<!-- missing-text -->
+
+Note: Excludes day before month-end, month-end, and day following month-end.
+
+Source: FRBNY
+
+(23) Projected SOMA MBS Redemptions and Reinvestments
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Appendix 1
+
+(1) Summary of Operational Testing
+
+Summary of Operational Tests in prior period:
+
+- · Domestic Authorization
+- · June 25 and 27: MBS specified pool sale for $143 million, total
+- · July 9: Treasury bill maturity of $2.7 million
+- · July 25: Outright FRN purchase for $50 million
+
+Upcoming Operational Tests:
+
+- · One test scheduled under the Domestic Authorization
+- · August 6: Treasury bill maturity of $2.3 million
+- · Two tests scheduled under the Foreign Authorization
+- · August 7: Eurodenominated sovereign debt sale to private counterparties for €1 million
+- · TBD: Eurodenominated repo with private counterparties for €1 million*
+
+*This operation was originally scheduled for July 9th. The operation was delayed due to counterparty issues resulting from prolonged inactivity in our account. The Desk intends to conduct this small value operation shortly after the counterparty resolves these issues.
+
+Appendix 1
+
+Class II FOMC -Restricted (FR)
+
+Appendix 2 (Last)
+
+(1) MBS Purchase Summary Since Cap Implementation Through 07/26/19 ($ Millions)
+
+<!-- missing-text -->
+
+*Actual paydow ns include agency debt maturities. Nov-17: $2,366 million; Jun-18: $1,982 million; Mar-19 $62 million.
+
+(2) FX Swaps Outstanding
+
+<!-- missing-text -->
+
+(3) FX Intervention
+
+- · There were no intervention operations in foreign currencies for the System's account during the intermeeting period.
+
+Appendix 4:  Materials used by Mr. Lebow
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on The U.S. Outlook
+
+David E. Lebow Exhibits by Rosemary Rhodes and Ashley Sexton July 30, 2019
+
+July 30-31, 2019
+
+Authorized for Public Release
+
+288 of 329
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Real Activity
+
+1. Real GDP
+
+<!-- missing-text -->
+
+Note: Percent change at annual rate for period shown.
+
+3. Estimates of Private Nonfarm Payroll Gains
+
+<!-- missing-text -->
+
+Note:  July FRB/ADP value includes data through 7/20; July pooled estimate treats July BLS observation as missing.  Shaded region denotes 90 percent confidence interval for pooled estimate.
+
+2. Contributions to Real GDP Growth (Current Projection)
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+6
+
+5
+
+4
+
+3
+
+2
+
+<!-- missing-text -->
+
+4. Unemployment Rate
+
+<!-- missing-text -->
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+Class II FOMC - Restricted (FR) 290 of 329
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+-0.5
+
+-1.0
+
+Inflation
+
+5. Near-Term Core PCE Price Inflation (July TB)
+
+<!-- missing-text -->
+
+7. Decomposition of Core PCE Price Inflation (Current Projection)
+
+<!-- missing-text -->
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Class II FOMC - Restricted (FR) 290 of 329
+
+6. Medium-Term PCE Price Inflation
+
+<!-- missing-text -->
+
+8. Long-Run Expected Inflation from Michigan Survey
+
+<!-- missing-text -->
+
+Appendix 5:  Materials used by Mr. Lebow
+
+Class II FOMC Restricted (FR)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Recent Changes in PCE Price Indexes
+
+(Percent changes)
+
+<!-- missing-text -->
+
+Note:  June 2019 PCE price index data released at 8:30 a.m.  on July 30, 2019.
+
+July 30-31, 2019
+
+Authorized for Public Release
+
+294 of 329
+
+Appendix 6:  Materials used by Mr. Ahmed
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on The International Outlook
+
+Shaghil Ahmed Exhibits by Theresa Dinh July 30, 2019
+
+Outlook: Cloudy skies, possible thunderstorms
+
+- · Pickup in growth in some countries but, overall, evidence is mixed.
+- · Downside risks have not intensified, but remain elevated.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Varied growth performance and weak manufacturing
+
+- · Second-quarter pickup owes primarily to Canada and Mexico, which have high weights in our U.S. exports-weighted aggregate.
+- · In China, the euro area, and United Kingdom, growth has declined.
+- · Malaise in global manufacturing continues, while services still performing relatively better.
+
+<!-- missing-text -->
+
+Page 2 of 8
+
+More accommodative monetary policies
+
+- · AFE inflation bumped up in near term, partly due to high energy prices.
+- · But underlying inflation pressures are low.
+- · Amid subdued inflation and growth concerns, lower path of policy rates.
+
+<!-- missing-text -->
+
+Lower AE policy expectations benefiting EMEs
+
+- · Since April, EME currencies have appreciated, with greater appreciation in relatively more vulnerable economies.
+- · EME credit spreads have narrowed recently and flows to EM-dedicated funds have improved.
+
+Exchange Rates vs. 2018 Vulnerability Rankings
+
+<!-- missing-text -->
+
+Sources: Staff calculations, Bloomberg.
+
+Some easing of trade tensions but TPU remains high
+
+- · For now, U.S.-Mexico front relatively calm after dropping of immediate threat of tariffs on Mexico.
+
+Trade Policy Uncertainty
+
+- · U.S.-China 'ceasefire'
+- · Presidents Trump and Xi agreed at G20 meeting to restart trade negotiations.
+- · Further U.S. tariff increases on Chinese imports indefinitely postponed.
+- · But TPU still elevated.
+- · Risk of re-escalation of trade tensions and further increases in tariffs remains.
+
+<!-- missing-text -->
+
+Source: Dario Caldara, Matteo lacoviello; Patrick Molligo; Andrea Prestipino; and Andrea Raffo (2019), The Economic Effects of Trade Policy Uncertainty, manuscript presented at the 91st meeting of the Carnegie-Rochester-NYU Conference on Public held at New York University, New York; April 12-13. Policy,
+
+Both global trade and global production are weak
+
+- · How have recent increases in TPU affected activity, and how are the effects likely to play out?
+- · Role of tariff increases and trade policy uncertainty (TPU) difficult to disentangle from other factors, such as global high tech cycle and country-specific factors.
+
+Change in Global Trade, Industrial Production; and GDP
+
+<!-- missing-text -->
+
+TPU affecting activity and could continue to do so
+
+- · Structural VAR model (1985-2019):  IP, TPU, the dollar, world imports, stock prices, world imports, stock prices, financial spreads, and actual tariffs.
+- · Effects of TPU on IP converted to GDP effects.
+- · Trade tensions subtract about 1 percent from the level of GDP.
+
+Effects of Trade Policy Uncertainty on the Level of GDP since 2018
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+High TPU could set off a global investment slump
+
+- · Effects of TPU may yet to play out fully.
+- · Alt sim: Unprecedented level of TPU hits confidence, setting off global investment slump.
+- · Safe haven flows lead to substantial dollar appreciation.
+- · U.S. GDP growth falls 1.5% ppts below baseline, as does foreign growth.
+- · Federal funds rate declines.
+
+<!-- missing-text -->
+
+Appendix 7:  Materials used by Ms. Klee
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on
+
+Financial Stability Developments
+
+Elizabeth Klee Exhibits by Sam Jerow and Trisha Biswas July 30, 2019
+
+Source: Sta
+
+Exhibit 1 Authorized for Public Release
+
+Percentile
+
+<!-- missing-text -->
+
+ff estimates.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Percent
+
+<!-- missing-text -->
+
+Percent
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted FR Chart 2-1 Gross Balance Sheet Leverage of
+
+Exhibit 2 Authorized for Public Release
+
+Public Non fi nancial Corporations
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Billions of dollars
+
+<!-- missing-text -->
+
+Trillions of dollars
+
+<!-- missing-text -->
+
+July 30, 2019
+
+307 of 329
+
+July 30-31, 2019
+
+Class II FOMC - Restricted FR
+
+Exhibit 3 Authorized for Public Release
+
+July 30, 2019
+
+308 of 329
+
+12
+
+240
+
+<!-- missing-text -->
+
+Source: Sta ff estimates, based on data from BrokerTec.
+
+Percent
+
+<!-- missing-text -->
+
+Number of Jumps
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted FR
+
+Chart Notes
+
+July 30, 2019
+
+July 30-31, 2019
+
+Authorized for Public Release
+
+309 of 329
+
+Chart 1-1
+
+The indicator plotted is an aggregate of valuation measures from equity, housing, corporate debt, and commercial real estate markets and of indicators of standards or risk characteristics in these markets. The values are percentiles of the historical distribution for this composite over the time period shown. Shaded bars indicate periods of recession as defined by the National Bureau of Economic Research. E: Q2 is estimated from partial data.
+
+Chart 1-2
+
+Plot includes data up to July 26.
+
+Chart 1-3
+
+Estimated from curve to fit Merrill Lynch bond yields. + denotes last daily observation.
+
+Chart 1-5
+
+Based on a dividend discount model and staff projections. + Denotes the latest daily observation using daily interest rates and stock prices.
+
+Chart 2-1
+
+Gross leverage is the ratio for the book value of total debt to the book value of total assets. The sample of risky firms is composed of firms with positive short-term or long-term debt that either have an S&amp;P firm rating of speculative-grade or have no S&amp;P rating. The dashed line represents the structural break in the series due to the 2019 compliance deadline for Financial Accounting Standards Board rule ASU 2016-02.
+
+Chart 2-3
+
+The solid line shows the CET1 regulatory minimum plus the applicable GSIB surcharge.
+
+Chart 2-4
+
+From 2015-2018, stress tests are Dodd-Frank Act stress tests. Stress test year refers to year stress test is conducted.
+
+Chart 2-5
+
+Gross leverage is calculated as the total market value in prime broker (PB) clients' accounts (long plus short) divided by clients' total equity. Net leverage is calculated as the net market value in PB clients' accounts (long minus short) divided by clients' total equity.
+
+Chart 3-1
+
+The chart plots 21-day moving averages of an illiquidity index for the on-the-run notes in the interdealer market and the Merrill Lynch Option Volatility Estimate (MOVE) index.
+
+Class II FOMC - Restricted FR
+
+Chart Notes
+
+July 30, 2019
+
+July 30-31, 2019
+
+Authorized for Public Release
+
+310 of 329
+
+Chart 3-2
+
+The chart plots 21-day moving averages if an illiquidity index for the front-month E-mini S&amp;P 500 futures contract and the CBOE Volatility Index (VIX).
+
+Chart 3-3
+
+The chart plots price jumps (five-minute returns that exceed 10 standard deviations in size) that revert by at least 2/3 of the size of the jump within 12 hours.
+
+July 30-31, 2019
+
+Authorized for Public Release
+
+311 of 329
+
+Appendix 8:  Materials used by Mr. Reeve
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for the Briefing on
+
+Monetary Policy Alternatives
+
+Trevor Reeve Exhibits by Gurubala Kotta July 30-31, 2019
+
+Monetary Policy Considerations
+
+Policy Considerations
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source: Blue Chip Economic Indicators.
+
+Market-Implied Probability Distribution of the Federal Funds Rate, End of Sept. 2019
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Alternative B
+
+- 25 basis points rate cut confirms evolving views of appropriate policy.
+- "Act as appropriate" may signal continued openness to policy adjustments.
+- "Continue to monitor" may convey less imminent concern about the outlook.
+- Balance sheet decision reinforces flexibility.
+
+JUNE 2019 FOMC STATEMENT
+
+- 1. Information received since the Federal Open Market Committee met in May indicates that the labor market remains strong and that economic activity is rising at a moderate rate.  Job gains have been solid, on average, in recent months, and the unemployment rate has remained low.  Although growth of household spending appears to have picked up from earlier in the year, indicators of business fixed investment have been soft.  On a 12-month basis, overall inflation and inflation for items other than food and energy are running below 2 percent.  Market-based measures of inflation compensation have declined; survey-based measures of longer-term inflation expectations are little changed.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  In support of these goals, the Committee decided to maintain the target range for the federal funds rate at 2-1/4 to 2-1/2 percent.  The Committee continues to view sustained expansion of economic activity, strong labor market conditions, and inflation near the Committee's symmetric 2 percent objective as the most likely outcomes, but uncertainties about this outlook have increased.  In light of these uncertainties and muted inflation pressures, the Committee will closely monitor the implications of incoming information for the economic outlook and will act as appropriate to sustain the expansion, with a strong labor market and inflation near its symmetric 2 percent objective.
+- 3. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its maximum employment objective and its symmetric 2 percent inflation objective. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+
+ALTERNATIVE A FOR JULY 2019
+
+- 1. Information received since the Federal Open Market Committee met in May June indicates that the labor market remains strong and that economic activity is has been rising at a moderate rate.  Job gains have been solid, on average, in recent months, and the unemployment rate has remained low.  Although growth of household spending appears to have has picked up from earlier in the year, indicators growth of business fixed investment have has been soft.  On a 12-month basis, overall inflation and inflation for items other than food and energy are running below 2 percent.  Market-based measures of inflation compensation have declined; survey-based measures of longer-term inflation expectations are little changed. On balance, indicators of longer-term inflation expectations remain low.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  In support of these goals light of the implications of global developments for the economic outlook as well as inflation running persistently below 2 percent , the Committee decided to maintain lower the target range for the federal funds rate at 2-1/4 to 2-1/2 to 1-3/4 to 2 percent. This action supports the Committee 's continues to view that sustained expansion of economic activity, strong labor market conditions, and inflation near the Committee's symmetric 2 percent objective as are the most likely outcomes, but uncertainties about this outlook have increased remain .  In light of these uncertainties and muted inflation pressures, The Committee will closely monitor the implications of incoming information for the economic outlook and will act as appropriate is prepared to make further adjustments in the target range for the federal funds rate to sustain the expansion, with a strong labor market and inflation near its symmetric 2 percent objective.
+- 3. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its maximum employment objective and its symmetric 2 percent inflation objective. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+- 4. The Committee will conclude the reduction of its aggregate securities holdings in the System Open Market Account in August, two months earlier than previously indicated.
+
+ALTERNATIVE B FOR JULY 2019
+
+- 1. Information received since the Federal Open Market Committee met in May June indicates that the labor market remains strong and that economic activity is has been rising at a moderate rate.  Job gains have been solid, on average, in recent months, and the unemployment rate has remained low.  Although growth of household spending appears to have has picked up from earlier in the year, indicators growth of business fixed investment have has been soft.  On a 12-month basis, overall inflation and inflation for items other than food and energy are running below 2 percent.  Market-based measures of inflation compensation have declined remain low ; survey-based measures of longer-term inflation expectations are little changed.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  In support of these goals light of the implications of global developments for the economic outlook as well as muted inflation pressures , the Committee decided to maintain lower the target range for the federal funds rate at to 2 to 2-1/4 to 2-1/2 percent. This action supports the Committee 's continues to view that sustained expansion of economic activity, strong labor market conditions, and inflation near the Committee's symmetric 2 percent objective as are the most likely outcomes, but uncertainties about this outlook have increased remain .  In light of these uncertainties and muted inflation pressures, The Committee will closely continue to monitor the implications of incoming information for the economic outlook and will act as appropriate to sustain the expansion, with a strong labor market and inflation near its symmetric 2 percent objective.
+- 3. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its maximum employment objective and its symmetric 2 percent inflation objective. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+- 4. The Committee will conclude the reduction of its aggregate securities holdings in the System Open Market Account in August, two months earlier than previously indicated.
+
+ALTERNATIVE C FOR JULY 2019
+
+- 1. Information received since the Federal Open Market Committee met in May June indicates that the labor market remains strong and that economic activity is has been rising at a moderate rate.  Job gains have been solid, on average, in recent months, and the unemployment rate has remained low.  Although growth of household spending appears to have has picked up from earlier in the year, indicators growth of business fixed investment have has been soft.  On a 12-month basis, overall inflation and inflation for items other than food and energy are running below 2 percent.  Market-based measures of inflation compensation have declined remain low ; survey-based measures of longer-term inflation expectations are little changed.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  In support of these goals, the Committee decided to maintain the target range for the federal funds rate at 2-1/4 to 2-1/2 percent.  The Committee continues to view sustained expansion of economic activity, strong labor market conditions, and inflation near the Committee's symmetric 2 percent objective as the most likely outcomes, but uncertainties about this outlook have increased remain elevated .  In light of these uncertainties and muted inflation pressures, the Committee will closely monitor the implications of incoming information for the economic outlook and will act as appropriate to sustain the expansion, with a strong labor market and inflation near its symmetric 2 percent objective.
+- 3. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its maximum employment objective and its symmetric 2 percent inflation objective. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+
+Implementation Note for July 2019 Alternative A
+
+Release Date:  July 31, 2019
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on June 19, 2019 July 31, 2019 :
+
+- · The Board of Governors of the Federal Reserve System voted   unanimously [ ] to maintain lower the interest rate paid on required and excess reserve balances at 2.35 to 1.85 percent, effective June 20, 2019 August 1, 2019 .
+- · As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective June 20, 2019 August 1, 2019 , the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of 1-3/4 to 2 2-1/4 to 2-1/2 percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 2.25 1.75 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a percounterparty limit of $30 billion per day.
+
+Effective August 1, 2019, the Committee directs the Desk to continue rolling over at auction the amount of all principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month that exceeds $15 billion, and to continue reinvesting in agency mortgage-backed securities the amount of all principal payments from the Federal Reserve's holdings of agency debt and agency mortgagebacked securities received during each calendar month that exceeds $20 billion. Principal payments from agency debt and agency mortgagebacked securities up to $20 billion per month will be reinvested in Treasury securities to roughly match the maturity composition of Treasury securities outstanding; principal payments in excess of $20 billion per month will continue to be reinvested in agency mortgagebacked securities. Small deviations from these amounts for operational reasons are acceptable.
+
+The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+- · In a related action, the Board of Governors of the Federal Reserve System voted   unanimously   to approve the establishment of [ ] a 1/2 percentage point decrease in the primary credit rate at the existing level of 3.00 percent to 2.50 percent, effective August 1, 2019 . In taking this action, the Board approved requests to establish that rate submitted by the Boards of Directors of the Federal Reserve Banks of [ … ].
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.
+
+More information regarding open market operations and reinvestments may be found on the Federal Reserve Bank of New York's website.
+
+Implementation Note for July 2019 Alternative B
+
+Release Date:  July 31, 2019
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on June 19, 2019 July 31, 2019 :
+
+- · The Board of Governors of the Federal Reserve System voted   unanimously [ ] to maintain lower the interest rate paid on required and excess reserve balances at 2.35 to 2.10 percent, effective June 20, 2019 August 1, 2019 .
+- · As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective June 20, 2019 August 1, 2019 , the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of 2 to 2-1/4 to 2-1/2 percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 2.25 2.00 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a percounterparty limit of $30 billion per day.
+
+Effective August 1, 2019, the Committee directs the Desk to continue rolling over at auction the amount of all principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month that exceeds $15 billion, and to continue reinvesting in agency mortgage-backed securities the amount of all principal payments from the Federal Reserve's holdings of agency debt and agency mortgagebacked securities received during each calendar month that exceeds $20 billion. Principal payments from agency debt and agency mortgagebacked securities up to $20 billion per month will be reinvested in Treasury securities to roughly match the maturity composition of Treasury securities outstanding; principal payments in excess of $20 billion per month will continue to be reinvested in agency mortgagebacked securities. Small deviations from these amounts for operational reasons are acceptable.
+
+The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+- · In a related action, the Board of Governors of the Federal Reserve System voted   unanimously   to approve the establishment of [ ] a 1/4 percentage point decrease in the primary credit rate at the existing level of 3.00 percent to 2.75 percent, effective August 1, 2019 . In taking this action, the Board approved requests to establish that rate submitted by the Boards of Directors of the Federal Reserve Banks of [ … ].
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.
+
+More information regarding open market operations and reinvestments may be found on the Federal Reserve Bank of New York's website.
+
+Implementation Note for July 2019 Alternative C
+
+Release Date:  July 31, 2019
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on June 19, 2019 July 31, 2019 :
+
+- · The Board of Governors of the Federal Reserve System voted   unanimously [ ] to maintain the interest rate paid on required and excess reserve balances at 2.35 percent, effective June 20, 2019 August 1, 2019 .
+- · As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective June 20, 2019 August 1, 2019 , the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of 2-1/4 to 2-1/2 percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 2.25 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a percounterparty limit of $30 billion per day.
+
+The Committee directs the Desk to continue rolling over at auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month that exceeds $15 billion, and to continue reinvesting in agency mortgage-backed securities the amount of principal payments from the Federal Reserve's holdings of agency debt and agency mortgage-backed securities received during each calendar month that exceeds $20 billion.  Small deviations from these amounts for operational reasons are acceptable.
+
+The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+- · In a related action, the Board of Governors of the Federal Reserve System voted   unanimously   to approve the establishment of the primary credit rate [ ] at the existing level of 3.00 percent.
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.
+
+More information regarding open market operations and reinvestments may be found on the Federal Reserve Bank of New York's website.
+
+Potential actions of the Board of Governors of the Federal Reserve System
+
+Potential Board actions associated with FOMC Alternative A
+
+Interest on required and excess reserve balances
+
+Reduce the interest rate paid on required and excess reserve balances to 1.85 percent, effective August 1, 2019.
+
+Establishment of the primary, secondary, and seasonal credit rates
+
+Approve establishment of the primary credit rate by the Federal Reserve Bank of Minneapolis at 2.50 percent effective August 1, 2019.  This action will encompass approval of the establishment of a 2.50 percent primary credit rate by each of the remaining Federal Reserve Banks, effective on the later of August 1, 2019, or the date such Reserve Bank informs the Secretary of the Board of such a request; the Secretary of the Board would be authorized to inform each such Reserve Bank of the approval of the Board of Governors upon such notification by the Reserve Bank.  Lastly, this vote will also encompass the establishment of the rates for secondary and seasonal credit under the existing formulas specified in staff's July 26, 2019 memorandum to the Board.
+
+Potential Board actions associated with FOMC Alternative B
+
+Interest on required and excess reserve balances
+
+Reduce the interest rate paid on required and excess reserve balances to 2.10 percent, effective August 1, 2019.
+
+Establishment of the primary, secondary, and seasonal credit rates
+
+Approve establishment of the primary credit rate by the Federal Reserve Banks of Philadelphia, Chicago, St. Louis, Dallas, and San Francisco at 2.75 percent effective August 1, 2019.  This action will encompass approval of the establishment of a 2.75 percent primary credit rate by each of the remaining Federal Reserve Banks, effective on the later of August 1, 2019, or the date such Reserve Bank informs the Secretary of the Board of such a request; the Secretary of the Board would be authorized to inform each such Reserve Bank of the approval of the Board of Governors upon such notification by the Reserve Bank.  Lastly, this vote will also encompass the establishment of the rates for secondary and seasonal credit under the existing formulas specified in staff's July 26, 2019 memorandum to the Board.
+
+Potential Board actions associated with FOMC Alternative C
+
+Interest on required and excess reserve balances
+
+Leave the interest rates paid on required and excess reserve balances unchanged at 2.35 percent.
+
+Establishment of the primary, secondary, and seasonal credit rates
+
+Approve establishment of the primary credit rate at the existing rate of 3.00 percent and establishment of the rates for secondary and seasonal credit under the existing formulas specified in the staff's July 26, 2019, memo to the Board.
+
+Appendix 9:  Materials used by Ms. Logan
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for Briefing on
+
+Desk Statement Regarding Reinvestments of Principal Payments from Treasury Securities, Agency Debt, and Agency Mortgage-Backed Securities
+
+Lorie Logan
+
+July 31, 2019
+
+Statement Regarding Reinvestments of Principal Payments from Treasury Securities, Agency Debt, and Agency Mortgage-Backed Securities
+
+July 31, 2019
+
+At its meeting on July 30-31, 2019, the Federal Open Market Committee (FOMC) decided to conclude the reduction of aggregate securities holdings in the System Open Market Account (SOMA) two months earlier than previously indicated.  The FOMC directed the Open Market Trading Desk (the Desk) at the Federal Reserve Bank of New York to roll over at auction all principal payments from the Federal Reserve's holdings of Treasury securities and to reinvest all principal payments from the Federal Reserve's holdings of agency debt and agency mortgage-backed securities (MBS) effective August 1, 2019.  Rollovers of principal payments from maturing Treasury securities will continue to be reinvested in new Treasury securities being issued on the maturity date.  Principal payments from agency debt and agency MBS up to a maximum amount of $20 billion per month will be reinvested in Treasury securities through secondary market purchases; agency debt and agency MBS principal payments in excess of $20 billion each month will continue to be reinvested in agency MBS.
+
+Treasury securities purchases associated with the reinvestment of agency debt and agency MBS principal payments will be conducted in the secondary market across a range of maturities to roughly match the maturity composition of Treasury securities outstanding.  The FOMC will revisit this initial reinvestment plan in connection with its deliberations regarding the longer-run composition of the SOMA portfolio.
+
+Under this guidance, the Desk plans to distribute secondary market Treasury reinvestment purchases across eleven different sectors, including nominal coupons, bills, Treasury InflationProtected Securities, and Floating Rate Notes. The amount of purchases in each sector will be approximately proportional to the 12-month average of the par amount of Treasury securities outstanding in each sector relative to the total amount outstanding across all sectors, measured at the end of July 2019.
+
+The Desk will announce the planned monthly amount of secondary market Treasury reinvestment purchases up to the $20 billion maximum on or around the ninth business day of each month.  At that time, the Desk will also release a tentative schedule of purchase operations that will be conducted over the one-month period until the next announcement. The Desk plans to release the first schedule of Treasury purchase operations on August 13, 2019.
+
+Any principal payments from agency debt and agency MBS in excess of $20 billion per month will continue to be reinvested in agency MBS.  For these purchases, the Desk will continue its current practice of announcing the planned amount of agency MBS purchases on or around the ninth business day of each month and releasing a tentative schedule of purchase operations twice a month, on or around the ninth and the nineteenth business days. The Desk plans to release its next schedule of MBS purchase operations on August 13, 2019.
+
+Authorized for Public Release
+
+Class I FOMC - Restricted Controlled (FR)
+
+Additional information on Treasury rollovers and Treasury and agency MBS reinvestment purchases can be found in the following locations:
+
+FAQs: Treasury Reinvestments - Rollovers »
+
+FAQs: Treasury Reinvestments - Purchases »
+
+FAQs: Agency MBS Reinvestment Purchases»

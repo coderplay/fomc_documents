@@ -1,0 +1,901 @@
+September 19-20, 2017
+
+1:  Materials used by Mr. Potter and Ms. Logan Appendix
+
+A
+
+A
+
+u
+
+Restricted (FR) Class II FOMC -
+
+Material for the Briefing on
+
+Financial Developments and Open Market Operations
+
+Lorie Logan 2017 Simon Potter and September 19,
+
+Class II FOMC -Restricted (FR)
+
+<!-- missing-text -->
+
+Percent *Diamonds indicate implied percent change based on median forecast for year-end '17 from the Dec. '16 FX Counterparty Survey. Source: Bloomberg, FRBNY
+
+<!-- missing-text -->
+
+*Rate differentials based on OIS; euro swap rate less U.S. dollar swap rate. Source: Bloomberg, Desk Calculations
+
+<!-- missing-text -->
+
+*Dashed line is 5-year average. Source: Bloomberg
+
+Exhibit 1
+
+(2) Chinese Exchange Rate
+
+<!-- missing-text -->
+
+*An estimation from Standard Chartered of the CFETS EER basket. Source: Bloomberg
+
+(4) Asset Price Changes Since July FOMC
+
+<!-- missing-text -->
+
+Source: Bloomberg, Federal Reserve Board
+
+(6) Front-Month Gasoline and Crude Oil Futures
+
+<!-- missing-text -->
+
+Source: Bloomberg
+
+Class II FOMC -Restricted (FR)
+
+<!-- missing-text -->
+
+*Based on all responses from the Surveys of Primary Dealers and Market Participants.
+
+**Probability for Jul. '17 FOMC of 9.9% not shown.
+
+Source: FRBNY
+
+(9) Implied Path of the Policy Rate*
+
+Exhibit 2
+
+<!-- missing-text -->
+
+*Based on all responses from the Surveys of Primary Dealers and Market
+
+Participants. Q4 '17 reflects combined probability assigned to a rate increase at the Oct./Nov. and Dec. FOMC meetings.
+
+**Probability for Jul. '17 FOMC of 1.2% not shown.
+
+Source: FRBNY
+
+(10) Average PDF-Implied Mean of Annual Average CPI Inflation Rate*
+
+<!-- missing-text -->
+
+*Market-implied paths derived from federal funds and Eurodollar futures. Unconditional survey path is the average PDF-implied means from the Surveys of Primary Dealers and Market Participants.
+
+<!-- missing-text -->
+
+*Based on all responses from the Surveys of Primary Dealers and Market Participants.
+
+Source: Bloomberg, Desk Calculations, Federal Reserve Board, FRBNY
+
+(11) Differences in Year-End 2018 and 2019 Fed Funds Forecasts*
+
+<!-- missing-text -->
+
+*Based on all responses from the Surveys of Primary Dealers and Market Participants. Survey modal forecast is the median while survey mean is the average PDF-implied mean.
+
+Source: FRBNY
+
+Source: FRBNY
+
+(12) Average PDF of Year-End 2020 SOMA Level, Conditional on Not Moving to the ZLB*
+
+<!-- missing-text -->
+
+*Based on all responses from the Surveys of Primary Dealers and Market Participants.
+
+Source: FRBNY
+
+Class II FOMC -Restricted (FR)
+
+(13) Cumulative Change in Yield on Treasury Bills "at Risk" of Default in Recent Debt Ceiling Episodes*
+
+<!-- missing-text -->
+
+- *Cumulative change from 90 business days before anticipated deadline.
+- ** 9/29/17 reflected Treasury Secretary Mnuchin's latest communication prior to passing of debt ceiling suspension bill.
+
+Source: Bloomberg
+
+(15) ON RRP Take-Up
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Remaining maturity as of the start of each investment period.
+
+- **Allocation is tentative, will be finalized just prior to implementation. Source: FRBNY
+
+<!-- missing-text -->
+
+*Grey dashed line indicates quarter-end. Shaded area reflects target range for the federal funds rate.
+
+Source: FRBNY
+
+(16) Treasury and Agency Securities Principal Payments Over the Next Intermeeting Period
+
+- · Treasuries: $19.6 billion maturing
+- o $10.9 billion on Sep. 30
+- o $8.7 billion on Oct. 31
+- · Agency MBS:
+- o September Monthly Purchase Period
+-  Purchases from Sep. 14 to Oct. 13
+-  $26.7 billion estimated paydowns
+- o October Monthly Purchase Period
+-  Purchases from Oct. 16 to Nov. 13
+-  Model projects $24 billion paydowns
+- · Agency Debt: none maturing
+
+(18) Update on Reference Rates
+
+- · May 2017: Desk released statement regarding three proposed rates
+- · June 2017: ARRC selected the SOFR as its recommended alternative to U.S. dollar LIBOR
+- o SOFR is the broadest rate; based on tri-party, GCF (interdealer), and bilateral transactions
+- · August 2017: Federal Register Notice (FRN) requested public comment
+- · October 2017: FRN comment period ends
+- · Fourth Quarter of 2017: Comments will be addressed publicly and a final FRN will be published
+- · First half of 2018: Initial publication of rates expected
+
+Class II FOMC -Restricted (FR)
+
+A
+
+Appendix
+
+(1) Summary of Operational Testing
+
+Summary of Operational Tests in prior period:
+
+- · Domestic Authorization
+- · August 10: Contingency securities lending operation for no more than $115 million (unsuccessful)
+- · September 6: Treasury outright purchase for $200 million
+- · TDF Test Operation
+- · August 10: Conducted 7-day test with total take-up of $14.7 billion
+
+Upcoming Operational Tests:
+
+- · Domestic Authorization
+- · October 24 and 25: Coupon swaps with unsettled agency MBS holdings for approximately $20 million total
+- · Foreign Authorization
+- · October 10: Euro-denominated overnight repo for € 1 million
+
+<!-- missing-text -->
+
+(3) FX Intervention
+
+- · There were no intervention operations in foreign currencies for the System's account during the intermeeting period
+
+1
+
+3
+
+9
+
+Appendix (Last)
+
+2:  Materials used by Mr. Potter Appendix
+
+u
+
+A
+
+u
+
+Class I FOMC - Restricted-Controlled (FR)
+
+Material for the Briefing on
+
+Reinvestment Operations
+
+2017 Simon Potter September 19,
+
+(FR) Class I FOMC - Restricted-Controlled
+
+(1) Reinvestment Cap Approach
+
+- · Treasury Securities:
+- cap, increased in $6 billion increments every three months o Initial $6 billion monthly
+- monthly cap of $30 billion reached in October 2018 o Maximum
+- · Agency Debt and MBS:
+- cap, increased in $4 billion increments every three months o Initial $4 billion monthly
+- monthly cap of $20 billion reached in October 2018 o Maximum
+
+Operations (2) Treasury Rollover
+
+- to be reinvested, if any, will be allocated across maturity dates within a month in proportion to SOMA · Amount amounts maturing on those dates
+- proportion to publically announced offering · For each maturity date, amount is then allocated to each auction in amounts
+- $100 U.S. Treasury auction bid increments · Precision of rollovers limited by
+- including when month-end maturity is on weekend · Month defined by stated maturity date, not date funds are received; or holiday
+
+(3) Agency Securities Reinvestment Operations
+
+- · Paydown reporting variance
+- paydowns vary versus estimated amount by an average of about $20 million per month · Actual principal
+- · Actual purchase variance
+- · Operational constraints result in a variance expected to be less than $50 million per month versus target amount
+- the implementation of caps, both of these variances were carried over to the next monthly period · Prior to
+- be tracked on a monthly basis and reported at the following FOMC will not be carried over to the next monthly period · Going forward, cumulative variances will meeting, but
+
+Implementation (4) Starting Dates Assuming October
+
+- Treasury rollover will be of securities with October 31 maturity · The initial
+- agency MBS purchase period will be October 16 through November 13, announced October 13 · The initial
+
+1 Exhibit
+
+(FR) Class I FOMC - Restricted-Controlled
+
+2 Exhibit
+
+(5) Reverse Repo Operations
+
+- estimating the amount of · Current process: following each change in the fed funds target range, issue a Desk statement Treasuries available for ON RRPs
+- release a one-time statement and update ON RRP FAQs to note that 'around $2 trillion' is available, and that this amount will decrease as the Treasury portfolio declines · Proposed process: currently
+- be made to this amount without drawing attention to a technical adjustment · Allows for changes to
+
+(6) Planned Desk Communications
+
+- · 2 pm
+- Regarding Reinvestment in Treasury Securities and Agency Mortgage-Backed Securities in exhibit 3) · Desk Statement (draft
+- Rollovers FAQs · Treasury
+- · Agency MBS Reinvestment Purchases FAQs
+- Regarding Overnight Reverse Repurchase Agreements (draft in exhibit 4) · Desk Statement
+- · Reverse Repurchase Agreement Operations FAQs
+- · 4 pm
+
+Class I FOMC - Restricted-Controlled (FR)
+
+and Agency Mortgage-Backed Securities Statement Regarding Reinvestment in Treasury Securities
+
+September 20, 2017
+
+During its meeting on September 19-20, 2017, the Federal Open Market Committee (FOMC) directed the Open Market Trading Desk (the Desk) at the Federal Reserve Bank of New York to initiate, in October 2017, the program to gradually reduce the reinvestment of principal payments from the Federal Reserve's securities holdings that is described in the Committee's June 2017 addendum to its Policy Normalization Principles and Plans.  Specifically, the Committee directed the Desk to reinvest each month's principal payments from Treasury securities, agency debt, and agency mortgage-backed securities (MBS) only to the extent that such payments exceed gradually rising caps.
+
+The schedule of monthly caps consistent with the Committee's September 20 decision and the June 2017 addendum is as follows:
+
+<!-- missing-text -->
+
+payments of agency debt and agency MBS. *Applies to combined principal
+
+** Once caps reach their maximum amounts, they will remain in effect until the Committee judges that the Federal Reserve is holding no more securities than necessary to implement monetary policy efficiently and effectively.
+
+For Treasury securities, the Desk will roll over at auction the principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month that exceed the cap amount for that month.  The Desk will allocate that rollover amount across the month's maturity dates in proportion to total maturities of SOMA Treasury holdings on each date.  Consistent with current practice, rollovers will continue to be accomplished by placing non-competitive bids at Treasury auctions; the bids will be allocated across the securities being issued in proportion to their announced offering amounts.  The initial cap will first be applied to the October scheduled maturities, which occur on October 31.
+
+For agency securities, the Desk will reinvest in agency MBS the principal payments from the Federal Reserve's holdings of agency debt and agency MBS received during each calendar month that exceed the cap amount for that month.  Consistent with current practice, the Desk's reinvestment purchases will continue to be concentrated in newly-issued agency MBS in the To-Be-Announced (TBA) market. The planned amount of reinvestments in agency MBS that is anticipated to take place over each monthly period will be announced on or around the ninth business day of the month and will generally be conducted over the subsequent one-month period until the next announcement.  The initial cap will
+
+Authorized for Public Release
+
+1
+
+4
+
+5
+
+Class I FOMC - Restricted-Controlled (FR)
+
+Exhibit 3 (continued)
+
+first be applied to the October planned purchases, which will be announced on October 13, the ninth business day of the month.
+
+Additional information on Treasury rollovers and agency MBS reinvestments can be found in Frequently Asked Questions in the following locations:
+
+FAQs: Treasury Rollovers »
+
+FAQs: Agency MBS Reinvestment Purchases »
+
+Class I FOMC - Restricted-Controlled (FR)
+
+Exhibit 4
+
+September 19-20, 2017
+
+Authorized for Public Release
+
+146 of 178
+
+DESK STATEMENT FOR SEPTEMBER 2017
+
+Release Date:  September 20, 2017
+
+Statement Regarding Overnight Reverse Repurchase Agreements
+
+During its meeting on September 19-20, 2017, the Federal Open Market Committee (FOMC) directed the Open Market Trading Desk (the Desk) at the Federal Reserve Bank of New York (New York Fed), effective September 21, 2017, to undertake open market operations as necessary to maintain the federal funds rate in a target range of 1 to 1¼ percent, including overnight reverse repurchase operations (ON RRPs) at an offering rate of 1.00 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account (SOMA) that are available for such operations and by a per-counterparty limit of $30 billion per day.  The FOMC also directed the Desk to initiate the program to gradually reduce the reinvestment of principal payments from the Federal Reserve's holdings of Treasury securities, agency debt, and agency mortgage-backed securities (MBS), effective beginning in October 2017.
+
+To determine the value of Treasury securities available for ON RRP operations, the Desk takes several factors into account, as not all Treasury securities held outright in the SOMA are available for use in such operations. First, some of the Treasury securities held outright in the SOMA are needed to conduct reverse repurchase agreements with foreign official and international accounts.  Second, some Treasury 1 securities are needed to support the securities lending operations conducted by the Desk. Additionally, the Treasury securities serving as collateral for any outstanding term RRP operations would not be available to serve as collateral for ON RRP operations.
+
+Taking these factors into account, as of the beginning of the implementation of the FOMC's balance sheet normalization program, the Desk has determined that around $2 trillion of Treasury securities are available for ON RRP operations to fulfill the FOMC's domestic policy directive. As the amount of Treasury securities held in the SOMA gradually declines over time pursuant to the FOMC's Policy Normalization Principles and Plans, this amount is expected to decrease. While the Desk does not plan to provide regular updates on the precise amount of ON RRP to be offered each day, this amount can be approximated by taking the above-mentioned factors into account.
+
+Even as the amount of Treasury securities available for RRP operations decreases, it remains highly unlikely that the value of propositions received in an ON RRP operation will exceed the amount of available securities on a given day. In the highly unlikely event that the value of bids received in an ON RRP operation exceeds the amount of available securities, the Desk will allocate awards using a singleprice auction based on the stop-out rate at which the overall size limit is reached, with all bids below
+
+Class I FOMC - Restricted-Controlled (FR)
+
+Exhibit 4 (continued) (Last)
+
+September 19-20, 2017
+
+Authorized for Public Release
+
+147 of 178
+
+this rate awarded in full at the stop-out rate and all bids at this rate awarded on a pro rata basis at the stop-out rate.
+
+These ON RRP operations will be open to all eligible RRP counterparties, will settle same-day, and will have an overnight tenor unless a longer term is warranted to accommodate weekend, holiday, and other similar trading conventions. Each eligible counterparty is permitted to submit one proposition for each ON RRP operation, in a size not to exceed $30 billion and at a rate not to exceed the specified offering rate. The operations will take place from 12:45 p.m. to 1:15 p.m. (Eastern Time). Any changes to these terms will be announced with at least one business day's prior notice on the New York Fed's website.
+
+The results of these operations will be posted on the New York Fed's website. The outstanding amounts of ON RRPs are reported on the Federal Reserve's H.4.1 statistical release as a factor absorbing reserves under the heading 'Reverse repurchase agreements, Others' in Table 1 and as a component of the liability item 'Reverse repurchase agreements' in Tables 5 and 6.
+
+3:  Materials used by Mr. Wilcox Appendix
+
+September 19-20, 2017
+
+FOMC - Restricted (FR) Class II
+
+<!-- missing-text -->
+
+Outlook
+
+The U.S.
+
+<!-- missing-text -->
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+Forecast Summary
+
+Confidence Intervals for Panels 1, 6, 10, and 11 Based on FRB/US Stochastic Simulations
+
+1. Real GDP
+
+2. Hurricane-Related Effects on Output
+
+<!-- missing-text -->
+
+3. Hurricane-Related Effects on National Retail Sales Group Spending
+
+<!-- missing-text -->
+
+5. Natural Rate Estimates
+
+<!-- missing-text -->
+
+Note: Shaded region gives 70% confidence interval for model-based estimate.  *Includes EEB effects.
+
+(Percentage point contributions at annual rates)
+
+<!-- missing-text -->
+
+4. Tealbook Update
+
+<!-- missing-text -->
+
+- * Percent, final quarter of period indicated.
+
+6. Unemployment Rate
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+<!-- missing-text -->
+
+20
+
+16
+
+12
+
+8
+
+4
+
+0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+7. Unemployment Rates by Race or Ethnicity
+
+<!-- missing-text -->
+
+9. Monthly PCE Price Inflation
+
+<!-- missing-text -->
+
+11. PCE Prices Excluding Food and Energy
+
+<!-- missing-text -->
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+8. Real Median Household Income by Race or Ethnicity*
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+<!-- missing-text -->
+
+10. Total PCE Prices
+
+<!-- missing-text -->
+
+12. Longer-Term Inflation Expectations
+
+<!-- missing-text -->
+
+4
+
+3
+
+2
+
+1
+
+0
+
+13. Measures of Labor Compensation
+
+<!-- missing-text -->
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+*Three-month moving average. **Percent change of the four-quarter moving average from a year earlier.  ***All employees.
+
+4:  Materials used by Mr. Kamin Appendix
+
+September 19-20, 2017
+
+FOMC - Restricted (FR) Class II
+
+the Briefing on International Outlook Material for The
+
+2017 Steven B. Kamin Exhibits by Meghan Letendre September 19,
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 1
+
+The International Outlook
+
+1. Foreign GDP*
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+3. Headline Inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+5. Core Inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+7. Monetary Outlook Revisions
+
+- Slower tapering of ECB asset purchases.
+- BOJ yield target to remain around zero through 2018.
+- In contrast, BOC has steeper path of tightening.
+- BOE liftoff 2018:Q1, a quarter earlier than July TB.
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 2
+
+The International Outlook (2)
+
+8. Taylor Rule Description
+
+$$Taylor 1999: ݎ ௧ = ݎ ௅ R + ߨ t + 0.5 ሺ ߨ t - ߨ ௅ R ሻ + ݌ܽ݃ݕ ௧$$
+
+• ߨ ௧ = 4-quarter percent change in core CPI
+
+• ݎ ௅ R = real neutral policy rate
+
+o In euro area = 0.5
+
+o In U.K. = 1
+
+o In Canada = 1
+
+o In Japan = 0
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+10. Euro Area Policy Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 3 (last)
+
+The International Outlook (3)
+
+14. AFE Policy Rates
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+5:  Materials used by Mr. De Pooter Appendix
+
+A
+
+Restricted Controlled (FR) Class I FOMC -
+
+Briefing on the Material for Summary
+
+of Economic Projections
+
+Michiel De Pooter September 19, 2017
+
+September 19-20, 2017
+
+uthorized for Public Release
+
+159 of 178
+
+<!-- missing-text -->
+
+Note: The data for the actual values of the variables are annual. The percent changes in real GDP and inflation are measured Q4/Q4. Projections for the unemployment rate are for the average civilian unemployment rate in the fourth quarter of the year indicated. One participant did not submit longer-run projections for the change in real GDP or the unemployment rate.
+
+Change  in  real  GDP
+
+<!-- missing-text -->
+
+Unemployment  rate
+
+<!-- missing-text -->
+
+PCE  inflation
+
+<!-- missing-text -->
+
+Core  PCE  inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: In the two panels above, each circle indicates the value (rounded to the nearest 1 8 / percentage point) of an individual participant's judgment of the midpoint of the appropriate target range for the federal funds rate or the appropriate target level for the federal funds rate at the end of the specified calendar year or over the longer run. The red diamonds for each year represent the median of the federal funds rate prescriptions that were derived by taking each participant's projections for the unemployment gap, core PCE inflation, and longer-run nominal federal funds rate for that year and inserting them into the non-inertial Taylor (1999) rule. The whiskers represent the central tendency of the prescriptions of the non-inertial Taylor (1999) rule using participants' projections. One participant did not submit a longer-run projection for the federal funds rate in conjunction with the June 13-14, 2017, meeting, and one participant did not submit such a projection in conjunction with the September 19-20, 2017, meeting.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: The blue and red lines in the top panel show actual values and median projected values, respectively, of the percent change in real gross domestic product (GDP) from the fourth quarter of the previous year to the fourth quarter of the year indicated. The confidence interval around the median projected values is assumed to be symmetric and is based on root mean squared errors of various private and government forecasts made over the previous 20 years; more information about these data is available in table 2 of the Summary of Economic Projections (SEP). Because current conditions may differ from those that prevailed, on average, over the previous 20 years, the width and shape of the confidence interval estimated on the basis of the historical forecast errors may not reflect FOMC participants' current assessments of the uncertainty and risks around their projections; these current assessments are summarized in the lower panels. Generally speaking, participants who judge the uncertainty about their projections as 'broadly similar' to the average levels of the past 20 years would view the width of the confidence interval shown in the historical fan chart as largely consistent with their assessments of the uncertainty about their projections. Likewise, participants who judge the risks to their projections as 'broadly balanced' would view the confidence interval around their projections as approximately symmetric. For definitions of uncertainty and risks in economic projections, see the box 'Forecast Uncertainty' in the SEP.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: The blue and red lines in the top panel show actual values and median projected values, respectively, of the average civilian unemployment rate in the fourth quarter of the year indicated. The confidence interval around the median projected values is assumed to be symmetric and is based on root mean squared errors of various private and government forecasts made over the previous 20 years; more information about these data is available in table 2 of the Summary of Economic Projections (SEP). Because current conditions may differ from those that prevailed, on average, over the previous 20 years, the width and shape of the confidence interval estimated on the basis of the historical forecast errors may not reflect FOMC participants' current assessments of the uncertainty and risks around their projections; these current assessments are summarized in the lower panels. Generally speaking, participants who judge the uncertainty about their projections as 'broadly similar' to the average levels of the past 20 years would view the width of the confidence interval shown in the historical fan chart as largely consistent with their assessments of the uncertainty about their projections. Likewise, participants who judge the risks to their projections as 'broadly balanced' would view the confidence interval around their projections as approximately symmetric. For definitions of uncertainty and risks in economic projections, see the box 'Forecast Uncertainty' in the SEP.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: The blue and red lines in the top panel show actual values and median projected values, respectively, of the percent change in the price index for personal consumption expenditures (PCE) from the fourth quarter of the previous year to the fourth quarter of the year indicated. The confidence interval around the median projected values is assumed to be symmetric and is based on root mean squared errors of various private and government forecasts made over the previous 20 years; more information about these data is available in table 2 of the Summary of Economic Projections (SEP). Because current conditions may differ from those that prevailed, on average, over the previous 20 years, the width and shape of the confidence interval estimated on the basis of the historical forecast errors may not reflect FOMC participants' current assessments of the uncertainty and risks around their projections; these current assessments are summarized in the lower panels. Generally speaking, participants who judge the uncertainty about their projections as 'broadly similar' to the average levels of the past 20 years would view the width of the confidence interval shown in the historical fan chart as largely consistent with their assessments of the uncertainty about their projections. Likewise, participants who judge the risks to their projections as 'broadly balanced' would view the confidence interval around their projections as approximately symmetric. For definitions of uncertainty and risks in economic projections, see the box 'Forecast Uncertainty' in the SEP.
+
+<!-- missing-text -->
+
+Note: The  blue  and  red  lines are based  on  actual  values  and  median  projected  values,  respectively,  of  the  Com mittee's  target for the federal funds  rate at the end  of the year indicated. The  actual  values  are the midpoint  of  the target range; the median  projected values are based on either the midpoint  of the target range or the target level. The  confidence  interval around  the median  projected  values  is based  on root mean  squared  errors  of various private and  government  forecasts  made  over  the  previous  20  years. The  confidence  interval  is  not  strictly  consistent  with  the projections  for  the  federal  funds  rate,  primarily  because  these  projections  are  not  forecasts  of  the  likeliest  outcomes  for the federal funds rate, but rather projections of participants' individual assessments  of appropriate  monetary  policy. Still, historical  forecast  errors  provide  a  broad  sense  of  the  uncertainty  around  the  future  path  of  the  federal  funds  rate generated  by  the  uncertainty  about  the  macroeconomic  variables  as  well  as  additional  adjustments  to  monetary  policy that  may  be  appropriate  to  off set  the  eff ects  of  shocks  to  the  economy.
+
+The  confidence  interval  is  assumed  to  be  symmetric  except  when  it  is  truncated  at  zero-the  bottom  of  the  lowest target range  for the federal funds  rate that has been  adopted  in  the past by the Committee. This truncation  would not be intended  to indicate the likelihood of the use of negative  interest rates to provide  additional  monetary  policy accommodation  if  doing  so  was  judged  appropriate. In such  situations,  the  Committee  could  also  employ  other  tools, including forward guidance and large-scale asset purchases, to provide additional accommodation. Because current conditions may  diff er from those that prevailed, on average, over the previous 20 years, the width  and shape  of the confidence  interval  estimated  on  the  basis  of  the  historical  forecast  errors  may  not  reflect  FOMC  participants'  current assessments  of  the  uncertainty  and  risks  around  their  projections.
+
+* The  confidence  interval is derived from forecasts of the average level of short-term  interest rates in the fourth quarter  of the year indicated;  more  information  about  these  data  is  available  in  table  2  of  the  Summary  of  Economic Projections. The  shaded  area  encompasses  less  than  a  70  percent  confidence  interval  if  the  confidence  interval  has  been truncated  at  zero.
+
+6:  Materials used by Mr. Laubach Appendix
+
+September 19-20, 2017
+
+I FOMC - Restricted Controlled (FR) Class
+
+the Briefing on
+
+Material for
+
+Monetary Policy Alternatives
+
+Laubach 2017 Thomas Exhibits by Laurie Khalfan September 19-20,
+
+SEP-Implied Neutral Real Rates
+
+SEP Median Projections for the Fed Funds Rate
+
+Estimates of Time-varying r* Implied by Participants' Projections
+
+5
+
+4
+
+3
+
+Note: Circles represent LR estimates.
+
+Source: September 2017, September 2016, and September 2015 SEPs.
+
+1
+
+0
+
+<!-- missing-text -->
+
+Note: Circles represent LR estimates.
+
+Source: September 2017, September 2016, and September 2015 SEPs.
+
+SEP-Implied r* and Longer-Run Real Interest Rate
+
+<!-- missing-text -->
+
+Source: September 2017 SEP.
+
+<!-- missing-text -->
+
+Source: September 2017 SEP.
+
+- IS equation relates the unemployment gap to the real interest rate gap as follows:
+
+<!-- formula-not-decoded -->
+
+- Estimate coefficients and using data from the 4th quarter of each year, staff's estimate of u*, and Laubach-Williams estimates of r*. α β
+- Insert participants' estimates of the longer-run unemployment rate and projections for the unemployment rate and real federal funds rate to solve for their implied time-varying r*.
+
+Note: α = 0.84; β = 0.15.
+
+<!-- missing-text -->
+
+Policy Implications
+
+- Alternative C: Further increases needed soon to moderate growth and avoid risks associated with undershooting u*.
+- Alternative A: Much less conviction that r* is positive; no change in stance of policy likely soon.
+- Alternative B: Confidence in medium-term outlook for inflation to stabilize around 2 percent and employment to undershoot modestly while the policy rate is increased gradually.
+
+September 19-20, 2017
+
+JULY 2017 FOMC STATEMENT
+
+- 1. Information received since the Federal Open Market Committee met in June indicates that the labor market has continued to strengthen and that economic activity has been rising moderately so far this year. Job gains have been solid, on average, since the beginning of the year, and the unemployment rate has declined. Household spending and business fixed investment have continued to expand. On a 12-month basis, overall inflation and the measure excluding food and energy prices have declined and are running below 2 percent. Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. The Committee continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, and labor market conditions will strengthen somewhat further. Inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term. Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments. The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+- 5. For the time being, the Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. The Committee expects to begin implementing its balance sheet normalization program relatively soon, provided that the economy evolves broadly as anticipated; this program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.
+
+September 19-20, 2017
+
+SEPTEMBER 2017 ALTERNATIVE A
+
+- 1. Information received since the Federal Open Market Committee met in June July indicates that the labor market has continued to strengthen and that economic activity has been rising moderately so far this year. While job gains have been remained solid, on average, since the beginning of the year, and the unemployment rate has declined changed little in recent months and wage gains have continued to be subdued .  Household spending and business fixed investment have continued to been expand ing at moderate rates .  On a 12-month basis, overall inflation and the measure excluding food and energy prices have declined this year and are running below 2 percent.  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. Hurricanes Harvey and Irma have devastated many communities, inflicting severe hardship.  Storm-related disruptions and rebuilding will affect economic activity in the near term, but past experience suggests that the storms are unlikely to materially alter the course of the national economy over the medium term. The Committee continues to expect s that, with gradual adjustments in the stance of appropriate monetary policy accommodation , economic activity will expand at a moderate pace, and labor market conditions will strengthen somewhat further. Higher prices for gasoline and some other items in the aftermath of the hurricanes will likely boost inflation temporarily; apart from that effect, inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term.  Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent while assessing the likelihood that recent low readings on inflation will persist .  The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to
+
+prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+- 5. For the time being, the Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. In October, the Committee expects to begin implementing its will initiate the balance sheet normalization program relatively soon, provided that the economy evolves broadly as anticipated; this program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.
+
+In future FOMC statements, paragraph 5 could become:  'Balance sheet normalization is proceeding in accordance with the program that the Committee initiated in October 2017; that program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.'
+
+September 19-20, 2017
+
+SEPTEMBER 2017 ALTERNATIVE B
+
+- 1. Information received since the Federal Open Market Committee met in June July indicates that the labor market has continued to strengthen and that economic activity has been rising moderately so far this year.  Job gains have been remained solid, on average, since the beginning of the year in recent months , and the unemployment rate has declined stayed low .  Household spending has been expanding at a moderate rate, and growth in business fixed investment have continued to expand has picked up in recent quarters .  On a 12-month basis, overall inflation and the measure excluding food and energy prices have declined this year and are running below 2 percent.  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. Hurricanes Harvey and Irma have devastated many communities, inflicting severe hardship.  Storm-related disruptions and rebuilding will affect economic activity in the near term, but past experience suggests that the storms are unlikely to materially alter the course of the national economy over the medium term.  Consequently, the Committee continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, and labor market conditions will strengthen somewhat further. Higher prices for gasoline and some other items in the aftermath of the hurricanes will likely boost inflation temporarily; apart from that effect, inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term.  Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent.  The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+- 5. For the time being, the Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. In October, the Committee expects to begin implementing its will initiate the balance sheet normalization program relatively soon, provided that the economy evolves broadly as anticipated; this program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.
+
+In future FOMC statements, paragraph 5 could become:  'Balance sheet normalization is proceeding in accordance with the program that the Committee initiated in October 2017; that program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.'
+
+September 19-20, 2017
+
+SEPTEMBER 2017 ALTERNATIVE C
+
+- 1. Information received since the Federal Open Market Committee met in June July indicates that the labor market has continued to strengthen tighten and that growth of economic activity has been rising moderately so far this year picked up .  Job gains have been solid remained strong , on average, since the beginning of the year, and the unemployment rate has declined remains at a low level .  Household spending has been expanding at a moderate rate, and growth in business fixed investment have continued to expand has picked up in recent quarters .  On a 12-month basis, overall inflation and the measure excluding food and energy prices have declined this year and are running below 2 percent.  Market-based measures of inflation compensation remain low; and survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. Hurricanes Harvey and Irma have devastated many communities, inflicting severe hardship.  Storm-related disruptions and rebuilding will affect economic activity in the near term, but past experience suggests that the storms are unlikely to materially alter the course of the national economy over the medium term. The Committee continues to expect s that, with further gradual adjustments in the stance of monetary policy, growth in economic activity and employment will expand at a moderate pace to sustainable rates in the medium term , and labor market conditions will strengthen somewhat further. Higher prices for gasoline and some other items in the aftermath of the hurricanes will likely boost inflation temporarily; apart from that effect, inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term. Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent for the time being .  The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant further gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are
+
+expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+- 5. For the time being, the Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. In October, the Committee expects to begin implementing its will initiate the balance sheet normalization program relatively soon, provided that the economy evolves broadly as anticipated; this program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.
+
+In future FOMC statements, paragraph 5 could become:  'Balance sheet normalization is proceeding in accordance with the program that the Committee initiated in October 2017; that program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.'
+
+A
+
+A
+
+Implementation Note for September 2017 Alternatives A, B, and C
+
+Release Date:  September 20, 2017
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on July 26 September 20 , 2017:
+
+-  The Board of Governors of the Federal Reserve System voted   unanimously   to [ ] maintain the interest rate paid on required and excess reserve balances at 1.25 percent.
+-  As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective July 27 September 21 , 2017, the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of 1 to 1-1/4 percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 1.00 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a percounterparty limit of $30 billion per day.
+
+The Committee directs the Desk to continue rolling over maturing Treasury securities at auction Treasury securities maturing during September, and to continue reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities the principal payments received through September from the Federal Reserve's holdings of agency debt and agency mortgagebacked securities .
+
+Effective in October 2017, the Committee directs the Desk to roll over at auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month that exceeds $6 billion, and to reinvest in agency mortgage-backed securities the amount of principal payments from the Federal Reserve's holdings of agency debt and agency mortgagebacked securities received during each calendar month that exceeds $4 billion.  Small deviations from these amounts for operational reasons are acceptable.
+
+glyph&lt;c=3,font=/Symbol&gt;
+
+The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+-  In a related action, the Board of Governors of the Federal Reserve System voted unanimously to approve the establishment of the primary credit rate at the existing level of 1.75 percent.
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.
+
+More information regarding open market operations and the details of operational plans for reducing reinvestments may be found on the Federal Reserve Bank of New York's website.

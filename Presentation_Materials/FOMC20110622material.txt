@@ -1,0 +1,705 @@
+Appendix 1:  Materials used by Mr. Dotsey
+
+J
+
+2
+
+4
+
+Material for
+
+FOMC Briefing on DSGE Models
+
+Michael Dotsey June 21 , 2011
+
+June 21-22, 2011
+
+DSGE PROJECT Exhibit 1
+
+Overview of Models
+
+-  DSGE = Dynamic Stochastic General Equilibrium
+- o Small to medium size models (smaller than FRB/US, larger than your typical VAR)
+- o Models include households, firms, fiscal policy and monetary policy
+- o Private agents optimize and are forward-looking
+-  Expectations are endogenous
+- o General Equilibrium -
+-  Prices, wages and interest rates adjust to clear markets
+- o Models include economic disturbances (productivity, aggregate demand, policy, etc)
+-  Models are estimated
+-  Can characterize uncertainty
+
+Structure
+
+Firms
+
+-  Employ workers and rent capital
+-  Set prices and prices adjust slowly
+- o Pricing behavior produces a Phillips Curve
+-  Shocks
+- o Productivity
+- o Price mark-up
+
+Household Sector
+
+-  Own firms and capital
+-  Supply labor
+-  Make consumption and saving decisions
+-  Wages adjust slowly
+-  Shocks
+- o Efficiency of investment shocks
+- o Labor supply shocks
+- o Intertemporal Preference Shocks (affect consumption relative to saving)
+
+Policy
+
+-  Fiscal Policy
+-  Monetary Policy
+-  Shocks
+- o Government spending shocks
+- o Monetary policy shocks
+
+Exhibit 2
+
+Implementation and Uses
+
+-  Estimation
+- o Incorporate priors based on microdata
+- o Characterize uncertainty
+-  Uses
+- o Forecasting
+-  Variables used in estimating the model
+-  Variables not in the model
+-  Nowcasting
+- o Identification
+-  Identify economic disturbances
+- o Alternative policies
+-  Structural nature of models lets one analyze alternative policies
+
+Pitfalls
+
+-  Models are relatively small
+-  Models are approximations
+-  Models lack features important for some applications
+-  Some parameters are more policy invariant than others
+
+Exhibit 3
+
+Year-over-Year Growth
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Spread of Baa to 10yr CMT
+
+<!-- missing-text -->
+
+Great Recession
+
+-  Important for its severity and its lingering effect on current forecasts
+-  Above figure displays some key variables
+- o Sharpest 4 quarter decline in GDP since Great Depression
+- o Decline in BFI especially severe
+- o Large and persistent job losses
+- o Only a subdued decline in inflation
+-  Challenge for models because only New York includes a fully developed financial sector
+-  Nevertheless models reach broadly similar conclusions
+- o New York model indicates the disturbance was associated with an increase in spreads
+- o EDO attributes much of what occurred to an increase in risk premia
+- o Chicago and Philadelphia find that investment efficiency shocks and discount rate shocks are the prime drivers
+-  These shocks reduce aggregate demand and have a financial interpretation
+- o Zero lower bound on interest rates also played a significant role in some of the models
+
+Exhibit 5
+
+<!-- missing-text -->
+
+For each individual forecast, the numbers in parentheses represent 68% bands.
+
+- The median forecast is calculated as the median of the Q4/04 projections from the forecasters.
+
+Exhibit 6 GDP
+
+-  Economy is in recovery with 3 models forecasting above trend output growth
+- o Philadelphia and Chicago foresee a strong recovery
+-  Due to the internal dynamics of models as effects of negative demand shocks dissipate
+- o EDO envisions approximately trend growth
+- o New York expects slightly below trend growth
+-  Financial headwinds have lingering effects in the latter two models
+
+g
+
+Real GDP Growth
+
+<!-- missing-text -->
+
+Exhibit 7 Inflation
+
+-  Inflation remains subdued over the forecast horizon
+- o New York forecasts 1.5% inflation by the end of 2013
+- o EDO and Philadelphia expect inflation to be between 1.3% and 1.4%  at the end of the forecast horizon
+-  In EDO this is a result of labor market slack
+- o Chicago projects a sharp decline in inflation
+
+Core PCE Inflation
+
+<!-- missing-text -->
+
+Exhibit 8 Monetary Policy
+
+-  Paths for monetary policy are somewhat different but none of the models project significant tightening
+- o Philadelphia, NY, and Chicago impose an 'extended period' of zero interest rates until mid 2012.
+- o By the end of 2012 the models expect the funds rate to be 0.6% (Philadelphia) 0.9% (NY), 1.0% (Chicago), and 1.6% (EDO)
+-  The modest to measured policy response is largely due to the benign projections for inflation
+
+Federal Funds Rate
+
+2013Q4
+
+<!-- missing-text -->
+
+Appendix 2:  Materials used by Chairman Bernanke
+
+J
+
+A
+
+Material for FOMC Discussion of Exit Strategy Principles
+
+Exit Strategy Principles
+
+In light of discussions at the April and June FOMC meetings, the Committee has reached broad agreement on the key elements of the strategy that it expects to follow in normalizing the stance and conduct of monetary policy:
+
+- 1. The Committee will determine the timing and pace of policy normalization to promote its statutory mandate of maximum employment and price stability.
+- 2. To begin the process of policy normalization, the Committee will likely first cease reinvesting some or all payments of principal on the securities holdings in the System Open Market Account (SOMA).
+- 3. At the same time or relatively soon thereafter, the Committee will modify its forward guidance on the path of the federal funds rate and will initiate temporary reserve-draining operations aimed at supporting the implementation of increases in the federal funds rate when appropriate.
+- 4. When economic conditions warrant, the Committee's next step in the process of policy normalization will be to begin raising its target for the federal funds rate . [The Committee currently anticipates that the first increase will be three to six months after the modification of the forward guidance.] , and f F rom that point on, changing the level or range of the federal funds rate target will be the primary means of adjusting the stance of monetary policy. During the normalization process, adjustments to the interest rate on excess reserves and to the level of reserves in the banking system will be used to bring the funds rate toward its target.
+- 5. Sales of agency securities from the SOMA will likely commence sometime after the first increase in the target for the federal funds rate, probably within a few months.  The timing and pace of sales will be communicated to the public in advance; that pace is anticipated to be relatively gradual and steady, but it could be adjusted in response to material changes in the economic outlook or financial conditions.
+- 6. The pace of sales is expected to be aimed at eliminating our holdings of agency securities over a period of four to five years, thereby minimizing the extent to which the SOMA portfolio might affect the allocation of credit across sectors of the economy.  Sales at this pace would be expected to normalize the size of the SOMA securities portfolio over a period of about three years.  In particular, the size of the securities portfolio and the associated quantity of bank reserves are expected to be reduced to levels that would be consistent with the implementation of monetary policy through the use of conventional open market operations to keep the federal funds rate  near its target [ | within a corridor defined below by the interest rate paid on excess reserves and above by the primary credit rate] .
+- 7. The Committee is prepared to make adjustments to its exit strategy if necessary in light of economic and financial developments.
+
+Appendix 3:  Materials used by Mr. Sack
+
+J
+
+2
+
+Material for
+
+FOMC Presentation:
+
+Financial Market Developments and Desk Operations
+
+Brian Sack
+
+June 21, 2011
+
+(1) Implied Federal Funds Rate Path*
+
+<!-- missing-text -->
+
+(3) Economic News Index*
+
+<!-- missing-text -->
+
+(5) Breakeven Inflation Rates
+
+<!-- missing-text -->
+
+Source: Federal Reserve Board of Governors
+
+<!-- missing-text -->
+
+*Average response from dealer survey.
+
+Source: Federal Reserve Bank of New York Policy Survey
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Markets Group deflation probability model based on TIPS security maturing in April 2014. Last observation is 06/13/11.
+
+Source: Barclays Capital, Federal Reserve Bank of New York
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source: Federal Reserve Board of Governors
+
+BPS
+
+<!-- missing-text -->
+
+Source: Bloomberg
+
+<!-- missing-text -->
+
+(13) Treasury Debt Outstanding
+
+<!-- missing-text -->
+
+(15) Treasury Bill Curve
+
+<!-- missing-text -->
+
+- · Outright purchases of Treasury securities
+- · Rollover of maturing Treasury securities
+- · Securities lending activity
+- · Ability to conduct repurchase agreements
+- · Accounting and reporting of SOMA
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+(18) Short-Term Funding Rates*
+
+- *5 day moving average.
+
+<!-- missing-text -->
+
+Source: Federal Reserve Bank of New York
+
+(19) SOMA Purchases of Treasury Securities
+
+<!-- missing-text -->
+
+*Projection reflects assumption that reinvestments continue through year end. Source: Federal Reserve Bank of New York
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+(20) Proposed Distribution of Reinvestments Compared to LSAP 2
+
+<!-- missing-text -->
+
+Source: Federal Reserve Bank of New York
+
+(22) 10-Year Treasury Bid-Ask Spread*
+
+<!-- missing-text -->
+
+End of Year
+
+<!-- missing-text -->
+
+Source: Federal Reserve Bank of New York Policy Survey
+
+J
+
+2
+
+Appendix 4:  Materials used by Mr. Slifman, Ms. Wilson, Mr. Reeve, and Mr. Covitz
+
+Material for
+
+Staff Presentation on the Economic Outlook
+
+June 21-22, 2011
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Europe
+
+10-year Sovereign Bonds Spreads*
+
+<!-- missing-text -->
+
+Projected Debt-to-GDP*
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- * Core Europe defined as Belgium, France, Germany, the Netherlands, Switzerland, and the United Kingdom.
+
+Source: U.S. Country Exposure Report, BIS, and ECB. Corrected for break in series and excluding exposure from derivatives contracts.
+
+<!-- missing-text -->
+
+Euro-Dollar Exchange Rate
+
+Euro-area Stock Prices
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Global Outlook
+
+Real GDP*
+
+Percent change, annual rate
+
+<!-- missing-text -->
+
+- * GDP aggregates weighted by U.S. goods exports.
+
+Foreign Mfg. PMI ex. Japan
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- * OIS rates less one basis point per month term premium adjustment.
+
+First-Quarter Real GDP
+
+Exhibit 7
+
+Outlook for U.S. External Sector
+
+<!-- missing-text -->
+
+Forecasting Commodity Prices
+
+WTI Crude Oil Futures*
+
+Why Flat Futures Curves?
+
+<!-- missing-text -->
+
+Source: Bloomberg.
+
+EME Asia IP Consensus Forecasts
+
+Percent change over previous year
+
+<!-- missing-text -->
+
+- Market participants can arbitrage between spot and futures prices through inventories.
+- Costs and benefits of holding inventories create a wedge between spot and futures prices.
+- When these costs and benefits are not large, futures will be flat.
+
+New Forecasting Approach
+
+- Adjust futures to account for market surprises for global growth and the dollar.
+- Predict surprises as difference between staff forecast and private forecasts.
+- Map surprises into prices based on historical relationships.
+
+Source: Consensus Economics, April issues.
+
+Past Forecasts Under Both Methods
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Forecasting Commodity Prices (continued)
+
+Features of New Approach
+
+Forecasting Performance, One Year Ahead*
+
+- No improvement in forecasting accuracy.
+- Improves consistency with Tealbook forecast.
+- Provides simple framework for characterizing risks.
+- * From August 2002 to January 2010.
+
+<!-- missing-text -->
+
+Alternative Scenarios for Oil Prices
+
+World GDP Growth
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+World GDP Growth
+
+<!-- missing-text -->
+
+Dollar
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Appendix 5:  Materials used by Mr. Carpenter
+
+J
+
+2
+
+Material for Briefing on
+
+FOMC Participants' Economic Projections
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+NOTE: The changes in real GDP and inflation are measured Q4/Q4
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Appendix 6:  Materials used by Mr. English
+
+J
+
+2
+
+Material for FOMC Briefing on Monetary Policy Alternatives
+
+Bill English
+
+June 22, 2011
+
+APRIL FOMC STATEMENT
+
+- 1. Information received since the Federal Open Market Committee met in March indicates that the economic recovery is proceeding at a moderate pace and overall conditions in the labor market are improving gradually.  Household spending and business investment in equipment and software continue to expand.  However, investment in nonresidential structures is still weak, and the housing sector continues to be depressed.  Commodity prices have risen significantly since last summer, and concerns about global supplies of crude oil have contributed to a further increase in oil prices since the Committee met in March.  Inflation has picked up in recent months, but longer-term inflation expectations have remained stable and measures of underlying inflation are still subdued.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The unemployment rate remains elevated, and measures of underlying inflation continue to be somewhat low, relative to levels that the Committee judges to be consistent, over the longer run, with its dual mandate.  Increases in the prices of energy and other commodities have pushed up inflation in recent months.  The Committee expects these effects to be transitory, but it will pay close attention to the evolution of inflation and inflation expectations.  The Committee continues to anticipate a gradual return to higher levels of resource utilization in a context of price stability.
+- 3. To promote a stronger pace of economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate, the Committee decided today to continue expanding its holdings of securities as announced in November.  In particular, the Committee is maintaining its existing policy of reinvesting principal payments from its securities holdings and will complete purchases of $600 billion of longer-term Treasury securities by the end of the current quarter.  The Committee will regularly review the size and composition of its securities holdings in light of incoming information and is prepared to adjust those holdings as needed to best foster maximum employment and price stability.
+- 4. The Committee will maintain the target range for the federal funds rate at 0 to ¼ percent and continues to anticipate that economic conditions, including low rates of resource utilization, subdued inflation trends, and stable inflation expectations, are likely to warrant exceptionally low levels for the federal funds rate for an extended period.
+- 5. The Committee will continue to monitor the economic outlook and financial developments and will employ its policy tools as necessary to support the economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate.
+
+JUNE FOMC STATEMENT-ALTERNATIVE A
+
+- 1.   Information received since the Federal Open Market Committee met in April suggests that the economic recovery is continuing at a moderate pace , though more slowly than the Committee had expected . Moreover, a number of indicators suggest a loss of momentum in the labor market.  The slower pace of the recovery reflects in part some factors that are likely to be temporary, including the damping effect of higher food and energy prices on consumer purchasing power and spending as well as supply chain disruptions associated with the tragic events in Japan. Household spending and business investment in equipment and software continue to expand.  However, investment in nonresidential structures is still weak, and the housing sector continues to be depressed. Inflation has picked up in recent months, mainly reflecting higher prices for some commodities and imported goods, as well as the recent supply chain disruptions . Although firms are facing cost pressures from high commodity prices, the pass-through into the prices of non-energy consumer goods and services has been relatively limited, and longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The unemployment rate remains elevated ; however, the Committee expects the pace of recovery to pick up over coming quarters and the unemployment rate to resume its gradual decline toward levels that the Committee judges to be consistent with its dual mandate. The Committee perceives that the downside risks to the economic outlook have increased somewhat. Inflation has moved up recently, but the Committee anticipates that inflation will subside to levels at or below those consistent with the Committee's dual mandate as the effects on inflation of past energy and other commodity price increases dissipate .
+- 3. To promote the ongoing economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate, the Committee is keeping the target range for the federal funds rate at 0 to ¼ percent and now anticipate s that economic conditions-including low rates of resource utilization and a subdued outlook for inflation over the medium run -are likely to warrant exceptionally low levels for the federal funds rate at least through the end of 2012 .  The Committee likewise anticipates that economic conditions will warrant the maintenance of its existing policy of reinvesting principal payments from its securities holdings at least through mid-2012 . The Committee will complete its purchases of $600 billion of longer-term Treasury securities by the end of this month .  The Committee will regularly review the size and composition of its securities holdings and is prepared to expand those holdings if needed .
+- 4. The Committee will monitor the economic outlook and financial developments and will act as needed to best foster maximum employment and price stability.
+
+JUNE FOMC STATEMENT-ALTERNATIVE B
+
+- 1. Information received since the Federal Open Market Committee met in April indicates that the economic recovery is continuing at a moderate pace , though somewhat more slowly than the Committee had expected . Some indicators also suggest a loss of momentum in the labor market.  The slower pace of the recovery reflects in part some factors that are likely to be temporary, including the damping effect of higher food and energy prices on consumer purchasing power and spending as well as supply chain disruptions associated with the tragic events in Japan. Household spending and business investment in equipment and software continue to expand.  However, investment in nonresidential structures is still weak, and the housing sector continues to be depressed.  Inflation has picked up in recent months, mainly reflecting higher prices for some commodities and imported goods, as well as the recent supply chain disruptions . However, longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The unemployment rate remains elevated ; however, the Committee expects the pace of recovery to pick up over coming quarters and the unemployment rate to resume its gradual decline toward levels that the Committee judges to be consistent with its dual mandate.  Inflation has moved up recently, but the Committee anticipates that inflation will subside to levels at or below those consistent with the Committee's dual mandate as the effects on inflation of past energy and other commodity price increases dissipate . However, the Committee will continue to pay close attention to the evolution of inflation and inflation expectations.
+- 3. To promote the ongoing economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate, the Committee decided today to maintain the current degree of monetary policy accommodation .  In particular, the Committee will keep the target range for the federal funds rate at 0 to ¼ percent and continues to anticipate that economic conditions-including low rates of resource utilization and a subdued outlook for inflation over the medium run -are likely to warrant exceptionally low levels for the federal funds rate for an extended period.  The Committee will complete its purchases of $600 billion of longer-term Treasury securities by the end of this month and will maintain its existing policy of reinvesting principal payments from its securities holdings.  The Committee will regularly review the size and composition of its securities holdings and is prepared to adjust those holdings as appropriate .
+- 4. The Committee will monitor the economic outlook and financial developments and will act as needed to best foster maximum employment and price stability.
+
+JUNE FOMC STATEMENT-ALTERNATIVE C
+
+- 1. Information received since the Federal Open Market Committee met in April indicates that the economic recovery is continuing at a moderate pace , though somewhat more slowly than the Committee had expected . Some indicators also suggest a loss of momentum in the labor market.  The slower pace of the recovery reflects in part some factors that are likely to be temporary, including the damping effect of higher food and energy prices on consumer purchasing power and spending as well as supply chain disruptions associated with the tragic events in Japan. Household spending and business investment in equipment and software continue to expand.  However, investment in nonresidential structures is still weak, and the housing sector continues to be depressed.  Inflation has picked up in recent months, as firms are facing cost pressures from increased commodity prices and import prices have risen .  Longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The unemployment rate remains elevated ; however, the Committee expects the pace of recovery to pick up over coming quarters and the unemployment rate to resume its gradual decline toward levels that the Committee judges to be consistent with its dual mandate.  Inflation has moved up recently, but the Committee anticipates that inflation will subside to levels at or below those consistent with the Committee's dual mandate as the effects on inflation of past energy and other commodity price increases dissipate . However, the upside risks to inflation have increased somewhat, and the Committee will continue to pay close attention to the evolution of inflation and inflation expectations.
+- 3. In order to help ensure that economic activity and inflation, over time, are at levels consistent with its mandate, the Committee decided today to keep the target range for the federal funds rate at 0 to ¼ percent and anticipate  that economic conditions-including low s rates of resource utilization and a subdued outlook for inflation over the medium run -are likely to warrant exceptionally low levels for the federal funds rate for some time .  The Committee will complete its purchases of $600 billion of longer-term Treasury securities by the end of this month . In July, the Committee will begin a gradual reduction in the current extraordinary degree of policy accommodation by discontinuing its policy of reinvesting principal payments from its holdings of agency securities and Treasury securities .  The Committee will regularly review the size and composition of its securities holdings and is prepared to adjust those holdings as appropriate .
+- 4. The Committee will monitor the economic outlook and financial developments and will act as needed to best foster maximum employment and price stability.
+
+April 2011 FOMC Directive
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to execute purchases of longer-term Treasury securities in order to increase the total face value of domestic securities held in the System Open Market Account to approximately $2.6 trillion by the end of June 2011. The Committee also directs the Desk to reinvest principal payments from agency debt and agency mortgage-backed securities in longer-term Treasury securities.  The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+.
+
+June 2011 FOMC Directive - Alternative A
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to execute complete purchases of $600 billion of longer-term Treasury securities in order to increase the total face value of domestic securities held in the System Open Market Account to approximately $2.6 trillion by the end of June 2011 this month .  The Committee also directs the Desk to maintain its existing policy of reinvest ing principal payments from agency debt and agency mortgage backed on all domestic securities in the System Open Market Account in longer term Treasury securities in order to maintain the total face value of domestic securities at approximately $2.6 trillion .  The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+June 2011 FOMC Directive - Alternative B
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to execute complete purchases of $600 billion of longer-term Treasury securities in order to increase the total face value of domestic securities held in the System Open Market Account to approximately $2.6 trillion by the end of June 2011 this month .  The Committee also directs the Desk to maintain its existing policy of reinvest ing principal payments from agency debt and agency mortgage backed on all domestic securities in the System Open Market Account in longer term Treasury securities in order to maintain the total face value of domestic securities at approximately $2.6 trillion .  The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+June 2011 FOMC Directive - Alternative C
+
+The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to execute complete purchases of $600 billion of longer-term Treasury securities in order to increase the total face value of domestic securities held in the System Open Market Account to approximately $2.6 trillion by the end of June 2011 this month .  The Committee also directs the Desk to cease all reinvest ment of principal payments from agency debt and agency mortgage backed securities in longer term Treasury on domestic securities in the System Open Market Account from the beginning of July 2011 . The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+Appendix 7:  Materials used by Ms. Yellen
+
+J
+
+2
+
+J
+
+une 21-22, 2011
+
+FOMC Policy on External Communications of Federal Reserve System Staff 1
+
+Preamble
+
+In the course of making monetary policy decisions, the Federal Open Market Committee (FOMC) makes extensive use of background materials prepared by the staff of the Federal Reserve System, and senior staff give regular briefings at FOMC meetings.  In addition, staff are directly involved in the implementation and communication of the Committee's policy decisions.
+
+Federal Reserve System staff have contacts with members of the public in the process of gathering information about current economic and financial conditions. In addition, staff synthesize that information using a variety of analytical methods and statistical tools, and the continual refinement of these methods and tools is facilitated by ongoing interactions with academic researchers, staff at foreign central banks, and other outside analysts.  Finally, staff play a significant role in helping the public understand the rationale for FOMC decisions.
+
+To reinforce the public's confidence in the transparency and integrity of the monetary policy process, the FOMC has established the following principles to govern the public contacts of Federal Reserve System staff who have access to confidential FOMC information.   The FOMC maintains responsibility for 2 ensuring that all System staff abide by these principles.  Specifically, the President of each Federal Reserve Bank is responsible for ensuring the confidentiality of FOMC information at that Bank and for the conduct and discretion of that Bank's staff with regard to the use of that information, and the Chairman fulfills this role for Board staff.
+
+J
+
+General Principles
+
+- 1.  Federal Reserve staff play a significant role in enhancing public understanding of the FOMC's actions, thereby promoting the effectiveness of monetary policy. In all communications with the public regarding monetary policy issues, members of the official staff should refrain from publicly expressing their own personal views regarding prospective monetary policy decisions and should never speculate about future monetary policy decisions or actions that have not been announced by the Committee.  In explaining the rationale for announced FOMC decisions, staff should draw on Committee communications, the Chairman's press conference remarks, and other published materials as appropriate.  Whenever staff make public comments on monetary policy, they should clearly indicate that those comments are solely their own responsibility and should not be interpreted as representing the views of the FOMC, its principals, or any other person associated with the Federal Reserve System.
+- 2.  To foster the ongoing frank exchange of views at FOMC meetings, staff will refrain from characterizing such discussions-apart from what has been published in the minutes of each FOMC meeting-in any contact with an individual, firm, or organization outside of the Federal Reserve System.
+- 3.  To protect the independence of the FOMC's decision-making process from short-term political pressures, members of the official staff will strive to avoid any appearance of political partisanship in their contacts with the public.
+- 4.  Staff will carefully safeguard all confidential FOMC information. 3 No confidential information may be released except pursuant to Committee instructions or with written authorization from the Chairman and prompt notification to the Committee.
+- 5.  To ensure that no member of the public is able to profit financially from acquiring nonpublic information about economic and financial conditions or about the methods and tools that are currently being used to assess those conditions, staff will not provide such information to any individual, firm, or organization outside of the Federal Reserve System unless the information has been cleared for publication and is made widely available to the public.
+
+- 6.  Staff will strive to ensure that their contacts with members of the public do not provide any profit-making person or organization with a prestige advantage over its competitors.  They will consider this principle carefully and rigorously in considering invitations to speak at meetings sponsored by profit-making organizations and in scheduling meetings with anyone who might benefit financially from apparently-exclusive contacts with Federal Reserve staff.
+- 7.  To facilitate the effectiveness of the Committee's policy deliberations and the clarity of its communications, staff observe the blackout period on monetary policy communication that begins on the Tuesday morning of the week prior to each regularly-scheduled FOMC meeting and ends at midnight Eastern Time on the Thursday following the meeting.  During each blackout period, staff refrain from providing information to members of the public about macroeconomic or financial developments or about current or prospective monetary policy issues unless that information has already been cleared for publication and made widely available to the public prior to the blackout period.
+
+Practical Examples
+
+To assist Federal Reserve System staff in understanding the application of these principles, the FOMC has considered how the principles should be applied to some common requests for public contact.  For example, the following contacts would generally be consistent with the Committee's policy on external communications, as long as the staff member carefully adheres to all of the principles listed above during the contact itself:
+
+- 1. A presentation at a widely-attended meeting, where the event is organized by a non-profit entity and does not involve fundraising.  Such a meeting might be sponsored by an academic institution, non-profit organization, or civic or trade association (such as a chamber of commerce or a state or national bankers' association).
+- 2. A private meeting with members of the public-such as bankers, community representatives, industry representatives, or labor representatives-to collect information about current economic and financial conditions, without disseminating any information that is not widely available to the public. Whenever practical, at least two Federal Reserve staff should be present at such a meeting.
+
+J
+
+In contrast, the following contacts would not be consistent with the principles set out above:
+
+- 1.  Disclosure of confidential FOMC information.
+- 2.  Disclosure or characterization of the views expressed at an FOMC meeting.
+- 3.  Disclosure of an FOMC participant's personal views on monetary policy that have not previously been communicated to the public.
+- 4.  Public communications in which a Federal Reserve officer expresses personal opinions about prospective monetary policy decisions.
+- 5.  A prediction to members of the public about Committee action prior to the Committee's announcement of such decisions.
+- 6.  A private meeting with selected clients of a regulated entity or financial firm to discuss monetary policy.
+
+Of course, the foregoing examples are not intended to serve as an exhaustive list, and hence good judgment will be essential in applying these principles.  Moreover, whenever staff are unsure about whether specific contacts with the public would be appropriate, they should consult in advance with the appropriate staff person or with the head of their respective institution-namely, the Chairman in the case of staff at the Board of Governors, and the President in the case of staff at a Federal Reserve Bank.
+
+J
+
+J
+
+FOMC Policy on External Communications of Committee Participants 1
+
+Preamble
+
+The Federal Open Market Committee (FOMC) is committed to providing clear and timely information to the public about the Committee's monetary policy actions and the rationale for those decisions.  Indeed, considerable evidence indicates that central bank transparency increases the effectiveness of monetary policy and enables households and businesses to make better-informed decisions.
+
+Two-way communication with the public is a crucial element in the FOMC's monetary policy process.  Committee participants have regular contacts with members of the public as part of the process of gathering the information the Committee needs to understand current economic and financial conditions. In addition, the FOMC's public accountability is strengthened by open discussion of Committee participants' views about the economic outlook as well as their judgments about the appropriate course of monetary policy.
+
+Therefore, to reinforce the public's confidence in the transparency and integrity of the monetary policy process, the FOMC has established the following principles to govern Committee participants' contacts with members of the public.  The FOMC itself maintains responsibility for ensuring that all Committee participants-that is, the members of the Federal Reserve Board and the presidents of the Federal Reserve Banks-abide by these principles. 2
+
+General Principles
+
+- 1.  Committee participants will endeavor to enhance the public's understanding of monetary policy.  They are free to explain their individual views but are expected to do so in a spirit of collegiality and to refrain from characterizing the views of other individuals on the Committee.  In explaining the rationale for announced FOMC decisions, participants will draw on Committee communications and the Chairman's press conference remarks as appropriate.
+
+- 2.  To foster the ongoing frank exchange of views at FOMC meetings, Committee participants will refrain from publicly characterizing such discussions beyond what has been published in the minutes of each FOMC meeting.
+- 3.  To protect the independence of the FOMC's decision-making process from short-term political pressures, participants will strive to avoid any appearance of political partisanship and will be prudent in selecting venues for their speaking engagements.
+- 4.  FOMC participants will carefully safeguard all confidential information. 3 No confidential FOMC information may be released except pursuant to Committee instructions or with written authorization from the Chairman and prompt notification to the FOMC.
+- 5.  To the fullest extent possible, Committee participants will refrain from describing their personal views about monetary policy in any meeting or conversation with any individual, firm, or organization who could profit financially from acquiring that information unless those views have already been expressed in their public communications.
+- 6.  Committee participants will strive to ensure that their contacts with members of the public do not provide any profit-making person or organization with a prestige advantage over its competitors.  They will consider this principle carefully and rigorously in scheduling meetings with anyone who might benefit financially from apparently exclusive contacts with Federal Reserve officials and in considering invitations to speak at meetings that are sponsored by profit-making organizations or that are closed to the public and the media.
+- 7.  To facilitate the effectiveness of the Committee's policy deliberations and the clarity of its communications, participants observe a blackout period on monetary policy communication that begins on the Tuesday morning of the week prior to each regularly-scheduled FOMC meeting and ends at midnight Eastern Time on the Thursday following the meeting.  During each blackout period, participants refrain from expressing their views about macroeconomic developments or monetary policy issues in meetings or conversations with members of the public.
+
+J
+
+J
+
+Practical Examples
+
+To assist FOMC participants in understanding the application of these principles, the Committee has considered how the principles should be applied to some common requests for public contact.  For example, the following contacts would generally be consistent with the Committee's policy on external communications, as long as the participant carefully adheres to all of the principles listed above during the contact itself:
+
+- 1.  A speech on a monetary policy topic at a widely-attended event with press in attendance, where the event is organized by a non-profit entity and does not involve fundraising.  Such a speech might be given at an academic institution, a conference sponsored by a non-profit organization, or a meeting sponsored by a civic or trade association (such as a chamber of commerce or a state or national bankers' association).
+- 2.  An interview with the press regarding the participant's personal views on monetary policy issues.
+- 3.  A private meeting with members of the public-such as bankers, community representatives, industry representatives, or labor representatives-to collect information about the economy without disseminating any information about the participant's personal views on monetary policy unless those views have already been expressed in their public communications.  Whenever practical, a public information officer or other Federal Reserve staff should be present at such a meeting.
+
+In contrast, the following contacts would not be consistent with the principles set out above:
+
+- 1.  Disclosure in any setting of confidential FOMC information.
+- 2.  Disclosure or characterization in any setting of the views that others expressed at an FOMC meeting.
+- 3.  A prediction about Committee action in advance of the Committee announcement of its decision.
+- 4.  A private meeting with selected clients of a regulated entity or financial firm to discuss monetary policy.
+
+Of course, the foregoing examples are not intended to serve as an exhaustive list, and hence good judgment will be essential in applying these principles.
+
+Appendix 8:  Materials used by Chairman Bernanke
+
+J
+
+2
+
+Exit Strategy Principles
+
+In light of discussions at the April and June FOMC meetings, the Committee has reached broad agreement on the key elements of the strategy that it expects to follow in normalizing the stance and conduct of monetary policy:
+
+- 1. The Committee will determine the timing and pace of policy normalization to promote its statutory mandate of maximum employment and price stability.
+- 2. To begin the process of policy normalization, the Committee will likely first cease reinvesting some or all payments of principal on the securities holdings in the System Open Market Account (SOMA).
+- 3. At the same time or sometime relatively soon thereafter, the Committee will modify its forward guidance on the path of the federal funds rate and will initiate temporary reservedraining operations aimed at supporting the implementation of increases in the federal funds rate when appropriate.
+- 4. When economic conditions warrant, the Committee's next step in the process of policy normalization will be to begin raising its target for the federal funds rate, and from that point on, changing the level or range of the federal funds rate target will be the primary means of adjusting the stance of monetary policy.  During the normalization process, adjustments to the interest rate on excess reserves and to the level of reserves in the banking system will be used to bring the funds rate toward its target.
+- 5. Sales of agency securities from the SOMA will likely commence sometime after the first increase in the target for the federal funds rate, probably within a few months.  The timing and pace of sales will be communicated to the public in advance; that pace is anticipated to be relatively gradual and steady, but it could be adjusted up or down in response to material changes in the economic outlook or financial conditions.
+- 6. The pace of sales is expected to be aimed at eliminating our holdings of agency securities over a period of [ three | four ] to five years, thereby minimizing the extent to which the SOMA portfolio might affect the allocation of credit across sectors of the economy.  Sales at this pace would be expected to normalize the size of the SOMA securities portfolio over a period of [ two to three | about three ] years.  In particular, the size of the securities portfolio and the associated quantity of bank reserves are expected to be reduced to the smallest levels that would be consistent with the efficient implementation of monetary policy through the use of conventional open market operations to keep the federal funds rate near its target.
+- 7. The Committee is prepared to make adjustments to its exit strategy if necessary in light of economic and financial developments.

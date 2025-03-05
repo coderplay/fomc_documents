@@ -1,0 +1,2938 @@
+Prefatory Note
+
+The attached document represents the most complete and accurate version available based on original files from the FOMC Secretariat at the Board of Governors of the Federal Reserve System.
+
+Please note that some material may have been redacted from this document if that material was received on a confidential basis.  Redacted material is indicated by occasional gaps in the text or by gray boxes around non-text content.  All redacted passages are exempt from disclosure under applicable provisions of the Freedom of Information Act.
+
+Part 2
+
+June 20, 2007
+
+CURRENT ECONOMIC AND FINANCIAL CONDITIONS
+
+Recent Developments
+
+Class III FOMC - Internal (FR)
+
+June 20, 2007
+
+Recent Developments
+
+Domestic Nonfinancial Developments
+
+Domestic Nonfinancial Developments
+
+The incoming data suggest that economic activity is expanding at a moderate rate.  In the labor market, payrolls continue to grow at a solid pace, and the unemployment rate remains relatively low.  Equipment spending, which had faltered around the turn of the year, picked up in March and April, and nonresidential construction has stayed robust so far this quarter.  In addition, the drag from the inventory correction that held down activity late last year and early this year appears to have about run its course in most industries.  Consumer outlays, which rose rapidly in the first quarter, have slowed recently, but income gains have remained solid.  In the housing sector, construction remains weak as builders respond to high inventories of unsold new homes.  Top-line inflation has been boosted by rising energy prices in the past few months, but core inflation has been subdued of late.
+
+Labor Market Developments
+
+Labor demand has been expanding at a moderate pace recently.  Private payroll employment, after having increased at an average rate of about 165,000 per month during the second half of 2006, has decelerated to an average increase of 108,000 jobs per month so far this year.  The recent job gains have been propelled by strong hiring in the service sector, while employment in goods-producing industries has continued to decline.  In May, the rise in payroll employment, combined with a slightly longer workweek, boosted aggregate hours of private production or nonsupervisory workers to a level 0.7 percent (not at an annual rate) above the first-quarter average.
+
+In the household survey, the unemployment rate held steady at 4.5 percent in May and has been largely unchanged for eight months.  The number of job losers unemployed less than five weeks as a percentage of employment-a proxy for the layoff rate-also has moved little, on net, so far this year; in May, the three-month moving average was about equal to the level in the fourth quarter of last year.  However, the number of unemployed job losers has edged up since the fourth quarter, an indication, perhaps, that transitions out of unemployment have slowed.  Meanwhile, the labor force participation rate remained at 66.0 percent in May after having fallen 0.2 percentage point in April.
+
+Other indicators of labor demand have been mixed.  The four-week moving average of initial claims for unemployment insurance stood at 311,000 in the week ending June 9, a level consistent with solid employment gains.  As noted above, the current pace of layoffs, as measured by the CPS, appears to have held about steady so far this year.  In addition, hiring plans, as measured by Manpower and the National Federation of Independent Business (NFIB), remain elevated.  In contrast, job openings and hires, as
+
+400
+
+300
+
+200
+
+100
+
+0
+
+-100
+
+-200
+
+-300
+
+-400
+
+Changes in Employment
+
+(Thousands of employees; seasonally adjusted)
+
+<!-- missing-text -->
+
+- 1. Nonbusiness services comprises education and health, leisure and hospitality, and "other."
+- 2. Establishment survey.  Annual data are percent changes from Q4 to Q4.  Quarterly data are percent changes from preceding quarter at an annual rate.  Monthly data are percent changes from preceding month.
+- 3. Establishment survey.
+
+Changes in Private Payroll Employment
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Selected Unemployment and Labor Force Participation Rates
+
+(Percent; seasonally adjusted)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+<!-- missing-text -->
+
+Labor Market Indicators
+
+Layoffs
+
+Unemployment Insurance
+
+<!-- missing-text -->
+
+Net Hiring Plans
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+150
+
+120
+
+90
+
+60
+
+<!-- missing-text -->
+
+Note. Percent planning an increase in employment
+
+Layoff Announcements
+
+<!-- missing-text -->
+
+Note. Seasonally adjusted by FRB staff.
+
+Source. Challenger, Gray, and Christmas, Inc.
+
+<!-- missing-text -->
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+minus percent planning a reduction.
+
+* Seasonally adjusted by FRB staff.
+
+Labor Market Tightness
+
+Job Availability
+
+Hard-to-Fill Positions
+
+<!-- missing-text -->
+
+Note. Proportion of households believing jobs are plentiful, minus the proportion believing jobs are hard to get, plus 100. Source. Conference Board
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+<!-- missing-text -->
+
+Note. Percent of small businesses surveyed with at least one "hard-to-fill" job opening. Seasonally adjusted by FRB staff.
+
+Source. National Federation of Independent Business.
+
+reported by the Bureau of Labor Statistics in its JOLTS survey, have moderated a bit so far in 2007.  And layoff announcements, which are measured by Challenger, Gray, and Christmas, and capture future downsizing plans during the next six to twelve months, have increased lately.
+
+Measures of labor market tightness suggest that little has changed in the balance of supply and demand since the middle of last year.  The percentage of firms reporting to the NFIB that they had a hard-to-fill position was about unchanged in May and on par with the average level in 2006.  In addition, according to the Conference Board, households' assessments of job availability have continued to be relatively positive.
+
+The staff estimates that productivity in the nonfarm business sector rose at an annual rate of 1.4 percent in the first quarter after increasing at a rate of 2.1 percent in the fourth quarter of 2006.  Over the four quarters ending in the first quarter of 2007, productivity growth averaged only 1.1 percent, 0.9 percentage point less than the pace recorded during the preceding four quarters.
+
+<!-- missing-text -->
+
+- 3. All corporations doing business in the United States except banks, stock and commodity brokers,
+
+and finance and insurance companies. The sector accounts for about two-thirds of business employment.
+
+Nonfinancial corporate output is calculated as an income-side measure.
+
+Industrial Production
+
+Industrial production (IP) has increased only modestly so far in the second quarter after having been little changed, on balance, in the first quarter, when some manufacturers were restraining production to deal with a buildup of inventories.  More recently, output has been partly held back by softness in the high-tech sector.  However, forward-looking indicators-such as new orders and business surveys-point to some improvement in overall production in coming months.  In addition, the staff's flow-of-goods inventory
+
+Selected Components of Industrial Production
+
+(Percent change from preceding comparable period)
+
+<!-- missing-text -->
+
+- 1. From fourth quarter of preceding year to fourth quarter of year shown.
+- 2. Includes related electronic components.
+- ... Not applicable.
+
+Capacity Utilization
+
+(Percent of capacity)
+
+<!-- missing-text -->
+
+116
+
+112
+
+108
+
+104
+
+100
+
+96
+
+92
+
+88
+
+84
+
+80
+
+76
+
+130
+
+125
+
+120
+
+115
+
+110
+
+105
+
+100
+
+95
+
+Indicators of Industrial Activity
+
+Utilities Output
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Construction Supplies
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Production of Domestic Light Vehicles
+
+(Millions of units at an annual rate except as noted)
+
+<!-- missing-text -->
+
+Note. FRB seasonals. Components may not sum to totals because of rounding.
+
+- 1. Production rates for June and the second and third quarters reflect the latest industry schedules.
+- 2. Quarterly values are calculated with end-of-period stocks and average reported sales.
+- 3. End-of-period stocks.
+- 4. Includes medium and heavy trucks.
+- n.a. Not available.
+
+Inventories of Light Vehicles
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+system and industry anecdotes suggest that inventories should not be an impediment to future production gains in most industries. 1
+
+Manufacturing production edged up 0.1 percent in May after having risen 0.2 percent in April.  The factory operating rate in May, at 79.9 percent, was only slightly above its 1972-2006 average of 79.8 percent and 0.4 percentage point below its year-earlier level. 2 The production of motor vehicles and parts decreased 0.5 percent in May after a gain of 1.4 percent in April.  Light motor vehicle assemblies in the second quarter are on track to increase 700,000 units, to an annual rate of 10.9 million units, after sinking to a fourteenyear low of 10.2 million units in the first quarter.  Days' supply of light vehicles in May remained at automakers' desired levels, and schedules for the third quarter call for light vehicle production to rise further to 11.3 million units.   Meanwhile, production of medium and heavy trucks has continued to move lower, on balance, in response to the falloff in demand after the Environmental Protection Agency's new regulations that went into effect earlier this year.
+
+The output of high-tech industries rose at a relatively sluggish pace of about ½ percent per month, on average, in April and May, and near-term indicators-such as those in surveys of business plans for future spending on high-tech equipment-point toward continued softness for a while.  In April and May, computer production posted relatively moderate gains after a jump in the first quarter when manufacturers rolled out machines capable of handling the new Microsoft Vista operating system.  In line with this deceleration in production, Gartner expects unit shipments of personal computers to only edge up this quarter after having increased sharply in the first quarter; unit shipments of servers are also projected to rise at a more modest pace.  Communications equipment production has also softened of late after a strong showing in the first quarter.  The output of semiconductors has risen only tepidly in the past few months, and likely reflects softer demand from downstream industries-like computers and communications equipmentas well as the attempt by manufacturers to pare elevated stocks of chips.
+
+Indicators of High-Tech Manufacturing Activity
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+<!-- missing-text -->
+
+IP: Communications Equipment
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Excluding energy, motor vehicles and parts, and high-tech products, output increased 0.2 percent per month, on balance, in April and May.  The production of durable consumer goods rose in both months after having declined in the fourth and first quarters, while the output of nondurable consumer goods continued to be little changed.  The output of business equipment continued to be boosted by solid gains in the production of civilian aircraft, while other categories have continued to move lower on balance.  The production of construction supplies increased in May but remained about 2½ percent below its year-earlier level.  Days' supply of construction supplies appears to have reversed the run-up that occurred in the second half of 2006, an indication that inventory overhangs of these products are unlikely to further restrain output in the next few months. The production of industrial materials such as steel, plastic products, and nonmetallic mineral products also firmed in recent months after having been held down since late last year by weak downstream demand and excessive stocks.
+
+Near-term indicators of production have generally strengthened and are consistent with moderate production gains in the next few months.  The new orders diffusion index published by the Institute for Supply Management (ISM) increased further in May, and the various regional surveys also moved higher on balance.  The June reading of the Empire State Manufacturing Survey moved up for a third consecutive month and remained at a level associated with continued production gains.  In June, available weekly data show gains in industrial production for light motor vehicles, appliances, steel, and gasoline.
+
+Light Motor Vehicles
+
+In April and May, total sales of light vehicles averaged an annual rate of 16.1 million units, compared with a rate of 16.5 million units in the first quarter.  Lower sales at Chrysler and Ford caused the Big Three's domestic market share to slip in May to 51.6 percent, about 2 percentage points below its average level in 2006.
+
+3
+
+.
+
+.
+
+Consumer demand for light vehicles has held up despite relatively pessimistic views of car-buying conditions, heightened concern over gas prices, and the generally low level of
+
+.
+
+.
+
+Sales of Light Vehicles
+
+(Millions of units at an annual rate; FRB seasonals)
+
+<!-- missing-text -->
+
+Note.  Components may not sum to totals because of rounding.
+
+- 1. Excludes some vehicles produced in Canada that are classified as imports by the industry.
+- 2. Domestic market share excludes sales of foreign brands affiliated with the Big Three.
+
+<!-- missing-text -->
+
+Average Value of Incentives on Light Vehicles
+
+Current dollars per vehicle, ratio scale
+
+<!-- missing-text -->
+
+Note. Weighted average of customer cash rebate and interest rate reduction.  Data are seasonally adjusted. Source. J.D. Power and Associates.
+
+Car-Buying Attitudes
+
+<!-- missing-text -->
+
+Source. Reuters/University of Michigan Survey.
+
+New Light Vehicle Fuel Economy
+
+<!-- missing-text -->
+
+Source. Staff estimate based on a monthly salesweighted average of city mileage ratings for all new models of light vehicles. Data are seasonally adjusted.
+
+manufacturers' price incentives.  Consumers are apparently responding to higher fuel prices, however, as the mix of sales in May involved uncharacteristically large shifts, both away from light trucks toward autos and, within autos, toward more fuel-efficient vehicles.   As a result, the average fuel economy of new vehicles sold shot up for the 4 month.
+
+Consumer Spending
+
+Real consumer spending appears on track to post a modest gain in the second quarter after much larger increases late last year and early this year.  The deceleration primarily reflects sluggish outlays for goods in recent months.  Expenditures on services have fluctuated considerably so far this year, as unusual weather patterns have led to wide swings in spending on energy services. But cutting through the fluctuations, spending on services has been increasing at a solid clip. 5
+
+After sizable gains around the turn of the year, real spending on goods other than motor vehicles has been nearly flat since then.  Although nominal expenditures at the retail control group of stores posted a strong advance in May, after factoring in our projection for consumer prices, we estimate that real PCE control rose only 0.2 percent last month. The May reading was held down by an estimated decline of 2 percent in real purchases of gasoline, perhaps a response to the run-up in pump prices over the past few months. Indicators of near-term spending-such as weekly chain store sales and consumer sentiment-point to only modest increases in spending on goods other than motor vehicles this month and next.
+
+Consumer spending continues to be supported by the current and past performance of most fundamentals.  Regarding the latest numbers, the wealth-income ratio ticked down in the first quarter, as the stock market rose only a little and house prices remained soft, but much of the lost ground has probably been recovered as a result of the increase, on balance, in stock prices this quarter.  For income, real disposable personal income (DPI) expanded at a moderate pace, on average, in the first four months of this year, although
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+-0.5
+
+-1.0
+
+-1.5
+
+-2.0
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+Retail and Food Services Sales
+
+(Percent change from preceding period; seasonally adjusted current dollars)
+
+<!-- missing-text -->
+
+- 1. Total sales less outlays at building material and supply stores and automobile and other motor vehicle dealers.
+- 2. Total goods spending excluding autos and trucks.  The values for March, April, and Q1 are staff estimates.  The value for May is a staff forecast.
+
+Change in Real PCE Goods
+
+Change in Real PCE Services
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+-0.0
+
+-0.2
+
+-0.4
+
+-0.6
+
+-0.8
+
+-1.0
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Personal Saving Rate
+
+<!-- missing-text -->
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Fundamentals of Household Spending
+
+Changes in Nominal Wages and Salaries, Real Personal Income, and Real DPI
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note. Values for 2004:Q4 and 2005:Q4 exclude the effect on income of the one-time Microsoft dividend in December 2004.
+
+Consumer Confidence
+
+<!-- missing-text -->
+
+Index
+
+16200
+
+14200
+
+12200
+
+10200
+
+8200
+
+6200
+
+4200
+
+<!-- missing-text -->
+
+the one-time Microsoft dividend in December 2004.
+
+** Value for 2007:Q1 is a staff estimate.
+
+Q1**
+
+<!-- missing-text -->
+
+Private Housing Activity
+
+(Millions of units, seasonally adjusted; annual rate except as noted)
+
+<!-- missing-text -->
+
+- 1. Adjusted permits equal permit issuance plus total starts outside of permit-issuing areas.
+- 2. Number outstanding at end of period.  Excludes permits that have expired or have been canceled, abandoned, or revoked.  Not at an annual rate.
+- 3. At current sales rate; expressed as the ratio of seasonally adjusted inventories to seasonally adjusted sales. Quarterly and annual figures are averages of monthly figures.
+- n.a. Not available.
+
+Private Housing Starts and Permits
+
+(Seasonally adjusted annual rate)
+
+2.0
+
+1.8
+
+1.6
+
+1.4
+
+1.2
+
+1.0
+
+.8
+
+.6
+
+.4
+
+.2
+
+.0
+
+<!-- missing-text -->
+
+Note.  Adjusted permits equal permit issuance plus total starts outside of permit-issuing areas.
+
+income growth in May likely was eroded by the sharp increase in consumer prices. 6 Moreover, data from unemployment insurance tax records indicate that nominal wages and salaries were stronger in the fourth quarter than previously estimated.  However, the rise in short-term interest rates since mid-2004 may have been a restraining influence on consumer behavior.
+
+Housing
+
+Residential construction activity continues to decline as builders attempt to work off an elevated inventory of unsold new homes.  On balance, recent readings for sales of both new and existing homes have been lower than the relatively steady pace of sales posted in the second half of 2006.  Some, though not all, of this further weakening is likely related to the tightening of lending standards for nonprime borrowers that began in February. Single-family housing starts decreased 3 percent in May to an annual rate of 1.17 million units.  Adjusted permit issuance in this sector also slipped a bit further.  Starts generally have been running above adjusted permits since early last year.  The gap between these two series is typically closed by movements in starts toward permits, a sign that starts may fall further in the near term.
+
+After an upswing in February, sales of existing single-family homes dropped back in March and declined modestly in April. Sales of new homes in this sector, which plummeted early this year, jumped in April.  Smoothing through the monthly volatility, the average pace of existing home sales in March and April was 4 percent below the average in the second half of 2006, and the corresponding contraction in new home sales was 8 percent.
+
+For the most part, indicators of housing demand point to some further near-term softening.  The index of pending home sales fell 3 percent in April, a sign that sales of existing homes likely will move down in the coming months.  Mortgage rates have also moved up noticeably since the end of April.  Nonetheless, the index of mortgage purchase applications has risen 4 percent since the end of April, somewhat offsetting the weak tone of the other indicators.
+
+The inventory of new homes for sale remains at historically high levels.  Relative to the three-month average pace of sales, the months' supply in April was more than 60 percent
+
+Indicators of Single-Family Housing
+
+Home Sales
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+<!-- missing-text -->
+
+Note. The Case-Shiller price index is the 10-city index. Source. For repeat transactions, OFHEO; for average price, National Association of Realtors; for Case-Shiller, Chicago Mercantile Exchange.
+
+Note. Purchase index is a 4-week moving average and is seasonally adjusted by FRB staff.
+
+Source. For pending home sales, National Association of Realtors; for purchase index, Mortgage Bankers Assoc.
+
+Mortgage Rates
+
+<!-- missing-text -->
+
+Note. The June readings are based on data through June 13, 2007. Source. Freddie Mac.
+
+Prices of New Homes
+
+<!-- missing-text -->
+
+Note. Average price values have been adjusted by Board staff to take into account new sampling procedures adopted in 2005.
+
+Source. Census Bureau.
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+above the high end of the relatively narrow range it occupied from 1997 to 2005.
+
+.
+
+High inventories and low sales in April suggest that homebuilders may have to reduce construction even further to work off their excess inventories of unsold new homes.
+
+House-price appreciation continues to slow.  The purchase-only price index for existing homes calculated by the Office of Federal Housing Enterprise Oversight was 3 percent higher in the first quarter than its year-earlier value, a significant deceleration compared with the 10 percent appreciation in the previous four-quarter period.  Meanwhile, the average price of existing homes sold-which does not adjust for changes in the quality of homes-was flat in April.  Prices of new homes have also decelerated, although to a lesser extent than existing home prices.  However, these figures may understate the actual deceleration in the cost to purchasers of new homes because homebuilders reportedly have stepped up their use of non-price measures-such as granting more-favorable mortgage terms, paying closing costs, and including optional upgrades at no cost-to bolster sales and unload inventory.
+
+Equipment and Software
+
+The level of real spending on equipment and software (E&amp;S) appears to be about unchanged in the current quarter.  Although spending for heavy trucks continues to decline, outlays for E&amp;S other than transportation look healthier this quarter than in the previous few quarters, as shipments moved up markedly in April and May.  Moreover, orders for nondefense capital goods (excluding transportation) have improved recently, as have the ISM's monthly indexes of business conditions and several regional indexes.
+
+That said, the fundamental determinants of business spending remain mixed.  Business output has been expanding more slowly since early last year.  In addition, although the cost of capital continued to decline through the first quarter, the downtrend has likely been curtailed to some extent by the backup in corporate bond rates in recent weeks. However, firms retain ample cash in reserve to finance investment, and the latest semiannual survey of manufacturers' capital spending plans conducted by the ISM indicates that firms plan to increase their nominal expenditures at a solid pace in 2007.
+
+Expenditure increases in the high-tech sector supported the rise in overall E&amp;S spending in the first quarter, but recent data point toward a smaller increase in tech spending in the second quarter.  The growth in high-tech spending in the first quarter was possibly
+
+20
+
+17
+
+14
+
+11
+
+8
+
+5
+
+2
+
+Orders and Shipments of Nondefense Capital Goods
+
+(Percent change; seasonally adjusted current dollars)
+
+<!-- missing-text -->
+
+- 1. From Census Bureau, Current Industrial Reports; billions of dollars, annual rate.
+
+Communications Equipment
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note. Shipments and orders are deflated by a price index that is derived from the BEA's quality-adjusted price indexes and uses the PPI for communications equipment for monthly interpolation.
+
+Computers and Peripherals
+
+<!-- missing-text -->
+
+Note. Ratio scales. Shipments are deflated by the staff price index for computers and peripheral equipment, which is derived from the BEA's quality-adjusted price indexes.
+
+Note. Shipments and orders are deflated by the staff price indexes for the individual equipment types included in this category. Indexes are derived from the BEA's quality-adjusted price indexes.
+
+Medium and Heavy Trucks
+
+<!-- missing-text -->
+
+Note.  Annual rate, FRB seasonals.
+
+Source.  For class 4-8 trucks, Ward's Communications; for class 5-8 trucks, ACT Research.
+
+58
+
+52
+
+47
+
+42
+
+37
+
+32
+
+1100
+
+920
+
+800
+
+680
+
+560
+
+440
+
+320
+
+200
+
+boosted by the introduction of Microsoft's Vista operating system.  Real computer spending in the NIPAs rose at an annual rate of nearly 50 percent last quarter, and the latest Quarterly Services Survey suggests that software spending increased at a solid pace in the early part of the year.  More recently, however, high-tech spending appears to have decelerated.  The industrial production index for computers, which is one of the indicators used by the BEA to estimate spending in this category, increased less rapidly in April and May than in previous months, and the Census Bureau reported that nominal shipments of computers and peripheral equipment declined in April for a second consecutive month.  Some surveys tracking business spending plans for high-tech equipment, such as those conducted recently by the NABE and by CIO magazine, also point to a moderation.  Similarly, the guidance offered by telecommunications service providers for their capital expenditures in 2007 is consistent with a modest increase for the year as a whole.
+
+Business outlays on transportation equipment appear set for another decline this quarter. Sales of medium and heavy trucks tumbled again in May from already low levels in April.  The recent drop in truck demand primarily reflects the payback from sales that were pulled forward into 2005 and 2006 in anticipation of the tightening of emissions standards that took effect in January 2007.  Looking ahead, new orders for medium and heavy trucks increased in May but remained at very low levels, suggesting that sales will remain depressed in coming months.  Meanwhile, aircraft spending surged in the first quarter after three consecutive quarters of declines, but data on April shipments and on deliveries from Boeing in May suggest that spending may be dropping back to morenormal levels this quarter.
+
+Real spending in the category of equipment other than high-tech and transportation is apparently on the mend after sizable declines over the previous two quarters.  In particular, shipments of industrial machinery have surged since their recent low in January.  Moreover, shipments of mining, oil field, and gas field equipment as well as shipments of ventilation, heating, air conditioning, and refrigeration equipment have also improved.
+
+Nonresidential Construction
+
+Construction activity in the nonresidential sector has resumed expanding at a brisk rate this year after a brief lull in the fourth quarter of 2006.  In addition, the fundamentals in this sector generally point to further gains in the near term.  Vacancy rates in the industrial and office sectors have moved down over the past few years, and the vacancy rate in the retail sector, although up a bit over the past year, is still below the average for
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+12
+
+9
+
+6
+
+3
+
+0
+
+-3
+
+-6
+
+-9
+
+-12
+
+-15
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+Fundamentals of Equipment and Software Investment
+
+Real Business Output
+
+<!-- missing-text -->
+
+User Cost of Capital
+
+High-Tech
+
+Non-High-Tech
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+12
+
+9
+
+6
+
+3
+
+0
+
+-3
+
+-6
+
+-9
+
+-12
+
+-15
+
+<!-- missing-text -->
+
+Business Conditions
+
+<!-- missing-text -->
+
+290
+
+270
+
+250
+
+230
+
+210
+
+190
+
+170
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+18
+
+15
+
+12
+
+9
+
+6
+
+3
+
+0
+
+Nonresidential Construction and Indicators
+
+(All spending series are seasonally adjusted at an annual rate; nominal CPIP deflated by BEA prices through Q4 and by staff projection thereafter)
+
+Total Structures
+
+Office, Commercial, and Other
+
+<!-- missing-text -->
+
+Manufacturing and Power &amp; Communication
+
+<!-- missing-text -->
+
+2000
+
+2002
+
+2004
+
+2006
+
+Vacancy Rates
+
+<!-- missing-text -->
+
+Note. Industrial space includes both manufacturing structures and warehouses.
+
+Source. Torto Wheaton Research.
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+<!-- missing-text -->
+
+Note. Other includes religious, educational, lodging, amusement and recreation, transportation, and health-care facilities.
+
+<!-- missing-text -->
+
+Note. Both series are 3-month moving averages. Employment includes industrial, commercial, and specialty trade construction. Source. For billings, American Institute of Architects; for employment, Bureau of Labor Statistics.
+
+Drilling Rigs in Operation
+
+<!-- missing-text -->
+
+1600
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+Nonfarm Inventory Investment
+
+(Billions of dollars; seasonally adjusted annual rate)
+
+<!-- missing-text -->
+
+- e Staff estimate of real inventory investment based on revised book-value data.
+- n.a. Not available.
+
+Source. For real inventory investment, BEA; for book-value data, Census Bureau.
+
+Inventory Ratios ex. Motor Vehicles
+
+ISM Customer Inventories: Manufacturing
+
+1.9
+
+1.8
+
+1.7
+
+1.6
+
+1.5
+
+1.4
+
+1.3
+
+1.2
+
+1.1
+
+60
+
+55
+
+50
+
+45
+
+40
+
+35
+
+<!-- missing-text -->
+
+Note. Flow-of-goods system covers total industry ex. motor vehicles and parts, and inventories are relative to consumption. Census data cover manufacturing and trade ex. motor vehicles and parts, and inventories are relative to sales.
+
+<!-- missing-text -->
+
+Note. A number above 50 indicates inventories are "too high."
+
+the series (1992 to date).  Moreover, recent readings on architectural billings point to additional construction increases going forward, albeit at a pace well below that seen since this sector began to rebound in late 2005. 7
+
+Real investment in drilling and mining structures, which expanded rapidly during much of 2005 and 2006, dropped at an annual rate of 13 percent in the first quarter.  Moreover, the total number of drilling rigs in operation was little changed during the second quarter, suggesting that activity in this sector remained subdued.  Rising materials costs and shortages of skilled labor may be contributing to the recent decline in investment activity.
+
+Business Inventories
+
+In the past few months, firms in most industries appear to have made considerable progress in addressing the inventory overhangs that developed last year.  After subtracting nearly 1 percentage point from the annualized growth rate of real GDP in the first quarter, investment in real nonfarm inventories excluding motor vehicles seems likely to impose little, if any, additional drag in the second quarter.  The book value of manufacturing and trade inventories excluding motor vehicles increased at an annual rate of $74 billion in April; however, rising energy prices likely accounted for a sizable part of this increase.  The ratio of manufacturing and trade book-value inventories (excluding motor vehicles) to sales ticked down again in April after a decline in March.  Meanwhile, the staff's flow-of-goods inventory system suggests that in May, the months' supply of inventories excluding motor vehicles reversed its April uptick and remained at the lower level that has prevailed since February.  In addition, the underlying industry detail indicates that most inventory ratios are not particularly elevated by historical standards. Finally, the number of purchasing managers who viewed their customers' inventories as 'too low' exceeded the number who saw them as 'too high' for the third month in a row in May.
+
+Federal Government Sector
+
+The federal budget deficit continued to narrow in April and May.  More generally, the deficit (adjusted for payment-timing shifts and financial transactions) for the twelve months ending in May 2007 was $184 billion, less than 1½ percent of nominal GDP and $90 billion lower than the deficit for the twelve months ending in May 2006.   The 8
+
+300
+
+200
+
+100
+
+0
+
+-100
+
+-200
+
+-300
+
+-400
+
+-500
+
+Federal Government Budget
+
+(Unified basis; adjusted for payment-timing shifts and financial transactions; data from Monthly Treasury Statement)
+
+<!-- missing-text -->
+
+Outlays and Receipts
+
+Percent change from year earlier
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+<!-- missing-text -->
+
+Recent Federal Outlays and Receipts
+
+(Billions of dollars except as noted)
+
+<!-- missing-text -->
+
+- 1.  Includes Social Security, Medicare, Medicaid, and income security programs.
+- ...  Not applicable.
+
+smaller deficit reflects a combination of still rapid increases in receipts as well as some deceleration in the growth of outlays.
+
+Although receipts have continued to rise briskly, their rate of increase has slowed from the exceptionally strong pace in the past couple of years.  In particular, total corporate revenues for April and May rose only 6 percent relative to their level in the comparable period of 2006.  Moreover, corporate tax payments from the daily Treasury statements for June were running just 4 percent above their year-ago level.  Individual income and payroll tax payments in April and May-which included most of the final payments on individual tax liabilities for 2006-were about 10 percent above their year-earlier level, a somewhat lower rate of increase than in the previous couple of years.
+
+Federal outlays during the twelve months ending this May were up 4½ percent, compared with those in the twelve months ending in May 2006.  Mostly because of higher interest rates, net interest payments posted another brisk increase relative to their year-earlier level; nevertheless, the rise was smaller than a year ago.  Growth in non-interest outlays has slowed since last year, primarily because of diminished spending for 'other' outlays-in particular, federal spending for disaster relief and flood insurance, outlays for the implicit subsidy costs of student loans, and spending for agricultural commodity programs.  The most recent figures from monthly Treasury statements suggest that real defense purchases as measured in the NIPAs will bounce back in the second quarter after having fallen in the first quarter.  Finally, the Congress enacted a $120 billion supplemental appropriations bill on May 25; this bill included about $100 billion in budget authority for defense spending, most of which is expected to be spent over the next two years. 9
+
+State and Local Government Sector
+
+Incoming data for state and local governments suggest that real purchases for this sector in the NIPAs are rising briskly in the second quarter.  The sector averaged about 21,000 net new hires per month in April and May, similar to the moderately strong pace of employment gains in 2006.  Real construction expenditures appear to have posted another sizable increase in April, continuing the ramping up in investment spending that began at the start of 2006.
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+State and Local Indicators
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Real Construction
+
+Billions of chained (2000) dollars
+
+200
+
+180
+
+160
+
+140
+
+120
+
+<!-- missing-text -->
+
+Note. Nominal CPIP deflated by BEA prices through
+
+Q1 and by a staff projection thereafter.
+
+State Revenues
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+<!-- missing-text -->
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+-10
+
+Net Saving
+
+Percent of nominal GDP
+
+1.0
+
+0.5
+
+0.0
+
+-0.5
+
+-1.0
+
+<!-- missing-text -->
+
+Local Revenues
+
+Percent change from year earlier
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+<!-- missing-text -->
+
+State government finances have been strong and stable in the current fiscal year, which ends on June 30 for most states, according to a recent report from the National Association of State Budget Officers (NASBO).  Although the average year-end balance across states is expected to be less than the historic high of last fiscal year, most states continue to hold ample reserves.  States anticipate that they will end the fiscal year with balances, on average, equal to 8 percent of expenditures, well above the 5 percent level generally considered to constitute adequate fiscal reserves. 10 Reflecting the fiscal health of the sector, NASBO also reports that many states are looking to increase their spending next year.  For example, governors in thirty-four states have made proposals for the upcoming fiscal year aimed at reducing the number of individuals without health insurance.  Proposed costs for these programs are significant-in total equal to around $18 billion annually.
+
+Prices
+
+Headline consumer price inflation has picked up in recent months, boosted by substantial increases in energy prices.  The overall CPI rose 0.7 percent in May after a 0.4 percent increase in April.  These readings boosted the annual rate of increase in headline CPI inflation to 7.0 percent over the past three months-well above the 4 percent of the previous three months and the 2½ percent increase in 2006.  However, core inflation has slowed; in May the CPI excluding food and energy rose 0.1 percent, and the increase over the most recent twelve months, at 2.2 percent, is a little lower than over the preceding twelve months.  Resource utilization remains relatively tight, but long-run inflation expectations continue to stay within the range they have occupied for much of the past few years.
+
+On the basis of the CPI data, we estimate that core PCE prices rose 0.1 percent in May after an increase of 0.1 percent in April and no change in March.  Over these past three months, we estimate that these prices rose at an annual rate of 1.0 percent; they were held down, in part, by declines in volatile categories such as apparel and tobacco products that are likely transitory and that followed appreciable price increases in the preceding three months.  The rent components have also decelerated recently.  Owners' equivalent rent increased just 0.1 percent in May and at a 2.1 percent annual rate over the past three months, down from a 3.2 percent annual rate of increase over the preceding three months. A portion of the slowdown reflects technical adjustments to strip out the cost of utilities
+
+Price Measures
+
+(Percent change)
+
+<!-- missing-text -->
+
+- 1.  Higher-frequency figures are not applicable for data that are not seasonally adjusted.
+- 2.  PCE prices in May 2007 are staff estimates.
+- ...  Not applicable.
+
+when translating tenants' rents to owners' equivalent rents and is likely to be transitory. 11 That said, tenants' rents have also decelerated over the past few months.
+
+Over the twelve months ending in May, we estimate that core PCE prices rose 1.9 percent, a smaller increase than over the preceding twelve-month period.  However, the step-down in the twelve-month change was due almost entirely to a slowing in the nonmarket component.  Market-based core PCE prices likely rose 1.7 percent over the twelve months ending in May, about the same as over the previous twelve months. Consumer food prices have decelerated in the past few months after sizable increases in January and February.  However, even the recent increases were noticeably above the rate of core price inflation.  Although the brisk pace of food price increases has been widespread, price increases for meats have been particularly large because of strong demand and higher costs for feed, most notably corn; corn prices have increased more than 80 percent over the past year, driven by rising demand for ethanol.  Over the twelve months ending in May, the CPI for food and beverages rose 3.9 percent, compared with a 1.9 percent increase in the previous twelve months.
+
+The CPI for energy jumped 5.4 percent in May, extending the pattern of exceptionally steep increases seen in the preceding couple of months.  Almost all of the recent increase in energy prices reflects higher prices of refined petroleum products, as widespread refinery glitches have held domestic production below typical seasonal levels.  In addition, although gasoline inventories have risen considerably in recent weeks, they remain at the low end of their historical range for this point in the year.  With supply quite tight, gasoline margins are quite high by historical standards, though they have fallen somewhat in the past couple of weeks.  The substantial jump in consumer energy prices over the March-to-May period has roughly reversed the price declines in September and October of last year, leaving the most recent twelve-month change in the CPI for energy at 4.7 percent.
+
+Broader measures of inflation, which are available only through the first quarter of this year, have slowed relative to the pace of the past couple of years.  The latest four-quarter rise in the price index for GDP less food and energy was 2.6 percent, down ¼ percentage
+
+4
+
+3
+
+2
+
+1
+
+0
+
+3
+
+2
+
+1
+
+0
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+Consumer Prices
+
+(12-month change except as noted)
+
+PCE Prices
+
+<!-- missing-text -->
+
+* Staff estimate.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+* Staff estimate.
+
+* PCE for May is a staff estimate.
+
+PCE Goods and Services
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+4
+
+3
+
+2
+
+1
+
+0
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+245
+
+235
+
+225
+
+215
+
+205
+
+195
+
+185
+
+18
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+Energy Prices and Inventories
+
+(Data from Energy Information Administration except as noted)
+
+Total Gasoline Margin
+
+Gasoline Price Decomposition
+
+<!-- missing-text -->
+
+Gasoline Inventories
+
+<!-- missing-text -->
+
+Note. Shaded region is average historical range as calculated by DOE. Monthly data through March 2007, weekly data thereafter, as indicated by line weights. * Adjustment for approximate amount of fuel ethanol to be blended with RBOB component of inventories; estimated by FRB staff.
+
+Natural Gas Prices
+
+<!-- missing-text -->
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+500
+
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+4000
+
+3500
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+0
+
+<!-- missing-text -->
+
+- *  Regular grade seasonally adjusted by FRB staff.
+- ** 60% WTI, 40% Maya heavy crude.
+
+Ethanol Prices
+
+<!-- missing-text -->
+
+Natural Gas Inventories
+
+<!-- missing-text -->
+
+Note. Shaded region is defined as 5-year average plus seasonal factors +/- 1 standard deviation. Monthly data through February 2007, weekly data thereafter, as indicated by line weights.
+
+Broad Measures of Inflation
+
+(Percent change, Q1 to Q1)
+
+<!-- missing-text -->
+
+Surveys of Inflation Expectations
+
+(Percent)
+
+<!-- missing-text -->
+
+- 1. Percent change from the same period in the preceding year.
+- 2. Responses to the question, By about what percent do you expect prices to go up, on average, during the next 12 months?
+- 3. Responses to the question, By about what percent per year do you expect prices to go up, on average, during the next 5 to 10 years?
+- 4. Quarterly CPI projections compiled by the Federal Reserve Bank of Philadelphia.
+- ... Not applicable.
+- n.a. Not available.
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+Measures of Expected Inflation
+
+Survey Measures (Reuters/Michigan)
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+<!-- missing-text -->
+
+Inputs to Models of Inflation
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+*For 2007 forward, the median projection for PCE inflation over the next 10 years from the Survey of Professional Forecasters (SPF); for 1991 to 2006, the equivalent SPF projection for the CPI; for 1981 to 1991, a related survey for the CPI conducted by Richard Hoey; and for the period preceding 1981, a model-based estimate constructed by Board staff.  The survey data before 2007 are adjusted down 0.5 percentage point to put the CPI projections approximately on a PCE basis. **Derived from one of the reduced-form Phillips curves used by Board staff.
+
+Inflation Compensation from TIPS
+
+Percent
+
+4
+
+3
+
+2
+
+1
+
+0
+
+<!-- missing-text -->
+
+2005
+
+2006
+
+2007
+
+Weekly
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+June 19
+
+4
+
+3
+
+2
+
+1
+
+0
+
+220
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+500
+
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+Commodity Price Indexes
+
+Journal of Commerce
+
+<!-- missing-text -->
+
+Commodity Research Bureau
+
+<!-- missing-text -->
+
+Note. The Commodity Research Bureau (CRB) spot industrials index consists entirely of industrial commodities, excluding energy. The CRB futures index gives about a 60 percent weight to food commodities and splits the remaining weight roughly equally among energy commodities, industrial commodities, and precious metals.
+
+Selected Commodity Price Indexes
+
+(Percent change)
+
+<!-- missing-text -->
+
+- 1. From the last week of the preceding year to the last week of the year indicated.
+- 2. May 1, 2007, is the Tuesday preceding publication of the May Greenbook.
+
+point from the preceding four-quarter period.  Although core PCE inflation picked up slightly through the first quarter, price increases for other components of final demand, especially construction, decelerated.
+
+As measured by the Reuters/Michigan survey, the median expectation for year-ahead inflation increased further, to 3.5 percent in early June after having risen to 3.3 percent in April and May.  These increases are consistent with the energy-driven acceleration in overall consumer prices in recent months.  Median five- to ten-year expectations ticked up to 3.1 percent in April and May but fell back in early June to 3.0 percent.  This figure is within the narrow range that has prevailed over the past two years, although it is slightly above the range typical in 2003 and 2004.  Inflation compensation from TIPS five to ten years ahead have changed little over the intermeeting period and remains within the range seen in recent years.
+
+At earlier stages of processing, the producer price index (PPI) for core intermediate goods increased 0.4 percent in May after a jump of 0.8 percent in April.  Despite an acceleration in intermediate prices in the past six months, the most recent twelve-month change, at about 3 percent, is well below the 6¾ percent increase in the previous 12-month period. This pattern partially reflects price movements in energy-intensive goods, such as industrial chemicals.
+
+Commodity prices continue to move up.  The Journal of Commerce index of industrial materials has risen 1¾ percent since the time of the May Greenbook, and the Commodity Research Bureau's index of spot industrials is up 4¼ percent.  Although metals prices, which have been pushing up commodity prices over the past couple of years, have in many cases turned down in recent weeks, this small dip has been more than offset by increases in a variety of other commodities, such as cotton, lumber, and foodstuffs.
+
+Labor Costs
+
+Compensation per hour in the nonfarm business sector is now reported to have increased at an annual rate of 11.2 percent in the fourth quarter, compared with the 8.5 percent estimate reported in the previous BLS release. 12 The staff estimates that the increase in nonfarm business compensation per hour slowed to an annual rate of 2.7 percent in the first quarter.  The outsized increase in compensation per hour in the fourth quarter of 2006, as well as the deceleration between the fourth quarter and the first quarter of 2007,
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+Hourly Compensation and Unit Labor Costs
+
+(Percent change from preceding period at compound annual rate; based on seasonally adjusted data)
+
+<!-- missing-text -->
+
+- e  Staff estimate.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+1.66
+
+1.64
+
+1.62
+
+1.60
+
+1.58
+
+1.56
+
+1.54
+
+1.52
+
+<!-- missing-text -->
+
+Markup, Nonfarm Business
+
+<!-- missing-text -->
+
+Note. The markup is the ratio of output price to unit labor costs. Value for 2007:Q1 is a staff estimate.
+
+reflected $50 billion in one-time bonus payments and stock options, which the BEA assumed accrued in the fourth quarter, and the subsequent unwinding of these payments in the first quarter. 13 The sizable run-up in the level of compensation per hour over the past couple of quarters has caused the markup of prices over unit labor costs to turn down, although it remains above its long-term average.
+
+More-timely data point to some leveling off of compensation inflation recently.  After accelerating from early 2004 to late 2006, the twelve-month change in average hourly earnings of production or nonsupervisory workers has decelerated in recent months. Over the first five months of this year, average hourly earnings have increased at an annual rate of 3.3 percent rate, a bit below last year's pace.
+
+Last Page of Domestic Nonfinancial Developments
+
+Domestic Financial Developments
+
+III-T-1
+
+Selected Financial Market Quotations
+
+(One-day quotes in percent except as noted)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- 1.  Secondary market.
+- 2.  Financial commercial paper.
+- 3.  Bid rates for Eurodollar deposits collected around 9:30 a.m. eastern time.
+- 4.  Derived from a smoothed Treasury yield curve estimated using off-the-run securities.
+- 5.  Most recent Thursday quote.
+- 6.  Constant-maturity yields estimated from Fannie Mae domestic noncallable coupon securities.
+- 7.  Derived from smoothed corporate yield curves estimated using Merrill Lynch bond data.
+- 8.  Home mortgage rates for June 19, 2007, are for the week ending June 14, 2007.
+
+_______________________________________________________________________
+
+NOTES:
+
+- June 28, 2004, is the day before the most recent policy tightening began.
+
+June 29, 2006, is the day the most recent policy tightening ended.
+
+- May  8, 2007, is the day before the most recent FOMC announcement.
+
+_______________________________________________________________________
+
+Policy Expectations and Treasury Yields
+
+Futures Contract Rates
+
+Note. 5-minute intervals.
+
+<!-- missing-text -->
+
+Expected Federal Funds Rate
+
+<!-- missing-text -->
+
+Implied Distribution of Federal Funds Rate 6 Months Ahead Percent
+
+<!-- missing-text -->
+
+Policy Uncertainty
+
+<!-- missing-text -->
+
+Inflation Compensation
+
+<!-- missing-text -->
+
+Domestic Financial Developments
+
+Overview
+
+Market expectations for the path of monetary policy beyond the very near term shifted sharply upward over the intermeeting period, as investors eliminated most of the policy easing that had been anticipated over the next two years.  Treasury yields moved up across the term structure, reflecting the higher expected path for policy and an apparent rise in term premiums.  Stock prices were up slightly, on balance, as gains spurred by favorable economic news and merger and acquisition announcements outweighed the effects of higher interest rates.  Strong profits continued to support corporate credit quality, and corporate bond spreads remained low.  Delinquency rates and new foreclosures on subprime variable-rate mortgages have continued to rise, but broader measures of household credit quality show few signs of stress.
+
+Policy Expectations and Interest Rates
+
+Market participants largely anticipated the FOMC's policy decision at the May meeting to keep the target federal funds rate unchanged.  Nevertheless, the Committee's retention of the language that 'core inflation remains somewhat elevated' reportedly led investors to mark up a bit their expected policy path beyond the August meeting.  The release of the minutes from the May meeting and other FOMC communications elicited little response in financial markets.  However, economic data releases generally came in on the strong side of investors' expectations, and several primary dealers abandoned forecasts for cuts in the federal funds rate this year.  In accordance with that reassessment of the outlook, Eurodollar futures rates now imply an expected federal funds rate of 5 percent by the end of 2008, up a little more than 50 basis points since the May FOMC meeting.
+
+The implied distributions of the federal funds rate six months and twelve months ahead became considerably less skewed toward policy easing over the intermeeting period, and near-term uncertainty about the future path of policy, derived from options on Eurodollar futures contracts, declined notably over the intermeeting period.
+
+Broadly in line with the revision in policy expectations, the two-year nominal Treasury yield rose roughly 30 basis points over the intermeeting period.  The ten-year nominal Treasury yield moved up close to 50 basis points, as one-year forward rates increased across the term structure, particularly at intermediate maturities.  Real yields rose in line with nominal yields at the five-year maturity and rose slightly less at the ten-year maturity.  Consequently, inflation compensation over the next five years changed little, but inflation compensation five to ten years ahead increased nearly 20 basis points.  The staff's term structure models attribute most of the substantial increase in longer-maturity
+
+Corporate Yields, Risk Spreads, and Stock Prices
+
+Wilshire 5000
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Implied Volatility on S&amp;P 500 (VIX)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Corporate Bond Yields
+
+<!-- missing-text -->
+
+Commercial Paper Quality Spread
+
+<!-- missing-text -->
+
+real yields to a rise in the real term premium and much of the smaller rise in inflation compensation to higher expected inflation.  Anecdotal reports pointed to mortgage hedging activity as possibly contributing to the volatility in yields at longer maturities.
+
+Stock Prices and Corporate Interest Rates
+
+Broad stock price indexes were up 2 percent to 3 percent, on net, over the intermeeting period, as the boost from largely favorable macroeconomic news and the steady stream of merger and acquisition announcements more than offset the effects of higher interest rates.  As evidence of the damping effect of interest rates, shares of REITs and utilities, which are quite sensitive to bond yields, fell about 4 percent over the intermeeting period. The spread between the twelve-month forward trend earnings-price ratio for S&amp;P 500 firms and a real long-run Treasury yield-a rough gauge of the equity risk premiumnarrowed a fair bit but remained near its average over the past two decades.  Implied volatility on the S&amp;P 500 index spiked on a few days, when rising interest rates seemed to cause sharp declines in stock prices, but this measure of near-term expected stock market volatility has since dropped back to levels that are low by historical standards.
+
+Yields on investment-grade corporate bonds rose about in line with those on comparablematurity Treasuries, leaving their spreads little changed at fairly low levels.  In contrast, spreads on speculative-grade bonds narrowed about 20 basis points over the intermeeting period and now stand at the bottom of their historical range.  Near-term spreads on speculative-grade bonds are particularly narrow, a sign that investors expect corporate credit quality to remain strong over the next few years, whereas forward spreads further out the term structure are only a shade below their long-term average.  In the commercial paper market, the thirty-day quality spread remained low.
+
+Corporate Earnings and Credit Quality
+
+In the first quarter of 2007, earnings per share for firms in the S&amp;P 500 were up 9 percent from four quarters earlier, the smallest gain since 2003.  Investors had anticipated an even sharper deceleration in corporate profits, and revisions to analysts' forecasts of yearahead earnings for S&amp;P 500 firms have been positive in May and June.  Currently, analysts' forecasts imply four-quarter growth of about 5 percent in the second quarter, but such forecasts are typically biased downward in the weeks leading up to the release of quarterly earnings reports.
+
+Corporate credit quality remained strong overall.  Although the balance-sheet liquidity of public nonfinancial corporations has come down from the peak reached a couple of years
+
+Corporate Earnings and Credit Quality
+
+Corporate Earnings Growth
+
+S&amp;P 500 EPS Revisions Index
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+e Staff estimate.
+
+Percent of outstandings
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+Note. Firm-level estimates of default weighted by firm liabilities as
+
+- a percent of total liabilities, excluding defaulted firms.
+- Source. Moody's KMV.
+
+Business Finance
+
+Gross Issuance of Securities by U.S. Corporations
+
+(Billions of dollars; monthly rates, not seasonally adjusted)
+
+<!-- missing-text -->
+
+Note.  Components may not sum to totals because of rounding.
+
+- 1.  Excludes private placements and equity-for-equity swaps that occur in restructurings.
+- 2.  Data include regular and 144a private placements.  Bond totals reflect gross proceeds rather than par value of
+- original discount bonds.  Bonds are categorized according to Moody's bond ratings or to Standard &amp;amp; Poor's if unrated by Moody's.
+- 3.  End-of-period basis, seasonally adjusted.
+- 4.  Adjusted commercial bank credit data.
+
+Selected Components of Net Debt Financing
+
+Components of Net Equity Issuance
+
+<!-- missing-text -->
+
+Commercial Real Estate
+
+<!-- missing-text -->
+
+Gross Issuance of CMBS
+
+<!-- missing-text -->
+
+Investment-Grade CMBS Spreads
+
+<!-- missing-text -->
+
+Delinquency Rates on Commercial Mortgages
+
+Percent
+
+<!-- missing-text -->
+
+Leverage on Newly Securitized Mortgages
+
+Percent
+
+Percent
+
+Source.  Real Capital Analytics, Commercial Mortgage Alert.
+
+<!-- missing-text -->
+
+Rents and Vacancy Rates on Commercial
+
+Properties
+
+Percent
+
+Source.  Torto Wheaton.
+
+Percent change from year earlier
+
+<!-- missing-text -->
+
+ago, its level in the first quarter was still high by historical standards.  In addition, the aggregate leverage of such firms stayed near its lowest level in two decades.  The realized six-month trailing bond default rate remained close to zero in May, and downgrades of ratings on corporate bonds were again modest in April.  In the first quarter, the delinquency rate on C&amp;I loans at commercial banks continued to be close to its lowest level over the past two decades.  The near-term outlook for corporate credit quality also remained strong, as KMV's aggregate year-ahead expected bond default rate stayed at a historically low level in May.
+
+Business Finance
+
+Gross bond issuance by nonfinancial corporations surged in May from the already robust pace seen earlier this year.  While acquisition-related financing continued to support corporate bond issuance, the proceeds from a significant share of recent issues reportedly were for capital expenditures.  Commercial paper outstanding was unchanged in May, and growth in C&amp;I loans maintained a strong pace.  Overall, net debt financing increased sharply in May to a near-record level, and despite the recent backup in interest rates, declined only slightly in early June.
+
+Gross public equity issuance by nonfinancial corporations rebounded in May from a somewhat sluggish pace in April.  So far this year, the pace of public equity issuance has been slightly above that in each of the past few years.  Because of the rapid pace of leveraged buyout activity, private equity issuance is estimated to have increased further in the first quarter to a level about double that of public issuance.  Even so, net equity issuance continued to be deeply negative in the first quarter, as equity retired from estimated share repurchases and cash-financed mergers and acquisitions remained near record levels.
+
+Commercial Real Estate
+
+Commercial mortgage debt expanded briskly again in the first quarter, and the issuance calendar for commercial mortgage-backed securities (CMBS) suggests continued strength in the second quarter.  The spread on lower-rated CMBS over Treasuries has narrowed in recent weeks but remains elevated by historical standards.  The spread initially jumped in response to the difficulties in the subprime residential mortgage market, concerns about the adequacy of credit support for CMBS, and high leverage on recently securitized commercial mortgages.  The recent narrowing has been attributed to rating agencies' clarifications of their new credit support requirements, which may have reduced investors' uncertainty about the adequacy of existing standards.
+
+Household Liabilities
+
+Mortgage Rates
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Delinquencies on Consumer Loans
+
+<!-- missing-text -->
+
+Number of Foreclosures Started
+
+<!-- missing-text -->
+
+- * Primarily FHA/VA but includes loans not elsewhere classified. Source.  Staff estimates based on data from the Mortgage Bankers Association.
+
+Delinquencies on Mortgages
+
+Percent of loans
+
+Note.  Percent of loans 90 or more days past due or in
+
+<!-- missing-text -->
+
+foreclosure.  Prime includes near-prime mortgages.
+
+Source.  First American LoanPerformance.
+
+<!-- missing-text -->
+
+Note.  Measured relative to libor.
+
+Source.  Trader estimates provided by Merrill Lynch.
+
+Delinquency rates on commercial mortgages held by life insurance companies and on those backing CMBS remained low through the first quarter, whereas the delinquency rate on commercial mortgages held at commercial banks rose a bit because of a deterioration in the performance of loans for multifamily properties and for construction and land development.  In the first quarter, rents for commercial properties continued to rise, though rather slowly, and vacancy rates remained at the low end of their range of the past couple of years.
+
+Household Finance
+
+Over the intermeeting period, interest rates available to prime borrowers on both thirtyyear fixed-rate and one-year adjustable-rate mortgages increased along with other market interest rates.  Mortgage debt decelerated in the first quarter, likely reflecting the slowdown in home-price appreciation over the past year and the lower pace of home sales.  Growth of consumer credit through April remained moderate by historical standards.
+
+Delinquency rates on consumer loans and prime mortgages-which account for the vast majority of total household debt-have continued to be low.  However, the delinquency rate on subprime variable-rate mortgages increased again in April, reaching nearly 12 percent, about double its recent low in mid-2005.  The sharp rise in delinquencies over the past year is showing through to new foreclosures, which we estimate rose 14,000, to nearly 325,000, in the first quarter.  Properties purchased with subprime variable-rate mortgages account for much of the rise in foreclosures.
+
+Spreads on new subprime residential-mortgage-backed securities (RMBS) have reversed most of their jump earlier this year, likely because of tighter underwriting standards on newer loans.  The issuance of subprime RMBS has slowed somewhat, suggesting that subprime mortgage borrowing has declined from the frenzied pace of late 2005 and the first half of 2006 but remains at a solid level.
+
+The OFHEO purchase-only index of home prices advanced at an annual rate of 2.2 percent in the first quarter, about the same as in the fourth quarter.  The downward trajectory of expected home prices in ten of the largest metropolitan markets over the next few quarters, derived from futures quotes on the S&amp;P/Case-Shiller house price index, was little changed over the intermeeting period.  With home prices and stock prices posting only small increases, the ratio of household net worth to income ticked down in the first quarter.  Given the substantial rise in stock prices since the end of the
+
+Household Assets
+
+House Prices
+
+<!-- missing-text -->
+
+Stock Prices
+
+<!-- missing-text -->
+
+Percent change, annual rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Net Flows into Long-Term Mutual Funds
+
+(Billions of dollars, monthly rate)
+
+<!-- missing-text -->
+
+Note.  Excludes reinvested dividends.
+
+e  Staff estimate based on confidential weekly data.
+
+Source.  Investment Company Institute.
+
+Treasury and Agency Finance
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source. BrokerTec Interdealer Market Data.
+
+<!-- missing-text -->
+
+State and Local Government Finance
+
+Gross Offerings of Municipal Securities
+
+(Billions of dollars; monthly rate, not seasonally adjusted)
+
+<!-- missing-text -->
+
+- 1. Includes issues for public and private purposes.
+- 2. All issues that include any refunding bonds.
+
+Ratings Changes
+
+<!-- missing-text -->
+
+Source. S&amp;P's Credit Week Municipal and Ratings Direct.
+
+Municipal Bond Yields
+
+<!-- missing-text -->
+
+Municipal Bond Yield Ratio
+
+<!-- missing-text -->
+
+first quarter, the ratio of net worth to income has likely moved back up more recently. Supported by substantial inflows to bond funds and international equity funds, net flows to long-term mutual funds were robust again in May.
+
+Treasury and Agency Finance
+
+The Treasury completed its May refunding with auctions of several coupon issues, including a reopening of the thirty-year bond.  Bid-to-cover ratios suggest that most issues were well received.  There is little evidence to date of any substantial abatement in demand for Treasury securities among foreign investors.  The six-month trailing averages of indirect bidding ratios and foreign allotments ticked lower but remained robust, and foreign custody holdings at the Federal Reserve Bank of New York stayed high.
+
+Treasury market liquidity has remained ample despite the sharp increase in interest rates. Although trading volume in Treasury securities increased dramatically on June 7, when yields jumped about 15 basis points across the coupon curve, bid-ask spreads held at normal levels, and markets functioned smoothly.
+
+Fannie Mae's stock price climbed about 10 percent during the intermeeting period, supported by an announcement that it will return to timely financial reporting by next February.  The price of Freddie Mac shares declined about 5 percent over the same period.  Yields on agency debt increased relative to those on comparable-maturity Treasury securities, although spreads relative to swap rates were little changed.
+
+State and Local Government Finance
+
+Gross issuance of long-term municipal bonds surged in May to a level above the robust first-quarter pace.  Spending on education and housing boosted new capital issuance, and advance refundings continued to be substantial.  Issuance of short-term debt remained negligible in May, consistent with healthy state and local budgets.  A sizable amount of Michigan's debt was downgraded in May, but the credit quality of municipal bonds elsewhere remained solid.  The ratio of a representative municipal bond yield to a comparable-maturity Treasury yield stayed near the low end of its range of the past decade.
+
+Money and Bank Credit
+
+Smoothing through the influence of outsized tax-related flows into and out of liquid deposits, growth in M2 moderated in April and May after particularly rapid growth in the
+
+M2 Monetary Aggregate
+
+(Based on seasonally adjusted data)
+
+<!-- missing-text -->
+
+- 2. Nonbank traveler's checks are not listed.
+- 3. Sum of demand deposits, other checkable deposits, and savings deposits.
+- p Preliminary.
+
+III-15
+
+first quarter.  The slowdown was registered across most components of M2, while growth in currency maintained its tepid pace, largely because of soft foreign demand.
+
+Loans at commercial banks expanded briskly in April and May, supported by lending to businesses through C&amp;I and commercial real estate loans.  Information on pricing in the syndicated loan market suggests that banks continued to offer very accommodative lending terms.  On the household side, banks' holdings of loans backed by residential real estate expanded at a fairly strong pace, on balance, in April and May, while consumerloan originations edged up only slightly.
+
+According to the latest Call Report data, the profitability of the commercial banking industry declined a bit but remained solid in the first quarter.  The delinquency rate on all loans and leases ticked higher for the third straight quarter, in part because of a further rise in delinquencies on both residential and commercial real estate loans.  Meanwhile, provisioning for loan losses edged up for the second straight quarter.  However, delinquency and loan-loss provisioning rates stayed low by historical standards, suggesting that the credit quality of banks' portfolios generally remained strong.
+
+Commercial Bank Credit
+
+(Percent change, annual rate, except as noted; seasonally adjusted)
+
+<!-- missing-text -->
+
+Note.  Yearly annual rates are Q4 to Q4; quarterly and monthly annual rates use corresponding average levels.  Data have been adjusted to remove the effects of mark-to-market accounting rules (FIN 39 and FAS 115), the consolidation of certain variable interest entities (FIN 46), the adoption of fair value accounting (FAS 159), and the effects of sizable thrift-to-bank and bank-to-thrift structure activity in October 2006 and March 2007 respectively. Data also account for breaks caused by reclassifications.
+
+- 1. Billions of dollars.  Pro rata averages of weekly (Wednesday) levels.
+- 2. Excludes interbank loans.
+- 3. Includes an estimate of outstanding loans securitized by commercial banks.
+- 4. Includes security loans and loans to farmers, state and local governments, and all others not elsewhere classified. Also includes lease financing receivables.
+- 5. Includes private mortgage-backed securities, securities of corporations, state and local governments, foreign governments, and any trading account assets that are not Treasury or agency securities, including revaluation gains on derivative contracts.
+- p  Preliminary.
+
+Delinquency Rates on Loans
+
+<!-- missing-text -->
+
+Loan-Loss Provisioning
+
+<!-- missing-text -->
+
+International Developments
+
+International Developments
+
+U.S. International Transactions
+
+Trade in Goods and Services
+
+The U.S. international trade deficit narrowed to $58.5 billion in April after widening to $62.4 billion in March.  The narrowing of the deficit reflected a relatively steep decline in imports of core goods, following a March surge, and a modest increase in exports of both core goods and services.
+
+<!-- missing-text -->
+
+Source.  U.S. Department of Commerce, Bureaus of Economic Analysis and Census. n.a.  Not available.  ...  Not applicable.
+
+In April, the value of exported goods and services increased 0.2 percent, following a 2.6 percent increase in March.  For exports of goods, the largest increase was in exports of agricultural products, which more than rebounded from a March decline; exports of soybeans were particularly strong.  The strength in agricultural exports was largely offset by widespread declines in exports of capital goods, which erased their March gains. Notably, exports of both aircraft and computers fell for the third straight month, and exports of semiconductors fell sharply.
+
+The value of imported goods and services fell 1.9 percent in April, following an outsized 4.4 percent increase in March.  Imports of natural gas moved up sharply and have risen strongly in the past three months.  Imports of petroleum were flat after surging in March. Among non-fuel categories, imports of autos fell sharply after a big gain in March. Imports of consumer goods more than retraced their March increases, as pharmaceutical
+
+U.S. International Trade in Goods and Services
+
+(Quarterly)
+
+Trade Balance
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Selected Exports
+
+<!-- missing-text -->
+
+Selected Imports
+
+<!-- missing-text -->
+
+U.S. Exports and Imports of Goods and Services
+
+(Billions of dollars, a.r., BOP basis)
+
+<!-- missing-text -->
+
+Source.  U.S. Department of Commerce, Bureaus of Economic Analysis and Census.
+
+imports fell back from an elevated March level and imports of artwork and antiques, another volatile category, plunged.  Imports of services were flat after robust growth in March.
+
+Along with the April data, previously published data were revised beginning in 1997. The trade deficit in 2007:Q1 is now $707 billion at an annual rate, about $15 billion narrower than previously reported.  This largely reflects a significant upward revision to exports of services.  The 2006:Q4 deficit narrowed by $7 billion, as the upward revision to services was partially offset by higher imports of goods.
+
+Prices of Internationally Traded Goods
+
+Non-oil imports. In May, import prices for core goods rose 0.6 percent, 0.2 percentage point faster than in April.  Almost all of the reported price increase reflected a 1.6 percent increase for material-intensive goods.  Having risen 1.1 percent in April, non-fuel industrial supplies prices increased 1.8 percent in May, reflecting higher prices for imported metals.  Prices for foods rose 0.9 percent, a step-down from the 1.3 percent increase recorded in April.  In contrast to these sharp price increases for materialintensive goods, prices for imported finished goods were little changed in April and May. The exception was the price index for capital goods excluding computers and semiconductors, which moved up 0.3 percent in both months.  Outside of core imports, prices for imported natural gas rose 2.6 percent in May, and prices for imported computers and semiconductors fell 0.5 and 1.4 percent, respectively.
+
+The average level of core import prices in April and May was 3½ percent at an annual rate (a.r.) above the first-quarter average.  Prices for material-intensive goods were up 10 percent, whereas prices for finished goods increased only 1 percent.  Nearly all of the price increase for imported finished goods reflected a 2¼ percent increase in prices for capital goods excluding computers and semiconductors.
+
+Oil. The BLS price index of imported oil rose 2.7 percent in May.  The index has risen each of the past four months and stands 21 percent above its level in January.  Thus far in June, oil prices have edged higher, with spot prices of most grades showing an increase over their May averages.  The rise in oil prices in May and thus far in June appears to reflect ongoing concerns about oil supply, particularly from Iran, Iraq, and Nigeria.
+
+Prices of U.S. Imports and Exports
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Oil
+
+<!-- missing-text -->
+
+Merchandise Exports
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Prices of U.S. Imports and Exports
+
+(Percentage change from previous period)
+
+-11.9           1.8         12.5           1.6           1.4             .9
+
+.4           7.2           4.6             .7             .3             .1
+
+<!-- missing-text -->
+
+- 1. Excludes computers, semiconductors, and natural gas.
+- 2. Excludes computers and semiconductors.
+
+- n.a.  Not available.    ...  Not applicable.
+
+Continued OPEC production restraint and strong oil demand have also helped keep oil prices at historically elevated levels.
+
+The spot price of WTI closed at $69.11 per barrel on June 19, up from an average of $63.50 per barrel in May.  Spot WTI continues to be uncharacteristically weak relative to the prices of other grades of crude because of high oil inventories in the Midwest.  The high inventories are the result of heavy refinery maintenance and several unplanned outages that have reduced demand for crude oil in the region.  An increased flow of oil from the Canadian oil sands has also helped push up inventories.  Currently, the pipeline infrastructure does not exist to move oil from the Midwest to the Gulf Coast to take advantage of regional price differentials.  Since March, the spot price of Brent crude has risen about $3 per barrel more than WTI and closed at $72.31 per barrel on June 19.
+
+Exports. Prices of exported core goods rose 0.2 percent in May, a step-down from the 0.5 percent increase in April, which itself was a step-down from March.  The deceleration of core export prices was concentrated in prices of nonagricultural industrial supplies, which, after increasing 1.3 percent in April, rose just 0.3 percent in May.  After falling 1.4 percent in April, prices of agricultural exports were unchanged in May.  Prices for exported finished goods rose 0.2 percent in May, with noticeable gains in consumer goods and capital goods excluding computers and semiconductors.  Prices of exported computers fell 0.4 percent in May, whereas prices for semiconductors were unchanged.
+
+The average level of core export prices in April and May was 6½ percent at an annual rate above the first-quarter average.  Much of the rise can be attributed to the 14 percent increase in prices of nonagricultural industrial supplies.  Agricultural prices, having increased 28 percent in the first quarter, were up only 3½ percent in the April-May period.
+
+U.S. Current Account
+
+The U.S. current account deficit was $770 billion (a.r.) in the first quarter of 2007, $19 billion wider than in the fourth quarter of 2006 (revised).  The widening was due to increased net unilateral transfers to foreigners, primarily increases in U.S. Government grants and private remittances and other transfers.  On net there was little movement in the balances on goods or services, leaving the trade deficit virtually unchanged.
+
+The investment income balance was positive $48 billion (a.r.) in the first quarter, and there were net positive revisions back to 2001.  These upward revisions were the result of
+
+two factors: (1) a change in estimated direct investment income, especially receipts, as BEA incorporated new ownership information from their benchmark surveys in the calculations, and (2) a change in estimated portfolio income resulting from new methodologies for recording interest on U.S. holdings of foreign bonds and foreign holdings of U.S. bonds.  In the first quarter of this year, net investment income was only slightly higher than its (revised) fourth-quarter level.  Interest, dividend, and direct investment income receipts each increased in the first quarter, but total income payments also rose, as increases in interest and dividend payments were only partially offset by a decline in direct investment payments.
+
+(Billions of dollars, seasonally adjusted annual rate)
+
+<!-- missing-text -->
+
+Source:  U.S. Department of Commerce, Bureau of Economic Analysis.
+
+U.S. International Financial Transactions
+
+Financial flows for the first quarter of 2007 show continued strong net purchases of U.S. securities by private foreign investors (line 4 of the Summary of U.S. International Financial Transactions table).  U.S. acquisitions of foreign securities (line 5) also remained very strong.  Flows of U.S. direct investment abroad (line 6) increased slightly in the first quarter, as reinvested earnings remained strong and equity investment picked up.  There was a more significant decline in foreign direct investment into the United
+
+States (line 7), as a bounce-back in retained earnings was more than offset by slower capital inflows and a big decline in intercompany debt flows.  Taken together, total private financial inflows were somewhat smaller in the first quarter than in the fourth quarter of 2006.  However, foreign official inflows (line 1) picked up notably.  The statistical discrepancy in the first quarter was negative $10 billion, indicating some combination of under-reporting of the current account deficit or over-reporting of net financial inflows.
+
+The most recent data on securities transactions show that foreign private purchases of U.S. securities slowed in April from the robust pace recorded in the first quarter.  Foreign private investors on net sold Treasury securities (line 4a) and made more moderate purchases of U.S. corporate bonds (line 4c), but returned to making net purchases of agency bonds (line 4b).  Foreign demand for equities (line 4d) picked up smartly, in part reflecting a $7 billion merger-related stock swap.  As is typically the case, most transactions were recorded against the United Kingdom and financial centers in the Caribbean.
+
+Foreign official flows into the United States (line 1) remained strong in April.  Inflows from China eased a bit and accounted for less than half the official inflows recorded for April. .  OPEC countries recorded a small net outflow in April, but these data have been volatile on a monthly basis and most likely understate actual inflows from these countries.
+
+.
+
+U.S. residents' acquisitions of foreign securities (line 5) fell back in April from the very strong pace recorded in the first quarter.  U.S. acquisitions of foreign bonds slowed, as new issuance of bonds by foreign firms returned to a more normal level.  Demand for foreign equities (line 5b), primarily from Asia, remained strong.
+
+The volatile banking sector (line 3) posted a large net inflow in April, primarily reflecting sizable inflows from affiliated banking offices located in the Caribbean.
+
+The balance of payments data released in June also showed significant revisions for 2005 and 2006 to foreign official inflows and foreign private net purchases of U.S. securities, based on newly-released results of the survey of foreign holdings of U.S. securities as of June 2006.  The survey indicated considerably larger official holdings than previously
+
+available data had suggested, especially of Treasury securities and U.S. government agency bonds.  These data revisions primarily affected estimated official inflows from Japan, Russia, and Middle-East oil exporters.  Foreign official inflows were revised up by about $60 billion in 2005 and $140 billion in 2006, with largely offsetting reductions in inflows attributed to foreign private investors.
+
+The balance of payments data also show for the first time data on net U.S. cross-border flows of financial derivatives through year-end 2006 (line 8).  These data show previously unrecorded foreign inflows of $29 billion in 2006.  The bulk of derivatives flows were vis-a-vis the United Kingdom, as derivatives flows exhibit the same financial center bias as other data collected by the TIC system.  Data on derivatives lag those of the other TIC portfolio flows, and thus there are no reported transactions for the first quarter of 2007.
+
+The new data on derivatives inflows, significant revisions to the underlying securities transactions data for 2006, and revisions that reduced the size of the 2006 current account deficit contributed to a notable reduction in the statistical discrepancy for 2006.  The discrepancy is now estimated to have been a negative $18 billion, compared with positive $141 billion prior to the revisions.
+
+Summary of U.S. International Transactions
+
+(Billions of dollars, not seasonally adjusted except as noted)
+
+<!-- missing-text -->
+
+Foreign Official Financial Flows Through April 2007 (increase, +)
+
+Total
+
+OPEC
+
+<!-- missing-text -->
+
+Private Securities Flows Through April 2007
+
+($ Billions, monthly, not seasonally adjusted)
+
+Foreign Net Purchases (+) of U.S. Securities
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Foreign Financial Markets
+
+Over the intermeeting period, the major currencies index of the dollar's exchange value was little changed on net.  On a bilateral basis, the dollar appreciated 3.1 percent against the yen and about 1 percent versus the euro, whereas it depreciated 3.5 percent against the Canadian dollar.  In early June the dollar depreciated against the Canadian dollar to its lowest level since 1977, following the release of several better than expected Canadian data and a hawkish statement from the Bank of Canada on May 29, warning of risks of rising inflation.  The option-implied volatilities of the euro-dollar and dollar-yen exchange rate pairs increased slightly in early June as bond yields rose globally, but settled back later in the intermeeting period.
+
+Headline equity indexes rose 2 to 3 percent on balance in the euro area, the United Kingdom, and Japan.  Share prices in several markets rose early in the intermeeting period to multiyear highs or, in some cases, even all-time highs, but they fell back in early June as benchmark bond yields soared globally.  Most recently, however, they have either largely or fully retraced those declines.  Over the intermeeting period, realized volatilities on headline equity indexes declined on net from the elevated levels at which they had remained since the February-March episode of global risk reduction.
+
+On May 10, the Bank of England raised its policy rate 25 basis points, to 5.5 percent, and on June 6, the European Central Bank increased its policy rate 25 basis points, to 4.0 percent.  Both moves were fully anticipated.  The Bank of Japan and the Bank of Canada kept their respective policy rates unchanged, also in line with market expectations.  Three-month spot interest rates increased 8 to 22 basis points in Germany, the United Kingdom, Japan, and Canada, while ten-year nominal sovereign yields rose between 22 and 44 basis points in the same countries.   Increases in foreign yields generally tracked rises in dollar-based yields, as market participants seemed to scale back expectations of a prospective slowdown in the U.S. economy and policy easing.  Yields on inflation-indexed sovereign bonds rose almost as much as nominal yields did during the intermeeting period, except in the United Kingdom where inflation breakeven rates rose 16 basis points.  Although the realized volatility of the ten-year U.S. Treasury picked up in the intermeeting period, realized volatility changed little on balance in Germany and Japan.
+
+The dollar's trade-weighted exchange value against the currencies of our other important trading partners declined 0.7 percent over the intermeeting period.  The dollar depreciated
+
+6 percent against the Brazilian real, with much of the move occurring following news that Standard &amp; Poor's had raised Brazil's long-term sovereign credit rating from BB to BB+, only one notch below investment grade.  The Brazilian Bovespa index and the Mexican Bolsa index rose about 8 and 9 percent, respectively.  In emerging Asia, Korea's main equity index rose 12 percent on balance, and the main indexes of Taiwan, Singapore, and Thailand stock exchanges increased between 4 and 10 percent.  On May 30, China's Shanghai Composite equity index plunged on news of an increase in the securities trading tax, but it has since retraced those losses.  On balance, the Shanghai Composite index rose 4 percent over the intermeeting period.  Emerging market bond spreads were little changed over the period.
+
+On May 18, the People's Bank of China (PBoC) widened the width of the renminbi's intraday trading band against the U.S. dollar from +/-0.3 percent to +/-0.5 percent. Market participants viewed this announcement as a signal that the Chinese authorities may permit slightly more intraday volatility in the exchange rate.  Additionally, the PBoC increased its benchmark one-year lending and deposit rate floors, and it also raised the reserve requirement ratio.  The renminbi appreciated on net 1 percent versus the dollar over the intermeeting period.  On June 13, the Treasury Department released its semiannual report on the currency policies of U.S. trading partners, in which it did not designate China a manipulator of its currency.
+
+The Reserve Bank of New Zealand issued a communiqué on June 11 confirming that it had intervened in the foreign exchange market for the first time since 1985.  The New Zealand dollar, which had appreciated about 3½ percent since early May, depreciated almost 2 percent against the U.S. dollar on the day of the intervention.  However, it largely retraced that move over the following few days.
+
+The Desk did not intervene during the period for the accounts of the System or the Treasury.
+
+Exchange Value of the Dollar and Stock Market Indexes
+
+<!-- missing-text -->
+
+- * Positive percent change denotes appreciation of U.S. dollar.
+
+Weekly
+
+<!-- missing-text -->
+
+Weekly
+
+<!-- missing-text -->
+
+Daily
+
+<!-- missing-text -->
+
+Daily
+
+<!-- missing-text -->
+
+Industrial Countries: Nominal and Real Interest Rates
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Daily
+
+<!-- missing-text -->
+
+*Japan first issued inflation-indexed debt in March 2004.
+
+Measures of Market Volatility
+
+Weekly
+
+<!-- missing-text -->
+
+*Derived from at-the-money options.
+
+<!-- missing-text -->
+
+Realized Stock Market Volatility*
+
+Weekly
+
+<!-- missing-text -->
+
+Realized 10-Year Bond Volatility* Weekly
+
+<!-- missing-text -->
+
+*Annualized standard deviation of 60-day window of daily returns.
+
+Daily
+
+<!-- missing-text -->
+
+Daily
+
+<!-- missing-text -->
+
+Daily
+
+<!-- missing-text -->
+
+Daily
+
+<!-- missing-text -->
+
+Emerging Markets: Exchange Rates and Stock Market Indexes
+
+<!-- missing-text -->
+
+- * Positive percent change denotes appreciation of U.S. dollar.
+
+Weekly
+
+<!-- missing-text -->
+
+Weekly
+
+<!-- missing-text -->
+
+Daily
+
+<!-- missing-text -->
+
+Daily
+
+<!-- missing-text -->
+
+Emerging Markets: Short-Term Interest Rates and Dollar-Denominated Bond Spreads
+
+<!-- missing-text -->
+
+*One month interest rate except 1-week rate for Korea. No reliable short-term interest rate exists for China.
+
+- **EMBI+ or EMBI Global Spreads over similar-maturity U.S. Treasuries.
+- ... Korea, Taiwan, Singapore, and Hong Kong have no outstanding dollar-denominated sovereign bonds.
+
+<!-- missing-text -->
+
+Weekly
+
+<!-- missing-text -->
+
+Daily
+
+<!-- missing-text -->
+
+Daily
+
+<!-- missing-text -->
+
+Developments in Advanced Foreign Economies
+
+The major advanced foreign economies posted solid growth in the first quarter.  Real GDP growth rebounded sharply in Canada from a disappointing fourth quarter, and growth picked up in the United Kingdom as well.  In both Japan and the euro area, growth slowed from a robust fourth quarter, but remained above potential rates.  On average, real GDP in the advanced foreign economies advanced at an annual rate of 3.3 percent in the first quarter.
+
+Current-quarter indicators remain upbeat, including unemployment rates, which have edged down or remain quite low.  Coupled with firm consumer and business sentiment in the euro area, the United Kingdom, and Canada, total foreign industrial GDP is not expected to decelerate much in the current quarter.
+
+Elevated inflation in both the United Kingdom and Canada continues to concern their respective central banks, while euro-area inflation continues to hover close to, but below, 2 percent.  In Japan, headline inflation returned to zero after dipping back into negative territory earlier in the year.  The European Central Bank and the Bank of England each raised their policy interest rates over the past month, with indications of some further tightening to come.  Recent hawkish statements by the Bank of Canada have led market participants to price in policy tightening in the near future.
+
+Japanese GDP rose 3.3 percent (a.r.) in the first quarter.  As anticipated, growth was led by household and external demand.  This marked the second consecutive quarter of strong consumption growth, perhaps signaling that households have shaken off the tentativeness shown for much of last year.  However, just as consumption appears to have recovered, private investment decelerated sharply from strong growth in 2006, at odds with the optimistic investment plans reported in the March Tankan survey.
+
+Advanced Foreign Economies
+
+Average Real GDP*
+
+<!-- missing-text -->
+
+CPI Inflation
+
+<!-- missing-text -->
+
+Official or Targeted Interest Rates
+
+<!-- missing-text -->
+
+Japanese Real GDP
+
+(Percent change from previous period except as noted, s.a.a.r.)
+
+<!-- missing-text -->
+
+- 1. Q4/Q4
+- 2. Percentage point contribution to GDP growth.
+
+Shipments of investment goods and private machinery orders both rose in April, perhaps pointing to a rebound in investment in the second quarter.  Industrial production fell in April even as shipments rose, leading to a reduction in inventories and a slight diminishment of the inventories-to-sales ratio.  However, the inventories-to-sales ratio for information and communications equipment has risen sharply in recent months and may pose a risk.  Indicators of consumption have been positive; household expenditures and new car registrations have both advanced.  Public works orders fell 13 percent in April and real exports fell 3 percent, suggesting that public spending will remain weak and that the contribution from the external sector may decelerate from the first quarter's rapid pace.
+
+Consumer prices rose in April, thanks in part to a jump in fresh food prices, and the twelve-month rate of headline inflation returned to zero after two months of deflation. However, the twelve-month rate of core inflation remained slightly negative, and May figures for Tokyo were flat, indicating little inflationary pressure in the short term. Nominal wages continued to decline, falling 1.7 percent over the year to April, despite a fall in the unemployment rate to 3.8 percent, the lowest rate in nearly ten years.
+
+Japan
+
+Economic Activity
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Real Trade
+
+<!-- missing-text -->
+
+Consumer Price Inflation
+
+Percent
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- 1. Private sector, excluding ships and electric power.
+- 2. Tankan survey, diffusion index. Level.
+- 3. Percent change from year earlier, n.s.a.
+- n.a. Not available.  ... Not applicable.
+
+Euro-area GDP growth slowed to a 2.4 percent (a.r.) pace in the first quarter from 3.5 percent in the previous quarter.  Fixed investment and inventory accumulation each contributed about 2 percentage points to growth.  However, net exports subtracted a similar amount, as export growth slowed significantly and imports continued to grow at a robust pace.  Private consumption was a small drag on growth, mostly as a result of Germany's VAT-related drop in consumer spending.  At the country level, German and Italian GDP growth slowed substantially, whereas French GDP continued to expand at about a 2 percent pace.
+
+<!-- missing-text -->
+
+- 1. Q4/Q4
+- 2. Percentage point contribution to GDP growth.
+
+Euro-area economic growth appears to have quickened in the current quarter, with household spending showing signs of strength.  In April, German retail sales rebounded back to their fourth-quarter level, and euro-area retail sales rose for the third straight month.  Sentiment in the euro-area retail trade sector picked up sharply in May, as retailers reported a sizable drop in the volume of stocks on hand.  Euro-area consumer sentiment in May posted its greatest one-month increase in nine years.  Consumers reported a substantial improvement in their employment expectations, consistent with the further decline in the unemployment rate registered in April.  Consumers also
+
+Euro Area
+
+Nominal Exports and Imports
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Economic Sentiment
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Consumer Price Inflation
+
+<!-- missing-text -->
+
+- 1. Excludes construction.
+- 2. Excludes motor vehicles.
+- 3. Eurostat harmonized definition.  Percent change from year earlier, s.a.
+- n.a. Not available.  ... Not applicable.
+
+reported a rosier view of future economic prospects, but also a dramatic increase in their savings at present.
+
+Industrial confidence pulled back a bit in May from April's record high but remained above the first-quarter level.  Germany's IFO business climate index was steady in May at a level just below its post-reunification high last December.  In contrast to the strong confidence readings, euro-area industrial production (excluding construction) declined in April, after moderate gains in February and March.  The April decline was widespread across sectors and countries, with German output falling the most.
+
+Euro-area consumer prices rose 1.9 percent in May on a twelve-month basis.  Core inflation (excluding energy and unprocessed food) also stood at 1.9 percent in May, continuing its upward trend since last summer.  Liquidity growth in the euro area has remained high.  In April, the twelve-month change in euro-area M3 was 10.4 percent, down just a bit from the seventeen-year high registered in March.  Loans to the private sector also rose more than 10 percent (on a twelve-month basis) in April, but this was down 1 percentage point from last fall's pace.
+
+The European Central Bank raised its key policy interest rate ¼ percentage point to 4 percent on June 6 in a move widely expected by financial markets.  President Trichet said after the meeting that ECB monetary policy is 'still on the accommodative side, given the favorable economic conditions.'  He added that the ECB will 'monitor conditions closely,' instead of 'very closely,' which has been interpreted to mean that the policy stance is now close to neutral.
+
+In the United Kingdom , real GDP rose 2.9 percent (a.r.) in the first quarter, a pace similar to its 2006 average.  Fixed investment and private consumption both remained firm, although both decelerated from the previous quarter.  A drawdown of inventories subtracted from growth, but was much less of a drag than in the previous two quarters. Exports and imports both declined, with net exports making a zero contribution to GDP growth.  The service sector remains the main driver of growth, with output in the first quarter up 3.5 percent from a year earlier; activity in financial services boomed 10 percent over that period.
+
+<!-- missing-text -->
+
+- 1. Q4/Q4
+- 2. Percentage point contribution to GDP growth.
+
+Indicators for the second quarter suggest continued strong growth.  Retail sales on average in April and May rose about 1 percent from the first-quarter level, somewhat faster than the ½ percent pace in the first quarter.  Consumer confidence improved in May as households were more optimistic about their personal financial situation as well as the general economic outlook over the next twelve months.  Investment intentions in both the service and manufacturing sectors were at decade-high levels in May according to the Bank of England Agents' Summary of Business Conditions, a survey of U.K. private businesses.
+
+Headline inflation slid to 2.5 percent in May, still well above the Bank of England's target.  Prices for gasoline and electricity fell 2 percent between April and May, following a 1.6 percent decline the previous month; these declines were the primary reason for the moderation in the headline rate.  House price inflation (on a twelve-month basis) remained elevated at around 10 percent in May.  However, the number of mortgage loans approved for house purchases fell nearly 10 percent in the three months to April.
+
+Wage inflation remains contained.  Measures of average earnings, both including and excluding bonuses, were 3.3 percent higher than a year earlier in April.  Both the employment rate and the participation rate fell slightly in the first quarter.  The Labor Force Survey measure of the unemployment rate was 5.5 percent in March, unchanged since last September.  The claimant count ticked down to 2.7 percent in May.
+
+United Kingdom
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Consumer Price Inflation
+
+Investment Intentions
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Scores range from -5 (rapidly falling) to
+
+- +5 (rapid growth). BOE Agents' Survey.
+- 1. Percent change from year earlier.
+- 2. Percent balance.  3. Level in billions of US Dollars.
+- n.a. Not available.  ... Not applicable.
+
+<!-- missing-text -->
+
+The Monetary Policy Committee raised the Bank Rate to 5.5 percent on May 10.  It noted, however, that 'the margin of spare capacity in firms appears limited and there are signs that businesses are more able to push through price increases,' and that relative to the 2 percent target, 'the risks to the outlook for inflation in the medium term consequently remain tilted to the upside.'
+
+In Canada, real GDP grew 3.7 percent (a.r.) in the first quarter, up sharply from the 1.5 percent advance in the previous quarter.  A resumption of positive inventory accumulation, following virtually zero inventory build in the fourth quarter, was a primary reason for the turn-around in headline growth.  Consumer spending maintained its strength, but investment in non-residential structures and equipment softened for the second consecutive quarter, after outsized gains the past several years.  Residential investment, in contrast, grew a healthy 7.5 percent, its fastest pace in a year, after declining each of the previous three quarters.  Exports and imports each expanded; taken together, net exports made a small negative contribution to growth.
+
+<!-- missing-text -->
+
+- 2. Percentage point contribution to GDP growth.
+
+The few available indicators for the second quarter point to slower, though still firm, growth.  The Ivey Purchasing Managers Index rose in May.  The nominal merchandise trade surplus expanded in April; nominal imports fell, but nominal exports were little changed from the previous month.  In April, real manufacturing shipments continued to edge up from last October's low, though new orders slipped from their level in the first quarter.  The composite index of leading indicators rose again in May.  The average level
+
+of housing starts through April and May was virtually unchanged from the first-quarter average and has moved little over the past year.  Nonetheless, housing starts still remain high compared with demographic fundamentals.
+
+After total employment expanded 1 percent in the first quarter, the largest quarterly gain in nearly five years, employment growth through April and May was essentially zero. However, full-time employment, which has been especially strong the past two years, surged again in May.  The unemployment rate in May held steady at 6.1 percent, a thirty-three-year low, but twelve-month wage inflation remained tame at 2.8 percent.
+
+In April and May, the twelve-month rate of consumer price inflation was 2.2 percent, above the mid-point of the Bank of Canada's target range of 1 to 3 percent.  Gasoline prices at the pump rose 5.5 percent between April and May, accounting for most of the increase in the all-items index.  The twelve-month rate of core inflation, which excludes the eight most volatile components and the effects of changes in indirect taxes, moderated to 2.2 percent in May from 2.5 percent in April.  Continuing to exert upward pressure on the core index is homeowners' replacement costs (which are estimated using, among other data, prices for new homes); although replacements costs decelerated in May, they continued to show strong growth.  The twelve-month rate of change of new home prices edged below 9 percent in April, continuing its moderation since last summer.
+
+Canada
+
+<!-- missing-text -->
+
+Real Trade
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Consumer Price Inflation
+
+*Excludes 8 most volatile components and the effects of changes
+
+<!-- missing-text -->
+
+in indirect taxes.
+
+<!-- missing-text -->
+
+- 1. 1991=100.
+- n.a. Not available.  ... Not applicable.
+
+Economic Situation in Other Countries
+
+Recent data indicate that economic activity remains strong in emerging market economies.  Although growth in China and India appears to be moderating from the very high rates in the first quarter, the pace of expansion in Asia generally remains robust.  In Latin America, indicators for Mexico suggest some recovery from a marked slowdown in the first quarter.  Inflation has picked up in China and has continued to rise in Venezuela, but on average, has remained little changed elsewhere in the emerging world.
+
+In China , second-quarter indicators point to further strong GDP growth.  The combined trade surplus for April and May was about $265 billion (s.a.a.r.), up from $250 billion in the first quarter as a result of strong exports.  In April and May, twelve-month growth in nominal fixed investment continued to exceed 25 percent, and retail sales were up more than 15 percent.  However, industrial production in April and May was little changed from its value in previous months, suggesting some moderation of growth from its blistering pace in the first quarter.
+
+After moderating a touch in April, twelve-month consumer price inflation rose to 3.5 percent in May, due mostly to increases in food prices.  Food prices, which account for about one-third of the consumption basket, soared 8.3 percent in May from a year ago as rising grain prices and an outbreak of disease among hogs contributed to an increase in the price of meat, particularly pork.  Although non-food price inflation remained stable at around 1 percent in May, concerns are beginning to emerge among policymakers that food price increases will put pressure on wages and fuel broader inflationary pressures. Chinese authorities tightened monetary policy again in mid-May, raising benchmark lending rates and the banks' reserve requirements.  They also increased bank deposit rates, which in real terms, had turned negative recently.  The authorities also announced, effective May 21, a widening of the renminbi's intra-daily trading band against the dollar from +/- 0.3 percent to +/- 0.5 percent.  (This band represents the range of the deviation that the renminbi can make in a particular day against the dollar from the central banks' daily morning fixing.)  However, it is questionable how much more appreciation this will bring in practice, since the previous limit of 0.3 percent was hardly ever reached.  So far this year, the Shanghai stock market index is up more than 60 percent, following an increase of 130 percent last year, reinforcing concerns about an asset bubble.
+
+Chinese Economic Indicators
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Quarterly data estimated by staff from reported four-quarter growth rates. Annual data are Q4/Q4.
+- 2. Percent change from year-earlier period, except annual data, which are Dec./Dec.
+- 3. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+- . . . Not applicable.
+
+In Hong Kong , real GDP growth fell in the first quarter, reflecting an apparent slowdown in investment spending.  In addition, the value of both exports and imports was about flat. In April, separate data on the quantity of trade shows that exports rose, while imports edged down, suggesting a mild pickup in activity in this entrepôt economy.  The unemployment rate remained steady near its lowest level in a decade.  Twelve-month inflation fell to under 2 percent in April as a result of a rent concession on public housing, which is scheduled to expire in six months.
+
+Hong Kong Economic Indicators
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual data are Q4/Q4.
+- 2. Percent.  Monthly data are averages of the current and previous two months.
+- 3. Percent change from year-earlier period, except annual data, which are Dec./Dec.
+- 4. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+- . . . Not applicable.
+
+In Taiwan , first-quarter output decelerated noticeably as a result of weaker domestic demand.  For the current quarter, indicators are mixed.  The combined merchandise trade surplus for April and May narrowed, and export orders for electronic products edged down in April from a high March reading.  On the other hand, April industrial production was up from the first-quarter level, suggesting a recovery going forward.  In May, twelve-month consumer price inflation fell to zero, held down by reductions in energy and food (mainly vegetables) prices.
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual data are Q4/Q4.
+- 2. Percent.
+- 3. Percent change from year-earlier period, except annual data, which are Dec./Dec.
+- 4. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+- 5. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a. Not available.   . . . Not applicable.
+
+China, Hong Kong, and Taiwan
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Merchandise Trade Balances
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+In Korea , indicators are pointing to some improvement in performance.  April industrial production rebounded from its first-quarter weakness, with notable gains in electronic and other high-tech sectors.  Services output rose slightly, and measures of consumer and business confidence for April and May also turned up.  The merchandise trade surplus, though still sizable, narrowed in April, as gains in imports surpassed those in exports. The smaller merchandise trade balance and a rising deficit in services contributed to a widening in the current account deficit.  Recent twelve-month consumer price inflation has fluctuated around the lower end of the Bank of Korea's 2.5 percent to 3.5 percent target range.  The Bank of Korea left policy rates unchanged at its early-June meeting, but signaled a tightening bias, in part reflecting concern over rising bank lending, especially to small- and medium-size enterprises.
+
+The soaring stock market got an additional boost in mid-June as a key parliamentary committee approved the Capital Market Integration act.  The act, scheduled for a full vote soon, will simplify regulations across institutions, allow for a wider range of financial products, and remove barriers separating brokering, futures trading, and asset management.
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual data are Q4/Q4.
+- 2. Percent.
+- 3. Percent change from year-earlier period, except annual data, which are Dec./Dec.
+- 4. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+- 5. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a. Not available.   . . . Not applicable.
+
+Indian real GDP soared 13.1 percent in the first quarter, with strength widespread. Growth in construction and services was particularly robust, and even agriculture, a traditionally slow-growing sector, posted double-digit gains.  More recently, industrial production was flat in April, after surging in March.  Inflation continued to decelerate, likely reflecting the effect of government policies in late spring that lowered domestic prices for a number of products including fuel, as well as previous tightening of monetary policy and recent exchange rate appreciation.  The trade balance worsened considerably in April as imports jumped more than exports.
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual data are Q4/Q4.
+- 2. Percent change from year-earlier period, except annual data, which are Dec./Dec.
+- 3. Billions of U.S. dollars, annual rate.
+- 4. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a. Not available.   . . . Not applicable.
+
+India, Korea, and Singapore
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Merchandise Trade Balances
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Overall, economic activity in the ASEAN region continued to expand at a robust pace in the first quarter.  Real GDP rose over 10 percent in the Philippines, 7½ percent in Singapore, and about 5 percent in Malaysia and Thailand.  Growth was generally supported by strong domestic demand and, in some cases, gains in net exports.  In Indonesia, however, a contraction in agriculture contributed to a moderation of activity. Recent data have been mixed, but on balance suggest a continued expansion of activity going forward.  Trade balances generally fell so far in the second quarter, and April industrial production was down in Thailand, but up in Indonesia, Malaysia, and Singapore.
+
+Twelve-month consumer price inflation across the region continued to be subdued, owing to a lower contribution from energy prices, and in some countries, the unwinding of previous food prices increases and appreciation of exchange rates.  Citing the moderation in inflation and the need to stimulate domestic demand, the Bank of Thailand lowered its interest rate 50 basis points in May, and Bank Indonesia lowered rates by 25 basis points in May and again in June.
+
+On May 30, the constitutional court of Thailand ruled that the Thai Rak Thai party of former Prime Minister Thaksin violated election laws during last year's general elections. It ordered the dissolution of the party and banned 111 members of its executive committee, including Prime Minister Thaksin, from political activities for five years.  The ruling was viewed as politically motivated and is expected to heighten and prolong the political tension in the country.
+
+ASEAN Economic Indicators:  Growth
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual data are Q4/Q4.
+- 2. Annual data are annual averages.
+- 3. Staff estimate.
+- n.a. Not available.  ... Not applicable.
+
+<!-- missing-text -->
+
+n.a. Not available.
+
+ASEAN Economic Indicators:  CPI Inflation
+
+(Percent change from year earlier, except as noted)
+
+<!-- missing-text -->
+
+- 1. Dec./Dec.
+- n.a. Not available.
+
+ASEAN-4
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Merchandise Trade Balances
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Benchmark Interest Rates
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+In Mexico , economic activity continued to decelerate in the first quarter.  Real GDP growth fell to 0.6 percent, owing mainly to continuing weakness in manufacturing output, particularly in the automobile sector, and moderation in construction activity, which had been a main source of growth in previous quarters.  Activity in the services sector remained solid.  More recently, industrial production rebounded somewhat in April from its first-quarter level, suggesting some recovery in activity.
+
+Twelve-month headline inflation was 4 percent in May, slightly lower than expected, as prices of tortillas and other corn products continued to decline from their January peaks, partially reflecting price-restraint agreements that the government brokered with retailers and producers.  These agreements, which were initially negotiated in January, were renewed in late April and will last until mid-August.  May marks the ninth consecutive month with twelve-month inflation at or slightly above the upper limit of the Bank of Mexico's 2-to-4 percent inflation target range.  Nonetheless, the central bank decided during its late-May meeting not to tighten monetary policy, as it expects inflation to fall back well within the target range soon.  It signaled a further tightening of policy might occur if inflation does not recede as expected.
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual data are Q4/Q4.
+- 2. Percent; counts as unemployed those working one hour a week or less.
+- 3. Percent change from year-earlier period, except annual data, which are Dec./Dec.
+- 4. Billions of U.S. dollars, annual rate.
+- 5. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a. Not available.   . . . Not applicable.
+
+Brazilian real GDP growth moderated to 3.1 percent in the first quarter from 4.3 percent in the fourth as the appreciation of the real weighed on the external sector.  The weaker external sector tempered the effect on GDP of strong growth in government expenditures, domestic investment, and services.  More recently, indicators have been mixed, but on balance, suggest a pickup in activity.  In April, industrial production was little changed, but trade balances for April and May rose considerably from the first-quarter level, supported by high prices for exported commodities.  Indicators for consumer and business confidence were also positive in May.  Twelve-month consumer price inflation remained subdued as the appreciation of the real helped contain inflationary pressures.
+
+On June 6, the central bank reduced its policy rate, the Selic Rate, ½ percentage point to 12 percent.  On June 11, the central bank enacted several measures to limit short dollar positions in the banking system in an effort to curb capital inflows and stem the appreciation of the real .  International reserves are estimated to have risen sharply from $85 billion at end-2006 to $150 billion in early June as the central bank intervened in the foreign exchange market.
+
+<!-- missing-text -->
+
+- 2. Percent.
+- 3. Percent change from year-earlier period, except annual data, which are Dec./Dec.
+
+Price index is IPCA.
+
+4. Billions of U.S. dollars, annual rate.
+
+5. Billions of U.S. dollars, n.s.a., annual rate.
+
+n.a. Not available.   . . . Not applicable.
+
+First-quarter growth in Argentina moderated to 4 percent from nearly 7 percent in the previous quarter, largely reflecting a contraction in exports.  Indicators for the second quarter have been positive.  Industrial production and the trade balance both rose in April from their levels in the first quarter.  Twelve-month inflation remained steady in April and May.
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual data are Q4/Q4.
+- 2. Percent; n.s.a.
+- 3. Percent change from year-earlier period, except annual data, which are Dec./Dec.
+- 4. Billions of U.S. dollars, annual rate.
+- 5. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a. Not available.   . . . Not applicable.
+
+In Venezuela, real GDP contracted 2.3 percent in the first quarter following three years of double-digit growth fueled by high petroleum revenues and expansionary fiscal and monetary policies.  Pretroleum output, which accounts for about 20 percent of GDP, declined 5.3 percent.  Twelve-month consumer price inflation continued to rise, reaching nearly 20 percent in May despite various measures to contain it.  Inflation has been fueled by a 30 percent depreciation of the bolivar in the parallel market since late 2006.  In late May, in an attempt to support the bolivar, the government signaled that it would issue more dollar-denominated bonds and sell dollar-denominated Argentine and Bolivian sovereign bonds to local investors.  The dollar-denominated bonds are attractive because the government allows investors to purchase them using bolivares at the official exchange rate, which in mid-June, was considerably higher than the exchange rate in the parallel market.
+
+In mid-June, officials asserted and then later denied that the government is studying whether to buy back all of its sovereign bonds that have clauses requiring IMF membership as part of the government's strategy of exiting the IMF.  Venezuela has an estimated $20 billion in global bonds, and the IMF clauses, which give bondholders the
+
+option to redeem the bond at face value in case of an IMF exit, are standard in global bond issues.
+
+Social tensions increased in late May when the Chavez government closed the nation's largest television station (RCTV), confiscated the company's equipment, and opened a state-supported television channel.  The moves generated widespread criticism and massive street protests, particularly by university students.
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual rate.  Annual data are Q4/Q4.
+- 2. Percent.
+- 3. Percent change from year-earlier period, except annual data, which are Dec./Dec.
+- 4. Billions of U.S. dollars, annual rate.
+- 5. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a. Not available.   . . . Not applicable.
+
+Latin America
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Merchandise Trade Balances
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Benchmark Interest Rates
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+In Turkey , indicators suggest that activity continued to slow in the first quarter.  Average industrial production grew just 0.6 percent in the first quarter, considerably lower than its fourth-quarter pace, and the trade deficit widened.  The weakness appears to have persisted so far in the second quarter.  Industrial production for April was down, and the trade deficit remained large.
+
+Twelve-month consumer price inflation edged down in May but remains well above the central bank's 2007 target of 4 percent.  The political situation has stabilized somewhat, although tensions will likely increase as the July 22 general election nears.  EU accession remains stalled, and further progress will likely depend on the outcome of the election. The IMF remains critical of the expansionary fiscal policy and wage increases that are occurring in the run-up to the election.
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Percent change from year-earlier period.  Annual data are annual averages.
+- 2. Percent change from year-earlier period, except annual data, which are Dec./Dec.
+- 3. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+- 4. Billions of U.S. dollars, n.s.a., annual rate.
+
+n.a.  Not available.    . . .  Not applicable.
+
+In South Africa , real GDP rose nearly 5 percent in the first quarter.  The most recent indicators for the second quarter have been somewhat mixed.  Mining production was up in April and the trade deficit narrowed, but manufacturing production was down.  The targeted CPIX twelve-month inflation rate rose to 6.3 percent in April, due mostly to higher energy and corn prices.  The April inflation rate breached the central bank's 3 to 6 percent target range, prompting the South African Reserve Bank to raise its benchmark interest rate ½ percentage point.
+
+Since June 1, a public sector wage dispute has erupted into massive strikes throughout the country, raising concerns about their effect on economic activity.  The Congress of South African Trade Unions (COSATU), the organization leading the protests, originally demanded a 12 percent cost-of-living pay increase, double the increase proposed by the government.  Of late, COSATU has lowered its demand to 10 percent and the government has raised its offer to 7.25 percent, but prospects for an agreement remain uncertain.
+
+(Percent change from previous period, s.a., except as noted)
+
+<!-- missing-text -->
+
+- 1. Annual Rate. Annual data are Q4/Q4.
+- 2. Percent change from year-earlier period for the CPIX, except annual data, which are Dec./Dec.  CPIX excludes interest rates on mortgage bonds.
+- 3. Billions of U.S. dollars, s.a.a.r.
+- 4. Billions of U.S. dollars, n.s.a., annual rate.
+- n.a.  Not available.    . . .  Not applicable.

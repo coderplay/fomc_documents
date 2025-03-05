@@ -1,0 +1,635 @@
+January 28-29, 2003
+
+Appendix 1: Materials used by Messrs. Sack, Tetlow, Croushore, and Rudebusch
+
+<!-- missing-text -->
+
+Estimated  Monetary  Policy Rule
+
+<!-- missing-text -->
+
+T-statistics shown in  parentheses. Rule also contains a constant term.
+
+<!-- missing-text -->
+
+Vertical line denotes end of sample period.
+
+Exhibit 2
+
+Optimal  Monetary  Policy: A First Pass
+
+Defining  "Optimal" Policy
+
+- * FOMC desires to limit squared deviations of:
+- -inflation from  a target level
+- -unemployment  rate from  its equilibrium  level
+- * FRB/US is the correct characterization of the economy.
+- * The  "optimal" policy is conditional  on the  model  and the objectives assumed.
+
+"Optimal" and  Estimated  Policy Rules
+
+<!-- missing-text -->
+
+Rules also  contain a constant term.
+
+<!-- missing-text -->
+
+Why Is the  "Optimal" Policy So Aggressive?
+
+- * This finding hinges on three  key assumptions:
+- 1.  Expectations formed  as if  FOMC following  historical  policy rule.
+- 2. FOMC  knows the structure of the economy with certainty.
+- 3. No measurement  error in macroeconomic  data.
+- * We evaluate the implications of relaxing each  assumption  in subsequent exhibits.
+
+Exhibit 3 Forward-Looking  Expectations
+
+Implications of Forward-Looking  Behavior
+
+- * Private agents will expect the initial response  of the federal funds rate to be followed by additional  policy changes.
+- * Expectations will be  incorporated into current  asset prices  and economic decisions.
+- * Inertial  response  can have an  immediate  and sizable impact  on economic variables.
+
+Varying the Degree  of Forward-Looking  Behavior
+
+* Degree of forward-looking  behavior governed  by a single parameter, 4.
+
+* Expectations =  ((rational expectations)  +  (1 - ()(VAR-based  expectations)
+
+* ) = 0
+
+: completely backward-looking
+
+4 =
+
+1 : completely forward-looking
+
+Optimal Coefficient on  Lagged FF  Rate
+
+Impact of Forward-Looking  Behavior
+
+<!-- missing-text -->
+
+-
+
+<!-- missing-text -->
+
+Rules also  contain a constant term.
+
+-
+
+Exhibit 4 Parameter  Uncertainty
+
+<!-- missing-text -->
+
+Effects  of Parameter Uncertainty
+
+<!-- missing-text -->
+
+Parameter  Uncertainty  in  a VAR
+
+Implications of Additive Uncertainty
+
+- * Amount  of uncertainty is not affected by the policy decision.
+- * No  effect on  "optimal" policy setting.
+
+Implications of Parameter  Uncertainty
+
+-
+
+- * Uncertainty  about future economic conditions affected by current policy decisions.
+- * Shade policy actions toward choices that reduce  uncertainty.
+
+Impact of  Parameter Uncertainty
+
+- * VAR  captures dynamics of key macroeconomic variables.
+- * Parameter uncertainty measured  by var.-cov. matrix of coefficients.
+- * Use VAR to assess effect on "optimal" policy rule.
+
+<!-- missing-text -->
+
+Rules also contain a constant term. "Optimal" rules are  approximated as simple policy rules.
+
+Policy Implications
+
+- *  No effect  if real-time  estimate uncorrelated with subsequent revisions.
+- *  In  practice, large  initial estimates often revised to be smaller.
+- *  Under such conditions, attenuate response to output gap.
+
+Exhibit 5
+
+Measurement  Error in  Macroeconomic  Data
+
+Revisions to  Real Output Growth  Rate*
+
+Revisions to Real  Output Growth  Rate*
+
+<!-- missing-text -->
+
+*Initial to  one-quarter revision,  one-quarter growth, expressed at  an  annual  rate.  Data  are from  1965Q3 to 2002Q2.
+
+Unobserved Variables
+
+- * A number of important variables are not directly observed.
+- * These variables include potential  output, expected inflation, and the  equilibrium real  interest rate.
+- * Estimates  subject to significant error that can  be highly  persistent.
+- *Staff estimates taken from  Greenbooks.
+
+<!-- missing-text -->
+
+Impact of Measurement  Error
+
+<!-- missing-text -->
+
+Rules  also contain a constant term.
+
+<!-- missing-text -->
+
+- *One-quarter growth,  expressed at an  annual  rate.
+
+Exhibit 6 Summary  and  Alternative Explanations
+
+Summary of Findings
+
+- * A simple  analysis indicates that monetary policy should move  more forcefully and  be less inertial than observed.
+- * Investigated the sensitivity to three factors  -- forward-looking  behavior, parameter uncertainty, and data measurement error.
+- * None of the factors alone seems  to fully explain the observed smoothness of the federal  funds rate.
+- * Caveat: These factors likely interact.
+
+Other Considerations
+
+- * Policymakers face uncertainty about structure of model.
+- *  Economy may demonstrate  large, discrete responses.
+- *  FOMC  may be concerned about financial fragility.
+
+Institutional Aspects
+
+* Policy decisions are  made by a committee.
+
+* FOMC  might seek to avoid reversals.
+
+Frequency of Reversals*
+
+Estimated  Rule
+
+Optimal  Rule
+
+10%
+
+51%
+
+- *Based on  quarterly changes in federal  funds  rate from FRB/US  simulations.
+
+Monetary Policy  Inertia
+
+Material  for a presentation to the FOMC January 28, 2003
+
+Glenn Rudebusch Federal  Reserve Bank of San Francisco
+
+Two  Types of Monetary Policy  Inertia
+
+There is a widespread view  among academic  and central bank economists  that monetary policy  is slowly  adjusted in  response  to information about the economy. Such  behavior is often  called  "policy  inertia," "gradualism," or "interest rate smoothing."
+
+It is  important  to distinguish types  of monetary policy  inertia that operate at different horizons:
+
+Short-term policy  inertia:
+
+- * A week-to-week partial  adjustment  of the policy  interest rate. For example,  cutting the funds  rate by two 25-basis-point moves  separated by several  weeks instead  of reducing it all  at once by 50 basis points.
+- * Breaking up a large  interest rate  movement into smaller changes may help reduce any adverse  reactions  in  financial markets;  however, this motive appears to  operate at a very short horizon.
+- * Such short-term partial  adjustment  is often apparent,  but it  is essentially  unrelated to policy inertia  at a quarterly  frequency.
+
+Quarterly policy  inertia:
+
+- * A quarter-to-quarter  partial adjustment  of the federal funds  rate.  For example,  if the Fed wanted to  increase the funds  rate by a percentage point,  it would raise  the rate by only about 20 basis points  per quarter  for the next few quarters.
+- * Quarterly monetary policy  inertia  is the conventional  interpretation  of the estimated monetary  policy rules that are widespread  in the economics  literature.  For example, Clarida,  Gali, and Gertler  (2000, pp.  157-158) describe their empirical estimates  of Fed behavior as ". . . suggesting considerable  interest rate  inertia:  only  between 10% and 30% of a change  in  the  [desired  interest rate]  is  reflected in the Funds  rate within the quarter  of  the change." [emphasis added]
+- * My discussion below refers only to the  issue of quarterly  gradualism  in monetary policy  actions.
+
+Although  many have argued that quarterly policy  inertia is an important empirical result, my analysis,  in contrast, suggests  that the federal  funds rate is  not adjusted gradually over several  quarters but that the Fed responds  promptly to a wide variety of economic developments.
+
+Apparent Evidence  for Quarterly Policy  Inertia
+
+Policy  inertia-the view  that the funds rate is  adjusted at a very sluggish  pace over several quarters-is apparently supported by numerous estimates of monetary policy  rules.
+
+- * These policy rules take  a partial  adjustment form, where  the  current funds  rate  can  be expressed  as a weighted  average  of last quarter's actual  rate and the current quarter's desired  funds rate. The parameter p-which indicates the amount of inertia-is the weight on last quarter's funds rate level:
+
+funds ratet  = P x funds rate t  -1 + (1 p) x desired  unds rate t f .
+
+- * With quarterly data,  many  estimates  put about a  ¾  weight on the lagged  funds  rate (p = .75)  and a … weight  on the desired rate. The usual  interpretation  of this partial adjustment  is that the  Fed adjusts the funds  rate  only 25  percent toward  its desired level  in  each  quarter-a very  sluggish policy response.
+
+For example,  the FOMC Financial Indicators packet contains two estimated  monetary policy  rules: one with  and one without policy  inertia.
+
+- * Both rules  set the  desired  funds rate  on the basis  of  the Taylor rule,  that is,  in  response to current readings  on the  output gap  and inflation rate:
+- * The estimated Taylor rule with inertia follows the  actual  funds rate path much  more closely than the estimated rule  without inertia,  which apparently  supports  gradualism.
+
+desired  funds ratet  = C x  output  gapt + P  x inflationt.
+
+<!-- missing-text -->
+
+Evidence  against Quarterly Policy Inertia from  the Yield  Curve
+
+A key  implication  of policy  inertia: Future funds rate movements  are very predictable.
+
+- * With sluggish  partial  adjustment, if the funds  rate typically is  adjusted  by only 25 percent toward  its desired  target  in  a given quarter, then the remaining 75 percent of the adjustment will  be expected to occur in future  quarters.
+- * Therefore,  a  significant amount of policy inertia implies  a significant  amount of predictive  information in financial  markets about the future  path of the funds rate.
+
+In fact,  funds rate predictability is  far lower than quarterly policy  inertia implies.
+
+- * If  the Fed  slowly adjusted  the funds  rate  (if,  for example, p = .75), then a regression of actual changes in the funds  rate on predicted  changes  from  financial markets (eurodollar or fed  funds futures) would yield a good  fit (i.e.,  a moderately high R 2 ).
+- * Many researchers  have examined  this regression  and found little predictive information about the funds rate  in financial markets  beyond the next few months. For example,  eurodollar futures have essentially no ability to predict the quarterly change  in the funds  rate three  quarters ahead  (an R 2 of zero).
+- * The chart below gives the  actual path of the funds  rate during the past three years and various  expected paths as of the middle  of each  quarter (based on  fed funds futures). Although the funds rate gradually  fell  in 2001,  market participants  anticipated  few of these declines  at a  6- to 9-month horizon,  as they would have under policy inertia.
+
+<!-- missing-text -->
+
+The Illusion  of Monetary Policy  Inertia
+
+How can the estimates of sluggish  partial adjustment (specifically  p = .75)  be explained  given the low  amount of funds rate predictability in  financial markets?
+
+Answer:  The Fed's reaction to information  and events  outside the scope  of the Taylor rule could  be incorrectly interpreted as sluggish  policy  adjustment.
+
+- * The case  for gradualism  is that the  Taylor rule without  inertia appears to fit poorly because there are large persistent deviations of the actual  funds rate  from the rule. The Taylor rule with inertia  explains these persistent deviations  as a sluggish  response to output and inflation.
+- * However, an alternative explanation  is  that the Taylor  rule is an  incomplete description  of Fed policymaking and that the  Fed responds  to other persistent variables  besides current  output and  inflation. Under this interpretation,  the Fed does not exhibit quarterly policy  inertia.
+- * These two explanations are difficult to distinguish  through direct estimation; however, the low predictability of the  funds rate indicates  the  absence  of  inertia.
+
+What "other persistent variables" does  the Fed react to so  that the funds rate deviates  from the Taylor rule (and induces  the illusion  of monetary policy  inertia)?
+
+Answer:  The Taylor rule takes into account current output and inflation; however,  the Fed also  responds to  other information about the economy  including variables that affect the outlook and credit and financial  flows.
+
+- * During  1992 and  1993,  when the funds  rate was  persistently below the Taylor rule recommendations,  Chairman Greenspan  stressed the reaction  of the Fed to a credit crunch:  "In  an endeavor to defuse  these  financial strains,  we moved short-term  rates lower in  a long series of steps that ended  in the  late summer  of 1992,  and we  held them at unusually low  levels through the end  of 1993-both  absolutely  and, importantly,  relative to  inflation."
+- * For the period during  late  1998,  Governor Meyer described  policy  this way:  "There are three developments,  each of which,  I believe, contributed to this decline in  the funds  rate  relative to Taylor rule prescription.  The first event was the dramatic financial  market turbulence,  following the Russian  default and  devaluation.  The decline  in the federal  funds rate was,  in my  view, appropriate  to offset the  sharp deterioration  in financial  market conditions,  including wider  private  risk spreads, evidence  of tighter underwriting  and  loan terms  at banks,  and sharply reduced liquidity  in financial  markets."
+
+Two Unresolved  Questions
+
+1.  How  should  the Fed's monetary policy  decision-making  process  be modeled?
+
+- * The Taylor rule is an incomplete  description of Fed behavior, and more research  is required  to characterize  other influences  and determinants  of policy.  Adding partial adjustment  to the policy rule  is not a solution;  instead, partial  adjustment  is  a misspecification  that substitutes  for clearer  understanding  of  the policy process.
+- * A closely  related  question is,  What kind  of loss  function should represent Fed behavior?  Currently, the policymaker-perfect-foresight  (PPF) path  in the Bluebook uses a  loss function  that assumes the Fed  would be  equally displeased with:  (1) an unemployment  rate one percentage  point above  the natural  rate,  (2)  an inflation  rate one percentage  point above target, and (3)  a  100-basis-point  decrease  in the  quarterly average  funds  rate.  These  equal  weights place  an implausibly high  penalty on funds rate volatility. However, without a substantial  penalty on funds rate  volatility, the PPF path does not match the  recent historical  path of the  funds rate,  so the high penalty  may be another misspecification  that is  compensating for some  unknown flaw in  our calculations  of optimal policy.
+- * If  policy over the  past two  decades  has been  close to optimal, then an important element  is missing from  the current  specifications  used by economists to construct optimal  monetary policy.
+- 2. Should  the Fed deviate  from its historical  behavior and become  more aggressive  in changing the funds rate?
+- * It  may  be that our economic  models-without  interest  rate smoothing  in the  loss function-are  basically correct  in finding  that under an optimal  policy, the Fed should be more  aggressive  in  reacting  to economic  news.
+- * The analysis  above suggests  that the Fed has not been  sluggish  in reacting  to economic  developments:  It has likely  set the  funds rate equal  to its  desired rate in each  quarter. However, there remain questions about whether  the desired rate should react more  forcefully  to economic  news, that is, whether the Fed has been  too timid.
+
+References
+
+Short-term policy  inertia:
+
+Dotsey, Michael,  and Chris Otrok.  1995. "The Rational  Expectations  Hypothesis of the Term Structure, Monetary  Policy and Time-Varying  Term Premia," Economic Quarterly, Federal Reserve  Bank of Richmond, pp. 65-81.
+
+Goodfriend,  Marvin.  1991. "Interest  Rates  and the  Conduct of Monetary Policy." CarnegieRochester  Series on Public  Policy 34, pp. 7-30.
+
+Rudebusch,  Glenn D.  1995.  "Federal  Reserve  Interest Rate  Targeting, Rational Expectations, and the  Term Structure." Journal  of  Monetary Economics 35,  pp.  245-274.
+
+Quarterly policy  inertia:
+
+Clarida,  Richard, Jordi  Gali,  and Mark  Gertler. 2000.  "Monetary  Policy  Rules and Macroeconomic  Stability:  Evidence and Some Theory." Quarterly  Journal  of  Economics 115, pp. 147-180.
+
+English,  William,  William Nelson, and Brian Sack. 2002. "Interpreting  the Significance  of  the Lagged Interest Rate in Estimated  Monetary Policy Rules," FEDS working paper 2002-24.
+
+Gerlach-Kristen,  Petra. 2002. "Interest-Rate  Smoothing:  Monetary  Policy Inertia or Unobserved  Variables?"  manuscript, University  of Basel.
+
+Rudebusch, Glenn D. 2002. "Term Structure  Evidence on  Monetary  Policy Inertia  and Interest Rate Smoothing." Journal  of  Monetary Economics 49, pp. 1161-1187.
+
+Optimal  monetary policy:
+
+Levin, Andrew,  Volker Wieland,  and John C. Williams. 1999. "Robustness of Simple Monetary Policy Rules under  Model Uncertainty."  In Monetary Policy Rules, ed.  John  B.  Taylor, pp. 263299. Chicago:  Chicago University Press.
+
+Rudebusch,  Glenn D. 2001. "Is  the Fed  Too Timid?  Monetary  Policy in an Uncertain World," Review of  Economics  and  Statistics 83, pp. 203-217.
+
+Rudebusch,  Glenn D. 2002.  "Assessing Nominal  Income Rules for Monetary  Policy with  Model and Data Uncertainty," Economic  Journal 112, pp. 402-432.
+
+Woodford,  Michael. 1999. "Optimal  Monetary  Policy Inertia." The Manchester  School Supplement, pp.  1-35.
+
+January 28-29, 2003
+
+Appendix 2: Materials used by Mr. Kos
+
+Current 3-Month Deposit Rates and Rates Implied by Traded Forward Rate Agreements
+
+November 1, 2002 to January 27, 2003
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Euro-Dollar Exchange Rate
+
+<!-- missing-text -->
+
+Dollar-Yen Exchange Rate
+
+<!-- missing-text -->
+
+Trade Weighted U.S. Dollar
+
+<!-- missing-text -->
+
+Corporate Spreads to U.S. Treasuries and Corporate Issuance Data
+
+November 1, 2002 to January 24, 2002
+
+Investment-Grade
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+High Yield
+
+<!-- missing-text -->
+
+Total U.S. Corporate Debt Issuance
+
+(Investment Grade and High Yield)
+
+<!-- missing-text -->
+
+2-Year U.S. Treasury Note and Fed Funds Target Rate
+
+<!-- missing-text -->
+
+S&amp;P 100 Volatility Index (VIX)
+
+<!-- missing-text -->
+
+Global Equity Indices
+
+<!-- missing-text -->
+
+November 1, 2002 to January 27, 2003
+
+<!-- missing-text -->
+
+10-Year European Sovereign Debt Spreads over German Bunds
+
+<!-- missing-text -->
+
+Domestic Portfolio: Permanent SOMA Holdings, Long-Term RPs, &amp; Net Short-Term Operations
+
+(July 2002 to February 2003. Maintenance-Period Average Values, billions of dollars)
+
+<!-- missing-text -->
+
+January 28-29, 2003
+
+Appendix 3: Materials used by Mr. Slifman, Mr. Struckmeyer, and Ms. Johnson
+
+STRICTLY CONFIDENTIAL (FR) CLASS I-FOMC*
+
+Material for
+
+Staff Presentation on the Economic Outlook
+
+January 28, 2003
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Financial Developments
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Ten-Year Sovereign Bond Yields
+
+- * Trade-weighted average against major foreign currencies.
+- **Week of January 28, 2002 = 100.
+
+<!-- missing-text -->
+
+Stock Prices
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Foreign Outlook
+
+Real GDP
+
+*Years are Q4/Q4; half years are either Q2/Q4 or Q4/Q2.
+
+<!-- missing-text -->
+
+- **U.S. total export weights.
+
+Orders*
+
+<!-- missing-text -->
+
+*Manufacturing orders for Canada and Germany, private core machinery orders for Japan.
+
+<!-- missing-text -->
+
+Total Employment
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- *Years are Q4/Q4; half years are Q2/Q4 or Q4/Q2.
+- **U.S. total export weights.
+
+Emerging Market Countries
+
+Asia
+
+Nominal Exchange Rates
+
+<!-- missing-text -->
+
+Stock Market Indexes
+
+<!-- missing-text -->
+
+- *Years are Q4/Q4; half years are Q2/Q4 or Q4/Q2.
+- **U.S. total export weights.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- *Years are Q4/Q4; half years are Q2/Q4 or Q4/Q2.
+- **U.S. total export weights.
+
+Latin America
+
+EMBI+ Spreads
+
+<!-- missing-text -->
+
+Real GDP Growth Percent, SAAR*
+
+<!-- missing-text -->
+
+- *Years are Q4/Q4; half years are Q2/Q4 or Q4/Q2.
+- **U.S. total export weights.
+
+External Sector
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Financial Flows
+
+Billions of dollars
+
+<!-- missing-text -->
+
+- * Projections for lines 2 through 4 incorporate TIC data through November, and, for line 2, FRBNY data for December.
+
+Simulation Results
+
+(Real GDP Growth, Deviation from Baseline; Percent change, Q4/Q4)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- * Limited embargo case.
+- *  With confidence effects.
+
+1/28/03
+
+ECONOMIC PROJECTIONS FOR 2003
+
+<!-- missing-text -->
+
+Central tendencies calculated by dropping high and low three from ranges.
+
+January 28-29, 2003
+
+Appendix 4: Materials used by Mr. Reinhart
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Nominal  Federal  Funds  Rate
+
+Real  Federal  Funds Rate'
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Civilian  Unemployment  Rate
+
+<!-- missing-text -->
+
+PCE
+
+Inflation  (ex. food and energy)
+
+<!-- missing-text -->
+
+The perfect foresight simulations extend the  key assumptions of the staff outlook (other than the path  for monetary policy) through  2008:
+
+- *potential output grows at about 3-3/4 percent  per year
+- *the relative price  of oil  stabilizes at  its end of  2004 level
+- *the exchange value of dollar measured in  real terms falls at a 3 percent clip
+- *federal budget deficit relative to  GDP  declines moderately
+- 1.  The real federal funds  rate is calculated as the  quarterly average  nominal funds  rate minus the four-quarter  lagged core PCE  inflation rate  as a proxy for inflation expectations.
+
+<!-- missing-text -->
+
+Note: The shaded range represents  the maximum  and the minimum  values each quarter of four estimates of the  equilibrium real federal  funds rate  based  on a  statistical filter and the FRB/US  model.  Real federal funds rates employ four-quarter lagged core PCE  inflation as a proxy for inflation  expectations, with the staff projection used for 2002Q4  - 2003Q1.

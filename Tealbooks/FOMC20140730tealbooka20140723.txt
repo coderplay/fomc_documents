@@ -1,0 +1,2256 @@
+Prefatory Note
+
+The attached document represents the most complete and accurate version available based on original files from the FOMC Secretariat at the Board of Governors of the Federal Reserve System.
+
+Please note that some material may have been redacted from this document if that material was received on a confidential basis.  Redacted material is indicated by occasional gaps in the text or by gray boxes around non-text content.  All redacted passages are exempt from disclosure under applicable provisions of the Freedom of Information Act.
+
+Class II FOMC - Restricted (FR)
+
+Report to the FOMC on Economic Conditions and Monetary Policy
+
+<!-- missing-text -->
+
+Book A
+
+Economic and Financial Conditions: Current Situation and Outlook
+
+July 23, 2014
+
+A
+
+u
+
+( This p age is intentionally blank.)
+
+thorized for Public Release
+
+Class II FOMC - Restricted (FR)
+
+Domestic Economic Developments and Outlook
+
+The information we have received since the June Tealbook suggests to us that slack in the economy is being taken up somewhat more quickly than we anticipated in our previous projection.  On its face, this assertion may seem difficult to square with the growth of real GDP over the first half of the year, which has been even more feeble than we expected in the June Tealbook.  However, a range of other indicators portray a stronger profile of economic activity:  Payrolls have risen faster than we had projected, the unemployment rate declined another 0.2 percentage point in June, industrial production has posted steady gains in recent months, and the readings from business surveys have been quite strong.  Given these considerations, together with our skepticism about the level of health-care spending shown in the national income and product accounts thus far this year, we judge that the weakness in real GDP in the first half of the year largely reflects a combination of statistical noise and transitory influences that will not persist into the second half.
+
+We continue to expect a stronger pace of economic growth over the medium term, as some of the forces that have restrained the expansion in recent years recede.  Our current forecast anticipates that real GDP will increase at a 3½ percent annual rate over the second half of this year and then rise 3 percent in 2015 and in 2016.  The average pace of growth over the next two and a half years is just a little lower than in the June Tealbook.
+
+We have taken some signal from the fact that the unemployment rate once again surprised us to the downside-continuing a string of forecast errors in that direction-and we have lowered our unemployment forecast over the projection period.   We now 1 project that the unemployment rate will move down from 6 percent in the current quarter to 4¾ percent by the end of 2016-the latter value being about ½ percentage point below our estimate of the natural rate.  To bring the GDP gap into closer alignment with the unemployment gap, we cut our assumption for potential output this year.  We now have resource utilization in both product and labor markets reaching normal levels next summer, three quarters earlier than in the June Tealbook.
+
+Recent data point to somewhat faster-than-expected increases in both overall and core personal consumption expenditures (PCE) prices in the second quarter.  In response, we marked up the core PCE inflation projection for the second half of the year.  In the medium term, we revised up our forecast for core inflation 0.1 percentage point in 2015 and in 2016 as a result of the tighter margins of slack in this projection.  As a result, core PCE inflation is projected to gradually rise from 1.6 percent this year to 1.8 percent in 2016.  Our forecast for overall PCE inflation is also revised up a little, although we continue to anticipate that it will run slightly below core inflation in both 2015 and 2016.
+
+As always, numerous risks surround our outlook.  As in the June Tealbook, we view the uncertainty around our projection for real GDP growth, inflation, and the unemployment rate as roughly in line with the average of the past 20 years, a period that includes considerable volatility.  While we still see the risks to GDP growth as tilted a little to the downside (largely because neither monetary policy nor fiscal policy appear well positioned to offset substantial adverse shocks to the economy), we consider these risks to be more nearly balanced than in the June projection.  We continue to see the risks around our outlook for the unemployment rate and for inflation as roughly balanced.  The exhibit 'Forecast Confidence Intervals and Alternative Scenarios' in the Risks and Uncertainty section presents FRB/US-generated confidence intervals in graphical form around the baseline forecast.
+
+KEY BACKGROUND FACTORS
+
+Monetary Policy
+
+- · Our assumptions for the current LSAP program are unchanged from the previous projection.  We assume that asset purchases will continue to slow, concluding in October of this year.
+- · We continue to assume that the federal funds rate will lift off from its zero lower bound in the second quarter of 2015.  We construe the roughly twoquarter lag between the assumed end in asset purchases and the liftoff of the federal funds rate to be consistent with the Committee's view, expressed in its June statement, that 'it likely will be appropriate to maintain the current target range for the federal funds rate for a considerable time after the asset purchase program ends.'
+
+- · Following liftoff, the federal funds rate rises at a pace determined by the prescriptions of an inertial version of the Taylor (1999) policy rule.  The mechanical implementation of this rule puts the federal funds rate at an average level of 2.8 percent in the final quarter of 2016, about 50 basis points higher than in the June Tealbook, mainly reflecting the higher level of resource utilization in this forecast.
+
+Other Interest Rates
+
+- · The trajectory of the 10-year Treasury yield is generally higher over the medium term, reflecting the upward adjustment to the assumed path of the federal funds rate.  Our projection continues to call for a significant rise in Treasury yields primarily because of the movement of the 10-year valuation window through the period of extremely low short-term interest rates as well as a gradual waning of the effects of the FOMC's balance sheet policies.
+- · Our forecasts for corporate bond yields and mortgage rates in the medium term have been revised essentially in line with our revisions to the path for the Treasury yield.
+
+Equity Prices and Home Prices
+
+- · Since the June Tealbook, equity prices have come in about in line with our projection.  Our forecast has stock prices rising at an average annual rate of about 5 percent through 2016, similar to the average pace of nominal GDP growth.
+- · We have marked down our forecast for house prices a bit since June, as recent data have come in on the soft side of our expectations.  Overall, we continue to expect house price appreciation to slow markedly, from nearly 12 percent last year to 6 percent this year and to about 3½ percent per year in 2015 and 2016.
+
+Fiscal Policy
+
+- · Our assumptions for fiscal policy are the same as in the June Tealbook.  We expect the drag on economic growth from fiscal policy changes to shrink from about 1 percentage point last year to ¼ percentage point this year and to essentially zero over 2015 and 2016.
+
+Foreign Economic Activity and the Dollar
+
+- · Foreign real GDP growth is estimated to have risen to an annual rate of about 2½ percent in the second quarter from a 2 percent increase in the first quarter. We project foreign growth to improve further, settling at about 3¼ percent over the rest of the forecast period, in line with stronger U.S. growth and as foreign monetary policy remains supportive.
+- · The broad nominal index for the dollar has declined almost ½ percent since the previous Tealbook.  Over the forecast period, the broad real dollar is forecast to depreciate at an annual rate of about 1 percent, ¼ percentage point less than projected in the previous Tealbook, reflecting the steeper rise in the federal funds rate in this projection.
+
+Oil and Other Commodity Prices
+
+- · The spot price of Brent crude oil has fallen about $3 per barrel since the time of the previous Tealbook, closing near $107 per barrel on July 22.  Renewed conflict in Iraq has left no lasting imprint on spot prices, as current Iraqi production remains unaffected.  However, concerns about the longer-term outlook for the Iraqi oil supply have pushed up futures prices.  Consequently, our forecast for the price of imported oil has been marked up about $3 per barrel by the end of the forecast period.  We project that the price of imported oil will decline gradually from around $102 per barrel in the current quarter to $92 per barrel at the end of 2016, a path consistent with futures markets.
+- · Nonfuel commodity prices are little changed, on net, relative to the June Tealbook, as a decline in food prices was largely offset by higher prices for metals.  Over the forecast period, we project our overall commodity price index to remain about flat.
+
+RECENT DEVELOPMENTS AND THE NEAR-TERM OUTLOOK FOR REAL GDP
+
+The BEA currently estimates that real GDP fell at an annual rate of nearly 3 percent in the first quarter, a decline 1½ percentage points larger than expected in the June Tealbook.   Given the data in hand, we now estimate that real GDP rose 3½ percent 2
+
+in the second quarter, ¾ percentage point less than in the previous forecast.  Much of the downward revision in the first quarter was concentrated in consumer spending for health services; the BEA has extended the weaker profile of such spending into the second quarter.  These estimates are surprising, especially as they seem at odds with the expansion of health insurance coverage resulting from the Affordable Care Act. 3
+
+More broadly, the weakness in GDP-and GDI-early in the year seems out of step with other indicators of economic activity.  As a result, we are treating much of the reported weakness in GDP as statistical noise that may or may not be revised away in the future, and, consequently, we have not significantly altered our forecast for GDP growth over the rest of the year relative to the June projection.  We now anticipate increases averaging 3½ percent in the second half of the year.
+
+- · Available data indicate that real PCE rose at an annual rate of about 1½ percent in the first half of 2014-about half the pace expected in the June Tealbook, reflecting the lower-than-expected trajectory for health-related spending.  As a result, the projection for real PCE growth in the second half of the year continues to call for solid gains that are consistent with the sector's fundamentals, which have come in close to our expectations since the June Tealbook.
+- · We continue to be puzzled by the degree of weakness in housing activity over the past year.  However, the latest housing data have been a bit more upbeat and seem broadly in line with our expectation that activity in this sector will gradually begin to trend up again. 4
+- · Real spending on equipment and intangibles (E&amp;amp;I) appears to have rebounded in the second quarter, and orders data point to a moderate further increase this quarter.  Oil and natural gas drilling looks to have surged in the second
+
+expecting these revisions to resolve the conundrum implicit in the BEA's current estimate of GDP growth for the first quarter of 2014.
+
+3 Although the BEA has not built any rebound in health expenditures into their current estimates of spending in April and May, we see a good possibility that the second-quarter Quarterly Services Survey, which will be available the day after the September Tealbook is published, will reflect such a rebound.  If so, GDP growth in the second quarter would be revised significantly higher than our current estimate, and we would likely revise up potential GDP commensurately.
+
+4 See the July 18, 2014 memo to the FOMC, 'Recent Weakness in Housing Activity and the Staff Outlook for the Housing Sector,' by Raven Molloy and Kamila Sommer.
+
+quarter; given the volatility and revision properties of these data, however, our projection for nonresidential building activity is little revised for the near term.
+
+- · The data we have received for inventory investment through May were close to our assumptions in the June Tealbook and point to an appreciably faster pace of stockbuilding in the second quarter than in the first quarter.
+- · The external sector subtracted 1½ percentage points from real GDP growth in the first quarter because of a sharp decline in exports.  Both exports and especially imports appear to have increased vigorously in the second quarter, and we now estimate that net exports subtracted ⅓ percentage point from real GDP growth, compared with our estimate of a roughly neutral contribution in the previous Tealbook.  In the third quarter, the contribution of net exports is expected to turn positive, as import growth drops back to a rate more in line with the pace of U.S. demand growth.
+- · Factory output has been a relatively bright spot recently.  After having decelerated in the first quarter, manufacturing production moved up 6¾ percent (annual rate) in the second quarter, about 2½ percentage points faster than projected in the June Tealbook.  Surveys of manufacturers have been upbeat, on balance, in recent months and are consistent with our projection for factory output to increase 3½ percent this quarter, about the same as in the June Tealbook.
+
+POTENTIAL GDP AND THE NATURAL RATE OF UNEMPLOYMENT
+
+Absent any adjustments to our supply-side assumptions relative to their settings in the June Tealbook, our updated estimates of real GDP growth during the first half of this year would have implied a ½ percentage point wider GDP gap in the second quarter, even as the unemployment rate gap was 0.1 percentage point narrower than projected.  Given the stronger tenor of a range of other indicators and our doubts about the measurement of real PCE, we judged the revisions to first-half GDP growth to be uninformative about the current degree of product-market slack.  To show greater consistency in our different measures of resource utilization, we lowered our estimate of potential GDP in 2014.
+
+- · In particular, we lowered potential GDP in 2014 by enough to absorb the revision to GDP growth in the first half of the year-which we are treating as being tantamount to measurement error-and to make the output gap a little narrower than in the June Tealbook, in line with our assessment that labor market conditions are better than we had expected.  This adjustment leaves our estimate of potential GDP growth in 2014 at zero.
+- · On its face, this estimate may seem surprising.  We do not believe that the sustainable productive capacity of the economy actually fell in the first half of this year or that it will be flat for 2014 as a whole.  But confronted with the choice of letting measurement error either contaminate the GDP gap or the growth of potential GDP, we chose the latter, as we view it as most important to provide our best calibration of the degree of slack in the economy.  We project that potential GDP will rise 1¾ percent in 2015 and 2 percent in 2016, the same as in the June Tealbook.
+- · We made no adjustments to the natural rate of unemployment this forecast round; in particular, we continue to assume that the natural rate moved down to its long-run level of 5¼ percent in the second quarter of this year.
+
+THE MEDIUM-TERM OUTLOOK FOR REAL GDP
+
+Beyond the near term, our real GDP growth outlook has been revised down a little.
+
+- · After rising at an annual rate of 3½ percent over the second half of 2014, real GDP is expected to increase at a 3 percent pace in 2015 and in 2016.  The small downward revision to 2016, about ¼ percentage point, is a consequence of the higher interest rates, the modestly lower house prices, and the slightly higher path for the dollar in this projection.
+- · Real GDP growth in 2015 and 2016 is supported by a further waning of restraint from changes in fiscal policy and a gradual expansion in the availability of mortgage credit.  Moreover, we expect that, over time, households and firms will apprehend that the downside risks to the recovery are diminishing, leading to improved consumer and business confidence and providing additional support to consumer spending, business investment, and
+
+hiring.  (For a different perspective, see the box 'Alternative View:  An Expectations Trap.')
+
+- · The magnitude of the projected step-up in real GDP growth in 2015 relative to 2014 is exaggerated, in our assessment, by the experience of the first half, which we regard as anomalously low.
+- · We project the GDP gap will be eliminated in the third quarter of 2015, three calendar quarters earlier than in the June Tealbook, and that actual GDP will be 1¼ percent above potential GDP by the end of 2016, compared with ¾ percent in the previous projection.
+
+THE OUTLOOK FOR THE LABOR MARKET
+
+In contrast to the negative surprise to GDP growth, the incoming data suggest that the labor market has been improving at a somewhat faster pace than anticipated in the June Tealbook.
+
+- · Total nonfarm payrolls rose about 290,000 in June, and, with positive revisions to April and May, the level of total payrolls in June was 90,000 above our previous Tealbook projection.  In response to the stronger-thananticipated June employment report, we nudged up our forecast for average monthly job gains in the third quarter by 25,000, to 250,000.
+- · The unemployment rate moved down 0.2 percentage point in June, to 6.1 percent; we had expected it to hold steady at 6.3 percent.  The participation rate, which we expected to tick up in June, remained at 62.8 percent for a third consecutive month.
+- · The staff's labor market conditions index (LMCI), which summarizes the movements in 19 labor market indicators, continued to move up in June.  That said, it points to somewhat less improvement in labor market conditions over the past year than would be indicated by the unemployment rate taken alone. (For more information, see the box 'Has the Fall in Unemployment Overstated the Improvement in Labor Market Conditions?  A View from the Labor Market Conditions Index.')
+
+Taking all of this information on board, we now anticipate slack in the labor market to be eliminated somewhat sooner than in our previous projection.
+
+- · The unemployment rate in the second quarter, at 6¼ percent, was 1 percentage point above our estimate of its natural rate.  The jobless rate is expected to decline to the natural rate by the third quarter of 2015 (three calendar quarters earlier than in the previous projection) and to end 2016 at 4¾ percent, ½ percentage point below our estimate of the natural rate.
+- · We expect private nonfarm payrolls to increase 240,000 per month, on average, in the second half of 2014-a touch faster than in the June projection-and then to settle in at an average monthly pace of a bit over 200,000 in 2015 and in 2016, figures that are little changed from the previous Tealbook.
+
+THE OUTLOOK FOR INFLATION
+
+Prices have risen by a bit more than we anticipated at the time of the June Tealbook.  We view some of these higher readings as likely transitory, but we have also taken a little signal from these surprises for inflation in the coming months.  Over the medium term, our forecast for inflation is slightly higher in 2015 and 2016 than in the June Tealbook, reflecting the reduced resource slack in this projection.
+
+- · With the June producer price index (PPI) and consumer price index (CPI) data in hand, we estimate that total PCE prices increased at an annual rate of 2.3 percent in the second quarter (0.3 percentage point higher than our June Tealbook forecast) and that core PCE prices rose 1.9 percent (0.1 percentage point higher than the previous forecast). 5 In response, we marked up our inflation projections for the second half of the year.  Nevertheless, we still expect core inflation to step down from the pace of recent readings, in part reflecting the residual seasonality that we think tends to raise PCE price inflation slightly in the first half of the year and suppress it in the second half. For 2014 as a whole, the projection for total PCE inflation revised up
+
+Alternative View:  An Expectations Trap
+
+Here we present the view that pessimistic expectations about the economic outlook, along with downbeat assessments of economic policy, are restraining the pace of economic growth.   As 1 long as households' and firms' expectations remain mired in a pessimistic and self-fulfilling 'expectations trap,' economic growth will continue to be modest, rather than stepping up markedly and almost immediately as in the baseline Tealbook forecast.  If the economy is indeed mired in such a trap, a fundamental change in the framework for monetary or fiscal policy might be required to move the economy to a high-growth equilibrium.
+
+Households' expectations about their economic prospects, particularly regarding future increases in their real incomes, are a fundamental factor determining the pace of consumer spending growth, and (as shown in the left-hand panel on this page) expectations for real income gains remain considerably lower than before the recession.  These pessimistic expectations could be reinforced by households' assessments of whether the government's economic policies have been good, which (as indicated in the right-hand panel on this page) have trended down, on balance, since the end of the recession and are quite low.  Consistent with this view, real PCE growth has averaged only about 2 percent over the past several years despite substantial gains in aggregate household wealth and steady increases in employment.  In contrast to the marked acceleration in the baseline Tealbook forecast, this modest pace of consumer spending could persist as long as households' expectations and assessments of economic policies remain downbeat.
+
+With firms having seen only modest increases in demand for their output in recent years, some available measures suggest that companies' expectations about general economic prospects have remained subdued.  For example, as shown in the left-hand panel on the facing page, the share of firms in the NFIB survey that think now is a good time to expand their business remains well below its pre-recession levels.   Moreover, as shown in the right-hand panel on the facing page, a significant fraction of respondents to the survey currently view economic policies-either regulations or taxes-as the major problem they face.   Possibly reflecting these expectations, and reinforced by these policy assessments, business investment has failed to sustain a material acceleration in recent years, and slow investment growth could continue.
+
+<!-- missing-text -->
+
+Labor market conditions, while improving, remain disappointing and may be fully consistent with pessimistic business and household expectations.  The pace of gains in private-sector employment has been roughly 200,000 jobs per month over the course of the recovery, but businesses continue to have an unusually large fraction of workers with only part-time schedules. And the marked decline in the unemployment rate in recent years has coincided with a significant decline in the rate of labor force participation.  The outsized share of the population currently out of the labor force-even relative to the effects of demographic trends-could be another manifestation of both households'  and businesses' pessimism about the economic outlook.
+
+Thus, economic activity could well be evolving in a manner more consistent with an expectations-based model with multiple equilibriums, rather than exhibiting the more conventional macroeconomic dynamics governed by movement back to a unique steady-state equilibrium.  Models with multiple equilibriums have had a place in macroeconomics research for many years.   In these models, household and business pessimism can be self-fulfilling, with 2 economic activity persistently mired in a low-expectations trap.  In this scenario, economic growth would be expected to remain stubbornly slower than in the baseline Tealbook projection and current approaches to monetary policy might prove incapable of generating an acceleration in economic activity.
+
+Nevertheless, if something were to change that caused expectations to shift considerablypossibly the result of breakthrough changes in government economic policies-then the pace of economic activity could rise significantly faster than in the baseline projection as the economy jumps from a low-growth to a high-growth equilibrium.  In this regard, it is interesting to note that, while not necessarily framing their arguments in terms of jolting the economy from one equilibrium to another, some observers have argued for a sharp break in the monetary policy framework. 3
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+3 For example, Christina Romer and Jeffrey Frankel have argued for nominal GDP targeting.  See Christina Romer (2013), 'Monetary Policy in the Post-crisis World:  Lessons Learned and Strategies for the Future,' Sumerlin Lecture, delivered at Johns Hopkins University, October 25, available at http://eml.berkeley.edu/~cromer; and Jeffrey Frankel (2012), 'The Death of Inflation Targeting,' VoxEU, June 19, www.voxeu.org/article/ inflation-targeting-dead-long-live-nominal-gdp-targeting.
+
+Has the Fall in Unemployment Overstated the Improvement in Labor Market Conditions?  A View from the Labor Market Conditions Index
+
+The unemployment rate has declined nearly 1½ percentage points over the past year.  However, partly because of factors such as the decline in the labor force participation rate and a stubbornly high share of involuntary part-time workers, many believe that the drop in unemployment has overstated the improvement in labor market conditions.  Here we use the staff's labor market conditions index (LMCI), a summary measure of a broad array of labor market data derived from a factor model, to address this question. 1
+
+First, we compare the baseline LMCI with an alternative that has been computed without the last year of unemployment rate data.  Without the benefit of these data, the model must rely on internal predictions of the unemployment rate based on the historical relationship of that series with other labor market indicators.  As shown in the panel on the left, increases in the baseline LMCI (the solid line) have been substantially larger, on average, during the past year than those for the alternative index (the dashed line) computed without the unemployment rate data.
+
+Next, we examine what the baseline LMCI (including all of its 19 indicators) would have predicted for the decline in the unemployment rate over the past year; this is shown by the black line in the panel on the right.  Notably, even though the baseline LMCI incorporates the signal from recent unemployment rate data, the actual unemployment rate (the red line) fell about ½ percentage point more sharply than the model-based prediction.  Thus, unemployment has improved by more than the LMCI can explain based on its best estimate of improvement in labor market conditions.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- 0.2 percentage point to 1.7 percent and core PCE inflation revised up 0.1 percentage point to 1.6 percent.
+- · We now estimate that energy prices moved up noticeably faster in the second quarter than projected in the June Tealbook, to an annual rate of 5¼ percent, reflecting both an upside surprise to consumer electricity prices in May and a jump in gasoline prices in the June CPI that we expect to be largely reversed in the next couple of months.  We expect consumer energy prices to decline slightly in the second half of this year and to drift gradually downward in 2015 and 2016, though that downward drift is a little milder than in the June Tealbook, reflecting the small upward revision to the projected path for crude oil prices.
+- · Food prices also have risen more than expected, boosted by drought conditions in some parts of the country.  In 2015 and 2016, food price increases are projected to slow to a pace just below core as the imprint of these transitory influences fades.
+- · Core import prices are estimated to have risen at an annual rate of just ½ percent in the second quarter, somewhat less than expected, reflecting in part falling prices of imported foods.  Going forward, the projection is little changed from the June Tealbook, with price increases picking up to a 1¼ percent pace in the third quarter and remaining at that pace over the medium term, consistent with the moderate depreciation of the dollar in our projection.
+- · We have revised up the core inflation projection over the medium term by 0.1 percentage point per year in response to the narrower margin of slack.  We project core PCE inflation to average 1.6 percent this year and then to edge up to 1.7 percent in 2015 and 1.8 percent in 2016.  Total PCE inflation is revised up by a similar amount, but-as before-the projected declines in consumer energy prices and relatively slow increases in food and beverage prices leave total PCE inflation a touch below core price inflation in 2015 and 2016. 6
+
+- · We have raised the projection slightly for compensation gains.  Average hourly earnings increased more than expected in June and were revised up in May, boosting our near-term projection.  As with price inflation, the narrower margin of labor market slack suggests faster wage gains over the medium term as well. 7 We now have the employment cost index increasing a little more than 3 percent, on average, in 2015 and 2016, up ¼ percentage point from the June Tealbook.
+
+THE LONG-TERM OUTLOOK
+
+- · Beyond 2016, the federal funds rate continues to be set according to the prescriptions of the inertial Taylor (1999) rule.
+- · The federal funds rate rises gradually from 2¾ percent in the fourth quarter of 2016 to a little above 4 percent by the end of 2018.  The Federal Reserve's holdings of securities continue to put downward pressure on longer-term interest rates, albeit to a diminishing extent, and the process of returning the SOMA portfolio to a normal size is expected to be completed by 2021.
+- · Real GDP growth slows to 2¼ percent in 2017.  The unemployment rate edges down further in 2017 and is ¾ percentage point below its natural rate at the end of the year.  After 2017, real GDP rises more slowly than our estimate of potential growth as monetary policy works to offset the tight resource utilization.  The unemployment rate rises gradually back toward its natural rate.
+- · With longer-run inflation expectations assumed to rise gradually to the Committee's target and the unemployment rate below the natural rate, PCE price inflation moves up to 2 percent by 2018.
+
+different components of inflation have different weights in the two indexes; for example, the CPI has relatively large weights for housing services and energy and a relatively low weight for medical services. The gap is projected to be 0.5 percentage point this year, as a step-up in housing services price inflation has a relatively large effect on the CPI and low medical price inflation holds down the PCE price index, but only 0.3 percentage point in 2015 and 2016, as projected declines in energy prices hold down the CPI more than the PCE price index.
+
+7 Our wage equations are more responsive to movements in slack than are our price equations, so the tighter slack in this forecast raised projected wage inflation by more than PCE inflation.
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+170
+
+150
+
+140
+
+130
+
+120
+
+110
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+Key Background Factors underlying the Baseline Staff Projection
+
+Federal Funds Rate
+
+Long-Term Interest Rates
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+105
+
+100
+
+95
+
+90
+
+85
+
+80
+
+75
+
+70
+
+65
+
+110
+
+105
+
+100
+
+95
+
+90
+
+85
+
+80
+
+75
+
+70
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Summary of the Near-Term Outlook
+
+(Percent change at annual rate except as noted)
+
+<!-- missing-text -->
+
+- 1. Percentage points.
+- 2. Percent. For 2014:H2, the 2014:Q4 value is shown.
+
+GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;              GLYPH&lt;9&gt;                               Recent Nonfinancial Developments (1)
+
+8
+
+15
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+22
+
+18
+
+14
+
+10
+
+6
+
+2
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+-20
+
+-25
+
+-30
+
+3500
+
+3400
+
+3300
+
+3200
+
+3100
+
+3000
+
+2900
+
+2800
+
+2700
+
+2600
+
+2500
+
+2400
+
+2300
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Sales and Production of Light Motor Vehicles
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+2.1
+
+1.8
+
+1.5
+
+1.2
+
+0.9
+
+0.6
+
+0.3
+
+0.0
+
+75
+
+70
+
+65
+
+60
+
+55
+
+50
+
+45
+
+40
+
+1.8
+
+1.7
+
+1.6
+
+1.5
+
+1.4
+
+1.3
+
+1.2
+
+1.1
+
+Class II FOMC - Restricted (FR)
+
+Recent Nonfinancial Developments (2)
+
+Single-Family Housing Starts and Permits
+
+<!-- missing-text -->
+
+Note:  Adjusted permits equal permit issuance plus total starts outside of permit-issuing areas. Source:  U.S. Census Bureau.
+
+<!-- missing-text -->
+
+Nondefense Capital Goods ex. Aircraft
+
+<!-- missing-text -->
+
+Inventory Ratios ex. Motor Vehicles
+
+<!-- missing-text -->
+
+Note:  Flow-of-goods system inventories include manufacturing and mining industries except motor vehicles and parts and are relative to consumption. Census data cover manufacturing and trade ex. motor vehicles and parts, and inventories are relative to sales.
+
+Source:  U.S. Census Bureau; staff calculations.
+
+Nonresidential Construction Put in Place
+
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+220
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+<!-- missing-text -->
+
+Exports and Non-oil Imports
+
+<!-- missing-text -->
+
+Source:  U.S. Dept. of Commerce, Bureau of Economic Analysis; U.S. Census Bureau.
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+Class II FOMC - Restricted (FR)
+
+Projections of Real GDP and Related Components
+
+(Percent change at annual rate from final quarter of preceding period except as noted)
+
+<!-- missing-text -->
+
+Real GDP
+
+<!-- missing-text -->
+
+Note:  The gray shaded bars indicate a period of business recession as defined by the National Bureau of Economic Research.
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+-4
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+-20
+
+-25
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+-4
+
+-5
+
+Components of Final Demand
+
+Personal Consumption Expenditures
+
+Residential Investment
+
+<!-- missing-text -->
+
+Equipment and Intangibles
+
+<!-- missing-text -->
+
+Government Consumption &amp; Investment
+
+<!-- missing-text -->
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+-20
+
+-25
+
+-30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+-20
+
+-25
+
+-30
+
+-35
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+-20
+
+<!-- missing-text -->
+
+Nonresidential Structures
+
+<!-- missing-text -->
+
+Exports and Imports
+
+<!-- missing-text -->
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+2.00
+
+1.75
+
+1.50
+
+1.25
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+0.00
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+Class II FOMC - Restricted (FR)
+
+Aspects of the Medium-Term Projection
+
+Personal Saving Rate
+
+Wealth-to-Income Ratio
+
+<!-- missing-text -->
+
+Single-Family Housing Starts
+
+<!-- missing-text -->
+
+Federal Surplus/Deficit
+
+<!-- missing-text -->
+
+Source:  For net worth, Federal Reserve Board, Financial Accounts of the United States; for income, U.S. Dept. of Commerce, Bureau of Economic Analysis.
+
+Equipment and Intangibles Spending
+
+<!-- missing-text -->
+
+Current Account Surplus/Deficit
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+6.8
+
+6.4
+
+6.0
+
+5.6
+
+5.2
+
+4.8
+
+4.4
+
+12
+
+11
+
+10
+
+9
+
+8
+
+7
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+-4
+
+-5
+
+-6
+
+-7
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+90
+
+85
+
+80
+
+75
+
+70
+
+65
+
+60
+
+Decomposition of Potential GDP
+
+(Percent change, Q4 to Q4, except as noted)
+
+<!-- missing-text -->
+
+Note:  For multiyear periods, the percent change is the annual average from Q4 of the year preceding the first year shown to Q4 of the last year shown.
+
+- 1. Percentage points.
+
+2. Because of substantial revisions from the Bureau of Economic Analysis to productive investment as part of the latest comprehensive revision, staff estimates of the components of structural productivity are not available for this Tealbook.
+
+- 3. Percent difference between actual and potential GDP in the final quarter of the period indicated. A negative number indicates that the economy is operating below potential.
+
+<!-- missing-text -->
+
+Note:  The GDP gap is the percent difference between actual and potential GDP; a negative number indicates that the economy is operating below potential.
+
+<!-- missing-text -->
+
+Source:  U.S. Dept. of Commerce, BEA; staff assumptions.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+68
+
+66
+
+64
+
+62
+
+60
+
+58
+
+56
+
+54
+
+52
+
+50
+
+48
+
+46
+
+Note:  The gray shaded bars indicate a period of business recession as defined by the National Bureau of Economic Research.
+
+Source: U.S. Department of Labor, Bureau of Labor Statistics; staff assumptions.
+
+Class II FOMC - Restricted (FR)
+
+The Outlook for the Labor Market
+
+<!-- missing-text -->
+
+- 1. Percent change from final quarter of preceding period at annual rate.
+- 2. Thousands, average monthly changes.
+- 3. Percent, average for the final quarter in the period.
+- Source:  U.S. Department of Labor, Bureau of Labor Statistics; staff assumptions.
+
+Inflation Projections
+
+(Percent change at annual rate from final quarter of preceding period)
+
+<!-- missing-text -->
+
+- 1. Core goods imports exclude computers, semiconductors, oil, and natural gas.
+
+Source:  U.S. Department of Commerce, Bureau of Economic Analysis.
+
+12
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+Labor Market Developments and Outlook (1)
+
+Measures of Labor Underutilization
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+11.0
+
+10.5
+
+10.0
+
+9.5
+
+9.0
+
+8.5
+
+8.0
+
+7.5
+
+7.0
+
+6.5
+
+6.0
+
+5.5
+
+5.0
+
+4.5
+
+* U-5 measures total unemployed persons plus all marginally attached to the labor force, as a percent of the labor force plus persons marginally attached to the labor force.
+
+** Percent of Current Population Survey employment.
+
+EEB Extended and emergency unemployment benefits.
+
+Source:  U.S. Department of Labor, Bureau of Labor Statistics.
+
+Level of Payroll Employment*
+
+<!-- missing-text -->
+
+Change in Payroll Employment*
+
+400
+
+200
+
+0
+
+-200
+
+-400
+
+-600
+
+-800
+
+-1000
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+* 3-month moving averages in history; average monthly changes in each quarter during the forecast period. Source:  U.S. Department of Labor, Bureau of Labor Statistics.
+
+Note:  In September 2012, judgmental projections were prepared through 2015 for the Summary of Economic Projections variables, including the unemployment rate, while projections for other variables, including the labor force participation rate and payroll employment, were prepared only through 2014. This exhibit therefore reports a 2015 projection from the September 2012 Tealbook only for the unemployment rate. The gray shaded bars indicate a period of business recession as defined by the National Bureau of Economic Research.
+
+68.0
+
+67.5
+
+67.0
+
+66.5
+
+66.0
+
+65.5
+
+65.0
+
+64.5
+
+64.0
+
+63.5
+
+63.0
+
+62.5
+
+62.0
+
+700
+
+650
+
+600
+
+550
+
+500
+
+450
+
+400
+
+350
+
+300
+
+250
+
+40
+
+30
+
+20
+
+10
+
+0
+
+-10
+
+-20
+
+-30
+
+-40
+
+-50
+
+Class II FOMC - Restricted (FR)
+
+Labor Market Developments and Outlook (2)
+
+<!-- missing-text -->
+
+- * Published data adjusted by staff to account for changes in population weights.
+- ** Includes staff estimate of the effect of extended and emergency unemployment benefits.
+- Source:  U.S. Department of Labor, Bureau of Labor Statistics; staff assumptions.
+
+<!-- missing-text -->
+
+* 4-week moving average.
+
+Source:  U.S. Department of Labor, Employment and
+
+Training Administration.
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+Private Hires, Quits, and Job Openings
+
+<!-- missing-text -->
+
+- * Percent of private nonfarm payroll employment, 3-month moving average.
+
+** Percent of private nonfarm payroll employment plus unfilled jobs, 3-month moving average.
+
+Source:  Job Openings and Labor Turnover Survey.
+
+Change in Labor Market Conditions Index and Selected Indicators*
+
+<!-- missing-text -->
+
+Note: Labor market conditions index estimated by staff; indexes for unemployment rate and private payroll employment are standardized deviations from estimated trend.
+
+- * 3-month moving average.
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+Inflation Developments and Outlook (1)
+
+(Percent change from year-earlier period)
+
+Headline Consumer Price Inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Note:  PCE prices from April to June 2014 are staff estimates (e).
+
+Source:  For CPI, U.S. Department of Labor, Bureau of Labor Statistics; for PCE, U.S. Department of Commerce, Bureau of Economic Analysis.
+
+Measures of Underlying PCE Price Inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+Note:  Core PCE prices from April to June 2014 are staff estimates (e).
+
+Source:  For trimmed mean PCE, Federal Reserve Bank of Dallas; otherwise, U.S. Department of Commerce, Bureau of Economic Analysis.
+
+Labor Cost Growth (Private Industry)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+4.25
+
+3.75
+
+3.25
+
+2.75
+
+2.25
+
+1.75
+
+Inflation Developments and Outlook (2)
+
+(Percent change from year-earlier period, except as noted)
+
+Commodity and Oil Price Levels
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note:  Futures prices (dotted lines) are the latest observations on monthly futures contracts.
+
+Source:  For oil prices, U.S. Department of Energy, Energy Information Agency; for commodity prices, Commodity Research Bureau (CRB).
+
+Energy and Import Price Inflation
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Long-Term Inflation Expectations
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+4.25
+
+3.75
+
+3.25
+
+2.75
+
+2.25
+
+1.75
+
+Note:  Based on a comparison of an estimated TIPS (Treasury Inflation-Protected Securities) yield curve with an estimated nominal off-the-run Treasury yield curve, with an adjustment for the indexation-lag effect. p Preliminary.
+
+- SPF Survey of Professional Forecasters.
+
+Source:  For Michigan, Thomson Reuters/University of Michigan Surveys of Consumers; for SPF, Federal Reserve Bank of Philadelphia; for TIPS, Federal Reserve Board staff calculations.
+
+Note: The gray shaded bars indicate a period of business recession as defined by the National Bureau of Economic Research.
+
+Class II FOMC - Restricted (FR)
+
+The Long-Term Outlook
+
+(Percent change, Q4 to Q4, except as noted)
+
+<!-- missing-text -->
+
+- 1. Percent, average for the final quarter of the period.
+
+4-quarter percent change
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note:  In each panel, shading represents the projection period, and dashed lines are the previous Tealbook.
+
+Class II FOMC - Restricted (FR)
+
+Evolution of the Staff Forecast
+
+Change in Real GDP
+
+5
+
+4
+
+3
+
+2
+
+1
+
+Class II FOMC - Restricted (FR)
+
+9.0
+
+8.5
+
+8.0
+
+7.5
+
+7.0
+
+6.5
+
+6.0
+
+5.5
+
+5.0
+
+4.5
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+International Economic Developments and Outlook
+
+Foreign economic activity appears to be climbing out of its first-quarter pothole. Real GDP growth increased from 2.1 percent in the first quarter to an estimated rate of 2½ percent in the second and is expected to rise to just over 3 percent in the second half of the year.  However, conditions continue to differ widely across countries.  Activity picked up sharply in the second quarter in the emerging market economies (EMEs), as second-quarter Chinese GDP data showed a substantial rebound and the Mexican economy appears to have shaken off the torpor of recent quarters.  In contrast, growth in the advanced foreign economies (AFEs) slowed, as the Japanese economy contracted following the April 1 tax increase, although more recent indicators suggest that Japanese spending has already begun to rebound.  Our top-line estimate of second-quarter GDP is close to that shown in the June Tealbook, with stronger-than-expected growth in EMEs offset by slower-than-anticipated growth in the AFEs.
+
+The projected second-half pickup in foreign GDP growth is linked to ongoing fiscal stimulus measures in China, the beneficial effect of stronger U.S. growth on the Mexican economy, and a bounceback in Japan.  We expect foreign growth to improve a little more, to 3¼ percent, in 2015 and 2016 amid continued supportive monetary policies in the AFEs.  Firming activity in the advanced economies, including the United States, also should have positive spillover effects to external demand for EMEs.  This projection is little changed from the previous Tealbook.
+
+We expect a gradual reduction in excess capacity to push inflation up toward AFE central bank targets over the forecast period, although inflation rates in both the euro area and Japan are likely to remain below the 2 percent targets through 2016.  Differing outlooks for growth and inflation suggest that the exit from accommodative monetary policy will vary across the AFEs.  We now expect the Bank of England (BOE) to lift off at the end of this year, a quarter earlier than we had previously assumed.  The Bank of Canada (BOC) is still expected to go next, with a rate hike by the middle of next year. As in previous forecasts, we do not expect the European Central Bank (ECB) or the Bank of Japan (BOJ) to raise rates during the forecast period.
+
+Monetary policy actions continue to vary across EMEs.  Central banks in Colombia and Malaysia have tightened monetary policy since the June FOMC meeting to
+
+contain inflationary pressures.  In contrast, Chile cut its discount rate to support growth. Turkey recently reduced its overnight borrowing rate by 175 basis points, citing the recent improvement in global liquidity conditions.  The recent rate cut partly reverses the effective increase of 300 basis points that occurred in January when the lira was falling sharply.  Nevertheless, the move came as something of a surprise, given that inflation remains high.
+
+Several risks to the outlook are worth noting.  Financial market volatility has fallen to a remarkable extent, providing welcome breathing room for some of the more vulnerable EMEs but at the same time raising concerns that markets may have become complacent.  Consequently, once normalization of monetary policy in advanced economies starts in earnest, it may have unusually disruptive spillover effects.  EMEs may also be vulnerable to a financial crisis and economic slowdown in China, a scenario explored in the Risks and Uncertainty section.  Another scenario looks at the effect of a sharp increase in oil prices should the crises in the Middle East and Ukraine continue to worsen.
+
+ADVANCED FOREIGN ECONOMIES
+
+- · Japan. Household spending data suggest that the April consumption tax hike contributed to an estimated 5¼ percent decline in real GDP in the second quarter.  Although the drop in GDP now appears to be steeper than previously expected, it did not fully reverse the first-quarter gain of 6.7 percent, when spending surged in anticipation of the tax hike.  More recent indicators, including June consumer sentiment and manufacturing PMI, point to a rebound in economic activity.  Factoring in previously announced fiscal stimulus measures and ongoing monetary easing, we expect GDP growth to average a little more than 2 percent in the second half of this year before dropping to less than 1 percent, on average, in 2015 and 2016, partly reflecting drag from another tax hike.  The April tax increase is estimated to have pushed inflation to an annual rate of 9¼ percent in the second quarter; inflation excluding the tax hike was likely around 1 percent.  We see inflation just below 1 percent in the second half of the year before picking up to 1½ percent by the end of 2016 along with the slow erosion of excess capacity. With inflation below target, we still expect the BOJ to step up the pace of asset purchases somewhat in early 2015.
+
+- · Euro area. We estimate that euro-area GDP growth picked up to nearly 1½ percent in the second quarter from 0.8 percent in the first.  Recent indicators are mixed but, on balance, suggest a continuing slow recovery. Composite PMI and consumer confidence rose, on net, in the second quarter, and indicators of household spending continued to increase, but industrial production was down slightly.  We expect GDP growth to remain a little below 1½ percent in the second half of this year before gradually increasing to nearly 2 percent in 2016 as fiscal drag diminishes, credit conditions ease, and monetary policy remains accommodative.  The projected pace of GDP growth is sufficient to narrow the output gap from about 4 percent of potential GDP currently to 2½ percent at the end of 2016, which should support an increase in inflation.  Inflation edged up from ¼ percent in the first quarter to ½ percent in the second as energy prices turned up, and it is projected to rise to 1½ percent by the end of 2016.  We continue to expect the ECB to keep its benchmark policy rate at 0.15 percent through the end of 2016 and to consider significant further stimulus through large-scale asset purchases only if risks of prolonged low inflation appear to increase.
+- · United Kingdom. The U.K. recovery remains brisk.  Although industrial production and retail sales dipped in May, this softness followed several months of solid gains and PMI readings through June show strong momentum.  We forecast GDP to rise 3 percent this year and 2½ percent in 2015 and 2016.  June inflation data were higher than expected, pushing our forecast for inflation in the second half of the year to nearly 2½ percent. However, the uptick was largely due to temporary factors, and we project inflation to be around 2 percent in the next two years.  Indications by BOE officials, including Governor Carney's June 12 Mansion House speech suggesting that U.K. policy rates could rise sooner than markets expected, caused us to bring forward our projection of the first BOE rate hike to late 2014.  In response to rising house prices and household indebtedness, the BOE's Financial Policy Committee made two recommendations:  first, that lenders limit, to a share of 15 percent, their mortgage lending for new mortgages whose size exceeds 4.5 times the borrower's income, and secondly, that lenders assess whether borrowers could still afford their mortgages if the policy rate rose 3 percentage points in the first five years of the loan.  The issuance of these recommendations is consistent with the BOE's preference
+
+for using macroprudential tools rather than monetary policy to manage financial stability risks.
+
+- · Canada. Recent data suggest that GDP growth picked up to 2¼ percent in the second quarter, after having been held to just 1.2 percent in the first quarter by severe winter weather and weak U.S. demand.  Although monthly GDP data for April were somewhat disappointing, leading us to mark down our secondquarter estimate a bit, manufacturing shipments posted a solid gain in May, and the manufacturing PMI rose further in June.  We expect growth to average around 2½ percent over the forecast period, a touch above its trend pace, as Canada's small output gap closes.  Second-quarter inflation, at 3.7 percent, was higher than our June estimate.  The surprise was partly due to increases in retail energy prices that we view as temporary, but core inflation also firmed. As energy prices drop back, inflation is projected to return to near 2 percent over the forecast period.  We continue to project that the BOC will begin raising its target for the overnight interest rate in the second half of 2015.
+
+EMERGING MARKET ECONOMIES
+
+- · China. Recently released GDP data suggest that economic growth in China rose to 7¾ percent in the second quarter from 5½ percent in the first.  The second-quarter growth rate is 1½ percentage points higher than our previous forecast.  The rebound appears to reflect both a reversal of the first-quarter plunge in exports as well as a boost to domestic demand from fiscal and monetary stimulus.  Retail sales, which include government purchases, accelerated during the quarter, partly as a result of the steady stream of targeted stimulus measures implemented since March.  In contrast, fixed-asset investment growth continued to moderate, led by sharply slowing real estate investment in a cooling property market.  We expect the effects from more accommodative fiscal and monetary policies to further bolster domestic spending during the second half, which should also help stabilize the property sector.  As a result, we forecast that economic activity will expand at a 7½ percent pace in the second half of the year before moderating to just above 7 percent in 2016, in line with declining potential growth.  Inflation picked up to a still-subdued 1¾ percent in the second quarter from ¾ percent in the first. We expect inflation to rise further to about 3 percent as earlier food and fuel price declines are reversed.
+
+- · Other Emerging Asia. We estimate that GDP growth in the rest of emerging Asia improved to a 3½ percent annual pace in the second quarter from 2½ percent in the first.  The gain was due primarily to a pickup in the economies that saw the largest first-quarter slumps in trade.  In Hong Kong, Malaysia, and Taiwan, industrial production and exports reversed earlier declines, while PMIs improved late in the second quarter.  In addition, output in Thailand appears to have stabilized after a sharp first-quarter contraction linked to political unrest.  In contrast, growth likely moderated in Singapore and in Korea, where April's ferry disaster weighed on consumer sentiment. Improvement in the advanced economies and solid growth in China should help growth in the region rise to a trend-like pace of 4¼ percent by next year. Inflation is expected to pick up to 3¾ percent toward year-end, largely in response to mounting food price pressures in India after a dry monsoon season, and then settle at 3½ percent over the rest of the forecast period.
+- · Latin America. After a prolonged period of weakness, Mexican GDP is estimated to have grown at a 3 percent annual rate in the second quarter, about ½ percentage point higher than we had projected in June.  Manufacturing output rebounded, especially in the motor vehicle sector, supported by a strengthening of U.S. manufacturing and a concurrent increase in exports. Moreover, indicators point to a recovery in private consumption following a first-quarter slump related to hikes in tax rates and administered fuel prices. Construction activity also edged up after having declined since mid-2012.  We project Mexican growth to pick up a little further to 3¾ percent by the end of 2015 and to stay at that rate in 2016.  Inflation was boosted to over 5 percent in the first quarter by the tax increases, but it is expected to drop back to an average of 3¼ percent over the forecast period.
+- · GDP growth in Brazil is estimated to have stalled in the second quarter.  The weakness in activity was broadly based:  Industrial production, PMIs, and consumer confidence deteriorated further, while exports expanded only moderately.  Growth is expected to pick up somewhat over the forecast period, as improving global conditions contribute to higher exports, yet remain fairly sluggish, averaging a little less than 2½ percent.  Inflation increased to an annual rate of 8¼ percent in the second quarter but is expected to moderate to 5½ percent by next year, as World Cup pressures on service
+
+prices dissipate and tight monetary policy continues to constrain economic growth.
+
+- · In Argentina , the already gloomy economic outlook is clouded further by downside risks from a possible default on sovereign debt.  The government faces a July 30 deadline to either pay holdout creditors in full or reach an agreement with them before servicing its restructured debt.  (See the discussion of foreign developments in the Financial Developments section for details.)
+- · Tensions over the situation in Ukraine and Russia have escalated further. Even before the downing of a Malaysia Airlines aircraft last week, the United States announced new sanctions against a number of large Russian firms in the financial, energy, and defense sectors.  In the wake of the airline tragedy, a number of European countries also have indicated that they may adopt additional sanctions.  Russia's stock market declined in response to these developments.  Ukraine signed a long-awaited trade deal with the European Union on June 24.  An IMF team was sent to Ukraine in June to assess the status of the conditions for the second tranche of a $17 billion bailout, and a decision on the tranche is expected in the next several weeks.
+
+Recent Foreign Indicators
+
+Nominal Exports
+
+Industrial Production
+
+<!-- missing-text -->
+
+Retail Sales
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Employment
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+The Foreign GDP Outlook
+
+Real GDP*
+
+Percent change, annual rate
+
+<!-- missing-text -->
+
+- * GDP aggregates weighted by shares of U.S. merchandise exports.
+
+Total Foreign GDP
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+The Foreign Inflation Outlook
+
+Consumer Prices*
+
+Percent change, annual rate
+
+<!-- missing-text -->
+
+- * CPI aggregates weighted by shares of U.S. non-oil imports.
+
+Foreign Monetary Policy
+
+<!-- missing-text -->
+
+Evolution of Staff's International Forecast
+
+<!-- missing-text -->
+
+Tealbook publication date
+
+<!-- missing-text -->
+
+Tealbook publication date
+
+<!-- missing-text -->
+
+Tealbook publication date
+
+Class II FOMC - Restricted (FR)
+
+Financial Developments
+
+Financial conditions eased somewhat, on balance, over the intermeeting period, although geopolitical risks weighed on investor sentiment at times.  Investors appeared to interpret FOMC communications as suggesting that policy would remain highly accommodative for a substantial time despite an uptick in inflation and incoming data on labor market conditions that were somewhat stronger than expected.
+
+- · Market-based measures of near-term policy expectations edged down. Respondents to the Open Market Desk's primary dealer survey continued to see the first increase in the federal funds rate as most likely coming in the third quarter of 2015, though the distribution of the expected time moved in slightly.
+- · Yields on longer-dated nominal Treasury securities declined over the intermeeting period, as did similar yields in advanced foreign economies, continuing the trend observed since the start of the year.
+- · Amid a solid start to the corporate earnings season, most broad equity price indexes rose 1 to 2 percent.  Risk spreads on high-grade corporate bonds were little changed, but spreads on speculative-grade bonds widened somewhat.
+- · Banks reported a further easing of lending standards and stronger demand for most loan types in the July Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS).  Borrowing costs for most households and businesses stayed low by historical standards.
+- · The foreign exchange value of the dollar edged lower on net.  Concerns about a large Portuguese bank, and the risk of further litigation against European financial institutions, weighed on European equity indexes.
+
+Policy Expectations and Treasury Yields
+
+<!-- missing-text -->
+
+Implied Federal Funds Rate
+
+Treasury Yield Curve
+
+<!-- missing-text -->
+
+Note: Mean is estimated using overnight index swap quotes. Mode is estimated from the distribution of federal funds rate implied by interest rate caps. Both include a term premium of zero basis points per month.
+
+Source: Bloomberg; CME Group.
+
+Percent Distribution of Modal Timing of First Rate Increase from the Desk's Dealer Survey
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Inflation Compensation
+
+<!-- missing-text -->
+
+inflation-indexed Treasury yield curves. * Adjusted for lagged indexation of Treasury Inflation-Protected Securities (carry effect). Source: Barclays PLC and staff estimates.
+
+POLICY EXPECTATIONS AND TREASURY YIELDS
+
+The implied path of the federal funds rate over the near term, based on a direct read of financial market quotes, edged down over the intermeeting period.   Monetary 1 policy communications were characterized by market participants as signaling a slightly more accommodative stance than had been expected.  Investors were apparently relieved that the FOMC did not signal a shift toward tighter policy despite strong payroll growth, the recent uptick in inflation, and some indications of complacency in financial markets. Market participants also took note of the discussion of monetary policy normalization in the minutes of the June FOMC meeting and, particularly, the discussion of the likely spread between the ON RRP rate and the IOER rate.
+
+Consistent with the small moves in the path of the implied federal funds rate over the intermeeting period, responses to the Desk surveys indicate that market participants' expectations of the timing of the federal funds liftoff and the subsequent policy path were largely unchanged from the June survey.  Both buy-side and sell-side market participants continue to see the third quarter of 2015 as the most likely time of the liftoff of the federal funds rate, although, relative to the June survey, some respondents put somewhat higher odds on an earlier liftoff date.   In apparent response to the discussion in the June FOMC minutes, the median expected spread between the ON RRP and IOER rates following liftoff increased from 10 basis points in the June survey to 20 basis points in July.
+
+Yields on 10- and 30-year nominal Treasury securities fell 18 basis points and 17 basis points, respectively, over the intermeeting period, while shorter-term Treasury yields were little changed.  On net, economic data left little imprint on longer-dated yields, as increases associated with the strong labor report were offset by declines stemming from the weaker first-quarter GDP report.  (See the box 'Are Investors Insensitive to Economic News?')  Yields also fell on the release of the June minutes and reportedly on concerns about worrisome geopolitical events.  The decline in longer-term yields likely also reflected a continuation of the factors, such as decreases in interest rate
+
+Are Investors Insensitive to Economic News?
+
+One particular concern for monetary policymakers is that market participants have not been appropriately adjusting their positions in markets in response to economic developments, perhaps because they anticipate continued monetary accommodation for a long period of time.  Such a view would likely be reflected in low responsiveness of market interest rates to incoming economic data.
+
+The figure on the facing page shows estimates of time-varying sensitivities of forward yields on Treasury securities-at near- and longer-term horizons-to data surprises in nonfarm payrolls (top panel) and a broader set of macroeconomic indicators (bottom panel).  The estimates are calculated by regressing daily changes in forward rates on the surprise component of the news releases over one-year rolling samples ending in the period specified on the x-axis. 1
+
+As shown in both panels, none of the measures indicate unusually low levels of data sensitivity compared with their historical ranges.   Even so, the sensitivities 2 of long-term forward rates (the solid blue lines) moved down in late 2013 and early 2014, consistent with investors coming to view the path of the Federal Reserve's large-scale asset purchase program as relatively insensitive to economic developments following the introduction of the 'measured steps' language in the post-meeting statement last December.  The sensitivities of nearterm forward rates (the dashed black lines) have shown smaller, mixed changes, on balance, since late 2013.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Bond and Equity Markets
+
+Yields on Nominal Treasury Securities
+
+Equity Price Indexes
+
+<!-- missing-text -->
+
+Source: Federal Reserve Bank of New York; staff estimates.
+
+Option-Implied Interest Rate Volatility
+
+<!-- missing-text -->
+
+Note: Implied volatility of the long-term rate is based on options on the 10-year swap rate that expire in 3 months, while implied volatility of the short-term rate is based on options on the 1-year swap rate that expire in 2 years.
+
+Source: Staff calculations from Barclays data.
+
+Corporate Bond Spreads
+
+<!-- missing-text -->
+
+Note: Spreads over 10-year Treasury yield.
+
+Source: Staff estimates of smoothed corporate yield curves based on Merrill Lynch data and smoothed Treasury yield curve.
+
+<!-- missing-text -->
+
+Implied Volatility on S&amp;P 500 (VIX)
+
+<!-- missing-text -->
+
+Equity Risk Premium
+
+<!-- missing-text -->
+
+- + Denotes the latest observation using daily interest rates and stock prices and latest earnings data.
+
+Source: Thomson Reuters Financial.
+
+uncertainty and perhaps also a reduction in investors' expectations for longer-run growth, that have been pressuring rates lower since the start of the year. 2
+
+Other fixed-income market indicators were about unchanged over the intermeeting period.  Uncertainty about longer-term interest rates implied by swaptions remained low.  TIPS-based five-year inflation compensation was little changed, while five-year inflation compensation five years ahead edged up.  The current-coupon agency MBS yield decreased 13 basis points, about in line with longer-term Treasury yields.
+
+EQUITY PRICES AND BOND SPREADS
+
+The S&amp;P 500 index rose 2 percent over the intermeeting period, as a solid start to the earnings season offset some concerns about the geopolitical events.  With about one-fourth of S&amp;P 500 companies having reported, profits in the second quarter appear to have grown modestly relative to the first quarter, and a slightly higher-than-typical fraction of firms beat Wall Street estimates for earnings and revenue.  Banks have reported mixed earning results, with the largest banks indicating better-than-expected results while regional bank results were generally in line with estimates.   After a 3 commercial aircraft was shot down in Ukraine, equity market implied volatility as measured by the VIX rose sharply.  However, the VIX subsequently declined and is unchanged, on net, over the intermeeting period at a low level.  (See the box 'Perspectives on Low Equity Market Volatility.')  Small-cap stocks underperformed over the period, with the Russell 2000 down nearly 2 percent.
+
+The spreads between yields on investment-grade bonds and those on comparablematurity Treasury securities were about unchanged, but those for speculative-grade bonds widened somewhat.  Corporate bond spreads remain near or slightly higher than the low levels reached during previous expansionary periods.
+
+Perspectives on Low Equity Market Volatility
+
+Many broad measures of financial market volatility have fallen in recent months to low levels not seen in several years.  Here, we characterize current levels of equity market volatility from a longer-term perspective and consider, along a couple of dimensions, what today's low levels of volatility might mean for financial market conditions going forward.
+
+Figure 1 shows the realized volatility of daily returns for the S&amp;P 500 equity index back to 1962 and one-month-ahead options-implied volatility for the index back to 1990 (when those volatilities became available).  While the current level of options-implied volatility is very near the bottom of its historical range, that range is relatively short.  Realized volatility, which implied volatility tends to track quite closely, currently stands at about the 15th percentile of its longer historical range.  An important characteristic of realized volatility is that it has tended to remain at low levels for protracted periods of time, particularly during economic expansions. Broadly similar long-term patterns are evident for the realized volatility of returns on long-term Treasury notes, investment-grade corporate bonds, and foreign exchange rates (not shown).
+
+One question is whether low levels of volatility tend to be associated with adverse outcomes in financial markets or for the macro economy, perhaps because the low volatility reflects imprudent risk-taking that eventually leads to elevated losses.  Figures 2A and 2B show that periods of low equity market volatility do not tend to be followed by sharply negative equity returns or steep increases in volatility, at least not at the one-year horizon.  However, moderate increases in volatility are more likely when current volatility is low.  Similar analyses fail to support the notion that low current volatility tends to predict other adverse events such as contractions in real GDP.
+
+Of course, this simple analysis does not test whether other factors such as buildups in financial leverage or risk-taking through other means interact substantially with low volatility to create important vulnerabilities in the financial system that imply elevated risks of adverse events, perhaps several years in the future.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+In particular, the current low interest rate environment has generated a 'reach for yield' motive among some investors, which has been manifested, for instance, in a number of investment firms across asset classes selling volatility-that is, providing others with insurance against large moves in asset prices.  Such a trading strategy will tend to generate income so long as volatility remains low.  Market participants note that asset managers have been the main sellers of volatility recently, while the demand for volatility from traditional buyers such as pension funds, levered funds, and insurance companies has been relatively subdued, reflecting limited hedging demand in an environment of low volatility.
+
+Consistent with their traditional market-making role, dealers are the primary intermediaries of volatility-sensitive options and related products in the market. Because of the increased supply of and subdued demand for volatility products, dealers appear to have increased their holdings of these instruments.  In figure 3, we plot aggregate measures of 'vega' and 'gamma' for some broker-dealers supervised by the Federal Reserve.  These measures capture the dealers' profit and loss exposure to increases in the implied volatility of U.S. equities and increases in the size of movements of equity prices, respectively.  These measures indicate that dealers would profit from a rise in volatility, and that the downside risks of an increase in volatility may be concentrated outside of the broker-dealer sector.  Of course, we are able to observe these exposures only imperfectly, and we cannot rule out that broker-dealers might suffer losses as a result of a sudden reversal of volatility, particularly since that event would likely be accompanied by a downturn in the prices of many risky assets.
+
+<!-- missing-text -->
+
+Note:   Vega measures the rate of change of profit and loss with respect to a percentage point increase in implied volatility . Gamma measures the rate of change of delta with respect to a percentage point increase in the underlying asset's price. As background, delta measures the rate of change of the option value with respect to the underlying assets price.
+
+Foreign Developments
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+10-Year Sovereign Bond Spreads
+
+Dollar Exchange Rate Indexes
+
+<!-- missing-text -->
+
+Stock Price Indexes
+
+<!-- missing-text -->
+
+Note: 1-month forward rates from OIS quotes, 3-day moving average.
+
+Source: Bloomberg.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+FOREIGN DEVELOPMENTS
+
+Long-term yields in advanced economies continued the downward trend observed since the start of the year, with rising geopolitical tensions-in the Middle East and Ukraine-constituting an additional factor this intermeeting period.  Ten-year sovereign yields fell substantially in a number of countries, including 20 to 25 basis points in the United Kingdom and Germany, while two-year yields declined only slightly.  Concerns about one of Portugal's largest banks and about litigation risks facing European banks weighed on European markets.  Mixed news from emerging market economies (EMEs), including better-than-expected Chinese growth and concerns about Argentina's upcoming scheduled debt payments, generally had modest market effects.  The broad tradeweighted dollar declined about ½ percent over the intermeeting period.  Bilateral exchange rate movements were also generally modest.
+
+Shortly after the close of the June Tealbook, policy expectations for the United Kingdom moved sharply higher following Governor Carney's Mansion House speech, in which he stated that the first increase in policy rates 'could happen sooner than markets currently expect.'   Market participants now anticipate that the first rate hike will come 4 in the fourth quarter of 2014, one quarter earlier than just before the speech.  In contrast, expectations for the path of policy rates in the euro area continued to decline, as inflation readings remained low and as industrial production data in the euro area came in below market expectations.  Sweden's Riksbank, reacting to very low inflation, reduced its policy rate 50 basis points, to 25 basis points, a surprisingly large move, and the central bank of Norway adopted an easing bias.
+
+In Europe, headline equity price indexes declined over the period, dragged down by a sharp fall in the price of banking-sector shares, which ended the period lower by 9 percent in the euro area and 4 percent in the United Kingdom.  The drop in banking shares was attributed both to fears that additional U.S. litigation against European financial institutions could be forthcoming after the imposition of record fines on BNP Paribas and to financial difficulties involving Banco Espírito Santo (BES), one of Portugal's largest banks.  Earlier this month, BES stock declined precipitously following
+
+Class II FOMC - Restricted (FR)
+
+Business Finance
+
+Gross Proceeds from Nonfinancial Equity Issuance
+
+U.S. CLO Issuance
+
+<!-- missing-text -->
+
+Selected Components of Net Debt Financing,
+
+Nonfinancial Firms
+
+Billions of dollars
+
+Note: Revisions in bond data relative to the June Tealbook reflect
+
+<!-- missing-text -->
+
+change in data source from Thomson Reuters Financial to Mergent Fixed
+
+Investment Securities Database.
+
+* Period-end basis, seasonally adjusted.
+
+Source: Depository Trust &amp; Clearing Corporation; Mergent Fixed Investment Securities Database; Federal Reserve Board.
+
+Reasons for Stronger Demand for C&amp;I Loans
+
+Percent of respondents
+
+<!-- missing-text -->
+
+Note: Responses are weighted by survey respondents' holdings of relevant loan types as reported on Call Reports. M&amp;A is merger and acquisition.
+
+Source: Federal Reserve Board, Senior Loan Officer Opinion Survey on Bank Lending Practices.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source: Federal Reserve Board, Senior Loan Officer Opinion Survey on Bank Lending Practices.
+
+CMBS Issuance
+
+<!-- missing-text -->
+
+Note: CMBS is commercial mortgage-backed securities. Source: Commercial Mortgage Alert.
+
+missed debt payments and alleged accounting irregularities at BES's parent firm, Luxembourg-based holding company Espírito Santo International.
+
+Despite rising geopolitical tensions, most emerging market equity indexes and bond yields ended the period little changed on net.  The United States announced additional sanctions that place restrictions on U.S. long-term financing to large Russian banks and energy companies, and that freeze the assets of a number of Russian defense companies.  The sanctions, along with the subsequent downing of a commercial aircraft in Ukraine, weighed on Russian share prices, which declined 5 percent over the period, though the ruble was little changed on net.
+
+Developments in the ongoing litigation by holders of Argentina debt who refused to participate in the country's most recent restructurings raised the prospect that Argentina may once again default.  By allowing a lower-court ruling to stand, the U.S. Supreme Court, in effect, ordered Argentina to pay the bondholders who had refused to accept Argentina's earlier restructurings before making its regular payment to those who did participate in the restructurings.  These payments must be made by July 30.  Market participants interpreted the ruling as sufficiently broad that it may constrain the ability of other sovereigns to restructure debt.  EME bond yields, however, showed little reaction to the ruling.
+
+BUSINESS AND MUNICIPAL FINANCE
+
+The pace of borrowing by nonfinancial businesses remained strong in June. Gross issuance of bonds by domestic nonfinancial corporations stayed brisk for both investment- and speculative-grade firms.  About half of the speculative-grade issuance was for purposes other than the refinancing of existing debt, though much of this issuance appeared to be for mergers and leveraged buyouts rather than incremental capital investment.
+
+Commercial and industrial loans at banks rose robustly in the second quarter, consistent with banks' reports of stronger loan demand from large and middle-market firms in the July SLOOS.   Explanations for the step-up in loan demand were wide 5 ranging, with banks putting significantly more weight than in the previous survey on
+
+Financial Developments
+
+Household Finance
+
+Consumer Credit
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Prices of Existing Homes
+
+Index peaks normalized to 100
+
+<!-- missing-text -->
+
+Source: For FHFA, Federal Housing Finance Agency; for CoreLogic, CoreLogic; for S&amp;P/Case-Shiller, Standard &amp; Poor's; for Zillow, Zillow.
+
+<!-- missing-text -->
+
+Note: Responses are weighted by survey respondents' holdings of relevant loan types as reported on Call Reports.
+
+Source: Federal Reserve Board, Senior Loan Officer Opinion Survey on Bank Lending Practices.
+
+Mortgage Rate and MBS Yield
+
+<!-- missing-text -->
+
+Note: The MBS yield is the Fannie Mae 30-year current-coupon rate. Source: For MBS yield, Barclays; for mortgage rate, Loansifter.
+
+Delinquencies on Prime Mortgages
+
+<!-- missing-text -->
+
+past due or in foreclosure. For transition rate, percent of previously current mortgages that transition to being at least 30 days delinquent each month.
+
+Source: LPS Applied Analytics.
+
+increased financing needs associated with M&amp;A activity.  Concurrently, strong issuance of leveraged loans was supported by continued robust demand from institutional investors.  In particular, issuance of collateralized loan obligations is on pace to reach a record high this year, with terms and standards in the underlying loans continuing to weaken.  Nonfinancial commercial paper outstanding was roughly unchanged over the intermeeting period.
+
+Credit conditions in the commercial real estate (CRE) market improved further in the second quarter.  According to the July SLOOS, banks continued to ease their standards and report stronger demand.  In addition, significantly more banks said they eased their lending standards for CRE loans over the past year than was the case for other major loan categories.  Issuance of commercial mortgage-backed securities in June was strong, and the number of deals reportedly in the pipeline suggests that issuance will pick up further in the third quarter.
+
+Financial conditions in the municipal bond market overall were stable despite volatility in Puerto Rican bond prices after the passage of a law in Puerto Rico that allowed public corporations to restructure their debt.  In response to the legislation, the credit rating agencies downgraded the bonds of Puerto Rican public corporations by up to five notches and its general obligation bonds by up to three notches.
+
+HOUSEHOLD FINANCE
+
+Consumer credit continued to expand robustly in May, largely on the strength of auto and student loans, though credit card debt has begun to pick up as well. Respondents to the July SLOOS indicated that demand for auto loans from banks strengthened in the second quarter.  In addition, banks reported that the level of their lending standards for subprime auto loans was easier than the midpoint of their ranges since 2005.  Delinquencies on auto loans continued to move sideways around post-crisis lows, although repossession rates at finance companies that specialize in lending to subprime borrowers have risen over the past year.
+
+Credit card debt outstanding at commercial banks rose in the second quarter at a pace that was the strongest since mid-2008.  According to the July SLOOS, demand for credit card loans increased, banks raised credit limits for the fifth consecutive survey, and a few banks reported that the level of their lending standards for credit card loans had eased relative to a year ago.  Consistent with that assessment, supervisory data on new
+
+Class II FOMC - Restricted (FR)
+
+Federal Reserve Operations and Market Functioning
+
+Short Term Rates GLYPH&lt;0&gt;
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+2014
+
+Note: GCF is general collateral finance; repo is repurchase agreement.  Dashed vertical lines mark quarter-ends.
+
+Source: Federal Reserve Bank of New York; Depository Trust &amp; Clearing Corporation (DTCC).
+
+<!-- missing-text -->
+
+Note: The bars above are individual operations; the x-axis does not represent continuous time.
+
+Source: Federal Reserve Board.
+
+Fails-to-Deliver of Treasury Securities
+
+Source: Federal Reserve Board, FR 2004, Government Securities Dealers Reports.
+
+<!-- missing-text -->
+
+Note:  ON RRP is overnight reverse repurchase agreement; GCF is general collateral finance. Dashed vertical lines mark quarter-ends. Source: Federal Reserve Bank of New York; Depository Trust &amp; Clearing Corporation.
+
+Changes in Selected Federal Reserve Liabilities at Quarter-End Billions of dollars
+
+<!-- missing-text -->
+
+Note: Changes calculated as the value for the last business day of the quarter less the average value for the 10 preceding business days. FBO is foreign banking organization; ON RRP is overnight reverse repurchase agreement.
+
+Source: Federal Reserve Board.
+
+<!-- missing-text -->
+
+credit card accounts at the largest bank holding companies suggested an increase over the past year in the share of new accounts originated to borrowers with lower credit scores. However, banks reported in the SLOOS that the level of their standards remained tighter than the midpoint of their longer-term ranges, and, overall, the amount of credit that has been extended to borrowers with relatively low credit scores is still small.
+
+Credit conditions in mortgage markets were largely unchanged over the intermeeting period, with mortgage rates holding steady around 4 percent and origination volumes remaining low.  The share of mortgages becoming newly delinquent slowed to record lows; the share of delinquent mortgages overall continued to decline as well. According to the SLOOS, a few large banks have reportedly eased their underwriting standards on prime home-purchase loans over the past year, but, on net, the level of banks' standards on all types of residential real estate loans reportedly remained tighter than the midpoints of their longer-term ranges.  Only a few banks indicated in the SLOOS that the Consumer Financial Protection Bureau's ability-to-repay and qualified mortgage rules were reducing approval rates for prime conforming home-purchase loans.   In contrast, the approval rates for prime jumbo and nontraditional mortgage loans 6 were reportedly somewhat lower as a result of the new rules.  Respondents pointed to the increased documentation requirements for assets and income and the 43 percent back-end debt-to-income ratio requirement for the qualified mortgage status as the most significant reasons for the tightening.
+
+FEDERAL RESERVE OPERATIONS AND MARKET FUNCTIONING
+
+Testing of the Federal Reserve's overnight reverse repurchase agreement (ON RRP) operations and Term Deposit Facility (TDF) continued over the intermeeting period.  As a result of somewhat higher market repo rates, ON RRP take-up, on average, was a little lower than in the prior period.  In TDF testing that ran from mid-May to early July, gradual increases in offer rates and in the maximum individual award amounts generally resulted in higher participation.
+
+Participation in the ON RRP exercise jumped to a record high on the June 30 quarter-end.  The record take-up reportedly reflected efforts by foreign banking organizations (FBOs) and other financial intermediaries to limit the size of their balance sheets on financial reporting dates and, as a result, left money market cash investors in need of alternative overnight investments such as the ON RRP operation.  FBOs, in particular, have reduced the size of their balance sheets significantly on recent reporting dates, apparently in response to new regulatory requirements. 7
+
+In permanent open market operations, the Federal Reserve purchased $23 billion in Treasury securities and committed to purchase $34 billion in MBS over the period, pushing the total size of the balance sheet to $4.4 trillion as of July 21, 2014. 8 The monetary base rose about 11½ percent at annualized rate in June, primarily reflecting the higher reserve balances resulting from the continued asset purchases.
+
+Liquidity conditions in the Treasury market were largely unchanged over the intermeeting period, although fails-to-deliver were elevated at times in June, a development market participants attributed partially to a contraction in dealer balance sheets leading up to quarter-end.  Liquidity conditions in the MBS market remained stable.  The ratio of the Desk's MBS settlements to gross issuance decreased to 44 percent in June from a high of 95 percent in March.  The decline was the result of both decreased purchases and a seasonal increase in MBS issuance.  These factors likely also reduced settlement pressures in the MBS market, and the Desk executed no dollar rolls on its agency MBS purchases over the period.
+
+Class II FOMC - Restricted (FR)
+
+Risks and Uncertainty
+
+ALTERNATIVE SCENARIOS
+
+To illustrate some of the risks to the outlook, we construct a number of alternatives to the baseline projection using simulations of staff models.  The first scenario considers the possibility that recent upside surprises in various indicators of labor market conditions and business confidence are the harbinger of a more rapid takeup of slack, which leads to a noticeable increase in inflation.  By contrast, in the second scenario, we assume that the first-quarter declines in GDP and GDI are more indicative of the underlying momentum of the economy than assumed in the baseline.  In particular, weak housing activity as well as adverse feedback between household spending, business investment, and hiring combine to reduce the pace of the expansion.  The third scenario outlines the effects of a financial crisis in China that has strong spillover effects to other EMEs and to the United States.  In the final scenario, geopolitical tensions intensify, causing oil prices to rise markedly.  Separately, we report our analysis of a scenario in which risk premiums jump as part of a sudden reversal of current low levels of risk premiums in bond markets.  (See the box 'Credit Market Turbulence in Two Models.')
+
+We generate the first two scenarios using the FRB/US model and the final two using the multicountry SIGMA model.  Once the federal funds rate has lifted off from its effective lower bound, its movements are governed-as in the baseline forecast-by an inertial version of the Taylor (1999) rule.  The date of liftoff in each scenario is set using a mechanical procedure intended to be broadly consistent with the guidance provided in the Committee's recent statements.   In all cases, we assume that the size and 1 composition of the SOMA portfolio follow their baseline paths.
+
+Credit Market Turbulence in Two Models
+
+As noted in this month's 'QS Assessment of Financial Stability,' investors in certain asset classes may have become complacent, contributing to low expected volatility and high asset valuations:  Term premiums on Treasury securities remain modest, and credit spreads on corporate bonds have also reached low levels.  In addition, lending standards in certain market segments have eased substantially.  These situations could reverse quite suddenly.  We explore the effects of such a reversal in two models, FRB/US and a DSGE model. 1 We assume that the key effects can be captured in each of the two models by an increase in interest rate premiums that raise private-sector borrowing costs.
+
+FRB/US and the DSGE model differ in many ways.  In the DSGE model, aggregate spending is considerably more interest sensitive than in FRB/US.  In addition, the risk premium within the DSGE model is a spread of the short-term private borrowing rate over the federal funds rate, whereas in FRB/US, the risk premium drives a wedge between longer-term borrowing rates and the expected path of the federal funds rate.  Finally, the DSGE model includes an explicit model of financial frictions that generates a feedback loop between falling asset values, rising risk premiums, depressed investment, and even lower asset values.  In FRB/US, the risk premium is also sensitive to economic conditions, but rather than being based on a structural model, this sensitivity is a function of expected future output gaps.
+
+The scenario involves an exogenous shock to risk premiums of 90 basis points.  In FRB/US, this shock directly raises a wide spectrum of longer-term private-sector interest rates, including mortgage and corporate bond rates, as well as the equity premium.  The counterpart in the DSGE model is a jump in the premium on shortterm borrowing (and saving) by firms and households that gradually decays; this sequence of premiums is chosen to average 90 basis points over 10 years.  As a result, the effect of the shock on long-term interest rates is similar in both models, but the DSGE model also features a sharp rise in short-term borrowing rates.  In both cases, the premium increase occurs at the end of this year; the premium then slowly reverts to its normal value thereafter.
+
+The following figures present the effect of this shock in the two models.  In the DSGE model (as shown by the dotted blue lines), the rise in interest rates depresses consumer spending and leads to a 2 percentage point widening in the output gap relative to baseline.  Inflation falls only a little, both because the model's Phillips curve is flat and because, in this model, high borrowing costs
+
+Responses to Risk Premium Shock
+
+<!-- missing-text -->
+
+push up firms' marginal costs.  With a weaker economic outlook, liftoff for the federal funds rate is delayed by a full year relative to the baseline. 2
+
+By contrast, the increase in premiums in FRB/US results in a smaller deterioration of the economy, which delays liftoff by only two quarters.  In FRB/US, the output gap falls by 1 percentage point relative to baseline at the trough.
+
+The much larger drop in output in the DSGE model than in FRB/US occurs primarily because spending (especially consumer spending) is much more sensitive to interest rate changes in the DSGE model, as noted earlier.  This may result, in part, from the fact that an increase in risk premiums within the DSGE model affects all short- and long-term borrowing costs.  Indeed, some research suggests that the effects of increases in borrowing costs that only affect longterm interest rates have more muted effects on output than the type of risk premium shock in this DSGE model, but such alternative models remain largely at the development stage. 3
+
+Class II FOMC - Restricted (FR)
+
+Alternative Scenarios
+
+(Percent change, annual rate, from end of preceding period except as noted)
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Stronger Activity with Higher Inflation
+
+Some recent data have surprised us on the upside and may indicate that underlying aggregate demand conditions are stronger than assumed in the baseline.  At the same time, we currently estimate that overall PCE inflation was 2¼ percent at an annual rate in the second quarter, at the high end of its range in the past few years, and we also estimate that core PCE inflation registered its highest quarterly readings in more than two years.  In this scenario, we assume that recent labor market improvements boost the confidence of households and businesses in the durability of the expansion and spark a virtuous cycle marked by more rapid output growth than in the baseline.  We also assume that, going forward, inflation will be considerably more sensitive to resource slack than is implicit in the FRB/US model, more in line with estimates in some other models.
+
+All told, real GDP growth reaches an annual rate of 4½ percent in the second half of this year and averages 4 percent over 2015; the unemployment rate falls slightly below 4 percent by the end of 2016.  With resource utilization running tighter, inflation rises notably higher than in the baseline.  The federal funds rate lifts off one quarter earlier and rises more steeply thereafter, moving above 4 percent in 2016 and reaching above 6 percent in 2018.  Nevertheless, inflation rises substantially above target to 3 percent at the end of 2018.   Thus, in this scenario, the economy moves in fairly short 2 order from missing on the weak side of both legs of the dual mandate to missing on the strong side.
+
+Weaker Household Demand
+
+In the staff's baseline analysis, the first-quarter declines in GDP and GDI are assumed to reflect, to a large degree, what amounts to statistical noise.  In this scenario, the recent aggregate output readings prove to be more indicative of aggregate demand going forward than the staff currently assumes.  Consumer spending is restrained, and housing activity does not mount the recovery that is anticipated in the baseline.  Instead, residential investment rises, on average, only 2½ percent per year, in line with longer-run trend growth.  These factors spawn a vicious cycle of lower household spending gains, reduced output growth, and a slower pace of business investment and hiring.  As a result,
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Forecast Confidence Intervals and Alternative Scenarios
+
+Confidence Intervals Based on FRB/US Stochastic Simulations
+
+Extended Tealbook baseline
+
+Stronger activity
+
+Weaker household demand
+
+Higher oil prices
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+China-driven EME crisis
+
+Credit market turbulence
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+real GDP rises at an average annual rate of 2 percent over the next two years, and the unemployment rate falls more slowly than in the baseline, edging down only to 5½ percent by the end of 2018.  With resource utilization rising much more gradually than in the baseline, inflation also rises more gradually and the federal funds rate does not lift off until the fourth quarter of 2017.
+
+China-Driven EME Crisis
+
+Our baseline forecast assumes that output growth in China remains relatively robust and that the Chinese authorities are able to largely contain China's growing financial vulnerabilities.  However, a number of developments could possibly trigger a severe financial crisis, including a bust in the property sector or a run on China's rapidly expanding shadow banking system.  In this scenario, we assume that China experiences a financial meltdown that also precipitates financial crises in other major EMEs.  (This scenario was featured in a memo accompanying the July 2014 'QS Assessment of Financial Stability.') 3
+
+For this exercise, we assume EME borrowing costs soar and the confidence of EME households and businesses weakens substantially.  EME currencies depreciate against the advanced economy currencies about 20 percent, on average, relative to the baseline, even though EME central banks are assumed to raise policy rates in order to attenuate capital outflows.  All told, real GDP in both China and other EMEs declines 7 percent relative to the baseline by the end of 2015.
+
+The stress in the EMEs is assumed to have financial spillovers to the rest of the world.  In the United States and other advanced economies, corporate bond spreads rise and equity prices decline relative to the baseline, while flight-to-safety flows push down term premiums on government bond yields.  In addition, weaker foreign economic activity and the stronger exchange value of the dollar depress U.S. net exports.  As a
+
+Class II FOMC - Restricted (FR)
+
+Selected Tealbook Projections and 70 Percent Confidence Intervals Derived from Historical Tealbook Forecast Errors and FRB/US Simulations
+
+<!-- missing-text -->
+
+Note:  Shocks underlying FRB/US stochastic simulations are randomly drawn from the 1969-2013 set of model equation residuals.
+
+Intervals derived from Tealbook forecast errors are based on projections made from 1979 to 2013, except for PCE prices excluding food and energy, where the sample is 1981-2013.
+
+result, U.S. real GDP growth is only 1 percent in 2015 and the unemployment rate hovers around 6 percent through 2016.  With substantially greater resource slack and lower import prices, U.S. core PCE inflation dips to around ½ percent in 2015.  Under these conditions, the federal funds rate remains at its effective lower bound for almost three years longer than in the baseline.
+
+Higher Oil Prices
+
+Geopolitical tensions in the Middle East and between Russia and the West could intensify in coming months, reducing global oil supplies and causing oil prices to rise markedly.  In this scenario, oil prices increase $30 per barrel above the baseline by the end of this year before partially receding. 4 Higher oil prices dampen consumer spending and business investment.  All told, U.S. real GDP rises at an annual rate of only 2¾ percent in 2015 and 2016, and the unemployment rate is 5 percent at the end of 2016, about ¼ percentage point higher than in the baseline.  The higher energy costs cause the total PCE inflation rate to jump to 4¼ percent in the second half of this year, and put more persistent-albeit modest-upward pressure on core inflation.  The liftoff date of the effective federal funds rate is delayed one quarter relative to the baseline, and the path is slightly flatter thereafter.
+
+Assessment of Key Macroeconomic Risks (1)
+
+Probability of Inflation Events
+
+(4 quarters ahead-2015:Q2)
+
+<!-- missing-text -->
+
+Probability of Unemployment Events
+
+(4 quarters ahead-2015:Q2)
+
+<!-- missing-text -->
+
+Probability of Near-Term Recession
+
+<!-- missing-text -->
+
+Note: 'Staff' represents Tealbook forecast errors applied to the Tealbook baseline; baselines for FRB/US, BVAR, EDO, and the factor model are generated by those models themselves, up to the current-quarter estimate. Data for the current quarter are taken from the staff estimate for the second Tealbook in each quarter; if the second Tealbook for the current quarter has not yet been published, the preceding quarter is taken as the latest historical observation.
+
+Class II FOMC - Restricted (FR)
+
+Assessment of Key Macroeconomic Risks (2)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+(4 quarters ahead)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+(4 quarters ahead)
+
+<!-- missing-text -->
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+Tealbook Forecast Compared with Blue Chip
+
+(Blue Chip survey released July 10, 2014)
+
+Real GDP
+
+Real PCE
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+Treasury Bill Rate
+
+<!-- missing-text -->
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+-4
+
+-5
+
+-6
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+5.5
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+<!-- missing-text -->
+
+Consumer Price Index
+
+<!-- missing-text -->
+
+10-Year Treasury Yield
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Staff Projections of Federal Sector Accounts and Related Items (Billions of dollars except as noted)
+
+<!-- missing-text -->
+
+1. Budget receipts, outlays, and surplus/deficit include corresponding social security (OASDI) categories. The OASDI surplus and the Postal Service surplus are excluded from the on-budget surplus and shown separately as off-budget, as classified under current law.
+
+2. Other means of financing are checks issued less checks paid, accrued items, and changes in other financial assets and liabilities.
+
+3. Gross saving is the current account surplus plus consumption of fixed capital of the general government as well as government enterprises.
+
+4. HEB is gross saving less gross investment (NIPA) of the federal government in current dollars, with cyclically sensitive receipts and outlays adjusted to the staff's measure of potential output and the natural rate of unemployment.  The sign on Change in HEB, as a percent of nominal potential GDP, is reversed.  FI is the weighted difference of discretionary changes in federal spending and taxes in chained
+
+(2009) dollars, scaled by real GDP.  The FI estimates are calendar year contributions to Q4/Q4 real GDP growth.  Also, for FI and the change in HEB, positive values indicate aggregate demand stimulus.
+
+Quarterly figures for change in HEB and FI are not at annual rates.
+
+a  Actual.
+
+Greensheets
+
+Foreign Real GDP and Consumer Prices: Selected Countries (Quarterly percent changes at an annual rate)
+
+1 Foreign GDP aggregates calculated using shares of U.S. exports. 2 Foreign CPI aggregates calculated using shares of U.S. non-oil imports.
+
+<!-- missing-text -->
+
+Foreign Real GDP and Consumer Prices: Selected Countries (Percent change, Q4 to Q4)
+
+<!-- missing-text -->
+
+1 Foreign GDP aggregates calculated using shares of U.S. exports. 2 Foreign CPI aggregates calculated using shares of U.S. non-oil imports.
+
+U.S. Current Account GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;GLYPH&lt;9&gt;                                                                                                    terly Data ar Qu
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Abbreviations
+
+<!-- missing-text -->
+
+<!-- missing-text -->

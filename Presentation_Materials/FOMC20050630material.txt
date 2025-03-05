@@ -1,0 +1,1025 @@
+Appendix 1: Materials used by Messrs. Gallin, Lehnert, Peach, Rudebusch, and Williams
+
+STRICTLY  CONFIDENTIAL  (FR) CLASS II-FOMC
+
+Material  for
+
+Special Staff Presentations on Housing Valuations and Monetary Policy
+
+June 29, 2005
+
+Is  Housing Overvalued? Joshua Gallin
+
+Board of Governors  of the Federal Reserve  System
+
+Is  Housing Overvalued?
+
+Changes  in  Real  House  Prices: The  United States
+
+<!-- missing-text -->
+
+Note:  Real house prices are the repeat-transactions  price  index relative to the personal consumption  expenditures chain-price index.  Sources. BEA and OFHEO.
+
+Real  Price Changes:  Western  Cities
+
+Real  Price Changes:  Eastern  Cities
+
+<!-- missing-text -->
+
+Anecdotes from the Housing  Market
+
+- " Increased speculation.
+- " Rosy assessments of future appreciation.
+- " Increased  reliance on novel financing  without full recognition of the associated  risks.
+
+<!-- missing-text -->
+
+Valuing Housing
+
+- * Is  housing  affordable for the typical household?
+- -Are  prices too high  relative to  incomes?
+- -Are  required mortgage payments affordable?
+- " Are  prices too high  relative to rents?
+
+A Framework  for Valuing Housing
+
+- " Rental  payments in  the housing market are  analogous to dividends in  the stock market.
+- " High  prices can be justified by high  rents or low carrying costs.
+- " Carrying costs include interest payments, net taxes, and depreciation.
+
+The Data
+
+- " Repeat-transactions  price indexes from  OFHEO  and Freddie Mac.
+- " Tenants' rent index from the CPI.
+- " Several adjustments address shortcomings of the data.
+
+Price-Rent  Ratio and  Real  Carrying Costs
+
+<!-- missing-text -->
+
+Note. The price-rent ratio is the repeat-transactions house-price index divided by CPI tenants' rent, adjusted by Board staff. The real carrying  cost includes effective after-tax mortgage  rates, local  property taxes, and  depreciation relative to ten-year inflation expectations from the Philadelphia Fed  survey.
+
+Price-Rent  Ratios and  Subsequent  Changes  in  Real  Prices
+
+<!-- missing-text -->
+
+Price-Rent Ratios and Subsequent  Changes  in Real  Prices: Selected Cities
+
+-10
+
+<!-- missing-text -->
+
+Two Models of House  Price Changes
+
+Variables in  the basic model
+
+Projection of Real  Price Changes K-History and  staff forecast
+
+- " Recent house prices
+- " Real  income, real  carrying costs, and the unemployment  rate
+
+Extra variables in  error-correction  model
+
+- " Lagged  price-rent ratio
+- " Lagged  level of carrying costs
+
+<!-- missing-text -->
+
+Conclusions
+
+- " The price-rent ratio is  very high  by historical standards, suggesting that housing might be overvalued  by as much as 20 percent.
+- " Historical  experience suggests that the change  in  real house prices going forward will be slower than in  recent years.
+- " The evidence cannot rule out either further rapid gains in  house prices for a  time or a rapid correction back toward fundamentals.
+
+House  Prices and Mortgage  Finance Andreas Lehnert Board of Governors  of the Federal  Reserve  System
+
+Household Sector Vulnerability to House  Price Declines
+
+Estimated  Loan-to-Value  Distribution of Outstanding  Mortgages
+
+<!-- missing-text -->
+
+Sensitivity of Household  Sector to  Price Declines Percent of borrowers  with negative  equity
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Mortgage  Delinquency Rates
+
+<!-- missing-text -->
+
+Conclusions
+
+- . Average LTV  has decreased over the past 18  months
+- . Most borrowers  have substantial equity in their homes
+- " Rapidly rising  house prices  have kept mortgage  delinquencies and losses low
+- -Some households are very  highly leveraged
+
+Exhibit 2
+
+Characteristics  of Interest-Only  (10)  Mortgages  in RMBS  Pools
+
+Components  of Home  Mortgage Debt
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source. LPC  RMBS data, FFA
+
+<!-- missing-text -->
+
+Loan-to-Value  Ratios of Interest-Only  Mortgages at Origination
+
+Percent of interest-only mortgage  debt
+
+<!-- missing-text -->
+
+Note.  Data  are for lo RMBS pools only; observations are weighted  by mc
+
+Credit Scores of  Interest-Only Mortgages
+
+Percent of  interest-only mortgage  debt
+
+<!-- missing-text -->
+
+Note.  Data  are for 10  RMBS  pools only;  observations are weighted by mortgage size.
+
+Exhibit 3
+
+Financial  Institution Risk Exposure
+
+Credit  Risk Exposure
+
+Housing GSEs
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Mortgage  Share  of Assets,  Banks  and Thrifts
+
+Percent  of total  assets
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note. Data  are from Freddie  Mac only Source. Freddie  Mac 2004 Annual  Report
+
+Risks in  RMBS  Pools
+
+" RMBS pools contain relatively risky mortgages
+
+e Pools are structured to allow investors to choose risk exposure
+
+e Pools are exceptionally transparent
+
+" Pricing depends on loss modeling
+
+<!-- missing-text -->
+
+Assets and Capital  Ratios
+
+<!-- missing-text -->
+
+Measuring House  Prices Richard  Peach Federal  Reserve  Bank of  New York
+
+The OFHEO  Home  Price Index
+
+- -An  index of the average  price of single-family homes purchased (refinanced) with conforming, conventional  mortgages
+- -Excludes cash sales and sales financed with  FHA,
+- Ww VA, and jumbo loans.
+- -A "repeat-sales" index
+- -Measures sales prices or appraised values of properties at same  address at different points in time.
+- -A transactions-based  price index.
+
+The Constant-Quality New Home Price  Index
+
+- -Based  on a sample of new homes sold, regardless of how the sale was financed.
+- -Hedonic methods are  used to hold
+- physical and  locational characteristics constant over time.
+- -Sales prices regressed  on  numerous characteristics such as lot size, square footage of structure,  presence of air conditioning, fire places, etc.
+
+Nominal  Home  Price Appreciation
+
+<!-- missing-text -->
+
+Note:  Shading  represents  NBER  recessions.
+
+Ratio of Home  Price Over Median  Family Income
+
+4
+
+<!-- missing-text -->
+
+Distribution of Single-Family  Homes  by Value:  20035
+
+# of Single-Family  Units
+
+Source: American  Housing Survey
+
+<!-- missing-text -->
+
+Appreciation and Turnover Rates by Percentile
+
+(percent per year)
+
+<!-- missing-text -->
+
+Source: American  Housing Survey
+
+OFHEO  Index and  Home  Improvements
+
+<!-- missing-text -->
+
+Ratios of Median  Home  Value  to Median  Family Income  by Percentile*  of Home  Value Ratio Ratio
+
+<!-- missing-text -->
+
+Source: American  Housing Survey
+
+*Home  value percentile groups are defined by 3-percentile ranges centered  around  the cited percentile point.
+
+Implicit Land  Price  Increases Derived  from
+
+Constant-Quality  New  Home  Price Indices* (compound  annual  rate,  1998-2004)
+
+<!-- missing-text -->
+
+*Based  on the  assumption  that  land  represents 50 percent of the  value of the property.
+
+Single-Family  Investment  Properties
+
+Thousands of Housing  Units
+
+(renter-occupied  plus vacant for rent)
+
+8
+
+8
+
+<!-- missing-text -->
+
+Monetary  Policy Responses  to Asset Price  Movements
+
+Glenn  D.  Rudebusch Federal  Reserve  Bank of San  Francisco
+
+Monetary  Policy and Asset Prices: The  Basics
+
+1. Asset price decomposition:
+
+Assume  an  asset price (APt) consists of a component determined  by its fundamentals  (Ft)  and  a bubble component  (Bt):
+
+<!-- formula-not-decoded -->
+
+2.  Two proposals for the appropriate  monetary  policy reaction to an  asset  price:
+
+Standard  Policy (SP):
+
+- " Widespread agreement that the SP  is a minimum  appropriate  reaction.
+- " Respond to  an asset price  insofar as  it conveys information  about the future evolution of output and inflation-the goal variables of monetary policy.
+- " In following the SP,  it still may  be  useful-if possible-to identify Ft  and  Bt.
+
+Bubble Policy (BP):
+
+- *  Respond  to relevant information  as in  the SP and  also try to influence the asset price directly in  order to  contain  or reduce the  bubble  and limit costs associated with  movements  in Bt.
+
+3. A best-case  scenario for Standard  and  Bubble  Policies:
+
+Example:  Consider the ideal theoretical conditions where the  decomposition of an asset price (APt)  into its fundamentals  (Ft)  and  a bubble (Br) is known.
+
+<!-- missing-text -->
+
+The Standard  Policy (SP) would:
+
+- *  Try to  offset the  effects of APt with  higher rates than  recommended  by the fundamentals  before the crash and  lower rates afterward.
+
+The  Bubble  Policy (BP)  would:
+
+- *  Respond to information  as in  the  SP, but also try to  reduce the  bubble fluctuations and  achieve, ideally, the AP't path. This would  likely require higher rates  than the  SP before the crash  and lower rates  afterward.
+
+Should  Monetary  Policy Try to Reduce  an  Asset Price Bubble?
+
+Decision tree for Standard  and  Bubble  Policies
+
+<!-- missing-text -->
+
+Follow Bubble Policy
+
+The  asset price is arguably aligned with  fundamentals.
+
+Follow Standard  Policy
+
+Macroeconomic consequences from asset price boom  and  bust are  minor or they occur with  a lag,  so  monetary policy can effectively offset them.
+
+Follow Standard  Policv
+
+Interest  rate effects on  bubble are uncertain  or costly, especially relative to alternative  deflation strategies.
+
+Follow Standard  Policy
+
+Two  Episodes of Possible Asset Price Bubbles
+
+Real-time  answers  to decision-tree questions
+
+1. Equity prices  in 1999-2000:
+
+- Q1: A bubble could  be  identified in  certain sectors and  perhaps in overall  market.
+- Q2: Serious capital misallocation appeared  likely during  boom and  severe fallout from financial  instability was possible during  bust. Both hard to rectify.
+- Q3: It  appeared  unlikely that any bubble could be  deflated  by monetary policy.
+
+<!-- missing-text -->
+
+2.  Bond prices in  1994:
+
+- Q1: A bubble or bond  price  misalignment appeared  likely.  Termed  an  "inflation scare" or "credibility gap."
+- Q2: Possible fallout from  propagation of high-inflation expectations.
+- Q3: It appeared  likely monetary policy could guide  prices back to fundamentals.
+
+<!-- missing-text -->
+
+Monetary  Policy Implications of a House  Price Bubble
+
+John C. Williams Federal  Reserve  Bank of San  Francisco
+
+A Tale  of Two  Bubbles
+
+- " House prices today:  a 20% decline would
+- o reduce  household wealth by $3.6  trillion (30%  of current  GDP)
+- o raise saving rate  by nearly  1-1/2  percentage  points in  the  long-run
+- o lower the  long-run  equilibrium  real  funds rate  (r*)  by 40 basis points.
+- " Stock prices  in  early 2000:  twice  as a large a potential  problem  as house price overvaluation today.
+- o Stock market  overvalued by 60% in March 2000;  correction  implied  a $6.7 trillion  reduction  in  wealth  (70%  of GDP at the time).
+- o In the event, stock market wealth fell  by $4.6 trillion from  March 2000 to March 2001,  and at trough was down $8.5  trillion.
+- " Cautionary note:  policy cushion today is noticeably smaller than in  early 2000.
+
+Monetary  Policy Implications of a Bursting Housing  Bubble
+
+- " Three scenarios:
+- 1. 20% decline in house prices relative to path  in  June Greenbook
+- 2.  Scenario  1 + spillover effects on demand
+- 3.  Scenario 2 + rise in  bond  premiums.
+- " Two policies:  Optimal policy and Taylor rule
+- o Optimal perfect foresight policy: assumes  equal weights on unemployment and  inflation deviations from  targets of 5 and  1.5 percent, respectively, and  small penalty on  interest rate changes.
+- o Taylor  Rule: coefficient of  1  on output gap and '% on  inflation gap; r*  adjusts to  changes in housing wealth and  bond  premiums.
+
+1.  Effects of 20 Percent  Decline in House  Prices
+
+Unemployment  Rate
+
+Core  PCE Price  Inflation (4-qtr change)
+
+1
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- " House prices decline 20%  relative to June Greenbook  path by end of 2007.
+- " Demand shock: no significant tradeoff of goals.
+- " Macroeconomic effects build gradually: Under Taylor Rule, policy can respond to  them  as they develop.
+
+2. Scenario 1 +  Demand  Spillovers
+
+<!-- missing-text -->
+
+Core  PCE  Price Inflation (4-qtr change)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- " House price declines rattle  consumer confidence and  dry up equity extraction from  mortgage  refinancing, crimping  household  spending.
+- " Optimal  policy: funds  rate declines to  2-1/4% by middle  of 2006.
+- " Taylor Rule fails to act in  anticipation  of spillover effects and  responds too gradually once they occur.
+
+Unemployment  Rate
+
+Core  PCE Price  Inflation (4-qtr change)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- " House prices decline 20% as  before, with demand  spillovers.
+- " Term  premiums on long-term  bonds increase  75 basis points by year-end.
+- " Optimal policy drives funds rate below  1 percent by middle  of 2006.
+- " Optimal  policy able to forestall significant rise  in  unemployment  rate; under Taylor Rule, unemployment  rate reaches 6 percent.
+
+Using  Monetary  Policy to Preempt  a Worsening House  Price  Misalignment
+
+- " Pro:  House price misalignment  may
+- o contribute  to conditions  that lead  to a sharp contraction in  economic activity that is difficult for policy to counteract
+- o misallocate resources toward  housing-related activities.
+- " Con:  Effectiveness of such policies is open to question
+- o uncertain empirical  relationship  between  housing  prices, interest rates, and other factors
+- o difficulties in  assessing existence and  magnitude of misalignment.
+
+House  Prices and  Rents  in Selected  Metropolitan  Areas
+
+San  Francisco
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Chicago
+
+<!-- missing-text -->
+
+Cleveland
+
+<!-- missing-text -->
+
+Sources: OFHEO, BEA,  and BLS.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+-10
+
+10
+
+House Prices and  Rents in Selected  Metropolitan Areas
+
+Boston
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Miami
+
+10
+
+-10
+
+<!-- missing-text -->
+
+Sources: OFHEO, BEA, and BLS.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Measures  of Prices, Rents, and  Costs in  the Housing Market
+
+Changes  in  Real  House  Prices and  Rents
+
+<!-- missing-text -->
+
+Levels of Real  House  Prices and Construction Costs
+
+<!-- missing-text -->
+
+Sources: OFHEO, Freddie  Mac,  BLS, Census,  BEA,  and Engineering  News  Record.
+
+Appendix 2: Materials used by Mr. Kos
+
+Class II FOMC -- Restricted FR
+
+Current U.S. 3-Month Deposit Rates and Rates Implied by Traded Forward Rate Agreements
+
+March 1, 2005 - June 28, 2005
+
+<!-- missing-text -->
+
+Page 1 of 4
+
+Class II FOMC -- Restricted FR
+
+Page 2 of 4
+
+High Yield and Auto Debt Spreads
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Class II FOMC -- Restricted FR
+
+Euro-Area 3-Month Deposit Rates and Rates Implied by Traded Forward Rate Agreements
+
+March 1, 2005 - June 28, 2005
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Percent
+
+<!-- missing-text -->
+
+Appendix 3: Materials used by Messrs. Oliner, Wilcox, and Leahy
+
+STRICTLY CONFIDENTIAL (FR) CLASS I-FOMC*
+
+Material for
+
+Staff Presentation on the Economic Outlook
+
+June 30, 2005
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+14000
+
+13000
+
+12000
+
+11000
+
+10000
+
+9000
+
+8000
+
+7000
+
+65
+
+55
+
+45
+
+35
+
+25
+
+15
+
+Key Background Factors
+
+Interest Rates
+
+Fiscal Impetus
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Equity Prices
+
+<!-- missing-text -->
+
+Crude Oil Prices
+
+<!-- missing-text -->
+
+House Prices
+
+<!-- missing-text -->
+
+Broad Real Dollar
+
+<!-- missing-text -->
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+-0.2
+
+400
+
+360
+
+330
+
+300
+
+270
+
+240
+
+112
+
+104
+
+96
+
+88
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+7
+
+6
+
+5
+
+4
+
+3
+
+245
+
+235
+
+225
+
+215
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+Does Any Slack Remain In The Labor Market?
+
+Unemployment Rate
+
+Labor Force Participation Rate
+
+<!-- missing-text -->
+
+Total Hours Worked
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note.  2005:Q2 is the April-May average.
+
+Source:  National Federation of Independent Business.
+
+67.5
+
+67.0
+
+66.5
+
+66.0
+
+65.5
+
+<!-- missing-text -->
+
+150
+
+130
+
+110
+
+90
+
+70
+
+50
+
+<!-- missing-text -->
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Foreign Outlook and Financial Market Indicators
+
+U.S. and Foreign GDP
+
+Stock Prices*
+
+**Years are Q4/Q4.  Half-years are Q2/Q4 or Q4/Q2.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+* Source: MSCI.
+
+<!-- missing-text -->
+
+- * Average of rates for Australia, Canada, euro area, Japan, Sweden, Switzerland, and United Kingdom, weighted by trade shares.
+
+<!-- missing-text -->
+
+Long-Term Interest Rates and Monetary Policy
+
+(Weekly data, percent)
+
+Ten-Year Government Bond Yields
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Long-Term Nominal and Inflation-Indexed Yields
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Monetary Policy Indicators
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Euro Area and Japan
+
+Earnings per Share*
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+BBB Corporate Bond Spreads
+
+<!-- missing-text -->
+
+Euro-Area Real GDP
+
+<!-- missing-text -->
+
+Euro-Area Confidence Indicators
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+China: Why is Import Growth Slowing?
+
+Merchandise Trade Balance
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Real GDP
+
+Exports by Category
+
+<!-- missing-text -->
+
+Consumer Prices
+
+<!-- missing-text -->
+
+Outlook for Commodity Prices and U.S. External Accounts
+
+Primary Commodity Prices*
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Broad Real Dollar
+
+<!-- missing-text -->
+
+Balance of Payments
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Exhibit 16
+
+ECONOMIC PROJECTIONS FOR 2005
+
+<!-- missing-text -->
+
+Central tendencies calculated by dropping high and low three from ranges.
+
+ECONOMIC PROJECTIONS FOR 2006
+
+<!-- missing-text -->
+
+Appendix 4: Materials used by Mr. Reinhart
+
+Exhibit 1
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+'Estimates from federal funds and eurodollar  futures, with an  allowance for term  premia  and  other adjustments.
+
+<!-- missing-text -->
+
+- 'Par yields from an estimated  off-the-run Treasury yield curve.
+
+Change  In Ten-Year Yields Since June 29, 2004
+
+Actual and  Expected Treasury  One-year  Forward  Rates' Percent
+
+<!-- missing-text -->
+
+- 'One-year  nomina! forward rate  maturing ten years  ahead
+
+9
+
+7
+
+3
+
+2
+
+<!-- missing-text -->
+
+- Forward  rates are  the one-year  nominal  rates  maturing at the end of the  year  shown  on  the horizontal  axis that  are  implied  by the smoothed  Treasury yield  curve.
+
+<!-- missing-text -->
+
+Factors  Encouraging the  Demand for Relative to the Supply of  Long  Duration  Securities
+
+Factors  Damping Growth  Prospects
+
+- " Reduced macro volatility
+- " Increased demand for duration
+- " Reduced supply of duration
+- " Increased  global saving
+- " Higher  oil prices
+- " Potential  increase in domestic saving rate
+- " Large  and sustained trade deficits
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Exhibit 3
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+What can go wrong?
+
+<!-- missing-text -->
+
+10
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Exhibit 4
+
+Monetary  Policy Alternatives
+
+<!-- missing-text -->
+
+Statement  Challenges
+
+- *  "...the  stance of monetary policy remains accommodative"
+- *  "...coupled with  robust underlying growth  in  productivity"
+- * "...with  appropriate monetary  policy action, the  upside and  downside risks to the attainment of both sustainable growth and price stability should be kept roughly equal."
+- * "...that policy accommodation can  be removed at a pace that is likely to be measured."
+
+<!-- missing-text -->

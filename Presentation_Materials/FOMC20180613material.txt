@@ -1,0 +1,813 @@
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on
+
+Financial Developments and Open Market Operations
+
+Lorie Logan and Simon Potter Exhibits by Ashley Rhodes June 12, 2018
+
+J
+
+Class II FOMC -Restricted (FR)
+
+(1) Asset Price Changes*
+
+<!-- missing-text -->
+
+*Red indicates tightening in financial conditions, blue indicates loosening. Source: Barclays, Bloomberg, Federal Reserve Board, Goldman Sachs
+
+1
+
+<!-- missing-text -->
+
+*Values shown indicate contribution to change in the Broad Trade-Weighted Dollar's 2.1% appreciation since 05/01/2018. TRY (Turkish lira) not included in
+
+Broad T.W. Dollar.
+
+Source: Bloomberg, Desk Calculations, Federal Reserve Board
+
+(5) 2-Year Italian Sovereign Bond Yield Spread to German Equivalents and Bid-Ask Spread*
+
+<!-- missing-text -->
+
+*During the European Debt Crisis, 2-yr Italy-Germany spread reached high of 720 bps and 2-yr Italy bid-ask reached high of 76 bps. Source: Bloomberg, TradeWeb
+
+1
+
+Exhibit 1
+
+(2) 10-Year U.S. Treasury Yield
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+(6) Changes in Italy-Germany Yield Spread and 10-Year U.S. Treasury Yield*
+
+<!-- missing-text -->
+
+Change in 10-Year Italy-Germany Spread (BPS)
+
+- *Uses 2-day changes. European Debt Crisis defined as period from April 2011 to January 2013.
+- **Treasury market closed on 05/28/18.
+
+Source: Bloomberg
+
+J
+
+Class II FOMC -Restricted (FR)
+
+<!-- missing-text -->
+
+*Italian Banks (FTSE Italia Bank); Spanish Banks (IBEX 35 Bank); Euro Area Banks (Euro Stoxx Bank); French Banks (Market cap-weighted average of BNP Paribas, SocGen, Credit Agricole, and Natixis); US Banks (KBW); German Banks (Market cap-weighted average of DB and Commerzbank). Source: Bloomberg
+
+(9) Changes in Fed Funds Futures-Implied Rates
+
+<!-- missing-text -->
+
+Source: Bloomberg
+
+(11) Differences Between Year-End 2019 Federal Funds Rate Projections over Last Year*
+
+<!-- missing-text -->
+
+*Based on all responses to the Surveys of Primary Dealers and Market
+
+Participants.
+
+Source: FRBNY
+
+1
+
+Exhibit 2
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Market-implied paths derived from federal funds and Eurodollar futures. Unconditional survey paths are the average PDF-implied means from the Surveys of Primary Dealers and Market Participants.
+
+Source: Bloomberg, Desk Calculations, Federal Reserve Board, FRBNY
+
+(12) Average Probability Distribution of 2Y1Y PCE Inflation Rate*
+
+<!-- missing-text -->
+
+*Based on a matched sample of responses to the Surveys of Primary Dealers and Market Participants.
+
+Source: FRBNY, Staff Calculations
+
+J
+
+Class II FOMC -Restricted (FR)
+
+(13) Treasury Bills Outstanding and 3-Month Bill-OIS
+
+Exhibit 3
+
+(14) 3-Month LIBOR-OIS Spread
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*5-day moving average of Tri-Party General Collateral Rate (TGCR), an overnight Treasury repo rate. Official TGCR data begins on April 2018, indicative data used prior to that.
+
+Source: FRBNY
+
+(17) FHLB Overnight Tri-Party Repo By Rate*
+
+<!-- missing-text -->
+
+*Based on individual FHLB lending transactions in overnight Tri-party repo compared to the effective fed funds rate each day.
+
+Source: BNYM, Desk Calculations, FRBNY, JPMC
+
+<!-- missing-text -->
+
+Source: FRBNY
+
+<!-- missing-text -->
+
+Source: FRBNY
+
+1
+
+J
+
+Class II FOMC -Restricted (FR)
+
+(19) Expected Average Level of FRS Assets In 2025*
+
+<!-- missing-text -->
+
+*Based on matched sample (22 dealers, 13 buy-side respondents) from the Surveys of Primary Dealers and Market Participants. Conditional on not moving to the ZLB before end of 2025. Dots scaled by percent of respondents. Source: FRBNY
+
+<!-- missing-text -->
+
+*Figures in shaded area are historical settled holdings. Smaller and larger liab. are based, respectively, on 25th and 75th percentile responses to a question in Desk surveys about the size and composition of the Fed's bal. sheet in 2025 conditional on not returning to ZLB in the Surveys of Primary Dealers and Market Participants. Projected figures are rounded.
+
+Source: Desk Calculations, FRBNY
+
+(23) SOMA MBS Purchases*
+
+<!-- missing-text -->
+
+Purchase Period
+
+*FRBNY Markets model calculations based on June survey-implied rates. June reinvestment cycle includes $1.98 billion of agency debt maturities. Source: Desk Calculations, FRBNY
+
+1
+
+Exhibit 4
+
+(20) Changes in Individual Respondents' Expectations for the Average Level of Reserves in 2025* (From Dec. 2017 to Jun. 2018; $ Billions)
+
+<!-- missing-text -->
+
+*Based on matched sample (22 dealers, 13 buy-side respondents) from the Surveys of Primary Dealers and Market Participants. Conditional on not moving to the ZLB before end of 2025
+
+Source: FRBNY
+
+(22) Projected SOMA Domestic Securities Holdings*
+
+<!-- missing-text -->
+
+*Smaller and larger liab. are based, respectively, on 25th and 75th percentile responses to a question in Desk surveys about the size and composition of the Fed's bal. sheet in 2025 conditional on not returning to ZLB.in the Surveys of Primary Dealers and Market Participants.
+
+Source: Desk Calculations, FRBNY
+
+(24) MBS Operational Readiness
+
+- · Desk model projects MBS reinvestment purchases will cease in October 2018
+- · Models indicate nontrivial likelihood principal payments will exceed cap again
+- · To maintain readiness, Desk intends to conduct monthly small value purchases of up to $300 million
+- · Desk intends to communicate plan prior to principal payments falling below cap
+- · June FOMC minutes could provide a summary, with Desk Statement and updated FAQs later this summer
+
+J
+
+Class II FOMC -Restricted (FR)
+
+(25) Reference Rate Updates
+
+- x A Federal Register Notice was issued in mid-May requesting public comment on revised instructions to the FR 2420 report to capture onshore overnight wholesale borrowing activity in the Overnight Bank Funding Rate, or OBFR.
+- o Over the last couple of years, a few large Eurodollar borrowers changed the way that some of their overnight wholesale borrowing activity is booked, from offshore to onshore.
+- o As a result, at least $35 billion, or about 47 percent of current FR 2420 Eurodollar activity, is no longer captured.
+- o We anticipate the data collection will begin in October, with the new data included in the OBFR calculations in 2019.
+- x On May 7, the CME launched 1-month and 3-month futures based on the Secured Overnight Financing Rate (SOFR), one of the Fed's new overnight Treasury repo rates and the rate the Alternative Reference Rates Committee selected as its recommended alternative to U.S. dollar LIBOR for use in certain derivatives contracts.
+- o The combination of SOFR futures, SOFR-linked OIS and term rates linked to SOFR is expected to help facilitate reduced reliance on US dollar LIBOR.
+- o Thus far, trading activity in futures has been modest but in line with expectations.
+- x Over the next intermeeting period, the New York Fed plans to update its Statement of Compliance with the IOSCO Principles for Financial Benchmarks to include the three overnight Treasury repo reference rates. This statement was initially issued in January to cover the EFFR and OBFR.
+- o The IOSCO Principles represent a set of international best practices for all aspects of Benchmark administration, which have been endorsed by the Financial Stability Board.
+- o The purpose of releasing such a statement is to increase transparency surrounding our administration of these rates.
+
+1
+
+Class II FOMC -Restricted (FR)
+
+Appendix 1
+
+(1) Summary of Operational Testing
+
+Summary of Operational Tests in prior period:
+
+- · Domestic Authorization
+- · May 9: Term repo for $64 million
+- · May 14: Term reverse repo for $87 million
+- · May 16: Overnight repo for $65 million
+- · May 22 and 24: Outright MBS sales (specified pool) for $120 million, total
+- · May 23: Overnight reverse repo (with MBS collateral) for $67 million
+- · Foreign Authorization
+- · None
+- · TDF Test Operation
+- · May 17: 7-day operation with total take-up of $3.7 billion
+
+Upcoming Operational Tests:
+
+- · No tests scheduled under the Domestic Authorization
+- · One test scheduled under the Foreign Authorization
+- · July 10: Euro-denominated repo with private counterparties for € 1 million
+
+(2) MBS Purchase Summary Since Cap Implementation Through June 08, 2018 ($ Millions)
+
+<!-- missing-text -->
+
+- *November included agency debt maturity of $2,366 million.
+- **Actual purchases ongoing, reflect data through 06/08/18. Target amount for May purchase period is $8,793 million.
+
+(3) FX Swaps Outstanding
+
+<!-- missing-text -->
+
+- · There were no intervention operations in foreign currencies for the System's account during the intermeeting period
+
+Appendix 1 (Last)
+
+Appendix 2:  Materials used by Messrs. Morin and Kamin
+
+A
+
+Class II FOMC - Restricted (FR)
+
+Material for
+
+Staff Presentation on the Economic and Financial Situation
+
+Steven B. Kamin and Norman J. Morin Exhibits by Mandy Bowers and Bo Yeon Jang June 12, 2018
+
+June 12-13, 2018
+
+uthorized for Public Release
+
+141 of 185
+
+J
+
+Economy Expanding at Above-Trend Pace
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- · GDP expands at an above-trend rate
+- · Upward revisions since the December Tealbook are more than accounted for by the net effects of the TCJA and BBA
+- · We expect the Thursday's retail sales report to support our view of a rebound in PCE growth from its Q1 lull
+
+J
+
+Labor Market Tightens Further
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- · Overall unemployment rate is lowest since 1969
+- · Continued improvement across most races and ethnicities
+
+•
+
+- Prime-age LFPR has been rising, on net
+- · Combining ADP company-level data and the BLS data provides our best estimate of pace of private job gains-around 175,000 in recent months
+- · Compared with December, the unemployment rate is a tenth lower through 2020
+
+J
+
+Inflation Running Near 2 Percent
+
+<!-- missing-text -->
+
+PCE Prices, 12-month Percent Changes
+
+<!-- missing-text -->
+
+- · The 12-month changes in April for total PCE prices, 2.0 percent, and for core PCE prices, 1.8 percent, were a tenth lower than expected
+- · We expect both measures to move up a bit over the next few months
+- · This morning's CPI release…
+
+J
+
+Inflation Projected to Remain Near 2 Percent
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Core PCE price inflation edges above 2.0 percent by 2020
+
+- · PCE inflation rises above its underlying trend, reflecting tighter resource utilization
+- · Supply constraints in 2020
+- · Some offsetting drag from import prices
+
+Inflation outlook little revised compared to December
+
+- · Total PCE inflation up in 2018 on energy prices
+- · Core PCE inflation just a touch higher
+
+J
+
+Fiscal Stability
+
+Debt Dynamics Equation
+
+<!-- missing-text -->
+
+ο ݀ ௧ = ݌ ௧ + ( ݅ ௧ -݃ ௧ ) ݀ ௧ିଵ
+
+݀
+
+௧
+
+: public debt-to-GDP ratio
+
+݌ ௧ : primary deficit-to-GDP ratio
+
+݅ ௧ :  average Treasury borrowing rate
+
+݃ ௧ : nominal GDP growth rate
+
+<!-- missing-text -->
+
+- · Federal debt as percent of GDP continues to increase through the medium term (and much more thereafter)
+- · The forecast assumes the debt-to-GDP ratio stabilizes in the longer run
+- · The debt-to-GDP ratio stabilizes when the primary deficit is roughly zero and the difference between borrowing rate and nominal GDP growth is small
+- · Eliminating the primary deficit will require reductions approximately equal to deficit effects from the BBA plus two times the TCJA
+
+J
+
+Capacity Utilization (CU) Has Diverged from Other Resource Utilization Measures
+
+<!-- missing-text -->
+
+- · From the early 1960s to the early 1990s, manufacturing CU closely tracked other measures of resource utilization, but then trended far below them and remains well below its long-run average
+- · Since 2012, CU moved roughly sideways even as the broad measures tightened well past their estimated sustainable levels-the largest 'gap in the gaps'
+
+J
+
+Labor in Manufacturing Appears Stretched…
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Even as reported utilization rates are low…
+
+- · Workers are working longer hours (LHS chart)
+- · Managers increasingly report a lack of available labor/skills (RHS chart)
+- · Even so, manufacturing employment is just half way to pre-recession levels
+
+J
+
+…But Capital Not So Much
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- · The 'workweek of capital', weekly plant hours, remains low
+- · For durables producers (ex. Transportation equipment), it is as if half the plants dropped a shift during the Great Recession, and have only recovered modestly
+- · The CU responses in the SPC are based on assuming 'normal' shift patterns
+- Æ Reduced plant hours may be contributing to low reported CU and less than full recovery in jobs at many plants
+
+J
+
+Main Culprit for Low CU: Manufacturing Production Has Been Anemic…
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- · GDP and IP trended upward at a remarkably similar pace until the Great Recession
+- · However, post-recession GDP growth has been sub-par
+- · And manufacturing IP has grown half as fast as GDP
+
+J
+
+Manufacturing Output Weak Partly Because of …Weak Domestic Demand for Domestic Goods
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- · A smaller share of private domestic final demand goes towards goods and structures (LHS chart), more toward services
+- · … and a smaller share of those goods consumed domestically is produced here at home (RHS chart)
+
+J
+
+…While Exports Have Been a Silver Lining
+
+<!-- missing-text -->
+
+Cumulative Contributions to Manufacturing IP
+
+<!-- missing-text -->
+
+- · Exports have supported the recovery in manufacturing (such as it is)
+- · From 2011-2017, exports accounted for nearly 2/3 of the growth in manufacturing output
+
+J
+
+The Weakness in Capacity Utilization…
+
+- …Perhaps masks a 'short-run' CU a bit higher than published CU
+- · Average labor workweek at post-War highs plus growing shortages of skilled labor
+- · Plant hours (capital workweek) below pre-recession levels, but 'new normal' may suggest more intense use than reported.
+
+…Principally reflects a historically weak manufacturing recovery
+
+- · Largely explained by tepid recovery in GDP and by the composition and sourcing of demand
+- · The manufacturing recovery has been supported by exports
+- …Could represent additional factors, such as
+- · A lower target utilization rate by plant managers
+- · A reduction in business dynamism
+
+J
+
+Still-Solid Foreign Outlook Despite the Chaos
+
+<!-- missing-text -->
+
+J
+
+Trade Policies
+
+- · The U.S. rescinded exemptions for the EU, Canada, and Mexico from its steel and aluminum tariffs.
+- · Tariffs on Chinese imports (Section 301, worth $50bn) to be finalized on June 15, investment restrictions on China on June 30.
+- · A new national security investigation (Section 232) on automobile and auto part imports.
+- · Negotiations on NAFTA stalled.
+
+J
+
+Financial Stresses Emerge in Emerging Markets
+
+<!-- missing-text -->
+
+Note: Exchange rate appreciation from April 19,2018, to June 11, 2018. Source: Bloomberg; Haver Analytics; International Monetary Fund (IMF); International Financial Statistics and World Economic Outlook; World Bank-IMF Quarterly External Debt Statistics; staff calculations securities through June 11, 2018
+
+J
+
+Arrivederci Roma
+
+<!-- missing-text -->
+
+J
+
+Low Interest Rates and their Implications for Financial Stability
+
+- · Might a further prolonged period of extremely low rates reduce bank profitability, incentivize risk-taking, and threaten financial stability?
+- · BIS Committee on the Global Financial System (CGFS) study group.
+- · 19 Central banks, led by Ulrich Bindseil (ECB) and me.
+
+<!-- missing-text -->
+
+J
+
+Low Rates Study Group: 3 Scenarios
+
+- · Baseline: rates gradually rise to more normal levels.
+- · Low-for-long (L4L): continued weakness in demand and inflation keep rates low.
+- · Snapback: rates later rise sharply in response to higher inflation.
+
+United Kingdom
+
+<!-- missing-text -->
+
+Page 18 of 24
+
+J
+
+Estimated Effects of Rates on Bank Profitability
+
+· Panel regression:
+
+- · Dependent Variables: net interest margin (NIM), return on assets (ROA).
+- · Explanatory Variables: short rate, yield-curve slope, GDP growth, inflation, lagged dependent variable.
+- · 2,442 banks in 24 foreign countries and 6,993 U.S. banks, 2005-2015.
+- · Both short rate and yield-curve slope positively affect net interest margin (NIM).
+- · But effects of rates on ROA are small.
+- · Suggests banks offset lower NIMs by cutting costs and increasing fee-based activities.
+
+<!-- missing-text -->
+
+J
+
+NIM and ROA Projections under Scenarios
+
+- · Simulations imply that net interest margins (NIMs) would fall materially in a low-for-long scenario.
+- · But return on assets (ROAs) would not.
+
+<!-- missing-text -->
+
+J
+
+Limited Signs of Low Rates Encouraging Risk-Taking
+
+- · Banks have shifted assets toward longer maturities (panel 1); also increased concentration in real estate loans in some economies.
+- · But credit-to-deposit ratios have declined (panel 2), and bank credit-toGDP ratios are subdued in euro area and Japan (panel 3).
+- · Extensive panel analysis revealed little correlation between rates and risk-taking.
+
+<!-- missing-text -->
+
+J
+
+Caveat 1: Rate Sensitivity Stronger for Some Banks
+
+Stronger effect on bank profits:
+
+- · In countries with already low yields.
+- · Where banking markets are more competitive.
+- · For banks that depend on deposit funding, such as retail banks.
+
+Small retail banks in Europe and Japan are most at risk.
+
+J
+
+Caveat 2: Subdued Risk-Taking May Not Continue
+
+- · Recent experience reflects de-risking and tightening of prudential standards and other regulations in wake of the GFC.
+- · Restraint might erode if rates remain low and depress returns and profitability.
+- · Heightened risk-taking might be most likely where growth picks up, but low inflation restrains policy tightening.
+
+J
+
+Caveat 3: Future Snapback in Interest Rates
+
+- · Snapback could lead to valuation and credit losses.
+- · Effects could be exacerbated if banks responded to prior low rates by extending durations and shifting loans to real estate sector.
+- · Simulation analysis for Swiss retail banks:
+- · Net earnings fall more in Snapback than Low-for-Long.
+- · With 30 percent fall in real estate prices, earnings fall still more.
+- · Recent U.S. stress tests also show adverse impact of snapback.
+
+<!-- missing-text -->
+
+June 12-13, 2018
+
+Authorized for Public Release
+
+166 of 185
+
+Appendix 3:  Materials used by Ms. Li
+
+A
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for Briefing on
+
+Summary of Economic Projections
+
+Dan Li Exhibits and support by Melanie Josselyn and Zack Saravay June 12, 2018
+
+<!-- missing-text -->
+
+Note: The  data  for  the  actual  values  of  the  variables  are  annual. The  percent  changes  in  real  GDP  and  inflation are measured  Q4/Q4. Projections  for the unemployment  rate  are  for  the average civilian unemployment  rate  in  the fourth  quarter  of  the  year  indicated. One  participant  did  not  submit  longer-run  projections  for  the  change  in  real  GDP or the  unemployment  rate.
+
+Exhibit  2. Economic  projections  for  2018-20  and  over  the  longer  run  (percent)
+
+Change  in  real  GDP
+
+<!-- missing-text -->
+
+Unemployment  rate
+
+<!-- missing-text -->
+
+PCE  inflation
+
+<!-- missing-text -->
+
+Core  PCE  inflation
+
+<!-- missing-text -->
+
+Note: Updated  June  Tealbook  values  are  reported. The  percent  changes  in  real  GDP  and  inflation  are  measured Q4/Q4.  Projections  for  the  unemployment  rate  are  for  the  average  civilian  unemployment  rate  in  the  fourth  quarter  of the  year  indicated. One  participant  did  not  submit  longer-run  projections  for  the  change  in  real  GDP,  the  unemployment rate,  or  the  federal  funds  rate  in  conjunction  with  the  March  20-21,  2018,  meeting,  and  one  participant  did  not  submit such  projections  in  conjunction  with  the  June  12-13,  2018,  meeting.
+
+<!-- missing-text -->
+
+Note: In these two panels, each blue dot indicates the value (rounded  to 1 8 / percentage  point)  of an individual participant's judgment  of  the  midpoint  of  the appropriate  target  range  for the federal funds  rate, or the appropriate target level for that rate, at the end of the specified year or over the longer run. Each  red diamond  is the median value, for the indicated  year,  of the set of prescriptions  for  the  federal  funds  rate  that  are generated  by  inserting  into the non-inertial Taylor (1999) rule each participant's projections of core PCE  inflation and the unemployment  rate along  with  the  participant's  projections  of  the  longer-run  nominal  federal  funds  rate  and  longer-run  unemployment  rate. The  green  squares  are  the  medians  of  prescriptions  generated  using  the  inertial  Taylor  (1999)  rule. The  red  and  green whiskers  show  the  central tendency,  for each year, of the prescriptions  that result from  using the non-inertial Taylor (1999)  rule  and  the  inertial  Taylor  (1999)  rule,  respectively. One  participant  did  not  submit  longer-run  projections  for the  federal  funds  rate  or  unemployment  rate.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: The  blue  and  red  lines  in  the  top  panel  show  actual  values  and  median  projected  values,  respectively,  of  the percent  change  in  real  gross  domestic  product  (GDP)  from  the  fourth  quarter  of  the  previous  year  to  the  fourth  quarter of the year  indicated. The  confidence  interval  around  the  median  projected  values  is  assumed  to  be  symmetric  and  is based  on  root  mean  squared  errors  of  various  private  and  government  forecasts  made  over  the  previous  20  years;  more information  about  these  data  is  available  in  table  2  of  the  Summary  of  Economic  Projections  (SEP).  Because  current conditions may  diff er from those that prevailed, on average, over the previous 20 years, the width  and shape  of the confidence  interval  estimated  on  the  basis  of  the  historical  forecast  errors  may  not  reflect  FOMC  participants'  current assessments of the uncertainty and risks around  their projections; these current assessments are summarized  in the lower  panels. Generally  speaking,  participants  who  judge  the  uncertainty  about  their  projections  as  'broadly  similar' to the average  levels of the past 20 years would  view  the  width  of  the confidence  interval  shown  in  the  historical fan chart  as  largely  consistent  with  their  assessments  of  the  uncertainty  about  their  projections. Likewise,  participants  who judge  the  risks to their projections  as  'broadly  balanced'  would  view  the  confidence  interval  around  their  projections as approximately  symmetric. For definitions of uncertainty  and  risks in economic  projections, see the box  'Forecast Uncertainty'  in  the  SEP.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: The  blue and  red lines in the top panel show  actual values and median  projected  values, respectively, of the average civilian unemployment  rate  in  the fourth quarter of the year indicated. The  confidence interval around the median  projected  values  is  assumed  to  be  symmetric  and  is  based  on  root  mean  squared  errors  of  various  private and  government  forecasts  made  over  the  previous  20  years; more  information  about  these  data  is  available  in  table  2 of the Summary  of Economic  Projections (SEP). Because current conditions may diff er from those that prevailed, on average, over the previous  20 years, the width  and  shape  of the confidence  interval estimated  on  the basis of the historical forecast  errors  may  not  reflect  FOMC  participants'  current  assessments  of  the  uncertainty  and  risks  around their  projections;  these  current  assessments  are  summarized  in  the  lower  panels. Generally  speaking,  participants  who judge  the  uncertainty  about  their  projections  as  'broadly  similar'  to  the  average  levels  of  the  past  20  years  would  view the width  of the confidence interval shown  in the historical fan chart as largely consistent with their assessments  of the uncertainty about their projections. Likewise, participants who  judge the risks to their projections as 'broadly balanced'  would  view  the  confidence  interval  around  their  projections  as  approximately  symmetric. For definitions  of uncertainty  and  risks  in  economic  projections,  see  the  box  'Forecast  Uncertainty'  in  the  SEP.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Number of participants
+
+Number of participants
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: The  blue  and  red  lines  in  the  top  panel  show  actual  values  and  median  projected  values,  respectively,  of  the percent  change  in  the  price  index  for  personal  consumption  expenditures  (PCE)  from  the  fourth  quarter  of  the  previous year  to  the  fourth  quarter  of  the  year  indicated. The  confidence  interval  around  the  median  projected  values  is  assumed to be symmetric  and  is  based  on  root  mean  squared  errors  of  various  private  and  government  forecasts  made  over  the previous  20  years;  more  information  about  these  data  is  available  in  table  2  of  the  Summary  of  Economic  Projections (SEP).  Because  current  conditions  may  diff er from those that prevailed, on average, over the previous 20 years, the width  and  shape  of  the  confidence  interval  estimated  on  the  basis  of  the  historical  forecast  errors  may  not  reflect  FOMC participants'  current  assessments  of  the  uncertainty  and  risks  around  their  projections; these current  assessments  are summarized  in  the  lower  panels. Generally  speaking,  participants  who  judge  the  uncertainty  about  their  projections  as 'broadly  similar'  to  the  average  levels  of  the  past  20  years  would  view  the  width  of  the  confidence  interval  shown  in  the historical fan chart as largely consistent with their assessments  of the uncertainty  about  their  projections. Likewise, participants  who  judge  the  risks  to  their  projections  as  'broadly  balanced'  would  view  the  confidence  interval  around their  projections  as  approximately  symmetric. For  definitions  of  uncertainty  and  risks  in  economic  projections,  see  the box  'Forecast  Uncertainty'  in  the  SEP.
+
+<!-- missing-text -->
+
+Note: The  blue  and  red  lines are based  on  actual  values  and  median  projected  values,  respectively,  of  the  Committee's  target for the federal funds  rate at the end  of the year indicated. The  actual  values  are the midpoint  of  the target range; the median  projected values are based on either the midpoint  of the target range or the target level. The  confidence  interval around  the median  projected  values  is based  on root mean  squared  errors  of various private and  government  forecasts  made  over  the  previous  20  years. The  confidence  interval  is  not  strictly  consistent  with  the projections  for  the  federal  funds  rate,  primarily  because  these  projections  are  not  forecasts  of  the  likeliest  outcomes  for the federal funds rate, but rather projections of participants' individual assessments  of appropriate  monetary  policy. Still, historical  forecast  errors  provide  a  broad  sense  of  the  uncertainty  around  the  future  path  of  the  federal  funds  rate generated  by  the  uncertainty  about  the  macroeconomic  variables  as  well  as  additional  adjustments  to  monetary  policy that  may  be  appropriate  to  off set  the  eff ects  of  shocks  to  the  economy.
+
+The  confidence  interval  is  assumed  to  be  symmetric  except  when  it  is  truncated  at  zero-the  bottom  of  the  lowest target range  for the federal funds  rate that has been  adopted  in  the past by the Committee. This truncation  would not be intended  to indicate the likelihood of the use of negative  interest rates to provide  additional  monetary  policy accommodation  if  doing  so  was  judged  appropriate. In such  situations,  the  Committee  could  also  employ  other  tools, including forward guidance and large-scale asset purchases, to provide additional accommodation. Because current conditions may  diff er from those that prevailed, on average, over the previous 20 years, the width  and shape  of the confidence  interval  estimated  on  the  basis  of  the  historical  forecast  errors  may  not  reflect  FOMC  participants'  current assessments  of  the  uncertainty  and  risks  around  their  projections.
+
+* The  confidence  interval is derived from forecasts of the average level of short-term  interest rates in the fourth quarter  of the year indicated;  more  information  about  these  data  is  available  in  table  2  of  the  Summary  of  Economic Projections. The  shaded  area  encompasses  less  than  a  70  percent  confidence  interval  if  the  confidence  interval  has  been truncated  at  zero.
+
+June 12-13, 2018
+
+Authorized for Public Release
+
+175 of 185
+
+Appendix 4:  Materials used by Mr. Laubach
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for the Briefing on
+
+Monetary Policy Alternatives
+
+Thomas Laubach Exhibits by Mark Wilkinson June 12-13, 2018
+
+Monetary Policy Considerations
+
+Alternative B
+
+Near- versus Long-Term Spreads
+
+- Gradual increases in the funds rate consistent with
+- sustaining strong labor market and inflation near 2 percent
+- balancing risks
+- Policy path will move from accommodative to somewhat restrictive
+- Slope of expected policy path will likely be negative
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source: Board staff calculations.
+
+<!-- missing-text -->
+
+Note: Slope of Blue Chip federal funds rate expectations is computed as 4 quarter - 1 quarter ahead. Gray areas are recessions; hatched blue area is the effective lower bound period.
+
+Source: Board staff calculations; Blue Chip Financial Forecasts.
+
+Implied Probabilities of Recession
+
+Source: Board staff calculations.
+
+<!-- missing-text -->
+
+Policy Implications
+
+- Treat models with caution
+- The near-term spread model suggests
+- an elevated risk associated with a modest funds rate overshoot
+- gradually raising the funds rate then gradually lowering it would reduce recession risk
+
+Authorized for Public Release
+
+Class I FOMC - Restricted Controlled (FR)
+
+MAY 2018 FOMC STATEMENT
+
+- 1. Information received since the Federal Open Market Committee met in March indicates that the labor market has continued to strengthen and that economic activity has been rising at a moderate rate.  Job gains have been strong, on average, in recent months, and the unemployment rate has stayed low.  Recent data suggest that growth of household spending moderated from its strong fourthquarter pace, while business fixed investment continued to grow strongly.  On a 12-month basis, both overall inflation and inflation for items other than food and energy have moved close to 2 percent.  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects that, with further gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace in the medium term and labor market conditions will remain strong.  Inflation on a 12-month basis is expected to run near the Committee's symmetric 2 percent objective over the medium term.  Risks to the economic outlook appear roughly balanced.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1-1/2 to 1-3/4 percent.  The stance of monetary policy remains accommodative, thereby supporting strong labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant further gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+Authorized for Public Release
+
+ALTERNATIVE A FOR JUNE 2018
+
+- 1. Information received since the Federal Open Market Committee met in March May indicates that the labor market has continued to strengthen and that economic activity has been rising at a moderate rate.  Job gains have been strong, on average, in recent months, and the unemployment rate has stayed low declined .  Recent data suggest that growth of household spending moderated from its strong fourth-quarter pace has picked up , while business fixed investment has continued to grow strongly.  On a 12-month basis, both overall inflation and inflation for items other than food and energy recently have moved close to 2 percent.  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects that, with further gradual adjustments in the stance of appropriate monetary policy accommodation , economic activity will expand at a moderate pace in the medium term and labor market conditions will remain strong.  Inflation on a 12-month basis is expected to move modestly above 2 percent for a time and then run near the Committee's symmetric 2 percent objective over the medium term.  Risks to the economic outlook appear roughly balanced.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1-1/2 to 1-3/4 percent.  The stance of monetary policy remains accommodative, thereby supporting strong labor market conditions and a sustained return to period of inflation modestly above 2 percent inflation. This inflation outcome should help ensure that longer-term inflation expectations rise to a level consistent with the Committee's symmetric objective for 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant further gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+Authorized for Public Release
+
+ALTERNATIVE B FOR JUNE 2018
+
+- 1. Information received since the Federal Open Market Committee met in March May indicates that the labor market has continued to strengthen and that economic activity has been rising at a moderate solid rate.  Job gains have been strong, on average, in recent months, and the unemployment rate has stayed low declined .  Recent data suggest that growth of household spending moderated from its strong fourth-quarter pace has picked up , while business fixed investment has continued to grow strongly.  On a 12-month basis, both overall inflation and inflation for items other than food and energy have moved close to 2 percent.  Market-based measures of inflation compensation remain low; surveybased measures Indicators of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects that, with further gradual adjustments in the stance of monetary policy, increases in the target range for the federal funds rate will be consistent with sustained expansion of economic activity  will expand at a moderate pace in the medium term and , strong labor market conditions  will remain strong. , and inflation on a 12-month basis is expected to run near the Committee's symmetric 2 percent objective over the medium term.  Risks to the economic outlook appear roughly balanced.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain raise the target range for the federal funds rate at 1-1/2 to 1-3/4 to 2 percent.  The stance of monetary policy remains accommodative, thereby supporting strong labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment objective and its symmetric 2 percent inflation objective .  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant further gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+ALTERNATIVE C FOR JUNE 2018
+
+- 1. Information received since the Federal Open Market Committee met in March May indicates that the labor market has continued to strengthen and that economic activity has been rising at a moderate solid rate.  Job gains have been strong, on average, in recent months, and the unemployment rate has stayed low declined .  Recent data suggest that growth of household spending moderated from its strong fourth-quarter pace has strengthened , while business fixed investment has continued to grow strongly.  On a 12-month basis, both overall inflation and inflation for items other than food and energy have moved remain close to 2 percent.  Market-based measures of inflation compensation remain low; survey-based measures Indicators of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects that, with further gradual adjustments in the stance of monetary policy, increases in the target range for the federal funds rate will be warranted to achieve a sustainable expansion of economic activity and employment will expand at a moderate pace in the medium term and labor market conditions will remain strong. and to maintain inflation on a 12-month basis is expected to run near the Committee's symmetric 2 percent objective over the medium term.  Risks to the economic outlook appear roughly balanced , but the Committee is closely monitoring the implications of high levels of resource utilization .
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain raise the target range for the federal funds rate at 1-1/2 to 1-3/4 to 2 percent.  The stance of monetary policy remains accommodative, thereby supporting strong labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment objective and its symmetric 2 percent inflation objective .  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant further gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+A
+
+Implementation Note for June 2018 Alternative A
+
+Release Date:  June 13, 2018
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on May 2 June 13 , 2018:
+
+-  The Board of Governors of the Federal Reserve System voted   unanimously   to [ ] maintain the interest rate paid on required and excess reserve balances at 1.75 percent, effective May 3 June 14 , 2018.
+-  As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective May 3 June 14 , 2018, the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of 1-1/2 to 1-3/4 percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 1.50 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a per-counterparty limit of $30 billion per day.
+
+The Committee directs the Desk to continue rolling over at auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month June that exceeds $18 billion, and to continue reinvesting in agency mortgagebacked securities the amount of principal payments from the Federal Reserve's holdings of agency debt and agency mortgage-backed securities received during each calendar month June that exceeds $12 billion. Effective in July, the Committee directs the Desk to roll over at auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month that exceeds $24 billion, and to reinvest in agency mortgage-backed securities the amount of principal payments from the Federal Reserve's holdings of agency debt and agency mortgage-backed securities received during each calendar month that exceeds $16 billion. Small deviations from these amounts for operational reasons are acceptable.
+
+P
+
+Class I FOMC - Restricted Controlled (FR)
+
+The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+-  In a related action, the Board of Governors of the Federal Reserve System voted [ unanimously   to approve the establishment of the primary credit rate at the ] existing level of 2.25 percent.
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.
+
+More information regarding open market operations and reinvestments may be found on the Federal Reserve Bank of New York's website.
+
+A
+
+Implementation Note for June 2018 Alternatives B and C
+
+Release Date:  June 13, 2018
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on May 2 June 13 , 2018:
+
+-  The Board of Governors of the Federal Reserve System voted   unanimously   to [ ] maintain raise the interest rate paid on required and excess reserve balances at to 1.75 1.95 percent, effective May 3 June 14 , 2018. Setting the interest rate paid on required and excess reserve balances 5 basis points below the top of the target range for the federal funds rate is intended to foster trading in the federal funds market at rates well within the FOMC's target range.
+-  As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective May 3 June 14 , 2018, the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of 1-1/2 to 1-3/4 to 2 percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 1.50 1.75 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a percounterparty limit of $30 billion per day.
+
+The Committee directs the Desk to continue rolling over at auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month June that exceeds $18 billion, and to continue reinvesting in agency mortgagebacked securities the amount of principal payments from the Federal received during each calendar month June that exceeds $12 billion.
+
+Effective in July, the Committee directs the Desk to roll over at that exceeds $24 billion, and to reinvest in agency mortgage-backed securities the amount of principal payments from the Federal Reserve's holdings of agency debt and agency mortgage-backed securities received during each calendar month that exceeds
+
+Reserve's holdings of agency debt and agency mortgage-backed securities auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month
+
+P
+
+Class I FOMC - Restricted Controlled (FR)
+
+$16 billion. Small deviations from these amounts for operational reasons are acceptable.
+
+The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+-  In a related action, the Board of Governors of the Federal Reserve System voted [ unanimously   to approve the establishment of ] a 1/4 percentage point increase in the primary credit rate at the existing level of 2.25 to 2.50 percent , effective June 14, 2018 . In taking this action, the Board approved requests to establish that rate submitted by the Boards of Directors of the Federal Reserve Banks of . . .
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.
+
+More information regarding open market operations and reinvestments may be found on the Federal Reserve Bank of New York's website.

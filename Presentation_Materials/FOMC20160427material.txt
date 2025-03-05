@@ -1,0 +1,1014 @@
+Appendix 1:  Materials used by Messrs. Fuhrer, Adrian, and Sim
+
+Class II FOMC - Restricted (FR)
+
+Material for the Briefings on
+
+The Relationship between Monetary Policy and Financial Stability
+
+Jeff Fuhrer, Tobias Adrian, and Jae Sim April 26, 2016
+
+April 26-27, 2016
+
+Authorized for Public Release
+
+199 of 261
+
+Material for Briefing on The Linkages Among Monetary Policy, Macroprudential Policy and Financial Stability
+
+Jeff  Fuhrer, Joe Haubrich and Joe Peek April 26, 2016
+
+Key features of  financial instability
+
+- 1. Rapid growth of debt
+- 2. Rapid asset price appreciation
+- · Future bouts of instability will occur, even with improved regulations
+- -Strong capital buffers and other structural tools will make the system more resilient
+- -But will not eliminate instability
+
+Exhibit 2
+
+How to mitigate financial instability 1. Macroprudential tools: Evidence on Efficacy
+
+- · If  macroprudential tools are fully effective, little need to consider using monetary policy to address financial instability
+- · But the effectiveness of  macroprudential tools is uncertain
+- · Evidence on cyclical tools used by advanced foreign economies (AFEs)
+- -Most countries choose not to use monetary policy to address financial instability
+- -Macroprudential tools may be effective in slowing borrowing. Effects on price appreciation are less clear.
+
+Experience with LTV caps
+
+<!-- missing-text -->
+
+Sources: OECD (Canada, Spain, Sweden house price indexes), Singapore Housing and Development Board (Singapore price index), Haver Analytics, Cerutti et al (2015, dating of  loan-to-value caps).
+
+- · Caps don't reliably stop or slow house price appreciation
+- · Perhaps because implementation has been too timid?
+
+How to mitigate financial instability 2. Monetary policy (MP)
+
+Exhibit 5
+
+- · Can MP slow or avoid instability and crises?
+- -Can policymakers detect unsustainable increases in debt and asset prices early enough?
+- -Can monetary policy reliably affect asset prices and debt accumulation?
+- -These are also challenges for macroprudential policy
+- · Will use of  monetary policy to address financial instability cause too much collateral damage to the economy?
+- -Svensson (2015): Cost of damage done to the economy greater than benefit in improved financial stability
+
+Interactions between monetary and macroprudential policy
+
+- · Long-run goals coincide, plus or minus
+- · Short-run goals, tools differ
+- · Some coordination is likely necessary
+- -Minimum: Take into account effects of  each other's actions in setting policies
+- -More coordination would be helpful, given the feedbacks
+
+<!-- missing-text -->
+
+Monetary and macroprudential interactions: Institutional implications
+
+- · Same committee, or different committees?
+- -Within the same institution, or different institutions?
+- · UK model
+- -Separate committees within the same institution
+- -High-level overlap in membership fosters collaboration and fairly tight coordination of  policies
+- · Whatever the structure, strong cooperation would likely be helpful
+
+Exhibit 7
+
+What to conclude?
+
+- · Uncertainty about macroprudential tools means we must consider monetary policy as a tool
+- -But we view it as a less-reliable 'third resort'
+- · We can rely most on building resilience-increasing capital buffers, conducting stress tests, as we have done
+- · Macroprudential tools would be the first cyclical resort to combating financial instability
+- -But we need to do more to build our confidence in macroprudential tools
+
+A 'to-do' list to improve confidence in macroprudential tools
+
+- · Expand the available set of  macroprudential tools.
+- · Shorten implementation lags where possible.
+- · Add to extant research on the effectiveness of  tools and new transmission channels.
+- · Consider better coordination of  monetary and macroprudential policies.
+- · Assess the potential for regulatory arbitrage, and developing strategies to mitigate it.
+- · Establish independence of macroprudential regulators.
+
+Financial Vulnerability and Monetary Policy: The Empirical Evidence
+
+8
+
+FEDERAL RESERVE BANK of NEW YORK
+
+Tobias Adrian, Nina Boyarchenko, Richard Crump, Matthew Plosser
+
+April 26, 2016
+
+Exhibit 1: Two Views
+
+1) Monetary policy and financial stability are separate
+
+- o Transmission of monetary policy is via interest rates
+- o Policy expectations summarize all market information
+- o Risk premia are constant or exogenous
+
+2) Monetary policy and financial stability interact
+
+- o Monetary policy impacts risk taking of financial intermediaries
+- o Risk taking determines financial conditions and vulnerabilities
+- o Financial vulnerabilities matter for macroeconomic outcomes
+
+¾ The second view is the risk-taking channel of monetary policy
+
+- o We review existing and new evidence
+
+<!-- missing-text -->
+
+Exhibit 2: Credit Channel of Monetary Policy
+
+- o A lower short-term policy interest rate spurs lending and spending in pursuit of price stability and full employment
+- o The credit channel features an amplification mechanism beyond the interest rate channel, but does not incorporate risk taking of financial institutions
+- o Jordà, Schularick, and Taylor (2013, 2015) find sizable effects of lower short-term interest rates on mortgage credit and house prices
+- o Moreover, credit growth can threaten financial stability:
+- o A one standard deviation higher credit growth associated with three percent lower GDP in crises
+- o However, increasing interest rates preemptively to slow credit or house price growth involves tradeoffs
+
+<!-- missing-text -->
+
+Exhibit 3: The Risk-Taking Channel of Monetary Policy
+
+1) Monetary policy influences risk taking of financial institutions
+
+- o Risk taking determines leverage and maturity transformation, which are vulnerabilities for the system
+
+2) Risk premia are endogenous and time varying
+
+- o Pricing of risk determines financial conditions
+
+3) Endogenous risk taking increases downside risk to real activity
+
+- o Financial vulnerabilities create risks to the dual mandate
+
+<!-- missing-text -->
+
+Exhibit 4: Existing Evidence on the Risk-Taking Channel
+
+A number of studies have examined different dimensions of risk taking in the banking sector, finding that:
+
+- o U.S. banks ease lending standards and charge smaller premiums to riskier borrowers during periods of easy monetary policy
+- o Paligorova and Santos (2012), Maddaloni and Peydró (2011)
+- o U.S. banks' ex-ante risk taking is negatively associated with increases in short-term policy interest rates
+- o Dell'Ariccia, Laeven and Suarez (2016)
+- o Nonbank financial intermediation tends to expand when monetary policy is expansionary
+- o Adrian, Moench and Shin (2010)
+
+<!-- missing-text -->
+
+Exhibit 5:
+
+Variability and FOMC Announcements 1994-2007
+
+Absolute two-day change
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Exhibit 6: Measuring Financial Vulnerability
+
+- o We use Adrian and Brunnermeier's CoVaR to measure vulnerability
+- o CoVaR is defined as the Value-at-Risk of the entire financial system conditional on the distress of a particular financial institution
+- o CoVaR as a summary measure correlates strongly with leverage, maturity transformation, and other measures of vulnerability
+- o Financial vulnerabilities can create systemic risk - the risk that the intermediation capacity of the financial system becomes impaired
+
+<!-- missing-text -->
+
+Exhibit 7: Vulnerability and FOMC Announcements
+
+We estimate the sensitivity of bank equity returns on FOMC announcement days to the expected path of interest rates, measures of risk premia, and CoVaR
+
+- o A 25 basis point increase in the expected path of interest rates on an announcement day lowers bank equity returns by 36 to 50 basis points
+- o A 15 percent increase in the risk premium on an announcement day lowers bank equity returns by 8 to 13 basis points
+- o Comparing the most and least vulnerable banks, the decline in bank returns is 20 to 24 percent larger for either of these increases
+- o Our results thus show that there are significant interactions between the monetary policy announcements, the evolution of risk and risk premia, and the performance of relatively vulnerable institutions
+
+<!-- missing-text -->
+
+Exhibit 8: Conclusion
+
+- o The empirical evidence is consistent with the risk-taking channel of monetary policy transmission:
+- o Easier policy can increase risk taking, compress risk premia, and thus could create vulnerabilities
+- o These findings suggest further work to quantify the effect of risk taking on downside risk to the dual mandate
+
+<!-- missing-text -->
+
+Monetary Policy and Financial Stability: Lessons from DSGE Models
+
+Bora Durdu (FRB), Matthias Paustian (FRB), Jae Sim (FRB)
+
+<!-- missing-text -->
+
+Exhibit 1
+
+Key question
+
+- · Should monetary policy react to financial imbalances? Lessons from DSGE models.
+
+<!-- missing-text -->
+
+Exhibit 2
+
+Motivations for using monetary policy
+
+- · Frictions in credit markets may contribute to excessive volatility in employment or inflation
+- -Appropriate for monetary policy to lean against excessive credit fluctuations even for traditional dual mandate (Woodford (2012), Borio and Zhu (2012))
+- · Often rationalized with 'risk-taking channel' of monetary policy
+- -Low interest rate leads to high leverage
+- -High leverage incentivizes high-risk projects
+- -A blunt tool, but 'gets in all the cracks'
+- -Augment Taylor rule with credit variable
+
+<!-- missing-text -->
+
+Exhibit 3
+
+Monetary vs. macroprudential policies in DSGE models
+
+- · Monetary policy is an indirect tool to address the underlying microeconomic distortions
+- -Some macroprudential policies may be more direct
+- · Coordination of monetary and macroprudential policies may improve economic outcomes
+
+<!-- missing-text -->
+
+Exhibit 4
+
+Measurement of Financial Imbalances:
+
+Nonfinancial Sector Credit-to-GDP Gap
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Exhibit 5
+
+Kiley and Sim (2015)
+
+- · A model in which financial intermediaries choose the leverage ratio to maximize their own profits
+- -But fail to take into account social costs of their choices
+- · Estimated with features suited for monetary policy analysis
+- · Allows for a quantitative evaluation of the potential for monetary policy to lean against the credit cycle
+
+<!-- missing-text -->
+
+Exhibit 6
+
+Inefficient Credit Cycle
+
+- · Leaning against the wind improves outcomes
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Exhibit 7
+
+Overall Assessment of the role for leaning against the credit cycle
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Exhibit 8
+
+Policy Coordination
+
+- · De Paoli and Paustian (2016): a setting where separate institutions conduct monetary and macroprudential policy
+- · Coordination problems tend to be smaller
+- -If both authorities given effective tools
+- -If commitment technologies available
+- -If prudential policy less frequently adjusted
+- · Literature still developing, no consensus results
+
+<!-- missing-text -->
+
+If you would like to comment, it would be helpful if you would address some or all of the following questions:
+
+- 1. Among economists there is a growing agreement that macroprudential policy measures are the primary instruments through which policymakers should promote financial stability and address any such concerns. In light of this emerging consensus,
+- a. Do you view the set of macroprudential tools available to policymakers in the United States as sufficient to ensure financial stability most of the time?
+- b. Would you draw any distinctions between  the sufficiency and efficacy of  tools available for addressing 'through-the-cycle' risks and tools available for addressing risks that are more cyclical (or time-varying)?
+- c. Does the dispersion of responsibilities for regulation of the different sectors of the U.S. financial system, or other challenges associated with coordination of macroprudential actions, factor significantly in your assessment of the sufficiency and efficacy of macroprudential tools?
+- 2. Given your assessment of the sufficiency and efficacy of macroprudential tools,
+- a. Would you support using the stance of monetary policy to pursue financial-stability goals, even if such efforts would imply deviations from the FOMC's dual mandate for some time?
+- b. If so, what conditions do you view as most likely to call for such monetary policy adjustments, and do you view such conditions as likely over the next several years?
+
+Class II FOMC - Restricted (FR)
+
+Material for the Briefing on
+
+Financial Developments and Open Market Operations
+
+Simon Potter and Lorie Logan April 26, 2016
+
+Class II FOMC -Restricted (FR)
+
+(1) Changes in Financial Conditions
+
+<!-- missing-text -->
+
+Source: Barclays, Bloomberg, Federal Reserve Board of Governors
+
+(3) Change  to Next-Year Ahead Median SEP Dot and U.S. Two Year Yield*
+
+<!-- missing-text -->
+
+*Daily changes on SEP release since 2012.
+
+Source: Bloomberg, Federal Reserve  Board of  Governors
+
+(5) Implied Federal Funds Rate Path*
+
+<!-- missing-text -->
+
+*Market-implied paths derived from federal funds and Eurodollar futures, survey paths are the average response from the April Survey of Primary Dealers and Market Participants.
+
+Source: Bloomberg, Desk Calculations, Federal Reserve Board of Governors
+
+<!-- missing-text -->
+
+(4) Market-Implied Probability of Rate Hike*
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Class II FOMC -Restricted (FR)
+
+Exhibit 2
+
+<!-- missing-text -->
+
+(9) Six-Month Onshore RMB Risk Reversals and ATM Volatility*
+
+PPTS
+
+12
+
+10
+
+<!-- missing-text -->
+
+*Risk reversal is defined as the implied volatility for 25 delta call options less the implied volatility for 25 delta put options on the USD-CNY. Source: Bloomberg
+
+(11) Asset Price Changes
+
+<!-- missing-text -->
+
+*Changes for Euro Area asset prices taken from day before the 3/10/16 ECB meeting and  for Japanese asset prices taken from day before the 01/29/16 BoJ meeting.
+
+Source: Bloomberg, Markit iTraxx
+
+<!-- missing-text -->
+
+*Monthly values aggregated from weekly data. April '16 scaled for day count. **EM currency pairs against the dollar weighted according to the Broad TradeWeighted Dollar Index.
+
+Source: Desk Calculations, Emerging Portfolio Fund Research, Federal Reserve Board of Governors
+
+<!-- missing-text -->
+
+*Risk reversal is defined as the implied volatility for 25 delta call options less the implied volatility for 25 delta put options on the GBP-USD. Source: Bloomberg
+
+Class II FOMC -Restricted (FR)
+
+<!-- missing-text -->
+
+11/01/15
+
+12/01/15
+
+01/01/16
+
+02/01/16 03/01/16
+
+04/01/16
+
+- *Light dashed vertical lines indicate month-ends; dark dashed lines indicate quarter-ends.
+
+**Excludes intra-bank transactions.
+
+Source: Federal Reserve Bank of New York
+
+(15) Money Market Investment Alternatives
+
+<!-- missing-text -->
+
+*Includes total triparty repo activity ex. Fed RRP and excludes intrabank trades.
+
+Source: Desk Calculations, Federal Reserve Bank of New York, Treasury
+
+(17) Central Bank Liquidity Swaps Outstanding
+
+<!-- missing-text -->
+
+Exhibit 3
+
+(14) Overnight RRPs Outstanding
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*RCPs refer to Fed RRP counterparties. Categories aggregate information from public MMF complex announcements.
+
+Source: AUM data from SEC Form N-MFP as of 3/31/16
+
+<!-- missing-text -->
+
+Class II FOMC -Restricted (FR)
+
+(19) Quarterly Realized and Projected Foreign Portfolio Income*
+
+<!-- missing-text -->
+
+03/01/10
+
+09/01/11
+
+03/01/13
+
+09/01/14
+
+03/01/16
+
+- *Unfilled dots are projections; filled dots are realized.
+
+Source: Federal Reserve Bank of New York
+
+(21) New Investment Framework Components
+
+- (1) Establish the policy purpose for foreign reserves portfolio: tool to counter disorderly FX markets and influence value of the dollar
+- (2) Establish the investment objectives for foreign reserves portfolio: liquidity, safety, return
+- (3) Determine funding needs: estimate $8 billion across both SOMA and ESF
+- (4) Establish constraints based on policymakers' willingness to bear risk: establish minimum cash allocation; set eligible issuers, diversification, and liquidity constraints; establish maximum expected shortfall
+- (5) Formulate an asset allocation given these funding needs and investment risk preferences: benchmark allocation that reflects policymakers' risk tolerances
+
+Exhibit 4
+
+(20) Review of Foreign Reserves Portfolio
+
+- · The review addressed policy purpose, investment approach, and internal processes
+- o Based on feedback from Foreign Currency Subcommittee and U.S. Treasury officials
+- o Size and currency composition taken as given
+- · In current framework, funds are laddered across maturity spectrum for eligible assets
+- · Staff proposes a new framework that:
+- o Assesses policymakers' investment preferences
+- o Uses robust risk-return methodology
+
+(22) Foreign Portfolio Proposal
+
+<!-- missing-text -->
+
+*Target portfolio allocation after three months in the new framework. Euro benchmark allocation is based on interest rates as of March 11, 2016. Actual allocation may differ. Yen portfolio allocation assumes the transfer of incoming cash flows to the BoJ deposit account.
+
+**ST Instruments are securities with 5 years or less in maturity and time deposits; LT Instruments are securities with maturities between 5 and 10 years. ***Amount intervention capacity would be reduced if the portfolio realizes a return in the bottom 1 st percentile.
+
+Source: Federal Reserve Bank of New York
+
+Class II FOMC -Restricted (FR)
+
+Appendix: Summary of Operational Testing
+
+Summary of Operational Tests in prior period:
+
+- · Foreign Authorization
+- o April 12: Completed euro-denominated overnight repo for € 1 million
+- o April 19: Partially completed liquidity swap with the European Central Bank for € 51 thousand
+- o April 21: Completed liquidity swap with the Swiss National Bank for CHF51 thousand
+
+Upcoming Operational Tests
+
+- · Three tests scheduled under the Domestic Authorization
+- o May 24: Outright Treasury sale for approximately $200-250 million
+- o May 25: Overnight repo for approximately $500-700 million
+- o May 25: Outright MBS Sale (specified pool) for no more than $100 million
+- o June 1: Outright MBS Sale (basket) for no more than $30 million
+- · One test scheduled under the Foreign Authorization
+- o June 7:  Liquidity swap with the Bank of Canada for approximately CAD51 thousand
+
+Appendix (Last)
+
+April 26-27, 2016
+
+Authorized for Public Release
+
+235 of 261
+
+Appendix 3:  Materials used by Mr. Wascher
+
+Class II FOMC - Restricted (FR)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+20
+
+16
+
+12
+
+8
+
+4
+
+0
+
+Forecast Summary
+
+1. Evolution of 2016:Q1 GDP Growth Nowcasts
+
+2. Evolution of 2016:Q2 GDP Growth Forecasts
+
+<!-- missing-text -->
+
+3. Real GDP
+
+<!-- missing-text -->
+
+5. Unemployment Rates by Group
+
+<!-- missing-text -->
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+<!-- missing-text -->
+
+4. Unemployment Rate
+
+<!-- missing-text -->
+
+6. Part-Time for Economic Reasons by Group
+
+<!-- missing-text -->
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+7. PCE Prices
+
+<!-- missing-text -->
+
+9. Inflation Revisions Since December: Total PCE
+
+<!-- missing-text -->
+
+11. Longer-Term Inflation Expectations
+
+<!-- missing-text -->
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+8. PCE Prices Excluding Food and Energy
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Key Economic Indicators for the April, June, and July FOMC Meetings
+
+(Percent change at annual rate, except as noted)
+
+<!-- missing-text -->
+
+Key : Estimate first available at:
+
+April meeting
+
+June meeting
+
+July meeting
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: The June CPI will be released prior to the July FOMC meeting.
+
+April 26-27, 2016
+
+Authorized for Public Release
+
+240 of 261
+
+Appendix 4:  Materials used by Mr. Kamin
+
+A
+
+p
+
+A
+
+Class II FOMC - Restricted (FR)
+
+Material for The International Outlook
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 1
+
+The International Outlook
+
+<!-- missing-text -->
+
+3. Foreign GDP
+
+<!-- missing-text -->
+
+5. Foreign Recession Probability Model
+
+Monthly probit model, including:
+
+- - Index of foreign macro indicators: IP, retail sales, new export orders, and GDP*
+- - Index of financial stress: excess bond premium**
+
+Recession abroad defined as countries comprising 55 percent of foreign GDP in recession.
+
+- * Aruoba, Diebold, Scotti Index (JBES, 2009).
+- ** Gilchrist and Zakrajsek Index (AER, 2012).
+
+2. Checklist for Abatement of Global Headwinds
+
+<!-- missing-text -->
+
+4. Brent Oil Price Outlook
+
+<!-- missing-text -->
+
+6. Probability of Foreign Recession
+
+<!-- missing-text -->
+
+Note: Shading indicates that countries representing 55% of foreign GDP are classified as in recession. Source: Staff calculations.
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 2
+
+The International Outlook (2)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source: CFETS, FRB, and staff calculations.
+
+8. Real Dollar Indexes
+
+<!-- missing-text -->
+
+Appendix 5:  Materials used by Ms. Liang
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on
+
+Financial Stability Developments
+
+Nellie Liang April 26, 2016
+
+pril 26-27, 2016
+
+uthorized for Public Release
+
+245 of 261
+
+A
+
+A
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 1 Asset Valuations and Nonfinancial Credit Authorized for Public Release
+
+Forward Price-to-Earnings Ratio of S&amp;P 500 Firms
+
+High-Yield Bond Spreads
+
+<!-- missing-text -->
+
+Note: Aggregate forward price-to-earnings ratio of S&amp;P 500 firms. Based on expected earnings for twelve months ahead. + denotes the latest daily observation.
+
+Source: Thompson Reuters Financial.
+
+Commercial Real Estate Capitalization Rates by Property Type
+
+<!-- missing-text -->
+
+Private Nonfinancial Business Sector Credit-to-GDP ratio
+
+<!-- missing-text -->
+
+Note: Calculated using an HP filter with lambda=400,000. Source: FOF, NIPA, and staff calculations.
+
+<!-- missing-text -->
+
+Note: Credit spreads are estimated from curve fit to Merrill Lynch bond yields. Far-term forward spreads are computed between years nine and ten.
+
+- + denotes latest daily observation.
+- Source: Staff estimates.
+
+Aggregate Risk Appetite and Components
+
+<!-- missing-text -->
+
+Percentage point difference from trend Private Nonfinancial Sector Credit-to-GDP Ratio Gaps
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 2 Financial Sector Vulnerabilities Authorized for Public Release
+
+<!-- missing-text -->
+
+Price-to-Book Ratios for LISCC Firms
+
+<!-- missing-text -->
+
+Recent Steps
+
+<!-- missing-text -->
+
+- · ABS - Risk-retention and enhanced disclosure and reporting
+- · MF leverage - Data and disclosure, risk management, limits
+- · MF liquidity and redemption Strengthen risk management, clarify less-liquid asset limits, reduce first-mover
+
+<!-- missing-text -->
+
+Note: Only trades of bonds that have been issued for 60 days or more at the time of trading are included. Excluding 144a bonds. Source: FINRA, Mergent, Moody's DRD.
+
+Bid-Ask Spread for High-Yield Bonds
+
+<!-- missing-text -->
+
+Note: All measures are computed for non-defaulted bonds on the secondary market that have traded at least 10 times between 10:30am and 3:30pm. Excluding 144a bonds. Bid-ask spread is the difference between weighted average dealer bid prices and ask prices scaled by the mid price. Source: FINRA, Mergent, Moody's DRD.
+
+April 26-27, 2016
+
+Authorized for Public Release
+
+248 of 261
+
+Appendix 6:  Materials used by Mr. Laubach
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for the Briefing on
+
+Monetary Policy Alternatives
+
+<!-- missing-text -->
+
+Exhibit 1:  Monetary Policy Alternatives
+
+<!-- missing-text -->
+
+Note: Bars represent change in bonds yields over the intermeeting period. Source: Bloomberg.
+
+Note: Spreads over 10-year Treasury yield; daily. Source: Staff estimates of smoothed corporate yield curves based on Merrill Lynch data and smoothed Treasury yield curve.
+
+Near-term Uncertainties
+
+Medium-term Uncertainties
+
+- Will spending indicators pick up?
+- Will labor market continue to improve?
+- Will financial conditions deteriorate again, possibly because of Brexit concerns?
+
+Policy Responses to Alternative Outcomes
+
+<!-- missing-text -->
+
+Note: Shaded region represents the current baseline assumptions. Source: FRBNY Primary Dealer and Market Participants surveys.
+
+- How persistent will the productivity growth slowdown be?
+- Will inflation pick up, and against which backdrop?
+- How much policy space remains for central banks in advanced economies?
+
+Neutral Real Federal Funds Rate Projections
+
+<!-- missing-text -->
+
+Note: The January surveys did not ask for end-2016 real fed funds rate projections. Data symbols show medians. The whisker bars show the range from the 75th percentile to the 25th percentile. Source: FRBNY Primary Dealer and Market Participants surveys.
+
+MARCH 2016 FOMC STATEMENT
+
+- 1. Information received since the Federal Open Market Committee met in January suggests that economic activity has been expanding at a moderate pace despite the global economic and financial developments of recent months.  Household spending has been increasing at a moderate rate, and the housing sector has improved further; however, business fixed investment and net exports have been soft.  A range of recent indicators, including strong job gains, points to additional strengthening of the labor market.  Inflation picked up in recent months; however, it continued to run below the Committee's 2 percent longer-run objective, partly reflecting declines in energy prices and in prices of non-energy imports.  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee currently expects that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace and labor market indicators will continue to strengthen.  However, global economic and financial developments continue to pose risks.  Inflation is expected to remain low in the near term, in part because of earlier declines in energy prices, but to rise to 2 percent over the medium term as the transitory effects of declines in energy and import prices dissipate and the labor market strengthens further.  The Committee continues to monitor inflation developments closely.
+- 3. Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at ¼ to ½ percent.  The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+- 5. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at
+
+auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way.  This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+
+APRIL 2016 ALTERNATIVE A
+
+- 1. Information received since the Federal Open Market Committee met in January March suggests indicates that labor market conditions have improved further even as growth in economic activity has been expanding at a moderate pace despite the global economic and financial developments of recent months slowed . Growth in household spending has been increasing at a moderate rate, and declined. Since the beginning of the year, the housing sector has improved further; however, but business fixed investment and net exports have been soft.  A range of recent indicators, including strong job gains, points to additional strengthening of the labor market.  Inflation picked up in recent months; however, it has continued to run below the Committee's 2 percent longer-run objective, only partly reflecting earlier declines in energy prices and in falling prices of non-energy imports.  Market-based measures of inflation compensation remain low; survey-based measures of longerterm inflation expectations are little changed, on balance, in recent months.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee currently expects that, with gradual adjustments in the stance of appropriately accommodative monetary policy, growth in economic activity will expand at pick up to a moderate pace and labor market indicators will continue to strengthen.  However, global economic and financial developments continue to pose risks.  Inflation is expected to remain low in the near term, in part because of earlier declines in energy prices, but to rise to 2 percent over the medium term as the transitory effects of declines in energy and import prices dissipate and the labor market strengthens further.  The Committee continues to sees downside risks to the economic outlook and is closely monitor ing inflation , developments indicators of longer-term inflation expectations, and global economic and financial developments closely.
+- 3. Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at ¼ to ½ percent.  The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation. The Committee judges that an increase in the target range will not be warranted until inflation moves closer to 2 percent on a sustained basis and the risks to the economic outlook are more closely balanced.
+- 4. In determining the When adjustments to the target range become appropriate, their timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess will depend on the Committee's assessment of realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.  The Committee expects that economic conditions will evolve in a
+
+manner that will , for some time, warrant only gradual increases in maintaining the federal funds rate; the federal funds rate is likely to remain, for some time, below at levels below those that are expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+- 5. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way.  This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+
+APRIL 2016 ALTERNATIVE B
+
+- 1. Information received since the Federal Open Market Committee met in January March suggests indicates that labor market conditions have improved further even as growth in economic activity has been expanding at a moderate pace despite the global economic and financial developments of recent months appears to have slowed . Growth in household spending has been increasing at a moderate rate moderated , and although households' real income has risen at a solid rate and consumer sentiment remains high. Since the beginning of the year, the housing sector has improved further; however, but business fixed investment and net exports have been soft.  A range of recent indicators, including strong job gains, points to additional strengthening of the labor market.  Inflation picked up in recent months; however, it has continued to run below the Committee's 2 percent longer-run objective, partly reflecting earlier declines in energy prices and in falling prices of non-energy imports.  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee currently expects that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace and labor market indicators will continue to strengthen.  However, global economic and financial developments continue to pose risks.  Inflation is expected to remain low in the near term, in part because of earlier declines in energy prices, but to rise to 2 percent over the medium term as the transitory effects of declines in energy and import prices dissipate and the labor market strengthens further.  The Committee continues to closely monitor inflation indicators and global economic and financial developments closely.
+- 3. Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at ¼ to ½ percent.  The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.  However, the actual path
+
+of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+- 5. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way.  This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+
+APRIL 2016 ALTERNATIVE C
+
+- 1. Information received since the Federal Open Market Committee met in January March suggests indicates that labor market conditions have improved further even as growth in economic activity has been expanding at a moderate pace despite the global economic and financial developments of recent months appears to have slowed .  Household spending has been increasing at a moderate rate, and the housing sector has improved further; however, business fixed investment and net exports have been soft.  A range of recent indicators, including strong job gains, points to additional strengthening of the labor market.  Inflation picked up in recent months has stepped up since last year ; however, though it has continued to run below the Committee's 2 percent longer-run objective, partly reflecting largely because of earlier declines in energy prices and in falling prices of non-energy imports.  Marketbased measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee currently expects that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace and labor market indicators will continue to strengthen.  However, global economic and financial developments continue to pose risks. The Committee sees the risks to the outlook for both economic activity and the labor market as nearly balanced but is monitoring global economic and financial developments. Inflation is expected to remain low in the near term, in part because of earlier declines in energy prices, but to rise to 2 percent over the medium term as the transitory effects of declines in energy and import prices dissipate and the labor market strengthens further.  The Committee continues to monitor inflation developments closely.
+- 3. Against this backdrop, the Committee decided to maintain increase the target range for the federal funds rate at ¼ to ½ to ¾ percent.  The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.  However, the actual path
+
+of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+- 5. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way.  This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+
+Implementation Note for April 2016 Alternative A and Alternative B
+
+Release Date: March 16
+
+April 27
+
+, 2016
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on March 16 April 27 , 2016:
+
+- · The Board of Governors of the Federal Reserve System left unchanged the interest rate paid on required and excess reserve balances at 0.50 percent.
+- · As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective March 17 April 28 , 2016, the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of ¼ to ½ percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 0.25 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a per-counterparty limit of $30 billion per day.
+
+The Committee directs the Desk to continue rolling over maturing Treasury securities at auction and to continue reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+More information regarding open market operations may be found on the Federal Reserve Bank of New York's website.
+
+- · The Board of Governors of the Federal Reserve System took no action to change the discount rate (the primary credit rate), which remains at 1.00 percent.
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.
+
+Implementation Note for April 2016 Alternative C
+
+Release Date:  March 16
+
+April 27 , 2016
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on March 16 April 27 , 2016:
+
+- · The Board of Governors of the Federal Reserve System left unchanged the interest rate paid on required and excess reserve balances at 0.50 percent voted [ unanimously ] to raise the interest rate paid on required and excess reserve balances to 0.75 percent, effective April 28, 2016 .
+- · As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective March 17 April 28 , 2016, the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of ¼ to ½ to ¾ percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 0.25 0.50 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a per-counterparty limit of $30 billion per day.
+
+The Committee directs the Desk to continue rolling over maturing Treasury securities at auction and to continue reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+More information regarding open market operations may be found on the Federal Reserve Bank of New York's website.
+
+- · In a related action, the Board of Governors of the Federal Reserve System took no action to change the discount rate (the primary credit rate), which remains at 1.00 voted [ unanimously ] to approve a ¼ percentage point increase in the discount rate (the primary credit rate) to 1.25 percent , effective April 28, 2016 . In taking this action, the Board approved requests submitted by the Boards of Directors of the Federal Reserve Banks of … .
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.

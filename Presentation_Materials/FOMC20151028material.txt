@@ -1,0 +1,1180 @@
+O
+
+c
+
+tober 27-8, 2015
+
+Appendix 1:  Materials used by Messrs. Gust, Yi, Tambalotti, and López-Salido
+
+2
+
+3
+
+4
+
+October 27-28, 2015
+
+II FOMC - Restricted (FR) Class
+
+Briefing on Material for
+
+Equilibrium Real Interest Rates
+
+Yi, Andrea Tambalotti, David López-Salido Christopher Gust, Kei-Mu and
+
+October 27, 2015
+
+Class II FOMC - Restricted (FR)
+
+October 27-28, 2015
+
+Exhibit 1 Alternative Definitions of r *
+
+Neutral Real Rate: The short-term real interest rate corresponding to a stance of monetary policy that is neither expansionary nor contractionary.
+
+Natural (Wicksellian) Real Rate: The short-term real interest rate that would prevail if there were no nominal rigidities (for example, price and wage stickiness), and hence is consistent with no deviation of output from its natural level.
+
+Efficient Real Rate: The short-term real interest rate that would prevail if there were no nominal rigidities and also no real distortions (for example, imperfect competition and distortionary taxes) that might cause output to deviate from its efficient level.
+
+Optimal Real Rate: The short-term real interest rate that would be prescribed by optimal monetary policy (defined as the interest rate plan that maximizes a welfare criterion).
+
+Long-Run Real Rate: The average short-term real interest rate measured over a long period of time.
+
+Steady-State Real Rate: The short-term real interest rate that would prevail in the long-run once all structural shocks die down.
+
+FRB/US  *: r The short-term real interest rate which, if maintained for twelve quarters, would close the output gap in the FRB/US model in exactly twelve quarters.
+
+October 27-28, 2015
+
+FOMC - Restricted (FR) Authorized for Public Release
+
+Class II
+
+2 Exhibit Definitions, Motivation, and Outline
+
+Average short-term real interest rate measured over a long period of time. Long-run real interest rate:
+
+real interest rate: Short-term real interest rate that would prevail in long-run once all structural Steady-state shocks die down.
+
+'Longer-run' refers to both of these interest rates.
+
+real interest rates? Why should policymakers care about longer-run
+
+- policy requires estimates of future path of short-run r*.  Longer-run real rates and medium-run shocks die down - these rates  Optimal monetary characterize future path of short-run r* once shortserve as (time-varying) reference points.
+- policy rule typically set equal to longer-run real federal funds rate.  Intercept term of Taylor-type
+- real interest rates can suggest when it is appropriate to change long-run embedded in estimates of short-run r*.  Estimates of longer-run assumptions
+- interest rates can shed light on probability of hitting ELB.  Estimates of longer-run real
+
+Outline:
+
+- 1. Present data on long-run real interest rates covering up to 20 countries and 60 years.
+- determinants of long-run real interest rates, including the marginal 2. Examine evolution of key product of capital and risk premium on capital.
+- future determinants of marginal product of capital and long-run real interest 3. Present projections for rates.
+- 4. Draw takeaways and policy implications.
+
+October 27-28, 2015
+
+3 Exhibit
+
+Real Interest Rates Long-Run
+
+- average of policy  Long-run real interest rate measured as 11-year centered moving interest rate less expected inflation rate (current inflation rate).
+- countries have exhibited multiple trends over  Long-run real interest rates across 20 large past half-century.
+- and increased synchronization of interest rates over o Most recent trend is decline past quarter-century.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+October 27-28, 2015
+
+4 Exhibit
+
+Global Saving and Investment: Theory
+
+<!-- missing-text -->
+
+sired saving and investment De
+
+5 (e.g., global savings glut) or to decreased desired Exhibit Forces leading to increased desired saving investment (e.g., declining returns to capital) can explain decline in long-run real interest rates.
+
+5
+
+Exhibit
+
+Global Saving and Investment: Evidence
+
+<!-- missing-text -->
+
+-  Decline in global fixed investment-GDP ratio suggests importance of investment forces.
+
+October 27-28, 2015
+
+FOMC - Restricted (FR) Authorized for Public Release
+
+Class II
+
+5 Exhibit
+
+Rates: Theory Determinants of Real Interest
+
+- between risk-free asset and risky capital implies:  Optimal choice
+
+<!-- formula-not-decoded -->
+
+= risk-free real interest rate; = expected marginal product of capital = risk premium on capital; = depreciation rate of capital 𝑟 𝐸[𝑀𝑃𝐾] 𝑅𝑃 𝛿
+
+- 𝛼𝑌 o We measure MPK as: 𝑀𝑃𝐾 = 𝐾
+
+α = capital share of income; 𝑌 = GDP; 𝐾 = capital stock
+
+- measure risk premium as residual from (1) o We
+
+6 Exhibit
+
+Rates: Evidence Two Determinants of Real Interest
+
+<!-- missing-text -->
+
+.
+
+<!-- missing-text -->
+
+- relatively flat over past quarter-century  Long-run MPK declined in 1960s-1980s, but
+-  Long-run risk premium increased over past quarter-century
+-  No simple story to explain trends in long-run real interest rates
+- can potentially explain increase in risk o Increased demand for 'safe assets' premium and decline in real interest rates in past quarter-century
+
+October 27-28, 2015
+
+7 Exhibit
+
+affecting Future MPK and Long-Run Real Interest Rates Forces
+
+- Fernald (2014) projections of future TFP growth in United States:  Update of 1.13 percent
+- percentage points lower than during great moderation o 0.3
+- o Lower TFP growth translates at least one-for-one into lower long-run real interest rates.
+
+<!-- missing-text -->
+
+Implications Takeaways and Policy
+
+- and are currently estimates of U.S. steady-state r* suggest around a lower anchor for some time  Long-run real interest rates have declined over past quarter-century low in all major economies.  This data and that short-run real interest rates will fluctuate going forward.
+- a role. o No simple story to explain behavior of long-run real interest rates, although risk premium and MPK play
+-  Projections for slower U.S. TFP and global working-age population growth suggest further reductions in long-run or steady-state real interest rate.
+- data, estimates, and projections are consistent with hypothesis that United  These States and other economies are more likely to hit ELB in foreseeable future compared to prior to crisis.
+
+October 27-28, 2015
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 8
+
+Short-run r* in empirical DSGE models
+
+1. The natural rate of interest (NRI)
+
+- Defined within the New Keynesian modelling framework as
+
+The real interest rate that would prevail in the absence of nominal rigidities
+
+- Optimal in very simple models, where it delivers price stability and full employment
+- Not optimal in more realistic DSGE models, but still useful reference for monetary policy
+- - Within these models, targeting the NRI generally promotes stable inflation and economic activity
+
+2. Strengths of DSGE approach
+
+3. Estimates from 5 models
+
+DSGE models provide a coherent framework to:
+
+- 1.  Estimate the NRI, which is unobservable
+- 2.  Trace movements of the NRI back to the underlying sources of business cycle fluctuations
+- 3.  Study alternative policies through the use of counterfactual simulations
+- Main drawback: tight link to model features
+- As a partial antidote to model dependence, present estimates from a diverse set of models
+- - EDO, FR, GIH: Board of Governors
+- - FRBNY-DSGE
+- - DALLAS: empirical model of r*
+- Diversity of theoretical and empirical approaches takes into account model uncertainty
+
+4. Estimates of the real NRI
+
+<!-- missing-text -->
+
+October 27-28, 2015
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 9
+
+Sources of fluctuations in the NRI
+
+1. NRI and business cycles
+
+- DSGE models trace fluctuations in the NRI back to fundamental shocks
+- Diverse shocks across models grouped by economic decisions that they affect
+- - Financial / saving
+- - Financial / investment
+- - Productivity
+- Adverse shocks depress the NRI
+
+2. Fluctuations of the NRI in the United States...
+
+2.1. EDO
+
+2.2. FRBNY-DSGE
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+3. ... and in the major AFEs (using FR model)
+
+3.1. United States vs. AFEs
+
+<!-- missing-text -->
+
+3.2. Fluctuations in the AFE aggregate NRI
+
+<!-- missing-text -->
+
+October 27-28, 2015
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 10
+
+The NRI as a reference for the FFR
+
+1. NRI targeting
+
+2. Percent change in volatility under NRI targeting
+
+- Counterfactual policy simulation: the central bank sets the real policy rate equal to the NRI in every period.
+- What happens to inflation and the output gap?
+- NRI targeting tends to reduce the volatility of both inflation and the output gap.
+- * Percent change in the standard deviations of inflation and the output gap when replacing the estimated policy rule with the NRI targeting rule
+
+<!-- missing-text -->
+
+3. The nominal natural rate of interest and the FFR
+
+<!-- missing-text -->
+
+Note: Estimates from EDO, FRBNY, FR, and GIH.
+
+4. Conclusions
+
+- A diverse set of empirical macroeconomic models provides a consistent account of the evolution of the NRI over the business cycle
+- Financial headwinds pushed the NRI to historical lows during the Great Recession and have kept it depressed since
+- The nominal natural rate is currently back into positive territory and it is projected to continue a gradual normalization
+
+Class II FOMC Restricted (FR)
+
+October227-28,22015
+
+Exhibit 11
+
+Optimal Discretionary Policy with Imperfect Information about r *
+
+Key Elements of the Modeling Approach
+
+- · A New Keynesian macroeconomic model.
+- • An IS equation that relates output to the real interest rate.
+- • A Phillips curve that relates inflation to the output gap.
+- · Monetary policy stance can be defined in terms of deviations of the actual real rate from the natural real rate (  *). r
+- • Policymakers choose optimal policy under discretion, that is on a period-by-period basis.
+- · The effective lower bound (ELB) introduces non-linearities.
+- · Central bank only observes an imperfect estimate of   *. r
+
+Optimal Reaction Function under Alternative Information Sets
+
+Normal Times
+
+<!-- missing-text -->
+
+Near the Cusp of the ELB
+
+<!-- missing-text -->
+
+Class II FOMC Restricted (FR) October227-28,22015
+
+Exhibit 12
+
+The Taylor (1999) Rule with Incomplete Information about r *
+
+- · The nominal interest rate is related to deviations of inflation from its target value and the output gap.
+
+<!-- formula-not-decoded -->
+
+- · Two versions:
+- · Constant   * equal to the long-run real rate (a = 1). r
+- · Time-varying r t * equal to the natural real rate (a = 0).
+- · Central bank only observes an imperfect estimate of r t *.
+
+Reaction Function near the Cusp of the ELB
+
+<!-- missing-text -->
+
+Class II FOMC _ Restricted (FR)
+
+October227-28,22015
+
+Exhibit 13
+
+Monetary Policy Strategies near the ELB with Imperfect Information about r *
+
+Conclusions
+
+- · r * is a relevant, albeit complex, benchmark to guide the stance of monetary policy.
+- · The unobservable nature of  * introduces inescapable r uncertainties about its estimated value.
+- · This lack of knowledge about  * justifies r attenuation in the optimal discretionary policy to incoming information about the state of the economy.
+- · This attenuation is a manifestation of a policy of risk management that "takes out insurance" against possible adverse future outcomes.
+- · Near the ELB, policy rules that increased the response coefficient on inflation, or that allowed for time variation in the intercept term, could come reasonably close to replicating optimal discretionary policy.
+
+Caveats
+
+- · The usual disclaimer that comes with any model-based analysis.
+- · The policies studied are subject to important implementability and communication challenges.
+
+October 27-28, 2015
+
+FOMC - Restricted (FR) Class II uthorized for Public Release
+
+A
+
+(Last) Exhibit 14
+
+it would be helpful if you would address some If you would like to comment, or all of the following questions:
+
+- degree of 1. What does your estimate of the current level of r* imply for the accommodation provided by current monetary policy?
+- has r* been affected by recent changes in financial especially by movements in the exchange value of the dollar? 2. How, in your view, conditions,
+- 3. How do you expect r* to evolve, and what are the implications for the appropriate path of policy going forward?
+
+1
+
+4
+
+O
+
+tober 27-28, 2015
+
+tober 27-28, 2015
+
+Appendix 2:  Materials used by Ms. Logan
+
+October 27-28, 2015
+
+A
+
+u
+
+Restricted (FR) Class II FOMC -
+
+Material for Briefing on
+
+Financial Developments and Open Market Operations
+
+<!-- missing-text -->
+
+Class II FOMC -Restricted (FR)
+
+Indices* (1) Standardized Implied Volatility
+
+<!-- missing-text -->
+
+- 1-month implied volatilities since June 1994. *Standardized
+- **Swaption with 10-year underlying.
+
+Bank, Barclays, Federal Reserve Bank York Desk Calculations Source: Bloomberg, CBOE, Deutsche of New
+
+(3) Renminbi-U.S. Dollar Exchange Rate
+
+<!-- missing-text -->
+
+(5) EONIA Swaps Curve
+
+<!-- missing-text -->
+
+Source: Bloomberg
+
+(2) Emerging Market Flows and Spreads*
+
+(LHS)
+
+Bond Funds
+
+Equity Funds (LHS)
+
+<!-- missing-text -->
+
+weekly. *Flow data is
+
+Emerging Portfolio Fund Research. Excludes intra-China flows. Source:
+
+Five-Year (4) Changes in Five-Year, Forward Inflation Swaps*
+
+<!-- missing-text -->
+
+of 10/23/15 in parentheses. *Levels as Source: Barclays
+
+<!-- missing-text -->
+
+in Tibor, Short Sterling and Euribor futures-implied rates for the U.K., and Euro Area, respectively. *Changes Japan,
+
+Source: Bloomberg
+
+Class II FOMC -Restricted (FR)
+
+(7) Market-Implied Probability of a Rate Hike At or Before December FOMC*
+
+<!-- missing-text -->
+
+from the Surveys of Primary Dealers and Market for the EFFR immediately after liftoff. Probabilities are fed funds futures contract and are capped at 100%. Reserve Bank of New York Desk Calculations *Assumptions Participants' PDF-implied means derived from January Source: Bloomberg, Federal
+
+<!-- missing-text -->
+
+Surveys of Primary Dealers and Market Participants' the expected pace of tightening for the first and following liftoff. Responses are conditioned on not returning to lower bound. *Averages from the PDF-implied means for second year the zero
+
+Bank of New York Source: Federal Reserve
+
+(11) High-Yield Credit OAS*
+
+<!-- missing-text -->
+
+show respective ten year averages. *Dashed lines
+
+Source: Bloomberg, Barclays
+
+(8) Implied Federal Funds Rate Path*
+
+<!-- missing-text -->
+
+from federal funds futures and Eurodollar futures. *Derived of New York, Federal Reserve Source: Bloomberg, Federal Reserve Bank Board of Governors
+
+Breakeven Oil (10) Five-Year, Five-Year Inflation and
+
+<!-- missing-text -->
+
+average of PDF-implied CPI inflation rate 5-years to 10-years the Surveys of Primary Dealers. *Computed as ahead from
+
+Board of Governors, Bloomberg, Federal Reserve York Source: Federal Reserve Bank of New
+
+Devaluation* (12) Asset Price Changes over Intermeeting Period and Since RMB
+
+<!-- missing-text -->
+
+- a tightening in financial conditions. *Red implies
+
+Board of Governors Source: Bloomberg, Barclays, Federal Reserve
+
+Class II FOMC -Restricted (FR)
+
+and Foreign Repo Pool* (13) RRPs Outstanding
+
+<!-- missing-text -->
+
+at Risk due (15) Summary of Securities Potentially to Debt Ceiling
+
+<!-- missing-text -->
+
+- maturing on 11/16 and 11/30, all other dates represent *Coupon securities T-bill maturities.
+- Treasury, Federal Reserve Bank of New York Desk Source: U.S. Calculations
+
+Announcement (17) December Term RRP
+
+- · Desk intends to release statement shortly after October minutes announcing:
+- to offer $300 bn. of term RRPs over year-end o Plan
+- the remaining details shortly after o Release of December FOMC meeting
+
+<!-- missing-text -->
+
+(14) Changes in Money Market Volumes on Quarter-Ends (Percent)*
+
+<!-- missing-text -->
+
+- the quarter-end value and the average value over days. *Percent change between the previous ten business
+- dealers. **Daily survey of primary
+- Bank of New York Source: Federal Reserve
+
+Most Impacted by Debt Ceiling* (16) Yield on Bill
+
+0
+
+<!-- missing-text -->
+
+reflects announced date at which Treasury expects to exhaust its shown mature(d) on 08/11/11, 10/31/13, 11/12/15. *Day zero borrowing authority. Bills Source: Bloomberg
+
+2420 Data Collection (18) Recent Changes to FR
+
+- improve data quality in advance of production of FR · To 2420 rates, staff:
+- o Expanded Eurodollar collection
+- domestic banks reporting fed o Expanded panel of funds
+- revised data on October 20 · Respondents began submitting
+- o Data collected thus far have been in line with expectations
+- revised fed funds and early 2016 o On track to start publishing OBFR in
+
+October 27-28, 2015
+
+Class II FOMC -Restricted (FR)
+
+(19) SOMA Treasury Security Maturities*
+
+<!-- missing-text -->
+
+- *Year-to-date the Desk has rolled $3.18 billion of $3.51 billion of  eligible securities maturing in 2015.
+
+Source: Federal Reserve Bank of New York
+
+Exhibit 4 (Last)
+
+(20) Expected Timing of End to Some or All Reinvestments Relative to Liftoff*
+
+<!-- missing-text -->
+
+*Dots scaled by percent of respondents from the Surveys of Primary Dealers and Market Participants.
+
+Source: Federal Reserve Bank of New York
+
+tober 27-28, 2015
+
+c
+
+tober 27-28, 2015
+
+Appendix 3:  Materials used by Ms. Ihrig
+
+October 27-28, 2015
+
+I FOMC - Restricted Controlled (FR) Class
+
+Briefing on Material for
+
+Issues Related to the Debt Ceiling
+
+<!-- missing-text -->
+
+October 27-28, 2015
+
+Selected points from the minutes of FOMC videoconference meeting of October 16, 2013
+
+- Operations involving delayed payment s on Treasury Securities
+- No legal or operational need to make changes to the conduct or procedures employed in open market operations, securities lending, or to the operation of the discount window.
+- Continue to employ prevailing market values of securities in all its transactions and operations, under the usual terms.
+- Supervisory policy would take into account and make appropriate allowance for unusual market conditions.
+- Steps to address market issues resulting from a delay in payments
+- Appropriate responses would depend importantly on the actual conditions observed in financial markets.
+- While the Federal Reserve should take whatever steps it could, the risks posed to the financial system and to the broader economy by a delay in payments on Treasury securities would be potentially catastrophic, and thus such a situation should be av oi ded at all costs.
+
+October 27-28, 2015
+
+Minutes of FOMC videoconference meeting of October 16, 2013
+
+because covered  issues  similar  to  those The staff provided an processing of federal could  take  if  disruptions  to  market  functioning  posed  a  threat  to  the operation  of  the  discount  window.  They  also continue to employ prevailing market values of observed in financial markets. Under certain circumstances, the Desk might facilitate the smooth transmission of monetary policy through money markets and to address account and Reserve should take whatever steps it could, the a delay in payments on Treasury all 'On October 16, 2013, the Committee met by videoconference to discuss issues associated with contingencies in the event that the Treasury was temporarily unable to meet its obligations the  statutory  federal  debt  limit  was  not  raised.  The  meeting discussed at the Committee's videoconference meeting of August 1, 2011. update  on  legislative  developments  bearing  on  the  debt  ceiling  and  the  funding  of  the  federal government, recent conditions in financial markets, technical aspects of the payments, potential implications for bank supervision and regulatory policies, and possible actions that  the  Federal  Reserve Federal Reserve's economic objectives. Meeting participants saw no legal or operational need in the event of delayed payments on Treasury securities to make changes to the conduct or procedures employed in currently authorized Desk operations, such as open market operations, large-scale asset  purchases,  or  securities  lending,  or  to  the generally agreed that the Federal Reserve would securities in all its transactions and operations, under the usual terms. With respect to potential additional actions, participants noted that the appropriate responses would depend importantly on the actual conditions act to disruptions in market functioning and liquidity. Supervisory policy would take into make appropriate allowance for unusual market conditions. The need to maintain the traditional separation of the Federal Reserve's actions from the Treasury's debt management decisions was noted. Participants agreed that while the Federal risks posed to the financial system and to the broader economy by securities would be potentially catastrophic, and thus such a situation should be avoided at costs.'
+
+O
+
+c
+
+tober 27-28, 2015
+
+Appendix 4:  Materials used by Mr. Lebow
+
+October 27-28, 2015
+
+II FOMC - Restricted (FR) Class
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+8
+
+Forecast Summary
+
+Confidence Intervals Based on FRB/US Stochastic Simulations
+
+1. Real GDP
+
+2. Unemployment Rate
+
+<!-- missing-text -->
+
+3. Output Gap Estimates
+
+<!-- missing-text -->
+
+Note: The shaded region is the 2-standard deviation band around the FRB/US output gap, reflecting only filtering uncertainty.
+
+5. PCE Prices Excluding Food and Energy
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+<!-- missing-text -->
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+<!-- missing-text -->
+
+4. PCE Prices
+
+<!-- missing-text -->
+
+6. Decomposition of ECI Growth
+
+<!-- missing-text -->
+
+October 27-28, 2015
+
+Class II FOMC - Restricted (FR)
+
+263 of 289
+
+Key Economic Indicators for the October, December, and January FOMC Meetings
+
+(Percent change at annual rate, except as noted)
+
+<!-- missing-text -->
+
+Key : Estimate first available at:
+
+October meeting
+
+December meeting
+
+January meeting
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Notes:
+
+September TB projection for September payroll employment change included anticipated revision to initially reported August figure. The November CPI will be released on the first day of the December FOMC meeting; the December CPI should be available prior to the January FOMC meeting.
+
+O
+
+tober 27-28, 2015
+
+tober 27-28, 2015
+
+Appendix 5:  Materials used by Mr. Kamin
+
+October 27-28, 2015
+
+A
+
+Class II FOMC - Restricted (FR)
+
+Material for The International Outlook
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 1
+
+The International Outlook
+
+1. Foreign GDP
+
+2. EME Financial Stresses
+
+<!-- missing-text -->
+
+3. Chinese GDP Growth
+
+<!-- missing-text -->
+
+5. Real Dollar Indexes
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+tober 27-28, 2015
+
+c
+
+tober 27-28, 2015
+
+Appendix 6:  Materials used by Mr. Lehnert
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on
+
+Financial Stability Developments
+
+Andreas Lehnert
+
+October 27, 2015
+
+Class II FOMC - Restricted FR
+
+October 27, 2015
+
+Financial Stability Presentation
+
+1. S&amp;P 500 Forward Price-to-Earnings
+
+2. Corporate Bond Spreads to Similar Maturity Treasury Security
+
+<!-- missing-text -->
+
+3. High Yield Bond and Bank Loan Mutual Fund Flows
+
+<!-- missing-text -->
+
+5. Debt-to-Equity Ratios at Insurance Companies
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+4. SEC Proposed Rules on Liquidity Risk Management
+
+- · Each mutual fund and ETF would have to:
+- Adopt liquidity risk management program
+- Disclose liquidity of portfolio positions
+- Set 3-day liquid asset minimum
+- · Mutual funds also would be given option to use swing pricing
+
+6. Tangible Common Equity to Tangible Total Assets
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted FR
+
+Exhibit 2 Authorized for Public Release
+
+Financial Stability Presentation
+
+7. Commercial Real Estate Price Indices
+
+8. CMBS Issuance
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+11. Growth in Total Risky Corporate Debt
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+10. Debt Outstanding
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+October 27, 2015
+
+Class II FOMC - Restricted FR
+
+Authorized for Public Release
+
+Exhibit 3
+
+Staff Judgment on Levels of Vulnerabilities
+
+Extremely subdued
+
+Low
+
+Moderate
+
+Notable
+
+Elevated
+
+Key:
+
+Notes: Heat map color assignments were made by staff judgment. In the absence of significant structural changes, we would expect vulnerabilities to spend roughly equal proportions of time in each of the colored risk buckets.
+
+<!-- missing-text -->
+
+October 27, 2015
+
+- Restricted FR Class II FOMC
+
+October 27-28, 2015
+
+Exhibit 4
+
+October 27, 2015
+
+Notes and Sources
+
+Authorized for Public Release
+
+272 of 289
+
+1 Panel
+
+9 Panel
+
+Aggregate forward price-to-earnings ratio.
+
+Source: Thomson Reuters Financial.
+
+2 Panel
+
+to Merrill Lynch bond Treasury yields from smoothed yield securities. last daily observation.' Estimated from curve fit yields. curve  estimated  from  off-the-run '+' denotes
+
+Source: Staff estimates.
+
+3 Panel
+
+flows  for *Observation  contains  aggregate the first three weeks of October.
+
+Source: ICI.
+
+Panel 5
+
+Aggregate  Leverage  ratio  =  total  debt/total equity. Excludes reserves.
+
+Source: SNL Financial. Data reported quarterly.
+
+6 Panel
+
+7 Panel
+
+8 Panel
+
+Source: Call Reports.
+
+Source: CoStar.
+
+Multifamily excludes agency issuance.
+
+Source: Commercial Mortgage Alert.
+
+describe their current in relation to the midpoint 2005 and the present. Responses Q1 Call Reports from 2015 Banks were asked to level of standards of the range  of  standards at their bank between were weighted by survey respondents' holdings of the relevant loan types, as reported on the where relevant.
+
+Source: Senior Loan Officer Opinion Survey, July 2015.
+
+Panel 10
+
+Source: FOFA.
+
+Panel 11
+
+risky  debt  is  the  sum  of  speculative subtracting the growth rate of the Total grade  and unrated  bonds  and leveraged loans.  The  growth  in total risky debt  is deflated by price deflator for nonfinancial business sector output.
+
+Source: Mergent Fixed Investment Securities Database, Standard and Poor's.
+
+NIPA. Source: FOFA and
+
+Panel 12
+
+ctober 27-28, 2015
+
+ctober 27-28, 2015
+
+Appendix 7:  Materials used by Mr. Laubach
+
+<!-- missing-text -->
+
+I FOMC - Restricted Controlled (FR) Class
+
+Laubach 2015 Thomas October 27-28,
+
+Material for Briefing on Monetary Policy Alternatives
+
+October 27-28, 2015
+
+Authorized for Public Release
+
+274 of 289
+
+Exhibit 1:  Monetary Policy Expectations
+
+<!-- missing-text -->
+
+Source: September SEP.
+
+SEP Projected r*: Implicit Year-End and LongerRun Equilibrium Real Interest Rate Percent
+
+<!-- missing-text -->
+
+Note: 2018 values assume that participants' projections for the unemployment rate in 2019 are equal to their longer-run values, and that core PCE is equal to 2 percent by year-end 2019.
+
+Source: September SEP.
+
+Federal Funds Rate Projections
+
+<!-- missing-text -->
+
+Note: The implied fed funds rate path is estimated using OIS quotes with a spline approach and a term premium of zero basis points.
+
+Source: Bloomberg, FRBNY Primary Dealer Survey sell-side results, September 2015 SEP , and staff calculations.
+
+Estimates of Time-varying r* Implied by Participants' Projections
+
+- IS equation relates the unemployment gap to the real interest gap as follows:
+
+<!-- formula-not-decoded -->
+
+- Estimate coefficients α and β using data from the 4th quarter of each year, staff's estimate of u*, and Laubach-Williams estimates of r*
+- Insert participants' estimates of the longer-run unemployment rate and projections for the unemployment rate and real federal funds rate to solve for their implied time-varying r*.
+
+SEP Projected r-r*: Implicit Year-End Real Interest Rate Gap
+
+<!-- missing-text -->
+
+Note: 2018 values assume that participants' projections for the unemployment rate in 2019 are equal to their longer-run values, and that core PCE is equal to 2 percent by year-end 2019.
+
+Source: September SEP.
+
+Possible Reasons for the Discrepancy in Expectations
+
+- Investors hold more pessimistic outlook than economists at primary dealers
+- Difference between modal and mean outcomes
+- Negative term premiums: Contracts offer insurance against adverse economic outcomes
+
+October 27-28, 2015
+
+Exhibit 2: Alternatives A, B, and C
+
+Alternative B
+
+- Real GDP has been expanding at a moderate rate
+- Supported by "solid" gain in household and business spending
+- Despite softer data, labor underutilization has diminished
+- Assessment of recent and expected inflation trends largely unchanged
+- Less concern about implications of developments abroad
+- But monitoring global economic and financial developments
+- Update communications about the timing of the first increase in the target range for the funds rate
+- Shift focus from "how long to maintain" to "whether it will be appropriate to raise the target range" "later this year" or "at its next meeting," "based on incoming data"
+- Leaves wide latitude at the December meeting, but could lead some to see a higher likelihood of liftoff in December
+
+Alternative A
+
+- Would push out the most probable liftoff date and shift down the expected path
+- Less sanguine reading of recent data
+- Developments abroad have tilted the risks to the outlook to the downside
+- Much greater concern about the outlook for inflation
+
+Alternative C
+
+- Would announce the beginning of policy normalization
+- Confident assessment that economic conditions meet the criteria for liftoff
+- Labor market indicators will "reach" mandate-consistent levels
+- Risks to outlook "balanced"
+- Effects of declines in prices of energy and non-energy commodities "will dissipate"
+- "Reasonably confident that inflation will rise to 2 percent over the medium term"
+- Timing and size of future adjustments will depend on progress toward objectives
+- Option to add "balanced approach" language
+
+October 27-28, 2015
+
+2015 FOMC STATEMENT SEPTEMBER
+
+- suggests been soft.  The labor market Inflation has continued to run below the Committee's longerprices and in prices of non-energy Market-based measures of inflation compensation moved lower; survey1. Information received since the Federal Open Market Committee met in July that economic activity is expanding at a moderate pace.  Household spending and business fixed investment have been increasing moderately, and the housing sector has improved further; however, net exports have continued to improve, with solid job gains and declining unemployment.  On balance, labor market indicators show that underutilization of labor resources has diminished since early this year. run objective, partly reflecting declines in energy imports. based measures of longer-term inflation expectations have remained stable.
+- accommodation, economic activity will expand at a moderate pace, continues to see the risks to the and the labor market as nearly balanced but is Inflation is anticipated to remain near its recent effects of declines in energy and import prices dissipate.  The Committee 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  Recent global economic and financial developments may restrain economic activity somewhat and are likely to put further downward pressure on inflation in the near term.  Nonetheless, the Committee expects that, with appropriate policy with labor market indicators continuing to move toward levels the Committee judges consistent with its dual mandate.  The Committee outlook for economic activity monitoring developments abroad. low level in the near term but the Committee expects inflation to rise gradually toward 2 percent over the medium term as the labor market improves further and the transitory continues to monitor inflation developments closely.
+- In determining how long to maintain this realized and expectedits objectives of maximum employment and 2 percent inflation.  This confident will move back to its 2 percent objective over the medium term. 3. To support continued progress toward maximum employment and price stability, the Committee today reaffirmed its view that the current 0 to ¼ percent target range for the federal funds rate remains appropriate. target range, the Committee will assess progress-both toward assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee anticipates that it will be appropriate to raise the target range for the federal funds rate when it has seen some further improvement in the labor market and is reasonably that inflation
+- This policy, by keeping the Committee's holdings of longer-term securities 4. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. at sizable levels, should help maintain accommodative financial conditions.
+- 5. When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.  The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions
+
+October 27-28, 2015
+
+may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
+
+October 27-28, 2015
+
+FOR OCTOBER 2015 ALTERNATIVE A
+
+- suggests that economic activity is expanding at a moderate Household spending and business fixed investment have been increasing The labor market continued to improve, with solid job and the unemployment rate has leveled out inflation has continued to run below the Committee's longer-run Market-based measures of inflation compensation moved lower at | ] multiyear lows 1. Information received since the Federal Open Market Committee met in July September has been pace. moderately at solid rates in recent months , and the housing sector has improved further; however, net exports have been soft and inventory investment have been a drag on economic growth . gains and declining unemployment.  On balance, labor market indicators show that underutilization of labor resources has diminished since early this year , but the pace of job gains has slowed . Both overall and core have objective, partly reflecting declines in energy prices and in prices of non-energy imports. are [ near ; survey-based measures of longer-term inflation expectations have remained stable.
+- accommodation, economic activity will expand at a moderate pace, the Committee continues to see the risks to the outlook activity and the labor market as nearly balanced but is monitoring developments abroad.  Inflation is anticipated to remain effects of declines in energy and import prices dissipate. 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  Recent global economic and financial developments may restrain economic activity somewhat and are likely to put further downward pressure on inflation in the near term.  Nonetheless, the Committee expects that, with appropriate policy with labor market indicators continuing to move toward levels the Committee judges consistent with its dual mandate. However, in light of economic and financial developments abroad, sees for economic tilted somewhat to the downside near its recent low level in the near term but the Committee expects inflation to rise gradually toward 2 percent over the medium term as the labor market improves further and the transitory The Committee continues to monitor inflation developments closely.
+- labor compensation all subdued, and measures of inflation compensation very low that the current 0 to ¼ percent target range for the In determining how long to maintain this realized and expectedits objectives of maximum employment and 2 percent inflation.  This federal funds rate when it confident is beginning to move percent, the Committee is prepared to use all tools necessary to 3. To support continued progress toward maximum employment and price stability With inflation, core inflation, and gains in with market-based , the Committee today reaffirmed its view judges federal funds rate remains appropriate. target range, the Committee will assess progress-both toward assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee anticipates that it will be appropriate to raise the target range for the has seen some further improvement in the labor market and is reasonably that inflation will move back to its 2 percent objective over the medium term. If incoming information does not soon indicate that inflation back toward 2 return inflation to 2 percent within one to two years.
+
+- This policy, by keeping the Committee's holdings of longer-term securities 4. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. at sizable levels, should help maintain accommodative financial conditions.
+- 5. When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.  The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
+
+October 27-28, 2015
+
+OCTOBER 2015 ALTERNATIVE B FOR
+
+- suggests that economic activity is expanding at a moderate Household spending and business fixed investment have been increasing labor market continued to improve, job gains and declining unemployment held On balance show that Inflation has lower; survey-based measures 1. Information received since the Federal Open Market Committee met in July September has been pace. moderately at solid rates in recent months , and the housing sector has improved further; however, net exports have been soft.  The with solid pace of slowed the rate steady . Nonetheless , labor market indicators , on balance, underutilization of labor resources has diminished since early this year. continued to run below the Committee's longer-run objective, partly reflecting declines in energy prices and in prices of non-energy imports.  Market-based measures of inflation compensation moved [ slightly ] of longer-term inflation expectations have remained stable.
+- The Committee expects that, with accommodation, economic activity will expand at a moderate pace, dual mandate.  The Committee continues to see the risks to the and the labor market as nearly balanced but is inflation to rise gradually toward 2 percent over the medium term as the labor further and the transitory effects of declines in energy and import The Committee continues to monitor inflation developments closely. 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  Recent global economic and financial developments may restrain economic activity somewhat and are likely to put further downward pressure on inflation in the near term.  Nonetheless, appropriate policy with labor market indicators continuing to move toward levels the Committee judges consistent with its outlook for economic activity monitoring global economic and financial developments abroad.  Inflation is anticipated to remain near its recent low level in the near term but the Committee expects market improves prices dissipate.
+- In determining how long to maintain this [ later this | at its next meeting ] realized and expected-toward its objectives of maximum the federal funds rate when it has seen some further market and is reasonably confident that inflation will move 3. To support continued progress toward maximum employment and price stability, the Committee today reaffirmed its view that the current 0 to ¼ percent target range for the federal funds rate remains appropriate. target range whether it will be appropriate to raise the target range year , the Committee will , based on incoming data, assess progress-both employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee anticipates that it will be appropriate to raise the target range for improvement in the labor back to its 2 percent objective over the medium term.
+- This policy, by keeping the Committee's holdings of longer-term securities 4. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. at sizable levels, should help maintain accommodative financial conditions.
+
+- 5. When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.  The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
+
+October 27-28, 2015
+
+FOR OCTOBER 2015 ALTERNATIVE C
+
+- suggests that economic activity is expanding at a moderate Household spending and business fixed investment have been increasing labor market continued to improve, market indicators, including ongoing job that underutilization of labor since early this year.  Inflation has continued declines in market-based measures survey-based measures of longer-term inflation expectations have 1. Information received since the Federal Open Market Committee met in July September has been pace. moderately at solid rates in recent months , and the housing sector has improved further; however, net exports have been soft.  The with solid job gains and declining unemployment.  On balance, labor market indicators show A range of recent labor gains, shows further improvement and confirms resources has diminished appreciably to run below the Committee's longer-run objective, partly reflecting energy prices and in prices of non-energy imports. Although of inflation compensation moved lower; remain near the low end of the range seen in recent years, remained stable.
+- policy accommodation, labor market indicators levels the Committee judges consistent with its The Committee continues to see the risks to the outlook for balanced but is monitoring prices of non-energy but the with survey measures of Committee expects is inflation to rise gradually toward 2 percent over as the labor market improves further and the transitory effects of 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  Recent global economic and financial developments may restrain economic activity somewhat and are likely to put further downward pressure on inflation in the near term.  Nonetheless, The Committee expects that, with appropriate adjustments in the stance of monetary economic activity will expand at a moderate pace, with and continuing to move toward will reach dual mandate. sees both economic activity and the labor market as nearly developments abroad.  Inflation is anticipated to remain near its recent low level in the near term , reflecting declines in energy prices and in imports, transitory effects on inflation of these declines will dissipate. With the labor market continuing to improve, and longer-term inflation expectations remaining stable, the reasonably confident that will to the medium term. declines in energy and import prices dissipate.  The Committee continues to monitor inflation developments closely.
+- the medium term, to its 2 percent objective, the Committee decided to 3. To support continued progress toward maximum employment and price stability, the Committee today reaffirmed its view that the current 0 to ¼ percent target range for the federal funds rate remains appropriate. In light of the improvement in labor market conditions this year, and the Committee's expectation that inflation will rise, over raise the target range for the federal funds rate to ¼ to ½ percent.
+- how long to maintain this future adjustments target range, the Committee will assess progress-both realized and to , and will take a balanced approach to 4. In determining the timing and size of to the expected-toward economic conditions relative its objectives of maximum employment and 2 percent inflation [ pursuing those objectives ] . This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation
+
+October 27-28, 2015
+
+confident that inflation will move back to its 2 the federal funds rate will depend on the incoming data pressures and inflation expectations, and readings on financial and international developments.  The Committee anticipates that it will be appropriate to raise the target range for the federal funds rate when it has seen some further improvement in the labor market and is reasonably percent objective over the medium term.  The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run ; however, the actual path of the target for .
+
+- Committee is maintaining its existing policy of reinvesting principal payments rolling over maturing Treasury securities at 5. The from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of auction , and anticipates doing so at least during the early stages of normalizing the level of the federal funds rate . This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+- percent. 6. When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2
+
+October 27-28, 2015
+
+2015 DIRECTIVE SEPTEMBER
+
+Federal Open Market Committee seeks Treasury Consistent with its statutory mandate, the monetary and financial conditions that will foster maximum employment and price stability.  In particular, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to undertake open market operations as necessary to maintain such conditions.  The Committee directs the Desk to maintain its policy of rolling over maturing securities into new issues and its policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.  The System Open Market Account manager and the secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+October 27-28, 2015
+
+OCTOBER 2015 ALTERNATIVE A AND ALTERNATIVE B DIRECTIVE FOR
+
+Federal Open Market Committee seeks Treasury Consistent with its statutory mandate, the monetary and financial conditions that will foster maximum employment and price stability.  In particular, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to undertake open market operations as necessary to maintain such conditions.  The Committee directs the Desk to maintain its policy of rolling over maturing securities into new issues and its policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.  The System Open Market Account manager and the secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+October 27-28, 2015
+
+NOTE AND DESK STATEMENT FOR OCTOBER 2015 IMPLEMENTATION ALTERNATIVE C
+
+draft directive for Alternative C, which raises the target range, is included in This implementation note is the same as the note Tealbook for Alternative C, except that the dates have been added to the current statement regarding overnight reverse agreements; a draft of the Desk statement is shown on a following page. The an implementation note, shown on the next page, that would be released with the FOMC's policy statement to communicate actions the Federal Reserve was taking to implement the Committee's decision. 1 that was shown in the July changed from July to October.  (Struck-out text indicates language deleted from the current directive; bold-red-underlined text indicates language directive.)  The Desk would release, separately, a repurchase
+
+October 27-28, 2015
+
+2015 Alternative C Implementation Note for October
+
+October 28, 2015
+
+Release Date:
+
+Actions to Implement Monetary Policy
+
+stance 28, 2015: The Federal Reserve has taken the following actions to implement the monetary policy adopted and announced by the Federal Open Market Committee on October
+
+-  The Board of Governors of the Federal Reserve System voted [ unanimously ] to raise the interest rate paid on required and excess reserve balances to [ 0.50 ] percent, effective October 29, 2015.
+- decision, the Federal Open Market Committee voted to authorize and the Federal Reserve Bank of New York, until instructed transactions in the System Open Market Account in accordance  As part of its policy direct the Open Market Desk at otherwise, to execute with the following domestic policy directive:
+
+Open Market Committee seeks that will foster maximum employment and price October 29, 2015, as necessary to maintain federal funds rate in a target range of [ ¼ to ½ ] percent, repurchase operations (and reverse repurchase with maturities of more than one day when necessary to accommodate [ 0.25 ] of Treasury securities held for such operations; repurchase operations as authorized in the resolution on term 'Consistent with its statutory mandate, the Federal monetary and financial conditions stability.  In particular, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent. Effective the Committee directs the Desk to undertake open market operations such conditions the including:  (1) overnight reverse operations weekend, holiday, or similar trading conventions) at an offering rate of percent and in amounts limited only by the value outright in the System Open Market Account that are available and (2) term reverse RRP operations approved by the Committee at its March 17-18, 2015, meeting .
+
+the Desk to maintain its policy of agency debt and agency mortgage-backed securities in agency mortgagethe Desk to engage in dollar roll and as necessary to facilitate settlement of the Federal Reserve's The System Open Market Account informed of ongoing developments could affect the attainment over time of the employment and price stability. 'The Committee directs continue rolling over maturing Treasury securities into new issues and its policy of to continue reinvesting principal payments on all backed securities.  The Committee also directs coupon swap transactions agency mortgage-backed securities transactions.' manager and the secretary will keep the Committee regarding the System's balance sheet that Committee's objectives of maximum
+
+More information regarding open market operations may be found on the Federal Reserve Bank of New York's website. 1
+
+-  The Board of Governors of the Federal Reserve System voted [ unanimously ] to approve a [ ¼ ] percentage point increase in the primary credit rate to [ 1.00 ] percent, effective October 29, 2015.  In taking this action, the Board approved requests submitted by the Boards of Directors of the Federal Reserve Banks of….
+
+to reflect decisions of the Federal or the Board of Governors regarding details of the Federal monetary policy. This information will be updated as appropriate Open Market Committee Reserve's operational tools and approach used to implement
+
+October 27-28, 2015
+
+Desk Statement for October 2015 Alternative C
+
+Release Date:  October 28, 2015
+
+Statement Regarding Overnight Reverse Repurchase Agreements
+
+Desk (the Desk) at the Bank of New York, effective October 29, 2015, to undertake open overnight reverse repurchase operations (ON RRPs) at an offering the value of Treasury securities held available for such During its meeting on October 27-28, 2015, the Federal Open Market Committee (FOMC) authorized and directed the Open Market Trading Federal Reserve market operations as necessary to maintain the federal funds rate in a target range of ¼ to ½ percent, including rate of 0.25 percent and in amounts limited only by outright in the System Open Market Account (SOMA) that are operations.
+
+repurchase Second, some Treasury securities lending operations  conducted by the Desk. needed to provide for possible changes in demand for these To determine the value of Treasury securities available for such operations, several factors need to be taken into account, as not all Treasury securities held outright in the SOMA will be available for use in ON RRP operations.  First, some of the Treasury securities held outright in the SOMA are needed to conduct reverse agreements with foreign official and international accounts. 1 securities are needed to support the 2 Additionally, buffers are activities and for possible changes in the market value of the SOMA's holdings of Treasury securities.
+
+In the highly unlikely event that the value of bids received in amount of available collateral, the Desk will allocate stop-out rate. After estimating the effects of these factors, the Desk anticipates that around $2 trillion of Treasury securities will be available for ON RRP operations to fulfill the FOMC's domestic policy directive. 3 an ON RRP operation exceeds the awards using a single-price auction based on the 'stop-out' rate at which the overall size limit is reached, with all bids below this rate awarded in full at the stop-out rate and all bids at this rate awarded on a pro rata basis at the changes to these terms will be announced with at least The operations will be open to all eligible RRP counterparties, will settle same-day, and will have an overnight tenor unless a longer term is warranted to accommodate weekend, holiday, and similar trading conventions.  Each day, individual counterparties are permitted to submit one proposition in a size not to exceed $30 billion and at a rate not to exceed the specified offering rate.  The operations will take place from 12:45 p.m. to 1:15 p.m. (Eastern Time).  Any one business day's prior notice on the New York Fed's website.
+
+reserves in Table 1 and as a liability item in Tables 5 and 6. The results of these operations will be posted on the New York Fed's website.  The outstanding amount of RRPs is reported on the Federal Reserve's H.4.1 statistical release as a factor absorbing

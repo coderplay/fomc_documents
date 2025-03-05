@@ -1,0 +1,908 @@
+Prefatory Note
+
+The attached document represents the most complete and accurate version available based on original files from the FOMC Secretariat at the Board of Governors of the Federal Reserve System.
+
+Please note that some material may have been redacted from this document if that material was received on a confidential basis.  Redacted material is indicated by occasional gaps in the text or by gray boxes around non-text content.  All redacted passages are exempt from disclosure under applicable provisions of the Freedom of Information Act.
+
+Part 1
+
+November 3, 2004
+
+CURRENT ECONOMIC AND FINANCIAL CONDITIONS
+
+Summary and Outlook
+
+Confidential (FR)   Class II FOMC
+
+November 3, 2004
+
+Summary and Outlook
+
+Domestic Developments
+
+We currently estimate that real GDP rose at an annual rate of 3.4 percent in the third quarter-a shade below both the BEA's advance estimate and the projection in the September Greenbook.  Although readings on activity in the fourth quarter are quite limited at this point, the economy appears to have entered the fall with less underlying momentum than we had previously projected.  In particular, the recent data on employment and industrial production have been disappointing; Friday's labor market report should shed important light on whether the sluggishness has persisted.  Sharply higher oil prices are taking a toll on the economy by depressing the purchasing power of households, raising business costs, and likely adding to business and consumer caution. In response to these developments, we have tamped down our near-term forecast somewhat and now expect real GDP to grow about 3½ percent at an annual rate in the fourth quarter of this year and about 3 percent in the first quarter of 2005.
+
+Conditions in domestic financial markets have changed little, on net, since midSeptember, and we continue to expect that long-term interest rates will remain low through 2006.  In the foreign exchange markets, the dollar has moved down; we assume that it will continue to drift lower, lessening the drag from the external sector.  Although the substantial stimulus from the federal budget ends in 2004, fiscal policy now seems likely to be a bit more supportive of growth in 2005 than was the case a month ago.  All told, we continue to think that the forces are in place to support above-trend growth in real GDP.  Indeed, beyond the first quarter of next year, we project that real GDP will increase about 4 percent at an annual rate through the end of 2006.
+
+The higher energy prices, of course, will raise headline consumer price inflation in the near term, and some pass-through of higher energy costs will add a bit to core inflation in 2005.  Nonetheless, with slack in resource utilization anticipated to persist throughout the projection period, we expect core PCE inflation to be just 1½ percent in 2005 and 2006the same as in 2004.  We expect overall PCE inflation to slow from 2½ percent in 2004 to 1¼ percent per year in 2005 and 2006 as energy prices turn down.
+
+Oil Prices
+
+The spot price of West Texas intermediate crude oil (WTI) now stands at $50 per barrel, down from the highs of late October but still $6 per barrel higher than at the time of the September Greenbook.  WTI is expected to decline somewhat over the forecast period as hurricane-related damage to underwater pipelines and other infrastructure in the Gulf of Mexico is repaired and as oil inventories are rebuilt.  But declines in prices will be limited by strong world demand and continued concerns about the adequacy and
+
+reliability of supply.  Consistent with recent readings in futures markets, we expect WTI to average about $46 per barrel in the fourth quarter of 2005 and less than $43 per barrel in the fourth quarter of 2006.  The weighted-average price of imported crude oil, which comes reasonably close to the actual mix of crude oil grades used by U.S. refiners, has risen considerably less since mid-September than has WTI; it is expected to average just over $41 per barrel in the fourth quarter of this year -$2 per barrel more than in the September Greenbook-but to decrease only slightly over the next two years.
+
+The current situation in energy markets differs markedly from that anticipated at the start of the year.  Notably, in the December 2003 Greenbook, we had expected the imported oil price to decline from $28 per barrel in the fourth quarter of 2003 to $24 per barrel in the fourth quarter of 2004 and to fall a bit further in 2005.  Simulations of the FRB/US model can provide a rough gauge of the effects of the higher oil prices on the economy. One of these simulations suggests that-when compared with our expectations in December 2003-the current path of crude oil prices, along with movements in natural gas prices and gasoline margins, will reduce real GDP growth over the four quarters of 2004 about ½ percentage point; in the simulation, the damping effect on real growth shrinks to almost zero in 2005 and turns into a small plus in 2006.   On the price side, the 1 oil price shock is estimated to add 1¼ percentage points to overall consumer price inflation in 2004 and ¼ percentage point to core inflation; the estimated effect on core inflation includes the influence of higher energy prices on inflation expectations as well as the direct pass-through of higher energy costs into the prices of other goods and services.  Some upward effects on inflation linger into 2005.
+
+Other Key Background Factors
+
+We assume that the federal funds rate will be raised to 2 percent by the end of 2004 and will then remain at that level through the third quarter of 2005 before rising gradually to 2¾ percent by the end of 2006.  Financial market participants continue to anticipate more tightening than we do; futures quotes point to a funds rate in the vicinity of 3¼ percent at the end of 2006.  Yields on nominal long-term Treasuries and most private debt have edged down, on net, since we closed the September Greenbook.  Bond rates are anticipated to drift down a bit more over the next year and then level off as downward revisions to market participants' expectations for the funds rate offset the upward pressure on bond rates that would normally be felt during an episode of policy tightening.
+
+Although equity prices have been buffeted by concerns about developments in the oil market, they have changed little, on balance, since the September Greenbook.  We continue to assume that share prices will henceforth increase at a rate of 6½ percent per year, which would roughly maintain risk-adjusted parity with the yield on long-term bonds.  As in the September Greenbook, we expect house prices, as measured by the OFHEO repeat-transactions index, to rise 3¾ percent over the four quarters of 2005 and 3 percent in 2006 after having risen nearly 7 percent in 2004.
+
+We have adjusted our fiscal assumptions modestly since the last Greenbook.  On the receipts side, we have built in the corporate tax legislation that was signed into law in October; it is estimated to reduce receipts about $7 billion in fiscal 2005 and $9 billion in fiscal 2006.  The main purpose of the legislation was to repeal the extra-territorial income exclusion that had been ruled illegal by the World Trade Organization and to replace it with a phased-in reduction in the effective corporate income tax rate on domestic manufacturers.  It also included a new sales tax deduction for individual taxpayers, a onetime reduction in taxes on repatriated foreign earnings, and a plethora of other provisions. (The President also signed the extension of the expiring personal tax provisions last month, but we had already assumed these extensions in previous Greenbooks.)  As for spending, we have taken on board the recently enacted $15 billion of emergency funding for hurricane and drought relief.  In addition, because of indications that the supplemental appropriation for operations in Iraq is likely to be larger than we had anticipated, we have added $10 billion to the assumed level of defense spending in fiscal 2005 and fiscal 2006. In light of these changes and the weaker incomes in our current forecast, we have raised our deficit projections to $412 billion in 2005 and $392 billion in 2006, only slightly lower than the $413 billion figure for 2004.  In the September Greenbook, we had forecast the deficit to drop to $363 billion in 2005 and $351 billion in 2006.
+
+As a result of the changes to our fiscal assumptions, we now think that the federal budget-which provided considerable support to economic activity this year-will be a neutral influence on GDP growth in 2005; the fiscal assumptions in the September forecast had implied a small dose of restraint next year.  We still expect policy to provide a bit of stimulus to aggregate demand in 2006, mainly because of the implementation of the Medicare prescription drug benefit.
+
+The foreign exchange value of the dollar has declined since the September Greenbook, and we have lowered our projection for the real trade-weighted dollar in the current quarter about 2 percent.  As in our previous projection, we assume some modest further
+
+real depreciation between now and the end of 2006.  On the whole, the incoming data for economic activity abroad have been a bit below our expectations, and we have inched down our projection for foreign GDP, which is now expected to increase 3¾ percent in 2004 and 3¼ percent per year in 2005 and 2006.
+
+Recent Developments and the Near-Term Outlook
+
+We now estimate that real GDP increased at an annual rate of 3½ percent in the third quarter.   Paced by strong gains in consumer spending and business fixed investment, 2 private domestic final purchases rose at an annual rate of 5¼ percent.  However, inventory investment fell appreciably as a liquidation of motor vehicle stocks more than offset a step-up in stockbuilding elsewhere, and real net exports dropped further.
+
+We expect real GDP to increase at an annual rate of 3½ percent in the fourth quarter, ½ percentage point less than in the September Greenbook.  An important factor in the downward revision is the incoming labor market information, which has not been as upbeat as the spending indicators.  Private nonfarm payrolls posted meager gains throughout the summer and were up just 59,000 in September.  We still expect hiring to strengthen a bit over the course of the current quarter, but given the lack of significant improvement to date in initial claims and other labor market indicators, we have marked down the average monthly increase in private employment to 100,000.  The unemployment rate was flat at 5.4 percent in September; we expect it to inch up to 5.5 percent over the next few months.
+
+Manufacturing output has also been on the soft side recently:  It fell 0.3 percent in September-excluding hurricane losses, it was probably about flat.  For the third quarter as a whole, manufacturing IP rose at an annual rate of just 4½ percent, compared with a rise of nearly 7 percent in the first half of the year.  We expect it to rise just 3¾ percent at an annual rate in the fourth quarter, 2 percentage points less than in the September Greenbook.
+
+Consumer spending has regained some vigor in recent months after having faltered around midyear.  In the third quarter, real PCE rose at an annual rate of 4½ percent, as outlays on motor vehicles rebounded after a second-quarter dip and purchases of other
+
+Summary of the Near-Term Outlook
+
+(Percent change at annual rate except as noted)
+
+<!-- missing-text -->
+
+goods and services advanced.  Our forecast has real PCE growth slowing to 3 percent in the fourth quarter, mainly because of a drop in spending on motor vehicles.  Sales of light vehicles appear to have slipped in October as the manufacturers trimmed incentives; they are likely to remain subdued over the next couple of months unless the automakers backtrack and sweeten the incentive pot.  Real disposable personal income (DPI) is expected to increase at an annual rate of 8 percent in the fourth quarter, but the increase is attributable mainly to the one-time Microsoft dividend payout, which is expected to have little effect on consumption.
+
+Housing starts fell sharply in September, but other key indicators of housing activity-in particular, adjusted permits and home sales-were robust.  In addition, mortgage rates remain low.  Accordingly, we expect single-family starts to rebound in October and to average 1.63 million units at an annual rate in the fourth quarter, the same as in the third quarter.  Real residential investment rose at an annual rate of 2 percent in the third quarter after surging earlier in the year; it is expected to increase a little further in the fourth quarter, in part because of post-hurricane rebuilding and repair efforts.
+
+Real investment in equipment and software rose at an annual rate of 15 percent in the third quarter.  Although real high-tech spending barely grew, outlays for transportation equipment-especially medium and heavy trucks-advanced briskly, and spending on other capital goods posted an enormous increase-likely in part because of the partial-
+
+expensing tax incentive.  As for the fourth quarter, recent company reports and the available anecdotal information point to continued softness in high-tech spending. However, the steep uptrend in orders for capital goods outside the high-tech and transportation areas points to another substantial gain for this broad category, and we are looking for an increase of 12½ percent in total E&amp;S in the fourth quarter.
+
+After factoring in the construction data for September, we estimate that real investment in nonresidential structures was down slightly in the third quarter.  On the expectation that spending on drilling and mining structures-especially for natural gas-will continue to rise briskly and that some post-hurricane repair of power lines and underwater pipelines will occur this quarter, we project a moderate increase in nonresidential construction in the fourth quarter.
+
+In the government sector, real federal expenditures on consumption and gross investment rose at an annual rate of 4½ percent in the third quarter as a jump in defense spending was partly offset by a downward blip in nondefense expenditures.  Early indications are that defense spending will fall a bit in the fourth quarter and thus that overall federal purchases will be flat.  In the state and local sector, purchases were down slightly in the third quarter as construction spending reversed its second-quarter spurt.  With budgetary strains continuing to ease and with hiring apparently firming, we are projecting a small advance in state and local purchases in the fourth quarter.
+
+Nonfarm inventory investment (outside the motor vehicles industry) picked up from an already elevated annual rate of $42 billion in the second quarter to nearly $70 billion in the third quarter.  Even so, with the noteworthy exceptions of semiconductors, paper, and some chemicals, non-auto inventories do not seem out of line with sales.  Our projection assumes that non-auto inventory investment will remain substantial in the fourth quarter-albeit at a lower level than in the third quarter.
+
+In the external sector, we estimate that real exports rose at an annual rate of just 4½ percent in the third quarter, dragged down by weakness in services and semiconductors.  Although real imports decelerated noticeably after a sizable increase in the first half of the year, we still estimate that net exports subtracted ¾ percentage point from the increase in GDP in the third quarter.  We expect the drag from the external sector to lessen markedly in the current quarter, mainly because of a pickup in exports. In line with our anticipation that some of the special factors boosting core inflation during the first half of the year would unwind during the second half, core PCE prices rose at an
+
+annual rate of just ¾ percent in the third quarter; we expect these prices to rise 1½ percent in the fourth quarter-close to our estimate of their underlying pace.  With PCE energy prices projected to be up at an annual rate of 20 percent this quarter, overall PCE prices should increase 2½ percent.
+
+The Longer-Term Outlook for the Economy
+
+Real GDP is expected to increase only about 3 percent at an annual rate in the first quarter of 2005 as consumers and businesses continue to adjust to this year's higher energy prices and capital spending hits a pothole after the expiration of the partialexpensing tax incentive.  But with the energy-related headwinds abating and long-term interest rates remaining low, we expect real GDP growth to pick up to a pace of about 4 percent in subsequent quarters and to remain in that vicinity through 2006.
+
+Household spending. We have lowered the projection for consumer spending in early 2005 to reflect the hits to real income from the higher energy prices to date and the slower hiring we are now forecasting.  But real income growth should pick up thereafter as the expected improvement in the job market bolsters wages and salaries and as energy prices turn down.  In 2006, income will get a further boost from the implementation of the Medicare prescription drug benefit.  We expect consumers to respond with a lag to the step-up in income.  Real PCE is expected to rise 3¾ percent in 2005-½ percentage point more than in 2004-and 4 percent in 2006.  As in the last Greenbook, we expect household net worth to rise about in line with disposable income over the next two years.
+
+Housing activity seems likely to enter 2005 with a good head of steam.  On the expectation that mortgage rates will remain low, we have left the projection for singlefamily starts at about 1.60 million units in both 2005 and 2006, essentially the same as the stellar pace we now anticipate for 2004.  Multifamily starts are projected at 350,000 units in both 2005 and 2006, also the same as in 2004.
+
+Business investment. We have lowered the projection for growth in real investment in equipment and software in 2005 to 8¾ percent, largely in response to hints that the lackluster performance of the high-tech sector will persist awhile longer.  Nonetheless, the broad contours of the projection are the same as in the September Greenbook: a partial-expensing-induced lull in spending in the first quarter of the year, followed by double-digit increases in subsequent quarters.  The reasons for the projected increases in E&amp;S are familiar:  They include the favorable prospects for sales, the supportive financing environment, ample stocks of liquid assets, and the ongoing need to replace or
+
+Projections of Real GDP
+
+(Percent change at annual rate from end of preceding period except as noted)
+
+<!-- missing-text -->
+
+upgrade aging equipment and software and take advantage of productivity-enhancing innovations.  We expect E&amp;S to rise 11 percent in 2006, with solid increases anticipated for both high-tech and other types of spending.  (The new corporate tax legislation is expected to have little effect on equipment spending over the next few years both because the legislation provides only a small, phased-in reduction in marginal tax rates and because the firms that will benefit from the one-time drop in taxes on repatriated earnings are large corporations that already have access to financing from various sources.)
+
+Investment in nonresidential construction continues to show a few tentative signs of improvement; we expect it to rise moderately in 2005 and 2006.  Outlays on non-office commercial buildings (mainly stores and warehouses), for which market conditions are quite positive, are already moving up.  And so long as business activity and hiring expand about as we are anticipating, construction in other major sectors should pick up a bit from the depressed levels of the past couple of years.  Spending on drilling and mining structures is expected to have another strong year in 2005 but-barring a further surge in energy prices-to turn down in 2006.
+
+Inventory investment is likely to remain elevated in early 2005 as businesses replenish stocks depleted by the tax-induced run-up in capital goods outlays late this year.  But given the ongoing improvements in supply-chain and logistics management, we anticipate that, in subsequent quarters, businesses will slow their stockbuilding to a rate that keeps inventory-to-sales ratios on a downward trend.  This downshift in inventory investment is expected to cut ¼ percentage point from real GDP growth in 2005; inventories are expected not to be a significant influence on growth in 2006.
+
+Government spending .  Consistent with the changes to our fiscal assumptions noted above, we have raised the projected increase in real federal expenditures for consumption and investment over the four quarters of 2005 to 3½ percent, mainly because of a larger increase in defense expenditures.  Real spending is expected to continue to grow in 2006, although less rapidly than in 2004 and 2005; we have built in small real increases in both the defense and the nondefense categories.  Meanwhile, an easing of budgetary pressures should allow state and local governments to speed up their spending after the exceptional restraint of the past couple of years.  In our forecast, real state and local purchases rise about 2½ percent per year in 2005 and 2006, after having risen only about ½ percent per year in 2003 and 2004.
+
+Net exports. The lower assumed path for the dollar led us to raise the projected growth in real exports to 7¼ percent per year, on average, in 2005 and in 2006, about the same as our current estimate for 2004.  On the import side, the weaker dollar and the downward revisions to our forecast for U.S. GDP growth have caused us to lower the forecast for import growth to 5¾ percent in 2005 and 8¼ percent in 2006.  All in all, real net exports are expected to deduct less than ¼ percentage point from real GDP growth in 2005 but about ½ percentage point from the growth in output in 2006. (The International Developments section provides more detail on the outlook for the external sector.)
+
+Aggregate Supply, the Labor Market, and Inflation
+
+We assume that potential GDP is rising 3.4 percent in 2004 and will rise 3.2 percent in 2005 and 3.3 percent in 2006.  With actual GDP projected to increase roughly ½ percentage point per year faster than potential, the output gap should shrink from about 1½ percent of GDP currently to ¼ percent of GDP by the fourth quarter of 2006.  The unemployment rate is projected to be little changed in 2005 and to fall to just a shade above 5 percent by the end of 2006-close to our estimate of the natural rate.  Although headline inflation is being pushed up in the near term by higher energy prices, we expect core inflation to remain subdued through 2006.
+
+Productivity and the labor market. We anticipate that hiring will remain relatively slow through the first quarter.  But by next spring, with output accelerating and concerns about the energy situation continuing to ease, businesses should begin stepping up their hiring.  Indeed, we expect job gains in the private sector to average a bit more than 200,000 per month over the last three quarters of 2005 and to slow only a little in 2006. We estimate that output per hour in the nonfarm business sector rose at an annual rate of just 1 percent in the third quarter of 2004 after having risen nearly 4 percent over the first half.  We expect productivity growth to be relatively slow again in the fourth quarter and to remain below its underlying structural pace as hiring picks up in 2005 and 2006.
+
+Prices and labor costs. We expect the four-quarter change in core PCE prices to total 1½ percent in 2005 and 2006-about the same as in 2004.  This forecast is shaped by several cross-currents.  On the one hand, a slight step-down in structural productivity growth and a narrowing in the margin of slack will act to raise core inflation.  On the other hand, the upward pressure from the pass-through of higher energy prices and a lower dollar will diminish as we move through the projection period.  Overall PCE inflation is forecast to drop from 2½ percent in 2004 to 1¼ percent in 2005 and 2006 as energy prices turn down.
+
+As for hourly compensation, the twelve-month change in the employment cost index has been running around 4 percent over the past couple of years; we expect it to remain in this neighborhood in 2005 and 2006.  Because of the higher price inflation in 2004, our current projection for the ECI in 2005 is one-tenth higher than the projection in the September Greenbook.
+
+Decomposition of Structural Labor Productivity
+
+(Percent change, Q4 to Q4, except as noted)
+
+<!-- missing-text -->
+
+NOTE. Components may not sum to totals because of rounding.  For multiyear periods, the percent change is the annual average from Q4 of the year preceding the first year shown to Q4 of the last shown.
+
+The Outlook for the Labor Market
+
+(Percent change, Q4 to Q4, except as noted)
+
+<!-- missing-text -->
+
+Inflation Projections
+
+(Percent change, Q4 to Q4, except as noted)
+
+<!-- missing-text -->
+
+- 1. December to December.
+
+Financial Flows and Conditions
+
+Total domestic nonfinancial debt is on track to grow about 8 percent this year, broadly consistent with our previous forecast.  We continue to project that debt growth will slow to a 7 percent pace in 2005 and 2006.  The forecasts for household and business borrowing have been revised down slightly since the last Greenbook, but we have revised up the path for government borrowing.
+
+The limited data on household borrowing that we received during the intermeeting period were consistent with our expectations.  We expect total household debt to expand nearly 10 percent during 2004, led by a double-digit increase in mortgage debt.  Going forward, we expect mortgage borrowing to slow as a result of smaller projected increases in house
+
+prices.  Overall, growth in total household debt should drop to about 7¼ percent per year in 2005 and 2006.
+
+Nonfinancial businesses borrowed a little less in the third quarter than we had anticipated in the last Greenbook, leading us to trim our estimate of business debt growth for 2004 ¼ percentage point, to 5¼ percent.  We continue to expect business borrowing to pick up gradually in 2005 and 2006.  That said, the temporary reduction in the tax on repatriated foreign business earnings should give businesses greater flexibility to use their cash balances to increase payouts to shareholders, to pay down some of their existing debt, or to finance future spending that otherwise would have been funded with new borrowing. As a result, we have marked down our forecast for business debt growth in 2005 to 6 percent-but left growth in 2006 at 6½ percent.
+
+Federal debt is expected to grow about 10 percent this year, a pace slightly less than last year's.  Consistent with the larger unified budget deficits in this Greenbook, we have revised up the projected growth of federal debt to about 8¾ percent per year, on average, over 2005 and 2006.  State and local government debt is expected to grow 7½ percent in 2004, down a bit from last year's pace.  Going forward, we expect growth in state and local debt to drop below 4 percent per year in 2005 and 2006, as local government finances improve and as the pool of refundable issues dwindles.
+
+The combination of somewhat slower income growth and higher opportunity costs resulting from tighter monetary policy is expected to reduce M2 growth from about 5¼ percent in the first three quarters of 2004 to 3½ percent in the fourth quarter. Opportunity costs are expected to increase slowly over the next two years.  Consequently, M2 is expected to grow 2½ percent in 2005 and 3½ percent in 2006-significantly less than the growth in nominal income.
+
+Alternative Simulations
+
+In this section, we evaluate alternatives to the staff forecast using simulations of the FRB/US model.  In the first scenario, the recent run-up in oil prices sparks a sharper contraction in consumer and business spending than we have allowed for in the baseline projection.  In the second, the expiration of the partial-expensing tax incentive does not produce a significant pothole in investment next year.  The next two scenarios consider contrasting risks for structural productivity growth:  One is that we have underestimated how fast it has been rising; the other is that its growth rate will slow over the projection period to a pace closer to its long-run average.  The fifth scenario considers another
+
+(Percent change, annual rate, from end of preceding period, except as noted)
+
+<!-- missing-text -->
+
+- 1. Average for the final quarter of the period.
+
+supply-side risk: the possibility that this year's run-up in energy prices will be more inflationary than we expect.  In all these scenarios, the nominal funds rate is assumed to follow its baseline path.  The final scenario assumes that the funds rate follows a path consistent with current readings from the futures market.
+
+Faltering expansion. As discussed earlier, we believe that this year's run-up in oil prices has significantly restrained real activity.  However, we may have underestimated its adverse effects:  In the 1970s and early 1980s, large increases in oil prices were
+
+associated with outsized declines in consumer spending-possibly reflecting nonlinear effects.  Moreover, the recent sluggish pace of hiring may be an indication that higher oil prices have increased business caution even more than we think.  The evidence in favor of such nonlinear effects is inconclusive, but we cannot rule them out.  In this scenario, we slow the rise of consumer spending through mid-2005 to incorporate more of the unusual weakness that was evident during the oil shocks of the 1970s and early 1980s. We also restrain the pace of hiring and hold growth in E&amp;S spending 4 percentage points (annual rate) below baseline through the middle of next year.  We assume that thereafter, as 2005 unfolds, households and businesses become increasingly convinced that the worst of the oil shock is over and their confidence starts to recover.  On net, real GDP increases only 2 percent at an annual rate in the current quarter and 2½ percent in the first half of next year; in subsequent quarters, real growth is a bit faster than in the baseline. The unemployment rate reaches 5¾ percent by the end of 2005 but is down to 5¼ percent at the end of 2006.  Inflation is a touch below baseline in 2006.
+
+Stronger investment. In the Greenbook forecast, real expenditures on equipment and software decelerate almost 4 percentage points in 2005, largely as a consequence of the expiration of partial expensing.  Gauging the effects of tax incentives on investment is difficult, and recent increases in E&amp;S may reflect, to a greater degree than we have been assuming, underlying strength rather than the partial-expensing provision.  In this scenario, we assume that partial expensing has had-and will continue to have-little effect on equipment investment; we thus ascribe virtually all the recent strength in E&amp;S to fundamentals other than tax effects.  This alternative assumption virtually eliminates the pothole in business spending in early 2005 and lifts growth in real E&amp;S in 2005 to about the 14 percent pace we now expect for the second half of 2004.  As a result, real GDP rises about 4¼ percent next year and 4½ percent in 2006, and the unemployment rate moves down to 4¾ percent by the end of 2006.  Inflation is little changed from the Greenbook projection as price pressures from higher spending are about offset by a faster pace of capital deepening.
+
+Higher productivity. Recent employment gains have once again fallen short of our expectations.  One reason may be that structural labor productivity is higher than we now estimate and accordingly the gap between actual and structural productivity is smaller.  If so, the workforce is not being stretched as much as we think, and firms have less need to engage in 'catch up' hiring.  In this scenario, we assume that, since the start of 2003, structural productivity has been growing ½ percentage point per year faster than the staff estimates and will continue to do so over the next two years; we also assume that,
+
+because the faster productivity growth has been occurring for nearly two years, it has already been recognized by participants in financial markets.  The brighter outlook for structural productivity growth induces a commensurate increment to real GDP growth, which runs about ½ percentage point per year faster than in the baseline.  Because of the greater productivity gains, inflation is a touch lower than in the baseline.
+
+Productivity slowdown. In the baseline projection, structural labor productivity increases 2¾ percent in both 2005 and 2006, continuing the run of elevated gains that started in the mid-1990s.  However, this pace is above the longer-run average, and history suggests that productivity booms eventually die out.  (In this regard, it is noteworthy that prices of high-tech goods are no longer declining as rapidly as they did in the late 1990s.) In this scenario, the current productivity boom largely fades away over the next two years, and structural labor productivity growth slows to 2 percent in 2006.  Consumption and investment moderate in response to the less-favorable prospects for future income and earnings.  Although the stock market is down substantially (because the slowing in productivity comes as a surprise to investors), its negative effects on aggregate demand are mitigated by a drop in long-term interest rates.  Under these conditions, real GDP increases 3¼ percent in 2006.  Inflation is higher than in the baseline because wages are slow to adjust to the smaller gains in structural productivity, which results in greater upward pressure on unit labor costs.
+
+More inflation. Since the mid-1980s, the sensitivity of inflation to oil price movements appears to have fallen by half, even after controlling for the drop in the economy's energy intensity.  One explanation for this shift may be that inflation expectations are now better anchored than they were during the oil price spikes of the 1970s.  Although the experience of the past twenty years, coupled with the relative stability of current readings on expected inflation, supports our belief that expectations will remain well anchored, we may be too optimistic.  In this scenario, we allow long-run inflation expectations to rise enough to double the effect of energy prices on core PCE prices built into the baseline forecast.  As a result, core inflation picks up to 1¾ percent in both 2005 and 2006.  Real activity is a bit stronger than in the staff projection because, with the nominal funds rate held unchanged at its baseline path, real interest rates are lower.
+
+Market-based funds rate. Quotes from futures markets are consistent with a more pronounced tightening in monetary policy than that incorporated into the staff outlook; specifically, market-based expectations of the funds rate are about 50 basis points above baseline by the end of 2005 and throughout 2006.  The higher level of the funds rate has
+
+only a small effect on real activity and inflation next year, but the effects of tighter policy are more noticeable in 2006, when real GDP rises only 3½ percent and the unemployment rate ends the year at 5½ percent.
+
+Selected Greenbook Projections and 70 Percent Confidence Intervals Derived from Historical Forecast Errors and FRB/US Simulations
+
+<!-- missing-text -->
+
+NOTE. Shocks underlying stochastic simulations are randomly drawn from the 1978-2003 set of model equation residuals.
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+7.0
+
+6.5
+
+6.0
+
+5.5
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+Forecast Confidence Intervals and Alternative Scenarios
+
+Confidence Intervals Based on FRB/US Stochastic Simulations
+
+<!-- missing-text -->
+
+Productivity slowdown
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Stronger investment
+
+Higher productivity
+
+Real GDP
+
+<!-- missing-text -->
+
+Unemployment Rate
+
+<!-- missing-text -->
+
+PCE Prices excluding Food and Energy
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+More inflation
+
+Market-based funds rate
+
+(This page intentionally blank.)
+
+STAFF PROJECTIONS OF CHANGES IN GDP, PRICES, AND UNEMPLOYMENT (Percent, annual rate)
+
+<!-- missing-text -->
+
+- 1. For all urban consumers.
+- 2. Level, except as noted.
+- 3. Percent change from two quarters earlier; for unemployment rate, change in percentage points.
+- 4. Percent change from four quarters earlier; for unemployment rate, change in percentage points.
+
+Strictly Confidential &lt;FR&gt; Class II FOMC
+
+REAL GROSS DOMESTIC PRODUCT AND RELATED ITEMS, ANNUAL VALUES (Seasonally adjusted annual rate)
+
+<!-- missing-text -->
+
+- 1. Changes are from fourth quarter to fourth quarter.
+- 2. Percent difference between potential and actual.  A positive number indicates that the economy is operating below potential.
+- 3. Private-industry workers.
+
+Strictly Confidential &lt;FR&gt; Class II FOMC
+
+REAL GROSS DOMESTIC PRODUCT AND RELATED ITEMS, QUARTERLY VALUES (Seasonally adjusted, annual rate except as noted)
+
+<!-- missing-text -->
+
+- 1. Percent difference between potential and actual.  A positive number indicates that the economy is operating below potential.
+- 2. Private-industry workers.
+
+Strictly Confidential &lt;FR&gt; Class II FOMC
+
+REAL GROSS DOMESTIC PRODUCT AND RELATED ITEMS, QUARTERLY VALUES (Seasonally adjusted, annual rate except as noted)
+
+<!-- missing-text -->
+
+- 1. Percent difference between potential and actual.  A positive number indicates that the economy is operating below potential.
+- 2. Private-industry workers.
+
+CONTRIBUTIONS TO GROWTH IN REAL GROSS DOMESTIC PRODUCT AND RELATED ITEMS
+
+<!-- missing-text -->
+
+November 3, 2004
+
+CONTRIBUTIONS TO GROWTH IN REAL GROSS DOMESTIC PRODUCT AND RELATED ITEMS
+
+<!-- missing-text -->
+
+November 3, 2004
+
+Staff Projections of Federal Sector Accounts and Related Items (Billions of dollars except as noted)
+
+-192
+
+-118
+
+2693
+
+48
+
+129
+
+15
+
+2348
+
+248
+
+-346
+
+0.0
+
+-144
+
+793
+
+1900
+
+117
+
+0.0
+
+0.1
+
+16
+
+-0
+
+30
+
+45
+
+-360
+
+95
+
+15
+
+-353
+
+528
+
+673
+
+2665
+
+247
+
+1879
+
+539
+
+0.1
+
+<!-- missing-text -->
+
+-342
+
+2323
+
+1. OMB's July 2004 baseline surplus estimates are -$444 billion in FY 2004, -$292 billion in FY 2005, and -$234 billion in  mates under enactment of its proposed policies are FY 2006, and surplus esti -$445 billion, -$331 billion, and -$261 billion respectively.  CBO's September 2004 baseline surplus estimates are -$422 billio on in FY 2005 and -$298 billion in FY 2006. Budget n in FY 2004, -$348 billi receipts, outlays, and surplus/deficit include corresponding social security (OASDI) categories. The OASDI surplus and the Postxcluded from the on-budget surplus and shown al Service surplus are e separately as off-budget, as classified under current law. 2. Other means of financing are checks issued less checks paid, accrued items, and changes in other financial assets and li abilities. 3. Gross saving is the current account surplus plus consumption of fixed capital of the general government as well as gover nment enterprises. 4. HEB is gross saving less gross investment (NIPA) of the federal government in current dollars, with cyclically sensitiveted to the staff's measure of potential output and the receipts and outlays adjus NAIRU. Quarterly figures for change in HEB and FI are not at annual rates.  The sign on Change in HEB, as a percent of nominal  rsed.  FI is the weighted difference of discretionary potential GDP, is reve changes in federal spending and taxes in chained (2000) dollars, scaled by real GDP.  The annual FI estimates are on a calendar I and the change in HEB, positive values indicate ye r basis. Also, for F aggregate demand stimulus. a--Actual
+
+November 3, 2004
+
+Change in Debt of the Domestic Nonfinancial Sectors
+
+(Percent)
+
+Strictly Confidential (FR) Class II FOMC
+
+Nominal
+
+GDP
+
+6.3
+
+4.6
+
+2.7
+
+3.8
+
+6.2
+
+6.0
+
+5.2
+
+5.6
+
+7.4
+
+6.6
+
+4.8
+
+5.2
+
+4.8
+
+5.2
+
+5.4
+
+5.5
+
+5.8
+
+5.6
+
+5.5
+
+5.4
+
+<!-- missing-text -->
+
+2.6.3  FOF
+
+November 3, 2004
+
+Flow of Funds Projections: Highlights
+
+Strictly Confidential (FR)
+
+(Billions of dollars at seasonally adjusted annual rates except as noted)
+
+Class II FOMC
+
+2006
+
+2005
+
+2004
+
+Q4
+
+Q3
+
+Q2
+
+Q1
+
+Q4
+
+Q3
+
+Q2
+
+Q1
+
+Q4
+
+Q3
+
+2006
+
+2005
+
+2004
+
+2003
+
+Category
+
+1789.
+
+1609.5
+
+552.
+
+113
+
+1
+
+1718.1
+
+13.
+
+-71.0
+
+-71.0
+
+612.5
+
+129.
+
+10.3
+
+214.9
+
+752.8
+
+62.8
+
+183.2
+
+101.9
+
+205.7
+
+3.2
+
+607.8
+
+66.8
+
+421.0
+
+254.8
+
+512.2
+
+95.3
+
+Net funds raised by domestic
+
+<!-- missing-text -->
+
+10.3
+
+12.3
+
+115.1
+
+538.8
+
+consumption of fixed capital and net capital transfers. 4. NIPA state and local government saving plus 5. Average as the average of period-end debt positions) divided by nomin debt levels in the period (computed curities. 6. Excludes government-insured mortgage pool se onally adjusted.
+
+Note. Data after 2004:Q2 are staff projections. 1. For corporations: Excess of capital expenditures over U.S. internal funds. 2. Includes change in liabilities not shown in lines 8 and 9. 3. Average debt levels in the period (computed as the average of period-end debt positions)                 n.s.a.  Not seas divided by disposable personal income.
+
+(This page intentionally blank.)
+
+International Developments
+
+Recent data suggest that foreign output decelerated a bit more in the third quarter than we had previously expected, although growth remains solid.  Over the intermeeting period, oil prices have risen, and the exchange value of the dollar has declined.  These developments contribute to a slight downward revision to our projection of foreign growth in the current quarter and in the next two years.  Having reached 4¼ percent in the first half of the year, foreign growth is projected to average around 3¼ percent at an annual rate over the forecast period.
+
+Europe, Japan, and emerging Asia have generally reported weaker indicators recently, and the effects of higher oil prices and a lower dollar are expected to be negative for those regions.  Notwithstanding some benefits from higher oil prices, growth in Mexico and Canada is projected to moderate because of a slowing in U.S. manufacturing growth, monetary tightening by their respective central banks, and, in the case of Canada, currency appreciation.  Chinese GDP growth was surprisingly strong in the third quarter, but other indicators have weakened, and we expect growth there to moderate as investment cools.  High energy prices have contributed to increased foreign headline inflation this year, but to date we have seen little spillover to core consumer prices.  We continue to expect that headline inflation will ease in coming quarters as oil prices decline, some currencies appreciate, and excess capacity persists in many countries.
+
+(Percent change from end of previous period, s.a.a.r.)
+
+<!-- missing-text -->
+
+NOTE. Changes for years are measured as Q4/Q4; for half-years, Q2/Q4 or Q4/Q2.
+
+The exchange value of the dollar against the major currencies has declined about 4½ percent since the September FOMC meeting in response to weaker-than-expected U.S. economic data and renewed market concerns over the financing burden of the U.S. current account deficit.  The path projected for the broad real dollar index has been
+
+marked down just over 2 percent from the September Greenbook forecast, again incorporating depreciation at an annual rate of 1½ percent over the next two years.
+
+We estimate that real net exports subtracted about ¾ percentage point from U.S. GDP growth in the third quarter, as imports continued to outpace exports.  The negative contribution of net exports is projected to abate to near zero in the fourth quarter, in part reflecting the decline in the dollar, and to turn slightly positive in the first half of 2005 as import growth is temporarily held down by the expiration of partial-expensing provisions for capital goods.  The net export contribution is projected to turn negative again in the second half of 2005 and net exports are projected to subtract a bit more than ½ percentage point from GDP in 2006, as the waning of the effects of previous dollar depreciation results in both an increase in U.S. import demand and a step-down in the growth of real exports.  Import growth in 2006 is also supported by a firming in U.S. growth.
+
+The U.S. current account deficit is estimated to have reached $690 billion in the third quarter and is projected to increase to near $770 billion, or about 6½ percent of GDP, in the current quarter.  After widening marginally during 2005, the current account deficit is projected to expand rapidly the following year and to reach nearly $900 billion by the fourth quarter of 2006, a record 6¾ percent of GDP.  The path of the current account balance is more negative going forward than that in the September Greenbook, owing to the effect of higher oil prices.
+
+Oil Prices
+
+The spot price of West Texas intermediate (WTI) crude oil surged to a record nominal high of $55.23 on October 25.  Since then, it has backed off to about $50 per barrel but remains roughly $6 per barrel higher than in mid-September.  The run-up in the spot price of WTI over the intermeeting period resulted in large part from Hurricane Ivan's impact on oil production in the Gulf of Mexico, which caused extensive damage to supply pipelines and other infrastructure.  The production outage led to a notable decline in oil inventories and raised concerns about the adequacy of heating oil supplies during the winter.  With lean inventories, strong global demand, ongoing threats to supply in several countries, and limited capacity for OPEC to increase production, the price of WTI remains high and very volatile.
+
+Notably, the recent rise in the price of WTI and other types of light, low-sulfur (sweet) crude has been much larger than that for heavier, more sulfurous (sour) crudes, such as
+
+Dubai.  The premium that WTI fetches over Dubai has historically run around $3 per barrel.  In recent weeks, that premium skyrocketed to as high as $18 per barrel, reflecting limited capacity in the short run for refiners to process the lower grades of oil, increased supply of sour crude from the Middle East and, importantly, Hurricane Ivan's curtailment of predominantly sweet crude production in the Gulf of Mexico.
+
+Our projection for the spot price of WTI, which remains in line with quotes from futures markets, stands at about $51 per barrel in the current quarter and gradually declines to less than $43 by the end of 2006.  Compared with the September Greenbook, this projection is about $7.50 per barrel higher in the near term and $6.50 higher at the end of 2006.  As the price of WTI has increased more than other types of oil, we have made smaller, though still sizable, upward revisions to our projection for the average price of imported oil.  We project the price of imported oil to average just over $41 per barrel in the current quarter and to ease to $39 by the end of 2006; this projection is about $3.50 per barrel higher in 2005 and about $5 higher in 2006 than in the previous forecast.  The steeper decline in the price of WTI relative to the import price reflects our assumption that the unusually large spread between the two will narrow as production is restored in the Gulf of Mexico and as capacity to refine the lower grades of crude oil increases.
+
+International Financial Markets
+
+The trade-weighted exchange value of the dollar, as measured by the staff's major currencies index, declined 4½ percent on net over the intermeeting period.  Several weaker-than-expected U.S. economic data releases, including the September employment report, weighed on the dollar.  In addition, renewed concerns over the financing requirements of the U.S. current account deficit gained prominence following the releases in mid-October of August trade data, which showed a larger-than-expected deficit, and of August Treasury International Capital data, which showed a decline from the previous month in private net foreign purchases of U.S. securities.  Market analysts noted comments by several Federal Reserve officials on the implications of the current account deficit for the market value of the dollar.  On a bilateral basis, the dollar depreciated against all the currencies in the major currencies index.  The dollar's sharpest declines, about 6 percent, were against the Canadian and Australian dollars, which may have benefited from the recent strength of oil and other commodity prices.
+
+The movement of the dollar against emerging-market currencies over the intermeeting period was more moderate, and on a trade-weighted basis, the dollar declined only about
+
+½ percent versus the currencies of our other important trading partners.  The dollar fell between 1 and 3 percent versus the Korean won, Taiwan dollar, and Singapore dollar.
+
+Taking into account developments since the last Greenbook, we have marked down the starting point for the path of the broad real dollar a bit more than 2 percent.  We have left essentially unchanged the annual rate of dollar depreciation through 2006, at about 1½ percent.  The ongoing need to finance the widening current account deficit is expected to exert downward pressure on the dollar in the future, although the exact timing and extent of such adjustments are obviously quite uncertain.
+
+Short-term interest rates were little changed in the euro area, the United Kingdom, and Japan over the period.  Canadian short-term interest rates increased about 20 basis points; the Bank of Canada raised its key policy rate 25 basis points to 2.50 percent on October 19.  European ten-year sovereign yields declined 10 basis points over the period, reflecting expectations of a reduced pace of future monetary tightening, while Japanese benchmark yields rose slightly.  Equity prices rose slightly, on balance, in European markets over the period, but Japanese stock prices declined moderately.
+
+In emerging markets, the People's Bank of China increased bank deposit and lending rates about ¼ percentage point on October 28, its first such move in about a decade. There was little reaction to the announcement in offshore forward exchange rates for the renminbi; market analysts were split as to whether the PBOC's move increased or decreased the likelihood of a change in China's exchange rate regime in the near future. Equity prices declined in several emerging Asian economies, reportedly in part on concerns about prospects for semiconductor sales, but rose in Latin America over the period.  Emerging market bond spreads were little changed.
+
+.  Th esk did not intervene for the accounts of e D the System or the Treasury.
+
+Foreign Industrial Countries
+
+We estimate that real GDP growth in the foreign industrial countries dropped from an annual rate of 3 percent in the second quarter to slightly below 2½ percent in the third quarter, with the pace of activity having declined in all major advanced economies.  The annual rate of expansion should remain near 2½ percent over the remainder of the forecast period, as growth in Japan and the euro area picks up to near its potential rate,
+
+whereas Canadian growth slows further from robust growth in the first half of this year. We expect that twelve-month headline inflation rates in the foreign industrial countries will tick up in the current and next quarters, and inch down subsequently.
+
+For Japan's economy, weaker-than-expected data on exports, machinery orders, household spending, and the all-industries index suggest that third-quarter growth slowed to an annual rate of around ½ percent.  Notwithstanding the negative effect of elevated oil prices and prospects for slowing growth in Japanese exports, we project that continued gradual strengthening in Japan's labor market will help growth to regain its footing by the beginning of next year.  Growth is projected to average about 1¾ percent thereafter, a slower pace than in the September Greenbook.  Deflation has proved to be stubborn, but we expect twelve-month CPI inflation to turn positive at the end of next year.  We have penciled in a slight rise in policy rates in 2006, when we assume the BOJ will begin exiting from quantitative easing.
+
+Weaker consumption data in most of the major euro-area nations, as well as softer industrial production and merchandise trade data, led us to estimate that euro-area GDP growth faltered to around 1¼ percent in the third quarter.  Going forward, private consumption and investment are projected to gradually revive, and growth in GDP should firm to around 1¾ percent (near its potential rate) in 2005 and 2006.  We forecast that twelve-month inflation, boosted by higher oil and administered prices, will remain at or above 2 percent for most of 2005, marking the sixth consecutive year that inflation has remained above the ECB's ceiling.  The ECB is assumed to begin tightening policy in mid-2005.
+
+The preliminary estimate of third-quarter real GDP in the United Kingdom confirmed a sharp slowdown in output growth to 1½ percent, as rising interest rates and a deceleration of house prices have weighed on domestic spending.  Growth is projected to recover to 2½ percent through 2005 and to remain near there in 2006.  We assume that the Bank of England will tighten monetary policy a further 25 basis points early next year and then keep policy on hold through the end of 2006.  This should be sufficient to prevent inflation from moving above the 2 percent target rate.
+
+After an especially strong second quarter, we estimate that GDP growth in Canada slowed to about 3¾ percent in the third quarter as exports fell following double-digit growth in the second quarter.  We expect a gradual further deceleration of real GDP growth to around 3 percent by 2006.  In October, the Bank of Canada raised its key
+
+policy rate.  Despite the recent run-up in the Canadian dollar, we assume a further 200 basis points of tightening over the forecast horizon, consistent with keeping core inflation around the 2 percent midpoint of the Bank's inflation target range.
+
+Other Economies
+
+We estimate that output growth in the developing economies slowed from nearly 5 percent in the second quarter to just below 4½ percent in the third quarter and will generally maintain that pace through the end of the forecast period.  This forecast is a touch weaker than in the previous Greenbook as downward revisions to our outlook for Asia more than outweighed expected improvements in the oil-producing countries, including Mexico.
+
+In emerging Asia, we estimate that growth stepped down a bit in the third quarter. Although growth rose to an annual rate of 10 percent in China, indicators from elsewhere in the region showed some weakness.  In Singapore, real GDP declined in the third quarter, following expansion of nearly 12 percent in the first half.  In addition, industrial production data have softened recently in other ASEAN countries and in Taiwan.  We expect that growth in emerging Asia will average 4½ percent during 2005 and 2006; this projection is a bit weaker than that in the September Greenbook, largely because of the higher path of oil prices and the slightly weaker outlook for industrial countries.
+
+In Latin America, growth in Mexican industrial production and manufactured exports has recently slowed from their rapid first-half pace, suggesting that a moderation in the growth of U.S. manufacturing is beginning to show through to Mexico.  That weakness is partly offset by the positive impact of higher oil prices on Mexican government spending. We project a moderate slowing of Mexican growth in the current quarter and in the first half of next year, followed by a mild increase thereafter.  In Brazil, where third-quarter growth fell to an estimated 4 percent from exceptionally high rates earlier this year, we expect high real interest rates to contribute to a further deceleration of growth to 3 percent in 2005 and 2006.
+
+Recent increases in oil prices have led us to raise our projection for inflation in the developing economies by about ¼ percentage point throughout the forecast horizon.  We now expect average inflation in the developing economies to remain around 4½ percent through the first quarter of next year before slowing to 3 percent by the end of 2006.
+
+Prices of Internationally Traded Goods
+
+For the third quarter, prices of imported core goods rose at an annual rate of 2¼ percent, down from the 5¼ percent pace in the first half of the year as prices of non-oil industrial supplies decelerated.  For the fourth quarter, we project core import price inflation to pick up to 5 percent as some continued effects of the earlier rise in primary commodity prices are augmented by the recent fall in the dollar and pickup in natural gas prices.
+
+With subdued foreign inflation, little change in commodity prices (as embodied in futures prices), and only a modest further depreciation of the dollar, core import price inflation is expected to be about 1 percent in 2005 and nearly zero in 2006.  Another factor that will hold down import prices is the expiration of the Multifiber Arrangement at the end of this year, which is expected to lead to a substantial fall in imported apparel prices, reducing core import price inflation more than ½ percentage point in both 2005 and 2006.
+
+Having reached almost 7 percent in the first half of 2004, the inflation rate for exported core goods in the third quarter was only 2¼ percent, held down by falling prices for agricultural goods.  In the fourth quarter, core export prices are expected to rise about 3 percent, as higher prices for intermediate materials more than offset continued weakness in agricultural prices.  In 2005 and 2006, core export price inflation is projected to be in line with domestic price inflation.
+
+(Percent change from end of previous period excepted as noted; s.a.a.r.)
+
+<!-- missing-text -->
+
+NOTE. Prices for core exports and non-oil core imports, which exclude computers and semiconductors, are on a NIPA chain-weighted basis.
+
+The price of imported oil for multiquarter periods is the price for the final quarter of the period.
+
+Trade in Goods and Services
+
+Nominal imports of goods and services rebounded in August from a weak level in July, reflecting higher prices for imported oil and a one-off surge in services imports due to payments for broadcast rights for the 2004 Summer Olympics.  For the third quarter as a whole, we estimate that real imports of goods and services rose nearly 8 percent (a.r.), well below the rapid first-half pace as core imports slowed abruptly.  In the fourth quarter, growth of real imports should edge down to 7½ percent.  This growth rate is about 2 percentage points lower than in our September Greenbook forecast, reflecting the downward revision to U.S. GDP growth and the lower level of the dollar.
+
+After topping 9 percent for 2004 as a whole, growth of real imports of goods and services is expected to slow to 5¾ percent in 2005 before picking up to 8¼ percent in 2006. Importantly influencing the contour of the forecast is the effect of the partial-expensing provisions on imports of capital goods; this boosts imports in the second half of this year and creates a drag in 2005 after its expiration at end-2004.  Import growth rebounds in 2006 as this drag is no longer present.  The pickup in import growth in 2006 also reflects an acceleration of U.S. GDP, as well as a continuing decline in import price inflation. Our projection for import growth, particularly in 2005, is lower than it was in the September Greenbook, as higher core import prices, partly from the weaker dollar, and the downward revision to U.S. GDP reduce projected core imports.
+
+Although nominal exports of goods and services rebounded in July from a weak level in June, they were little changed in August.  As a result, we estimate that growth in real exports of goods and services slowed to 4½ percent (a.r.) in the third quarter from 7¼ percent in the first half.  The write-down for the third quarter from the September Greenbook (when we had penciled in 8½ percent growth) stems from weaker incoming data for a number of components, particularly semiconductors, computers, and services. In the fourth quarter, we project that export growth will rebound to about 10½ percent, with the pickup broadly based.  Exports of semiconductors and services are expected to bounce back from their weak third-quarter pace, while core exports are supported by a projected rise in foreign GDP growth and a weaker dollar.
+
+We expect export growth in 2005 of about 7½ percent, a little higher than the average pace in 2004.  Growth in exports of semiconductors, computers, and services rises, but core exports grow more slowly, partly because of expected deceleration of foreign GDP. In addition, the after-effects of the expiration of partial expensing provisions (at the end of 2004) slow exports of core goods, computers, and semiconductors that are used abroad
+
+as intermediate goods in the production of capital goods that are in turn exported to the United States.  In 2006, export growth edges down to 7 percent, reflecting a lessening of the boost to core exports and services resulting from dollar depreciation, as well as the slight waning of growth in foreign GDP.  Export growth in both 2005 and 2006 is a touch higher than forecast in the September Greenbook, with a weaker path for the dollar boosting exports of services and core goods.
+
+Summary of Staff Projections for Trade in Goods and Services
+
+(Percent change from end of previous period, s.a.a.r.)
+
+<!-- missing-text -->
+
+NOTE. Changes for years are measured as Q4/Q4; for half-years, Q2/Q4 or Q4/Q2.
+
+Alternative Simulations
+
+We project that activity in our trading partners will continue to show solid growth over the forecast period.  However, foreign growth may be less robust than expected.  In our first alternative simulation, we used the FRB/Global model to assess the effects of an autonomous fall in foreign demand that would reduce spending 1 percent of GDP in all major foreign industrial economies in the absence of endogenous adjustment.  The shock begins in the first quarter of 2005 and is phased in gradually over four quarters.  The shock reduces U.S. real net exports directly through lower foreign demand for U.S.produced goods and indirectly through a modest dollar appreciation that induces substitution away from U.S.-produced goods.  As a result, U.S. GDP growth declines 0.3 percentage point relative to baseline in 2005 and about 0.2 percentage point in 2006. Core PCE inflation falls slightly below baseline because of both a decline in import prices associated with the dollar appreciation and the effects of weaker aggregate demand on domestic prices.
+
+In our second alternative scenario, we considered the effects of a rise in oil prices of $20 per barrel relative to our baseline path.   The shock begins in the first quarter of 2005, and
+
+we assume that households and firms believe the shock is permanent.  We used the perfect foresight version of the FRB/US model to implement this simulation because it is better suited to capturing how a permanent oil shock affects expectations of future real income and the marginal return to investment.   The oil shock weakens real GDP growth about ½ percentage point in 2005, as consumer spending falls in response to the reduction in permanent income and as firms reduce investment because of the lower expected return.  The oil price shock puts upward pressure on production costs and prices, causing the core PCE inflation rate to rise roughly 0.3 percentage point above baseline in 2005 and 2006.
+
+Alternative Simulations: Weaker Foreign Demand and Higher Oil Prices (Percent change from previous period, annual rate)
+
+<!-- missing-text -->
+
+Note.  H1 is Q2/Q4; H2 is Q4/Q2.  In the 'Weaker foreign demand' simulation, the nominal federal funds rate remains unchanged from baseline.  In the 'Higher Oil Prices' simulation, the real federal funds rate is unchanged from baseline over the simulation horizon (and then adjusts according to a Taylor rule).
+
+Strictly Confidential (FR)                                                         November 3, 2004
+
+Class II FOMC
+
+OUTLOOK FOR FOREIGN REAL GDP AND CONSUMER PRICES: SELECTED COUNTRIES (Percent, Q4 to Q4)
+
+___________________________________________________________________________________________________
+
+-----Projected----
+
+Measure and country                   1998   1999   2000   2001   2002   2003   2004   2005   2006
+
+___________________________________________________________________________________________________
+
+REAL GDP (1)
+
+<!-- missing-text -->
+
+------------ of which:
+
+Total foreign                          1.5    5.0    4.3    0.3    3.0    2.8    3.7    3.3    3.2
+
+Industrial Countries                2.7    4.4    3.6    0.7    2.7    1.9    2.9    2.6    2.5
+
+Canada                          4.4    5.9    4.1    1.4    3.8    1.7    3.6    3.3    3.1
+
+Japan                          -1.2    0.4    3.9   -2.2    1.8    3.5    2.4    1.7    1.8
+
+United Kingdom                  2.8    3.3    3.0    2.2    1.9    2.9    2.6    2.4    2.2
+
+Euro Area (2)                   2.0    3.9    2.6    0.8    1.1    0.7    1.9    1.8    1.8
+
+Germany                       0.7    3.3    1.9    0.5    0.5    0.0    1.4    1.3    1.4
+
+Developing Countries               -0.3    6.1    5.3   -0.3    3.4    4.2    5.1    4.3    4.4
+
+Asia                             -2.2    8.6    5.9    0.9    5.8    6.0    5.4    4.6    4.6
+
+Korea                          -5.4   11.4    4.5    4.7    7.7    4.1    2.9    4.0    4.4
+
+China                           9.8    7.0    7.6    6.9    8.3   10.0    8.7    7.0    7.5
+
+Latin America                     1.2    4.2    4.4   -1.3    1.4    2.2    4.8    4.0    4.2
+
+Mexico                          2.9    5.4    4.8   -1.2    1.9    2.0    4.8    4.1    4.4
+
+Brazil                         -1.6    3.4    3.8   -0.8    3.8   -0.1    5.2    3.0    3.0
+
+CONSUMER PRICES (3)
+
+-------------------
+
+<!-- missing-text -->
+
+of which:
+
+Industrial Countries                0.9    1.1    1.7    0.9    2.1    1.3    1.6    1.4    1.5
+
+Canada                          1.1    2.4    3.1    1.1    3.9    1.7    2.5    1.8    2.0
+
+Japan                           0.7   -1.1   -1.2   -1.3   -0.5   -0.4   -0.2    0.1    0.3
+
+United Kingdom (4)              1.4    1.2    1.0    1.0    1.6    1.3    1.2    1.6    2.0
+
+Euro Area (2)                   0.8    1.5    2.5    2.1    2.3    2.0    2.2    1.8    1.7
+
+Germany                       0.3    1.1    1.7    1.5    1.2    1.2    2.0    1.1    0.7
+
+Developing Countries                9.0    4.6    4.1    2.8    2.9    3.0    4.4    3.5    3.1
+
+Asia                              4.4    0.1    1.8    1.1    0.6    2.1    4.0    2.8    2.4
+
+Korea                           5.8    1.2    2.6    3.4    3.4    3.5    3.8    4.4    3.3
+
+China                          -1.2   -1.0    0.9   -0.1   -0.6    2.6    4.7    2.2    1.9
+
+Latin America                    15.4   12.5    8.4    5.3    6.4    4.9    5.3    4.4    4.2
+
+Mexico                         17.3   13.5    8.7    5.1    5.3    3.9    5.0    4.0    3.8
+
+Brazil                          2.0    8.4    6.4    7.5   10.7   11.5    7.1    6.0    5.6
+
+___________________________________________________________________________________________________
+
+1. Foreign GDP aggregates calculated using shares of U.S. exports. 2. Harmonized data for euro area from Eurostat. 3. Foreign CPI aggregates calculated using shares of U.S. non-oil imports. 4. CPI excluding mortgage interest payments, which is the targeted inflation rate.
+
+Strictly Confidential (FR)                                                                    November 3, 2004
+
+Class II FOMC
+
+OUTLOOK FOR FOREIGN REAL GDP AND CONSUMER PRICES: SELECTED COUNTRIES
+
+(Percent changes)
+
+______________________________________________________________________________________________________________
+
+----------------------- Projected ---------------------------
+
+2004                      2005                      2006
+
+-----------------------   -----------------------   -----------------------
+
+Measure and country                  Q1    Q2    Q3    Q4      Q1    Q2    Q3    Q4      Q1    Q2    Q3    Q4
+
+______________________________________________________________________________________________________________
+
+<!-- missing-text -->
+
+------------
+
+of which:
+
+CONSUMER PRICES (3)
+
+-------------------                --------------------------- Four-quarter changes --------------------------
+
+Industrial Countries             0.8   1.5   1.5   1.6     1.7   1.5   1.6   1.4     1.4   1.4   1.4   1.5
+
+of which:
+
+Canada                       0.8   2.2   2.0   2.5     2.6   2.1   2.3   1.8     1.8   1.9   2.0   2.0
+
+Japan                       -0.3  -0.2  -0.2  -0.2    -0.2  -0.2   0.0   0.1     0.1   0.1   0.2   0.3
+
+United Kingdom (4)           1.2   1.4   1.2   1.2     1.2   1.5   1.7   1.6     1.7   1.8   1.9   2.0
+
+Euro Area (2)                1.7   2.3   2.2   2.2     2.3   2.0   1.9   1.8     1.7   1.7   1.7   1.7
+
+Germany                    1.0   1.9   2.0   2.0     1.9   1.5   1.3   1.1     1.0   0.9   0.8   0.7
+
+Developing Countries             3.0   3.6   4.5   4.4     4.4   4.2   3.7   3.5     3.3   3.2   3.2   3.1
+
+Asia                           2.2   3.3   4.2   4.0     4.1   3.6   3.0   2.8     2.6   2.5   2.4   2.4
+
+Korea                        3.3   3.4   4.3   3.8     4.2   4.9   4.3   4.4     3.9   3.7   3.6   3.3
+
+China                        2.8   4.4   5.3   4.7     4.8   3.4   2.6   2.2     2.0   1.9   1.9   1.9
+
+Latin America                  4.7   4.5   5.1   5.3     5.0   5.1   4.7   4.4     4.4   4.4   4.4   4.2
+
+Mexico                       4.3   4.3   4.8   5.0     4.6   4.8   4.3   4.0     4.0   4.0   4.0   3.8
+
+Brazil                       6.8   5.5   6.8   7.1     7.0   6.9   6.3   6.0     5.5   5.5   5.5   5.6
+
+______________________________________________________________________________________________________________
+
+1. Foreign GDP aggregates calculated using shares of U.S. exports. 2. Harmonized data for euro area from Eurostat. 3. Foreign CPI aggregates calculated using shares of U.S. non-oil imports. 4. CPI excluding mortgage interest payments, which is the targeted inflation rate.
+
+OUTLOOK FOR U.S. INTERNATIONAL TRANSACTIONS
+
+________________________________________________________________________________________________________________
+
+------ Projected ------
+
+1998     1999     2000     2001     2002     2003     2004     2005     2006
+
+________________________________________________________________________________________________________________
+
+<!-- missing-text -->
+
+Billions of dollars
+
+<!-- missing-text -->
+
+________________________________________________________________________________________________________________
+
+1. Merchandise exports excluding computers and semiconductors. 2. Merchandise imports excluding oil, computers, and semiconductors.
+
+OUTLOOK FOR U.S. INTERNATIONAL TRANSACTIONS
+
+<!-- missing-text -->
+
+2001                            2002                            2003
+
+----------------------------    ----------------------------    ---------------------------
+
+Q1      Q2      Q3      Q4      Q1      Q2      Q3      Q4      Q1      Q2      Q3      Q4
+
+___________________________________________________________________________________________________________________________
+
+<!-- missing-text -->
+
+Billions of dollars, s.a.a.r.
+
+<!-- missing-text -->
+
+1. Merchandise exports excluding computers and semiconductors. 2. Merchandise imports excluding oil, computers, and semiconductors.
+
+OUTLOOK FOR U.S. INTERNATIONAL TRANSACTIONS
+
+___________________________________________________________________________________________________________________________
+
+----------------------------- Projected --------------------------------
+
+2004                            2005                            2006
+
+----------------------------    ----------------------------    ---------------------------
+
+Q1      Q2      Q3      Q4      Q1      Q2      Q3      Q4      Q1      Q2      Q3      Q4
+
+___________________________________________________________________________________________________________________________
+
+<!-- missing-text -->
+
+Billions of dollars, s.a.a.r.
+
+<!-- missing-text -->
+
+___________________________________________________________________________________________________________________________
+
+1. Merchandise exports excluding computers and semiconductors. 2. Merchandise imports excluding oil, computers, and semiconductors.

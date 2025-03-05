@@ -1,0 +1,611 @@
+Appendix 1:  Materials used by Mr. Potter and Ms. Logan
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on
+
+Financial Developments and Open Market Operations
+
+Simon Potter and Lorie Logan April 28, 2015
+
+Class II FOMC - Restricted (FR)
+
+(1) Percentile Rank of  March FOMC Price Changes Since January 2004*
+
+<!-- missing-text -->
+
+- *Percentile rank of  absolute changes in  one-hour windows around FOMC statement releases (95 observations).
+- **Positive value indicates dollar depreciation against the euro.
+- Source: Bloomberg
+
+(3) Probability Distribution of the Timing of  Liftoff*
+
+<!-- missing-text -->
+
+- *  Average of  all responses from the Survey of Primary Dealers and Survey of Market Participants.
+
+Source: Federal Reserve Bank of  New York
+
+(5) Importance of Factors in Committee's "Reasonable Confidence" in Inflation Outlook*
+
+<!-- missing-text -->
+
+- *Based on all responses from the Survey of  Primary Dealers and Survey of Market Participants. Ex.pressed in terms of  importance of  each factor, where 1 is not important and 5 is very important.
+- Source: Federal Reserve Bank of New York
+
+Exhibit 1
+
+(2) Standardized Intraday Trading Ranges Since 2004*
+
+<!-- missing-text -->
+
+*Standardized  using all daily  observations since O 1/01/04. Source: Bloomberg
+
+(4) Probability Distribution of the Pace of  Tightening in the First Year After Liftoff*
+
+<!-- missing-text -->
+
+- *  Average of  all responses from the Survey of Primary Dealers and Survey of Market Participants. Conditional on  the target not returning to the zero lower bound. The average probability assigned to this scenario was 80%.
+- Source: Federal Reserve Bank of  New York
+
+(6) Inflation Compensation and Commodities*
+
+<!-- missing-text -->
+
+- *Levels as of04/24/15 in parentheses.
+- **  Average of  PDF-implied means for five-year CPI inflation, five years ahead. Source: Federal Reserve Board of  Governors, Federal Reserve Bank of  New York, Bloomberg
+
+Class II FOMC -Restricted (FR)
+
+(7) Share of Euro-Area Sovereign Debt Trading at Negative Rates*
+
+<!-- missing-text -->
+
+*Based on par value. Excludes inflation-linked securities. Source: Bloomberg
+
+(9) Greece TARGET2 Balance*
+
+€
+
+<!-- missing-text -->
+
+*Monthly data through March 2015.
+
+Source: Haver Analytics, Bank of Greece
+
+(11) Emerging Market Asset Returns*
+
+<!-- missing-text -->
+
+*Indices not hedged for foreign exchange exposure. Source: Bloomberg, MSCI, Markit, J.P. Morgan
+
+Exhibit 2
+
+(8) Comparison of Asset Purchase Program Effects on Market Prices*
+
+<!-- missing-text -->
+
+*Change from beginning of expectations (August 2014 Jackson Hole, announcement of Japanese elections in November 2012, and the release of the July 2012 FOMC meeting minutes for the ECB, BoJ, and FRB, respectively) through 92 days following the announcement of the respective programs. **Positive value indicates currency appreciation.
+
+Source: Bloomberg
+
+(10) Shanghai and Hong Kong Equity Performance
+
+<!-- missing-text -->
+
+-
+
+(12) EM Currency and U.S. Rate Implied Volatility Indices
+
+-
+
+EM Currency Volatility Index (LHS)
+
+MOVE Index (RHS)
+
+-
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+<!-- missing-text -->
+
+(15) Term RRP Results
+
+<!-- missing-text -->
+
+Source: Federal Reserve Bank of  New York
+
+(17) Spread Between Overnight Treasury GCF and Tri-party ex. GCF Repo Rates*
+
+<!-- missing-text -->
+
+*Weekly data through 08/19/14, daily data from 08/22/14 through 04/24/15. Source: Federal Reserve Bank of  New York
+
+Exhibit 3
+
+(14) RRPs Outstanding and Foreign Repo Pool
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+*Dark trip wires indicate quarter-ends, light trip wires indicate month-ends. Source: Federal Reserve Bank of  New York
+
+(18) Tenn RRP Announcement
+
+- · The Desk proposes releasing a statement after the April FOMC meeting minutes on May 20 noting:
+- o  Tentative intention to offer at least $200 billion of tenn RRP for the June qua1ter-end
+- o  Release of  the remaining details on Jw1e 22
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+(19) Expected ON RRP Demand and Cap Immediately Following Liftoff"'
+
+,-.,
+
+<!-- missing-text -->
+
+*Based on all responses to the Survey of  Primary Dealers and Survey of  Market do
+
+Participants. Ten respondents not expect a cap to be in place immediately
+
+following liftoff.
+
+Source: Federal Reserve Bank of  New Y  orlc
+
+(21) Central Bank Liquidity Swaps Outstanding
+
+<!-- missing-text -->
+
+(23) Spread Between Brokered Volume-Weighted Median and Mean Federal Funds Rates*
+
+<!-- missing-text -->
+
+*Calculated as median less mean.
+
+Source: Federal Reserve Bank of  New York
+
+Exhibit 4 (Last)
+
+(20) Distribution of  Beliefs on Average  FFER Immediately Following Liftoff"'
+
+<!-- missing-text -->
+
+(22) FR 2420 Fed Funds Volume by Rate On 01/26/15
+
+<!-- missing-text -->
+
+(24) Work on FFER Calculation Enhancement
+
+- · In preparation for the change in the FFER data source to FR 2420, staff has analyzed potential calculation methodologies
+- · Volume-weighted median has benefits relative to the volume-weighted mean
+- o  Generates a statistic that is often a better measure of broad money market conditions
+- o  Can improve resilience to invalid transactions
+- · Based on feedback, staff  will present plan at Jm1e meeting
+
+Appendix 2:  Materials used by Ms. Meade
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for Briefing on Governance Issues Associated with Liftoff
+
+Ellen E. Meade April 28, 2015
+
+Governance Issues Associated with Liftoff
+
+Decisions at Commencement of Normalization Process
+
+-  Stance of policy:  New target range for the federal funds rate
+-  Settings for administered rates:  ON RRP and IOER rates
+
+Early Days after Liftoff Announcement
+
+-  May take several days for some participants in money markets to assess and adapt to the new market environment
+-  Pre-arrange staff briefings-daily for perhaps first two weeks following liftoff
+- o Participants could ask questions
+- o Briefings could be readily converted into joint meetings of the Committee and Board
+-  If liftoff process does not proceed as planned, scheduled briefings replaced by joint videoconference meetings
+
+Governance Arrangements after the First Two Weeks
+
+-  Small operational adjustments to administered rates
+-  Could be helpful if effective federal funds rate lies persistently outside new target range
+-  Two possible approaches for governance of decisions
+
+Approach 1:  All Decisions by Vote
+
+-  Joint videoconference meetings
+-  All policymakers involved in discussion of changes
+-  FOMC votes on changes to ON RRP rate and Board approves changes to IOER rate
+-  Possible alternative format using SDS comments and notation voting
+- o Might be most appropriate for relatively straightforward adjustments that had been previously discussed
+
+Approach 2:  Delegation of Authority to the Chair
+
+-  Subject to limitations established by FOMC and Board
+-  Ensures Federal Reserve can respond quickly if conditions warrant
+-  Chair could make adjustments to administered rates if necessary to keep federal funds rate in new target range
+- o Perhaps 5 or 10 basis points
+-  Could help separate decisions on policy stance from small technical adjustments
+
+Questions for Discussion of Governance Issues Associated with Liftoff
+
+- 1. Are you comfortable with a governance approach in the first two weeks following liftoff that would  involve pre-scheduled  staff  briefings  on  financial  market  developments  and  the effectiveness of policy implementation? These briefings could be cancelled or converted to FOMC and/or Board meetings as appropriate.
+- 2. What are your views regarding the governance approach for possible intermeeting adjustments of the ON RRP rat and/or IOER rate that might become necessary after the first two weeks following liftoff? Would you favor an approach in which such intermeeting adjustments to the ON RRP rate or the IOER rate require a vote of the FOMC or Board, respectively, or would you favor an alternative approach that would delegate to the Chair authority to make modest intermeeting adjustments of the ON RRP rate and/or IOER rate in order to keep the funds rate from moving persistently outside the target range established by the FOMC?
+
+Appendix 3:  Materials used by Mr. Wascher
+
+Class II FOMC - Restricted (FR)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Class II FOMC - Restrictt:
+
+202 of 229
+
+Forecast Summary
+
+Confidence Intervals Based on FRB/US Stochastic Simulations
+
+1. Real GDP
+
+2. Factor Model Forecasts of Real GDP
+
+<!-- missing-text -->
+
+3. Labor Market Conditions Index*
+
+<!-- missing-text -->
+
+5. PCE Prices
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: The blue shaded area gives the 68% confidence interval for the factor model forecast.
+
+4.  Unemployment Rate
+
+<!-- missing-text -->
+
+6. PCE Prices Excluding Food and Energy
+
+Percent change, annual rate
+
+<!-- missing-text -->
+
+Appendix 4:  Materials used by Mr. Kamin
+
+Class II FOMC - Restricted (FR)
+
+Material for The International Outlook
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+The International Outlook
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+3.
+
+China GDP
+
+<!-- missing-text -->
+
+5.  Brent Crude Oil Prices
+
+4. Euro-Area GDP
+
+<!-- missing-text -->
+
+6. Real Broad Dollar
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Alternative Scenario: Stronger Dollar
+
+1. Real Broad Dollar
+
+<!-- missing-text -->
+
+2. Net Export Contribution to Real GDP Growth (Q4/Q4)
+
+<!-- missing-text -->
+
+3. Real Core PCE Prices
+
+<!-- missing-text -->
+
+Appendix 5:  Materials used by Mr. Gallin
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on
+
+Financial Stability Developments
+
+<!-- missing-text -->
+
+Exhibit 1 Financial Stability Presentation Authorized for Public Release
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+4. Equity Premium
+
+<!-- missing-text -->
+
+6. Bond Mutual Funds: Total Assets
+
+<!-- missing-text -->
+
+Exhibit 2 Financial Stability Presentation Authorized for Public Release
+
+7.  Runnable Money-Like Liabilities
+
+8.  Regulatory Capital Ratios, All BHCs
+
+<!-- missing-text -->
+
+9.  Leverage in the Nonbank Financial Sector
+
+- · Margin credit has moved down, but remains elevated
+- · Hedge funds margining to lever up in equity markets
+- · Some evidence that counterparties have been demanding more leverage
+- · Leverage embedded in derivatives is hard to measure
+
+11. Nonfinancial Corporate Leverage
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+10. All Household Loan Balances
+
+<!-- missing-text -->
+
+12.  Shocks
+
+- · Sharp increase in term premiums
+- o Amplified if liquidity is scarce
+- o Bond funds experience large outflows
+- o Spillovers to emerging markets
+- · Greek exit, other significant geopolitical disruption, or distress at a large financial institution
+
+Exhibit 3 Financial Stability Presentation Authorized for Public Release
+
+13. Policy Initiatives
+
+- · Interest-rate risk:  Measuring risks and working to manage exposures
+- · Market liquidity: A variety of projects to better understand changes in the structure of markets
+- Growth of asset managers: Evaluating the potential to contribute to systemic risk
+- Leveraged loans: Supervisors continue their monitoring efforts
+
+April 28, 2015
+
+211 of 229
+
+Class II FOMC -- Restricted (FR)
+
+Exhibit 4
+
+Notes and Sources
+
+Panel 1
+
+Panel7
+
+Term premia are estimated by a three-factor term  structure  model  combining  Treasury yields with SPF interest rate forecasts (Board) and a five-factor term structure model using Treasury yields only (FRBNY).
+
+Source: Staff estimates.
+
+Panel2
+
+1 Between years two and three.
+
+2 Between years nine and ten.
+
+Source: Staff estimates.
+
+Panell
+
+Total outstanding is annual data. Data includes  bonds  and  loans  to  both  financial and  nonfinancial  companies.  Data  includes unrated bonds and loans.
+
+Source: S&amp;P LCD,  Mergent FISD.
+
+Panel4
+
+- 1 Staff  estimate  using  a  dividend  discount model incorporating private sector earnings growth estimates.
+- 2 Off-the-run 10-year  Treasury  yield  less Philadelphia Fed 10-year expected inflation.
+
+The equity premium is equal to the difference between the black line and the red line.
+
+Source: Thomson Reuters Financial.
+
+Panels
+
+Funds received  (borrowing) and funds  paid (financing) against Treasury securities, agency  and  GSE  debt,  agency  and  GSE MBS, and corporate debt.
+
+Source: FR 2004C.
+
+Panel6
+
+Excludes government bond funds.
+
+Source: Morningstar.
+
+- 1 Uninsured  deposits  equals  the  difference between total deposits and insured deposits.
+- 2 Includes  Fed  funds,  VRDOs,  commercial paper, retail MMFs, and cash collateral pools at securities lending programs.
+
+From 2008:Q4 to 2012:Q4, the FDIC's Transaction Account Guarantee (TAG) Program  provided  unlimited  insurance  on non-interest  bearing  transactions  accounts. Uninsured deposits are overstated between 2008:Q4 and 2009:Q2 because the FDIC did not collect data on insured amounts for TAG accounts with  balances  between  $100,000 and $250,000.
+
+Source: Call Reports, DTCC, Financial Accounts of  the United States, ICI, JP Morgan  Chase,  M3  monetary  aggregates, Risk Management Association, SIFMA.
+
+Panel 8 Source:
+
+FR Y-9C.
+
+Panel 10
+
+Near  prime  is  defined  as  a  FICO  score between 620 and 719, and prime as a score greater  than  719. Student  loan  balances prior to  2004  are estimated.  Loan balances are deflated by the  PCE deflater and  are  in 2014 dollars.
+
+Source: FRBNY Consumer Credit Panel/Equifax.
+
+Panel 11
+
+Gross leverage is the ratio of the book value of total debt to the book value of total assets. Data  is  annual  until 1999  and quarterly thereafter.
+
+Source: Compustat.
+
+April 28, 2015
+
+Appendix 6:  Materials used by Mr. Wascher
+
+Class II FOMC - Restricted (FR)
+
+Material for Gross Domestic Product Update
+
+<!-- missing-text -->
+
+Real Gross Domestic Product and Related Items
+
+(Percent change at annual rate, except as noted)
+
+<!-- missing-text -->
+
+- *  Advance 2015:Ql estimate released at 8:30 a.m. on April 29, 2015.
+
+Appendix 7:  Materials used by Mr. Laubach
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for Briefing on Monetary Policy Alternatives
+
+Thomas Laubach April 28-29, 2015
+
+Market Expectations and Policy Issues
+
+Kim-Wright 10-Year Term Premium
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Source: Blue Chip Financial Forecasts; staff estimates.
+
+12-months Ahead Federal Funds Rate (90% Confidence Interval)
+
+4
+
+<!-- missing-text -->
+
+Effective Nominal Federal Funds Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Caveats
+
+- · Tantrum scenario abstracts from the possibility of liquidity or solvency problems.
+- · The simulations do not address term premium movements associated with other disturbances.
+- · Policy response depends on the persistence of the departure from baseline path, known only in  retrospect.
+
+Market Expectations and Policy Issues (cont.)
+
+Changes to Forward Guidance
+
+- · Remove time-based forward guidance.
+- · Rely on paragraphs 1 and 2 to speak to the Committee's assessment of  criteria for liftoff.
+
+Shaping Expectations for the Timing of Liftoff
+
+- · Alternative B:
+- o Underutilization of labor resources little changed.
+- o Retains expectation that inflation will rise gradually toward 2 percent over the medium term.
+- o Some, but not all, of  the recent weakness is transitory.
+- o No time-based guidance.
+- · Alternative C:
+- o Some labor market indicators suggest underutilization continued to improve.
+- o Inflation no longer declining.
+- o Economic slowdown "largely" due to transitory factors.
+- o Economic conditions may or likely will soon warrant an increase in the target range.
+- · Alternative A:
+- 0 Underutilization of labor resources "little changed."
+- 0 Inflation "continued to run well below the Committee's longer-run objective."
+- 0 Risks to outlook for economic activity and the labor market "tilted to the downside."
+- 0 Inflation could run substantially below 2 percent "for a protracted period."
+- 0 More stringent precondition for the initiation of policy firming.
+
+MARCH 2015 FOMC STATEMENT
+
+- 1. Information received since the Federal Open Market Committee met in January suggests that economic growth has moderated somewhat.  Labor market conditions have improved further, with strong job gains and a lower unemployment rate.  A range of labor market indicators suggests that underutilization of labor resources continues to diminish.  Household spending is rising moderately; declines in energy prices have boosted household purchasing power.  Business fixed investment is advancing, while the recovery in the housing sector remains slow and export growth has weakened.  Inflation has declined further below the Committee's longer-run objective, largely reflecting declines in energy prices.  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects that, with appropriate policy accommodation, economic activity will expand at a moderate pace, with labor market indicators continuing to move toward levels the Committee judges consistent with its dual mandate.  The Committee continues to see the risks to the outlook for economic activity and the labor market as nearly balanced.  Inflation is anticipated to remain near its recent low level in the near term, but the Committee expects inflation to rise gradually toward 2 percent over the medium term as the labor market improves further and the transitory effects of energy price declines and other factors dissipate. The Committee continues to monitor inflation developments closely.
+- 3. To support continued progress toward maximum employment and price stability, the Committee today reaffirmed its view that the current 0 to ¼ percent target range for the federal funds rate remains appropriate.  In determining how long to maintain this target range, the Committee will assess progress-both realized and expectedtoward its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  Consistent with its previous statement, the Committee judges that an increase in the target range for the federal funds rate remains unlikely at the April FOMC meeting.  The Committee anticipates that it will be appropriate to raise the target range for the federal funds rate when it has seen further improvement in the labor market and is reasonably confident that inflation will move back to its 2 percent objective over the medium term.  This change in the forward guidance does not indicate that the Committee has decided on the timing of the initial increase in the target range.
+- 4. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction.  This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+- 5. When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.  The Committee currently anticipates that, even after
+
+employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
+
+P
+
+FOMC STATEMENT-APRIL 2015 ALTERNATIVE A
+
+- 1. Information received since the Federal Open Market Committee met in January March suggests that economic growth has moderated somewhat slowed during the winter months .  Labor market conditions have improved further, with strong The pace of job gains moderated, and a lower the unemployment rate remained steady . A range of labor market indicators suggests that underutilization of labor resources continues to diminish was little changed . Growth in household spending is rising moderately declined ; declines in energy prices have boosted household purchasing power.  Business fixed investment is advancing softened , while the recovery in the housing sector remains remained slow  and export  growth has weakened , s declined . Inflation has declined further continued to run well below the Committee's longerrun objective, largely reflecting earlier declines in energy prices and decreasing prices of non-energy imports .  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects that, with appropriate policy accommodation, economic activity will expand at a moderate pace, with labor market indicators continuing to move toward levels the Committee judges consistent with its dual mandate.  The Committee continues to see  the risks to the outlook for economic s activity and the labor market as nearly balanced tilted to the downside .  Inflation is anticipated to remain near its recent low level in the near term, but the Committee expects inflation and to rise gradually toward 2 percent over the medium term as the labor market improves further and the transitory effects of declines in energy and import price s declines and other factors dissipate. However, the Committee continues to monitor inflation developments closely is concerned [ that the pace of improvement in the labor market could remain slow and ] that inflation could run substantially below the 2 percent objective for a protracted period .
+- 3. To support continued progress toward maximum employment and price stability, the Committee today reaffirmed its view that the current 0 to ¼ percent target range for the federal funds rate remains appropriate.  In determining how long to maintain this target range, the Committee will assess progress-both realized and expectedtoward its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  Consistent with its previous statement, the Committee judges that an increase in the target range for the federal funds rate remains unlikely at the April FOMC meeting.  The Committee anticipates that it will be appropriate to raise the target range for the federal funds rate when it has seen further improvement in the labor market and is reasonably confident that inflation will move back to its is clearly moving up toward 2 percent objective over the medium term.  This change in the forward guidance does not indicate that the Committee has decided on the timing of the initial increase in the target range. The Committee is prepared to use all of its tools as necessary to return inflation to 2 percent within one to two years.
+
+- 4. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction.  This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+- 5. When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.  The Committee currently anticipates that the economy will evolve in a manner that warrants a gradual increase in the target federal funds rate and that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
+
+P
+
+FOMC STATEMENT-APRIL 2015 ALTERNATIVE B
+
+- 1. Information received since the Federal Open Market Committee met in January March suggests that economic growth has moderated somewhat slowed during the winter months, [ at least ] in part reflecting transitory factors .  Labor market conditions have improved further, with strong The pace of job gains moderated, and a lower the unemployment rate remained steady .  A range of labor market indicators suggests that underutilization of labor resources continues to diminish was little changed . Growth in household spending is rising moderately declined ; households' real incomes rose strongly, partly reflecting earlier declines in energy prices have boosted household purchasing power , and consumer sentiment remains high .  Business fixed investment is advancing softened , while the recovery in the housing sector remains remained slow  and export  growth has weakened , s declined . Inflation has declined further continued to run below the Committee's longer-run objective, largely reflecting earlier declines in energy prices and decreasing prices of non-energy imports .  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. Although growth in output and employment slowed during the first quarter, the Committee expects continues to expect that, with appropriate policy accommodation, economic activity will expand at a moderate pace, with labor market indicators continuing to move toward levels the Committee judges consistent with its dual mandate.  The Committee continues to see the risks to the outlook for economic activity and the labor market as nearly balanced.  Inflation is anticipated to remain near its recent low level in the near term, but the Committee expects inflation to rise gradually toward 2 percent over the medium term as the labor market improves further and the transitory effects of declines in energy and import prices declines and other factors dissipate.  The Committee continues to monitor inflation developments closely.
+- 3. To support continued progress toward maximum employment and price stability, the Committee today reaffirmed its view that the current 0 to ¼ percent target range for the federal funds rate remains appropriate.  In determining how long to maintain this target range, the Committee will assess progress-both realized and expectedtoward its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  Consistent with its previous statement, the Committee judges that an increase in the target range for the federal funds rate remains unlikely at the April FOMC meeting.  The Committee anticipates that it will be appropriate to raise the target range for the federal funds rate when it has seen further improvement in the labor market and is reasonably confident that inflation will move back to its 2 percent objective over the medium term.  This change in the forward guidance does not indicate that the Committee has decided on the timing of the initial increase in the target range.
+
+- 4. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction.  This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+- 5. When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.  The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
+
+P
+
+FOMC STATEMENT-APRIL 2015 ALTERNATIVE C
+
+- 1. Information received since the Federal Open Market Committee met in January March suggests that economic growth has moderated somewhat slowed during the winter months, in large part reflecting transitory factors .  Labor market conditions have improved further, with strong job gains and a lower Despite a steady unemployment rate, a range of some labor market indicators suggests suggest that underutilization of labor resources continues continued to diminish.  Household spending is rising rose moderately; households' real incomes rose strongly, partly reflecting earlier declines in energy prices have boosted household purchasing power , and consumer sentiment remains high . Business fixed investment is advancing softened , while the recovery in the housing sector remains remained slow  and export  growth has weakened , s declined . Although inflation has declined further remained below the Committee's longer-run objective, largely reflecting earlier declines in energy prices and decreasing prices of non-energy imports, it was no longer declining .  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations have remained stable.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  The Committee expects continues to expect that, with appropriate policy accommodation, economic activity will expand at a moderate pace, with labor market indicators continuing to move toward levels the Committee judges consistent with its dual mandate.  The Committee continues to see the risks to the outlook for economic activity and the labor market as nearly balanced.  Inflation is anticipated to remain near its recent low level in the near term, but the Committee expects has become [ somewhat ] more confident that inflation to will rise gradually toward to 2 percent over the medium term as the labor market improves further and the transitory effects of declines in energy and import prices declines and other factors dissipate.  The Committee continues to monitor inflation developments closely.
+- 3. To support continued progress toward maximum employment and price stability, the Committee today reaffirmed its view that the current 0 to ¼ percent target range for the federal funds rate remains appropriate. The Committee's current assessment is that economic conditions [ may | likely will ] soon warrant an increase in the target range for the federal funds rate. In determining how long to maintain this when to adjust the target range, the Committee will assess progress-both realized and expected-toward its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments. Consistent with its previous statement, the Committee judges that an increase in the target range for the federal funds rate remains unlikely at the April FOMC meeting. The Committee anticipates that it will be appropriate to raise the target range for the federal funds rate when it has seen further improvement in the labor market and is reasonably confident that inflation will move back to its 2 percent objective over the medium term.  This change in the forward guidance does not indicate that the Committee has decided on the timing of the initial increase in the target range.
+
+- 4. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction.  This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+- 5. When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer run goals of maximum employment and inflation of 2 percent. In response to economic and financial developments, the Committee will adjust the target federal funds rate to promote the attainment of its objectives of maximum employment and 2 percent inflation.  Based on its economic outlook, the Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
+
+P
+
+March 2015 Directive
+
+Consistent with its statutory mandate, the Federal Open Market Committee seeks monetary and financial conditions that will foster maximum employment and price stability.  In particular, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to undertake open market operations as necessary to maintain such conditions.  The Committee directs the Desk to maintain its policy of rolling over maturing Treasury securities into new issues and its policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.  The System Open Market Account manager and the secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.
+
+Directive for April 2015 Alternatives A, B, and C
+
+Consistent with its statutory mandate, the Federal Open Market Committee seeks monetary and financial conditions that will foster maximum employment and price stability.  In particular, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to ¼ percent.  The Committee directs the Desk to undertake open market operations as necessary to maintain such conditions.  The Committee directs the Desk to maintain its policy of rolling over maturing Treasury securities into new issues and its policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities.  The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.  The System Open Market Account manager and the secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability.

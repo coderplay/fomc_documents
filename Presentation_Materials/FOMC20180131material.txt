@@ -1,0 +1,1211 @@
+Class II FOMC - Restricted (FR)
+
+Material for the Briefing on
+
+Financial Developments and Open Market Operations
+
+Simon Potter and Lorie Logan January 30, 2018
+
+Class II FOMC -Restricted (FR)
+
+(1) Asset Price Changes*
+
+<!-- missing-text -->
+
+*Red indicates tightening of financial conditions, blue indicates loosening. Source: Barclays, Bloomberg, Federal Reserve Board, Goldman Sachs, MSCI
+
+(3) Chinese Exchange Rate
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Exhibit 1
+
+(2) U.S. Dollar Performance*
+
+*Values shown indicate contribution to the Broad Trade-Weighted Dollar's
+
+<!-- missing-text -->
+
+- 4.3% depreciation since 12/12/17.
+
+Source: Bloomberg, Desk Calculations, Federal Reserve Board
+
+(4) Euro-Dollar and Slope Differentials*
+
+*Slope differentials based on swaps: EONIA swap rate less U.S. dollar OIS rate.
+
+<!-- missing-text -->
+
+Source: Bloomberg, Desk Calculations
+
+<!-- missing-text -->
+
+*Dashed horizontal lines indicate 10-year averages. Source: Bloomberg, Barclays
+
+Class II FOMC -Restricted (FR)
+
+(7) Average PDF-Implied Point Estimate of Annual Average CPI Inflation Rate*
+
+<!-- missing-text -->
+
+*Based on the average across all responses from the Surveys of Primary Dealers and Market Participants.
+
+Source: FRBNY
+
+(9) Amount of Tightening Priced In
+
+<!-- missing-text -->
+
+*Computed as Apr. '18 less Jan. '18 federal funds futures-implied rates. **Computed as Jan. '19 less Jan. '18 federal funds futures-implied rates. Source: Bloomberg
+
+(11) Basis Points of Tightening by Year-End 2018
+
+*Based on complete responses to the Jan. '18 Survey of Primary Dealers and Market Participants.
+
+<!-- missing-text -->
+
+**Based on a matched sample from the Dec. '17 and Jan. '18 Surveys. Source: FRBNY
+
+(8) Average Estimate for U.S. Fiscal Deficit as a Percent of GDP*
+
+*Based on all responses from the Surveys of Primary Dealers and Market Participants.
+
+<!-- missing-text -->
+
+**Oct. '16 levels are computed based on results from two questions in the Jan. '17 survey that ask about expectations of the level and change since Oct. '16. Source: FRBNY
+
+(10) Implied Path of the Policy Rate*
+
+<!-- missing-text -->
+
+*Market-implied paths derived from federal funds and Eurodollar futures. Unconditional survey path is the average PDF-implied means from the Surveys of Primary Dealers and Market Participants.
+
+Source: Bloomberg, Desk Calculations, Federal Reserve Board, FRBNY
+
+(12) End-Q1 2019 Fed Funds Expectation Given +50 bps in Core PCE, -50 bps in Unemployment Rate*
+
+0 1.25 2.5 *Changes relative to the median SEP projections of core PCE inflation and the unemployment rate at the time. Based on all responses from the Surveys of Primary Dealers and Market Participants.
+
+<!-- missing-text -->
+
+Source: FRBNY
+
+Class II FOMC -Restricted (FR)
+
+<!-- missing-text -->
+
+*Grey dashed line indicates quarter-end. Shaded band reflects target range for the federal funds rate.
+
+Source: FRBNY
+
+<!-- missing-text -->
+
+*CP/CD rates calculated based on a 5-day moving average. The bottom and top 24 percent of rates on a day are removed before calculating the average. Source: Bloomberg, DTCC, FRBNY
+
+<!-- missing-text -->
+
+*Calculated as the "at risk" bill less average of bills maturing 1 week prior and 1 week after.
+
+**Uses bill that matured on 10/05/17. Expected deadline was 09/29/17. Data shown through 09/08/17, when debt ceiling suspension was passed. ***Uses bill maturing on 03/01/18. Expected deadline is early March. Source: Bloomberg
+
+(14) Three-Month FX Swap-Implied Basis Spread
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- *Tri-party data includes all OMO-eligible collateral, overnight and term. Excludes month- and quarter- end dates.
+- **Pre-Dec. '17 IMP is from 12/01/16 to 10/31/17.
+
+Source: BNYM, Desk Calculations, JPMC, FRBNY
+
+<!-- missing-text -->
+
+Class II FOMC -Restricted (FR)
+
+Appendix 1
+
+(1) FX Swaps Outstanding
+
+Source: FRBNY
+
+<!-- missing-text -->
+
+(2) MBS Purchase Summary Since Cap Implementation Through January 26, 2018 ($ Millions)
+
+<!-- missing-text -->
+
+- *November included agency debt maturity of $2,366 million.
+- **Actual purchases ongoing, reflect data through 01/26/18. Target amount for January purchase period is $14,909 million.
+
+(3) FX Intervention
+
+- · There were no intervention operations in foreign currencies for the System's account during the intermeeting period
+
+(4) Summary of Operational Testing
+
+Summary of Operational Tests in prior period:
+
+- · None
+
+Upcoming Operational Tests:
+
+- · Two tests scheduled under the Domestic Authorization
+- · February 8: Treasury outright purchase of up to $200 million par
+- · February 14: Securities lending (utilizing a backup tool) for up to $115 million
+- · Three tests scheduled under the Foreign Authorization
+- · February 13: Euro-denominated repo with private counterparties for € 1 million
+- · March 12: Euro-denominated callable term deposit with an official institution for € 1 million
+- · March 19: Early liquidation of a euro-denominated callable term deposit with an official institution for € 1 million
+
+Class II FOMC -Restricted (FR)
+
+Appendix 2 (Last)
+
+Appendix 2: Desk Operational Readiness Framework
+
+(1) Planned small value exercises for 2018 authorized under the Domestic Authorization
+
+<!-- missing-text -->
+
+(2) Planned small value exercises for 2018 authorized under the Foreign Authorization
+
+<!-- missing-text -->
+
+- 1 Each exercise may consist of more than one transaction.
+- 2 The total expected value of temporary operations simply aggregates the value of all operations planned over the year. The Authorization for Domestic Open
+- Market Operations imposes a $5 billion limit on the amount of temporary open market operations outstanding at any given time.
+- 3 Each exercise may consist of more than one transaction.
+- ΀ These exercises involve the following currencies: British pound, Canadian dollar, euro, Japanese yen, and Swiss franc.
+
+Appendix 2:  Materials used by Ms. Peneva and Messrs. Clark and Fuhrer
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on Inflation Dynamics
+
+Ekaterina Peneva, Todd E. Clark, and Jeff Fuhrer January 30, 2018
+
+January 30-31, 2018
+
+Authorized for Public Release
+
+228 of 286
+
+A conceptual framework for inflation dynamics
+
+Expectations-augmented Phillips curve:
+
+<!-- formula-not-decoded -->
+
+where:
+
+𝜋𝜋
+
+GAP
+
+𝜋𝜋 𝑒𝑒
+
+Z
+
+𝜀𝜀
+
+core PCE inflation inflation expectations relevant for wage and price setting measure of resource utilization (e.g., the unemployment gap) set of supply shocks (relative energy and import prices) residual
+
+In this framework:
+
+- · Permanent changes in expected inflation eventually pass through one-for-one into actual inflation.
+- · If expectations are perfectly anchored, transitory supply shocks and temporary changes in slack have only transitory effects on inflation.
+
+A conceptual framework… (continued)
+
+Accelerationist Phillips curve:
+
+<!-- formula-not-decoded -->
+
+In an accelerationist model:
+
+- · Inflation expectations reflect actual past inflation.
+- · Assuming that the coefficients on lagged inflation sum to one implies that even transitory shocks have permanent effects on inflation.
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Observed inflation and the staff framework
+
+An anchored-expectations framework appears to better explain observed inflation dynamics in recent decades.
+
+<!-- missing-text -->
+
+- · Since the mid-1990s, core inflation has been well characterized empirically in terms of transitory fluctuations around a stable long-run trend.
+- · The Great Recession appears to have left little, if any, permanent imprint on inflation trend.
+- · Movements in long-run expected inflation roughly parallel those in inflation's long-run trend.
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Issues associated with the staff framework
+
+The role of inflation expectations and how they are formed
+
+- · Evidence that long-run inflation expectations drive inflation is largely circumstantial; the idea also has weak theoretical support.
+- · Not clear which inflation expectations should be most informative for inflation.
+- · Constructing a meaningful empirical model of expectations has become essentially impossible.
+
+<!-- missing-text -->
+
+The staff assumes that inflation's trend, ultimately determined by expectations, has been stable for many years at a little below 2 percent and that it will edge up over the medium term.
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Issues associated with the staff framework (cont'd)
+
+The effect of slack on inflation
+
+- · The Phillips curve appears relatively flat at present; hence, inflation is not very informative about resource utilization.
+- · The staff could be mismeasuring slack.
+- · The staff could be wrong about the current or prospective effect of slack on inflation.
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Issues associated with the staff framework (cont'd)
+
+Coefficient stability
+
+- · Given the short sample the staff uses for our empirical inflation models, influential observations can importantly affect the models' estimated coefficients.
+- · One example: the effect of the PCE price index for financial services.
+
+Coefficient on labor market slack from two specifications
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Issues associated with the staff framework (cont'd)
+
+The role of wages
+
+- · Labor costs are likely very important for firms' pricing decisions.
+- · Empirically, we find little evidence that independent movements in average labor costs have had a material influence on aggregate price inflation in recent years.
+
+Interpreting unexplained movements in inflation
+
+- · They might reflect an incorrect assessment of the effects of fundamental factors.
+- · They might reflect a missing fundamental factor.
+- · They might reflect idiosyncratic price shocks or simple noise.
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+A model-based decomposition of core PCE price inflation
+
+Contributions to core PCE inflation
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Alternative explanations for recent low inflation
+
+- · Greater competition.
+- · Foreign slack and other global factors might be putting downward pressure on domestic prices beyond what is already captured in the staff framework through exchange rates and import prices.
+- · PCE medical services prices have been held down by budgetary pressures at both the federal and state levels.
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+General forecasting model and established findings
+
+Common specification:
+
+<!-- formula-not-decoded -->
+
+where π t = inflation, π ˚ = measure of trend, X t ´ 1 contains the t set of economic drivers, and ε t is the residual
+
+- § Basic idea: Inflation contains a slow-moving trend component and a cyclical component
+
+Historically, forecast errors have been sizable
+
+- § But forecasts have been more accurate since 1990 than for most of the 1970s and 1980s
+
+The variation of inflation explained by the model has fallen over time
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+General model and established findings: economic drivers
+
+Many studies have examined the efficacy of output gaps, unemployment gaps, and other indicators for forecasting inflation
+
+Body of evidence in the forecasting literature indicates that including economic drivers typically harms forecast accuracy
+
+- § Drivers are sometimes, but not consistently, helpful
+- § One possible explanation: Phillips curve relationship exists but is weak enough to be difficult to consistently see in forecast comparisons
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+General model and established findings: trend inflation
+
+One common approach measures trend inflation with a long-run inflation expectation from a survey
+
+- § Consistent with a common econometric definition of trend as a long-horizon forecast
+
+The other common approach treats the trend as unobserved and estimates it as part of a combined model for actual and trend inflation:
+
+<!-- formula-not-decoded -->
+
+<!-- formula-not-decoded -->
+
+- § Some studies add other indicators - e.g., survey-based long-run inflation expectations or bond yields
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Specific estimate of trend inflation
+
+Flexible model to assess the relationships among inflation, its trend, and long-run expectations:
+
+<!-- formula-not-decoded -->
+
+<!-- formula-not-decoded -->
+
+<!-- formula-not-decoded -->
+
+<!-- formula-not-decoded -->
+
+- § Inflation and inflation expectations can provide useful information on trend inflation
+- § Not a structural model of inflation or inflation expectations
+
+Historical estimates from Chan, Clark, and Koop study:
+
+- § Survey expectations improve model fit and trend precision
+- § Expectations commonly exceed trend
+- § Forecasting performance comparable to literature benchmarks
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Specific estimate of trend inflation: current PCE inflation
+
+<!-- missing-text -->
+
+- § Current point estimate of trend is 1.8 percent
+- § Survey expectations exceed trend
+- § Estimated trend edged down from 2008 to 2015 and has since remained stable
+- § Model forecasts 1.8 percent inflation in 2019-20, with 68 percent confidence interval of 1.0 percent to 2.6 percent
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Model uncertainty
+
+Model-based forecast confidence bands capture uncertainty associated with parameter estimation and the model's error term
+
+Additional uncertainty surrounding the model choice is considerable
+
+- § Choice of any economic drivers: models including them have a fairly poor track record, and many indicators perform comparably
+- § Specification of trend: selected econometric trends and survey expectations perform comparably on average, but can yield very different forecasts at a point in time
+- § Updated Stock-Watson model forecast of PCE inflation in 2019-20: 1.6 percent
+- § Updated Faust-Wright model forecast in 2019-20: 2 percent
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Summary
+
+Recent challenges in forecasting inflation are not unusual
+
+- § Forecast uncertainty remains sizable and consistent with historical norms
+
+It seems premature to conclude that something has gone wrong with all our models
+
+- § Models are no more limited now than before
+- § Better models would help, but developing them remains a challenge
+
+The inflation puzzle: Maintaining perspective
+
+- · We have missed our target on the low side for several years
+- -Although some of those years featured elevated unemployment, which would imply below-target inflation, other things equal
+- · The SEP has over-predicted inflation for several years
+- -Perhaps due to a higher natural rate assumption, and some unexpected dollar appreciation
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Explanations for low inflation
+
+- · Temporary factors (cell phone services, import prices, etc.)
+- -Centered in spring 2017; if  temporary, should have faded by now in high-frequency data.
+- · Small or zero Phillips Curve slope
+- · Very  low natural rate of  unemployment
+- · Unanchored long-run expectations
+- · A change in the mark-up of prices over unit labor costs?
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+What is our model of  inflation?
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Structural versus reduced-form models of  inflation
+
+· Structural model
+
+Committee sets Federal funds rate to affect
+
+(expected rates and) Asset prices , which influence
+
+· Reduced-form model
+
+Inflation tends to revert toward
+
+Long-run expectations (and target?)
+
+(current and expected) Activity gaps , which move
+
+Inflation towards the Committee's
+
+Inflation Target
+
+Long-run expectations depend on central bank actions, realized inflation, and the target
+
+- · This reduced-form model describes the data reasonably well
+- · But it doesn't tell monetary policymakers what to do to achieve their desired outcome
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+A shallower Phillips curve?
+
+- · Effect of  gaps on inflation is not easy to discern in the data
+- · Coefficient small (-0.1?), but probably not zero
+
+<!-- missing-text -->
+
+What if  there's no role for gaps?
+
+An expectations-only inflation model?
+
+- · Suppose the true gap coefficient is zero
+- · Only expectations matter? LR t t E π π =
+- · What determines inflation expectations? How does monetary policy influence expectations?
+- · Is it reasonable to assume a full de-coupling of  inflation from the real economy?
+- -I think it's premature to conclude this
+- -But if  so, what are the alternatives?
+- · Pure monetarist model? Set money growth = k%
+- · Neo-Fisherian model? Funds rate = real rate + inflation
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+How low can the natural rate go?
+
+- · It appears to be lower than we had earlier estimated
+- -SEP estimates have dropped significantly over the past five years
+- · Still, compensation growth has risen modestly over that period, suggesting we may be a bit below the natural rate
+- · How much lower could the natural rate be?
+- -Below 4%?
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Dragging the expectations anchor?
+
+- · Some measures of long-run expectations have declined recently
+- · Empirical evidence suggests that the marginal predictive power of any of these LR expectations measures is quite small in recent years
+- -Thus it is not apparent that LR expectations have dragged inflation down of late
+
+<!-- missing-text -->
+
+Nonlinearities in the response of  inflation to gaps?
+
+- · Several Fed authors have suggested that the Phillips curve slope differs for low, high, and near-zero gaps
+- · Evidence:
+- -For 1990-2017, magnitude of slope decreases as gap goes from negative to nearzero to positive
+- -Risk: Response of inflation may increase as unemployment falls further
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+January 30-31, 2018
+
+Conclusions
+
+- · Recent low inflation does not rank terribly high in the Ripley's Believe-it-or-Not of  Economic Puzzles
+- -And it may be too difficult to control inflation to within a few tenths of  a percentage point of  our goal
+- · Critically: Inflation is probably still linked to real activity
+- -Coefficient small-ish, but could be larger for low unemployment
+- -Significant risk to assuming that inflation is decoupled from the real economy if it is not
+- · Policy implications:
+- -Inflation likely to rise as unemployment remains low/falls further
+- -If  so, continued removal of  accommodation will likely be appropriate
+
+Class II FOMC - Restricted (FR) January 30-31, 2018
+
+Questions Regarding Inflation Dynamics
+
+- 1. Do you subscribe to a Phillips Curve type of inflation framework?  Why or why not?
+- a. If the answer to (1) is 'yes,' then why do you think inflation has not increased in recent quarters?
+- b. If the answer to (1) is 'no,' then what inflation framework do you use for monetary policy purposes?  How does monetary policy influence inflation in this framework?  Does the framework better explain recent inflation data?
+- 2. In your view, what role do short-run and long-run inflation expectations play in the wage and price setting process?  How are those expectations formed, and how does monetary policy influence them?  What is your current assessment of inflation expectations?
+
+January 30-31, 2018
+
+Authorized for Public Release
+
+256 of 286
+
+Appendix 3:  Materials used by Mr. Wilcox
+
+Class II FOMC - Restricted (FR)
+
+<!-- missing-text -->
+
+The U.S. Outlook
+
+<!-- missing-text -->
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+20
+
+16
+
+12
+
+8
+
+4
+
+0
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+Class II FOMC - Restricted (FR)
+
+258 of 286
+
+Forecast Summary
+
+Confidence Intervals for Panels 1, 3, 5, and 6 Based on FRB/US Stochastic Simulations
+
+1. Real GDP
+
+2. Projected Effect of the TCJA on Real GDP
+
+<!-- missing-text -->
+
+3. Unemployment Rate
+
+<!-- missing-text -->
+
+5. Total PCE Prices
+
+<!-- missing-text -->
+
+Cumulative effect on level of real GDP in 2020 (percent)
+
+<!-- missing-text -->
+
+*Detail may not sum to total because of rounding.  **Effect on output gap in 2020:Q4 (in percentage points).
+
+4. Unemployment Rates by Race or Ethnicity
+
+<!-- missing-text -->
+
+6. PCE Prices Excluding Food and Energy
+
+Percent change, annual rate
+
+<!-- missing-text -->
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+7. Monthly PCE Price Inflation
+
+<!-- missing-text -->
+
+9. Unemployment Rate
+
+<!-- missing-text -->
+
+Note:  Shaded bar indicates a period of business recession as defined by the NBER.  *Staff estimate including the effect of EEB.
+
+11. Black Unemployment Rates Compared to Those of Whites
+
+<!-- missing-text -->
+
+4
+
+3
+
+2
+
+1
+
+0
+
+12
+
+9
+
+6
+
+3
+
+0
+
+-3
+
+-6
+
+-9
+
+-12
+
+Class II FOMC - Restricted (FR)
+
+8. Measures of Labor Compensation
+
+<!-- missing-text -->
+
+*Three-month moving average. **Percent change of the four-quarter moving average from a year earlier; 2017:Q4 is a staff estimate. ***All employees.
+
+10. Cumulative Changes in Nonfarm Payrolls
+
+<!-- missing-text -->
+
+12. Labor Force Participation Rates
+
+<!-- missing-text -->
+
+88
+
+86
+
+84
+
+82
+
+80
+
+78
+
+Class II FOMC - Restricted (FR)
+
+260 of 286
+
+13. Prime-Age Participation Rates by Metropolitan Status
+
+<!-- missing-text -->
+
+Note:  12-month centered moving averages.  Shaded bars indicate a period of business recession as defined by the NBER.   * More than 500,000 inhabitants.   ** 100,000 to 500,000 inhabitants.
+
+15. Household Income Ratios*
+
+3.0
+
+<!-- missing-text -->
+
+10
+
+8
+
+6
+
+4
+
+2
+
+Class II FOMC - Restricted (FR)
+
+260 of 286
+
+14. Prime-Age Unemployment Rates by Metropolitan Status
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+16.  Labor Force Participation Rates for Prime-Age Women in OECD Countries
+
+<!-- missing-text -->
+
+Source:  OECD.Stat database.
+
+Note:  Data for Austria in 1990 columns refer to 1994; data for Switzerland in 1990 columns refer to 1991.
+
+Class II FOMC - Restricted (FR)
+
+17. Labor Force Participation Rates for Prime-Age Men in OECD Countries
+
+<!-- missing-text -->
+
+Source:  OECD.Stat database.
+
+Note:  Data for Austria in 1990 columns refer to 1994; data for Switzerland in 1990 columns refer to 1991.
+
+January 30-31, 2018
+
+Authorized for Public Release
+
+263 of 286
+
+Appendix 4:  Materials used by Mr. Kamin
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on The International Outlook
+
+Steven B. Kamin Exhibits by Meghan Letendre and Kaede Johnson January 30, 2018
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 1
+
+The International Outlook
+
+1. Broad Real Dollar
+
+<!-- missing-text -->
+
+3. Foreign GDP*
+
+<!-- missing-text -->
+
+5. Central Bank Policy Rates
+
+<!-- missing-text -->
+
+2. Net Export Contribution to U.S. GDP Growth
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+7. Core Inflation
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 2
+
+The International Outlook
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+2. Change in Inflation vs. Change in Unemployment
+
+Note: Unemployment Gap= UE minus NAIRU. Source: OECD.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: Output Gap= 100 * [GDP minus potential GDP] / potential GDP. Source: OECD.
+
+Note: Output Gap= 100 * [GDP minus potential GDP] / potential GDP. Source: OECD.
+
+Country Code Key
+
+<!-- missing-text -->
+
+January 30-31, 2018
+
+Authorized for Public Release
+
+267 of 286
+
+Appendix 5:  Materials used by Mr. Lehnert
+
+Class II FOMC - Restricted (FR)
+
+Material for Briefing on
+
+Financial Stability Developments
+
+<!-- missing-text -->
+
+Authorized for Public Release
+
+Class II FOMC - Restricted (FR)
+
+Exhibit 1 Valuation Pressures
+
+January 30, 2018
+
+1. QS Assessment of Valuation Pressures
+
+Level
+
+<!-- missing-text -->
+
+2. Price of Bitcoin
+
+3. Capitalization Rate Spreads - Multifamily Buildings
+
+<!-- missing-text -->
+
+4. High Yield Bond Spread
+
+<!-- missing-text -->
+
+Percentage points
+
+<!-- missing-text -->
+
+5. Ten-Year Nominal Term Premium
+
+<!-- missing-text -->
+
+January 30-31, 2018
+
+Authorized for Public Release
+
+Class II FOMC - Restricted (FR)
+
+January 30, 2018
+
+270 of 286
+
+Leverage and Maturity Transformation
+
+Exhibit 2
+
+1. Net Leverage of Risky Firms
+
+2. Total Net Issuance of Risky Debt
+
+<!-- missing-text -->
+
+3. Common Equity Tier 1 Ratio, Selected Banks
+
+Percent of RWA
+
+<!-- missing-text -->
+
+5. Money Market Fund Assets
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+4. Use of Financial Leverage
+
+Decrease                       Increase
+
+<!-- missing-text -->
+
+6. Assets in Potential MMF Substitutes
+
+<!-- missing-text -->
+
+-DQXDU\glyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=22,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=19,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=15,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=21,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=19,font=/NDAHEM+SymbolMT&gt;
+
+Exhibit 3
+
+Staff Judgment on Levels of Vulnerabilities
+
+Key:
+
+Extremely subdued
+
+Low
+
+Moderate
+
+Notable
+
+Elevated
+
+&amp;ODVVglyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;,,glyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;)20&amp;glyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;±glyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;5HVWULFWHGglyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=11,font=/NDAHEM+SymbolMT&gt;)5glyph&lt;c=12,font=/NDAHEM+SymbolMT&gt;
+
+-DQXDU\glyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=22,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=19,font=/NDAHEM+SymbolMT&gt;±glyph&lt;c=22,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=20,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=15,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=21,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=19,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=20,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=27,font=/NDAHEM+SymbolMT&gt; RUL]HGglyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;IRUglyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;3XEOLFglyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;5HOHDVH glyph&lt;c=21,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=27,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=25,font=/NDAHEM+SymbolMT&gt; $XWK glyph&lt;c=21,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=26,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=20,font=/NDAHEM+SymbolMT&gt;glyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;RIglyph&lt;c=3,font=/NDAHEM+SymbolMT&gt;
+
+<!-- missing-text -->
+
+Class II FOMC - Restricted (FR)
+
+January 30, 2018
+
+January 30-31, 2018
+
+Authorized for Public Release
+
+272 of 286
+
+Notes to Exhibits
+
+Exhibit 1:
+
+- 1: Source: July 2014 through January 2018 QS reports.
+- 2: Source: CoinDesk.com. Vertical line indicates February 2014, when the Mt. Gox hack was discovered.
+- 3: Source: Real Capital Analytics.
+- 4: Spreads over 10-year Treasury yield. Source: Staff estimates of smoothed corporate yield curves based on Merrill Lynch data and smoothed Treasury yield curve.
+- 5: Term premiums are estimated by a three-factor term structure model combining Treasury yields with Blue Chip interest rate forecasts. Source: Board staff estimates.
+
+Exhibit 2:
+
+- 1: Net leverage is the ratio of the book value of total debt minus cash and cash equivalents to the book value of total assets. Source: Compustat.
+- 2: Data are a four-quarter moving average. Total net issuance of risky debt is the sum of the net issuance of speculative grade and unrated bonds and leveraged loans. Source: Mergent Fixed Investment Securities Database, S&amp;amp;P.
+- 3: Series comprised of a balanced panel as of 2017:Q3. Prior to 2014:Q1, the numerator of the common equity tier 1 ratio is tier 1 common capital. Beginning in 2014:Q1 for advanced approaches Bank Holding Companies (BHC) and in 2015:Q1 for all other BHCs, the numerator is common equity tier 1 capital. Shaded bars represent periods of recession as defined by the National Bureau of Economic Research. Source: FR Y-9C.
+- 4: Data are collected in the middle of each quarter. REITs are real estate investment trusts. Source: Senior Credit Officer Opinion Survey (SCOOS).
+- 5: Source: Investment Company Institute.
+- 6: Last observations: Stable value funds, 2017:Q3, Offshore MMFs, Jan. 19, 2018; Short-term investment funds, 2017:Q3, Ultrashort bond funds, Dec. 2017; Local government investment pools, Jan. 12, 2018. MMFs are money market funds. Local government investment pools are rated 'AAAm' or 'AAm.' Source: S&amp;amp;P.
+
+Exhibit 3:
+
+Heat map color assignments were made by staff judgment.  In the absence of significant structural changes, we would expect vulnerabilities to spend roughly equal proportions of time in each of the colored risk buckets. Source: January 2018 QS report.
+
+January 30-31, 2018
+
+Authorized for Public Release
+
+273 of 286
+
+Appendix 6:  Materials used by Mr. Laubach
+
+Class I FOMC - Restricted Controlled (FR)
+
+Material for the Briefing on
+
+Monetary Policy Alternatives
+
+Thomas Laubach Exhibits by Laurie Khalfan January 30-31, 2018
+
+Financial Conditions and Policy Considerations
+
+Changes in Indicators of Financial Conditions
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: Calculated from Dec. 17, 2017 and Dec. 15, 2015 as of Jan. 29, 2018; Equity Risk Premium is monthly, calculated to the staff estimate for Jan. 18, 2018.
+
+<!-- missing-text -->
+
+Market-Implied Probability Distribution of the Federal Funds Rate, Year-End 2018
+
+<!-- missing-text -->
+
+Note: Estimated from Eurodollar futures options, accounting for the differences in the levels and option-implied volatilities of LIBOR and the federal funds rate, but not adjusted for term premiums.
+
+Source: CME Group; staff estimates.
+
+Uncertainties
+
+- Investors could rapidly reprice inflation risk.
+- Spillovers to the U.S. from policy normalization abroad could be greater than anticipated.
+- High leverage in the nonfinancial corporate sector risks a rapid rise in interest-expense ratios.
+
+Source: Laubach-Williams (2003) model with staff estimates; Federal Reserve Bank of New York.
+
+Probability of a Large Increase in the 10-Year Yield
+
+<!-- missing-text -->
+
+Note: Swaption-implied probabilities that the 10-year swap rate will be 100 basis points above its current level 1 year from now. Source:  JP Morgan, staff calculations.
+
+Policy Considerations
+
+- B: Recognition of strong data and the likelihood of a somewhat steeper policy rate path.
+- C: Greater urgency to move growth in economic activity and employment to sustainable rates.
+- A: Principal concern is the persistent shortfall in inflation, and policy needs to remain accommodative.
+
+January 30-31, 2018
+
+DECEMBER 2017 FOMC STATEMENT
+
+- 1. Information received since the Federal Open Market Committee met in November indicates that the labor market has continued to strengthen and that economic activity has been rising at a solid rate.  Averaging through hurricane-related fluctuations, job gains have been solid, and the unemployment rate declined further.  Household spending has been expanding at a moderate rate, and growth in business fixed investment has picked up in recent quarters.  On a 12-month basis, both overall inflation and inflation for items other than food and energy have declined this year and are running below 2 percent.  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  Hurricane-related disruptions and rebuilding have affected economic activity, employment, and inflation in recent months but have not materially altered the outlook for the national economy.  Consequently, the Committee continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace and labor market conditions will remain strong.  Inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term.  Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to raise the target range for the federal funds rate to 1-1/4 to 1-1/2 percent.  The stance of monetary policy remains accommodative, thereby supporting strong labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+January 30-31, 2018
+
+ALTERNATIVE A FOR JANUARY 2018
+
+- 1. Information received since the Federal Open Market Committee met in November December indicates that the labor market has continued to strengthen remained strong and that economic activity has been rising at a solid rate.  Averaging through hurricane-related fluctuations, job Gains in employment, household spending, and business fixed investment have been solid, and the unemployment rate declined further has stayed low .  Household spending has been expanding at a moderate rate, and growth in business fixed investment has picked up in recent quarters.  On a 12-month basis, both overall inflation and inflation for items other than food and energy have declined this last year and are running below 2 percent.  Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  Hurricane-related disruptions and rebuilding have affected economic activity, employment, and inflation in recent months but have not materially altered the outlook for the national economy.  Consequently, The Committee continues to expect  that, with gradual adjustments in the stance s of appropriately accommodative monetary policy, inflation will gradually rise to the Committee's 2 percent objective over the medium term, economic activity will expand at a moderate pace  and labor market conditions will remain , strong.  Inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term.  Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to raise maintain the target range for the federal funds rate to at 1-1/4 to 1-1/2 percent while continuing to assess incoming information that bears on the outlook for inflation .  The stance of monetary policy remains accommodative, thereby supporting strong labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future whether to adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant
+
+Class I FOMC - Restricted Controlled (FR)
+
+gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+January 30-31, 2018
+
+ALTERNATIVE B FOR JANUARY 2018
+
+- 1. Information received since the Federal Open Market Committee met in November December indicates that the labor market has continued to strengthen and that economic activity has been rising at a solid rate.  Averaging through hurricanerelated fluctuations, job Gains in employment, household spending, and business fixed investment have been solid, and the unemployment rate declined further has stayed low .  Household spending has been expanding at a moderate rate, and growth in business fixed investment has picked up in recent quarters. On a 12-month basis, both overall inflation and inflation for items other than food and energy have declined this year and are continued to running below 2 percent. Market-based measures of inflation compensation [ have increased in recent months but ] remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  Hurricane-related disruptions and rebuilding have affected economic activity, employment, and inflation in recent months but have not materially altered the outlook for the national economy.  Consequently, The Committee continues to expect  that, with s further gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace and labor market conditions will remain strong.  Inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but move up this year and to stabilize around the Committee's 2 percent objective over the medium term.  Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to raise maintain the target range for the federal funds rate to at 1-1/4 to 1-1/2 percent.  The stance of monetary policy remains accommodative, thereby supporting strong labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant further gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer
+
+Class I FOMC - Restricted Controlled (FR)
+
+run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+January 30-31, 2018
+
+Class I FOMC - Restricted Controlled (FR)
+
+ALTERNATIVE C FOR JANUARY 2018
+
+- 1. Information received since the Federal Open Market Committee met in November December indicates that the labor market has continued to strengthen and that economic activity has been rising at a solid rate.  Averaging through hurricanerelated fluctuations, job Gains in employment, household spending, and business fixed investment have been solid, and the unemployment rate declined further has stayed low .  Household spending has been expanding at a moderate rate, and growth in business fixed investment has picked up in recent quarters. On a 12-month basis, both overall inflation and inflation for items other than food and energy have declined this year and are continued to running below 2 percent but have increased since last summer .  Market-based measures of inflation compensation remain low have increased in recent months ; survey-based measures of longer-term inflation expectations are little changed, on balance.
+- 2. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability.  Hurricane-related disruptions and rebuilding have affected economic activity, employment, and inflation in recent months but have not materially altered the outlook for the national economy.  Consequently, The Committee continues to expect  that, with s further gradual adjustments in the stance of monetary policy, economic activity and employment will expand at a moderate pace and labor market conditions will remain strong sustainable rates over the medium term .  Inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but move up this year and to stabilize around the Committee's 2 percent objective over the medium term. Near-term risks to the economic outlook for economic activity appear roughly balanced, tilted to the upside but the Committee is monitoring inflation developments closely.
+- 3. In view of realized and expected labor market conditions and inflation, the Committee decided to raise the target range for the federal funds rate to 1-1/4 to 1-1/2 to 1-3/4 percent.  The stance of monetary policy remains accommodative, thereby supporting strong labor market conditions and a sustained return to 2 percent inflation.
+- 4. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.  This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.  The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.  The Committee expects that economic conditions will evolve in a manner that will warrant further gradual increases in the federal funds rate; the federal funds rate is likely
+
+Class I FOMC - Restricted Controlled (FR)
+
+to remain, for some time, below levels that are expected to prevail in the longer run.  However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+
+January 30-31, 2018
+
+Class I FOMC - Restricted Controlled (FR)
+
+Implementation Note for January 2018 Alternatives A and B
+
+Release Date:  January 31, 2018
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on December 13, 2017 January 31, 2018 :
+
+-  The Board of Governors of the Federal Reserve System voted   unanimously   to [ ] raise maintain the interest rate paid on required and excess reserve balances to at 1.50 percent, effective December 14, 2017 February 1, 2018 .
+-  As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective December 14, 2017 February 1, 2018 , the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of 1-1/4 to 1-1/2 percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 1.25 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a percounterparty limit of $30 billion per day.
+
+The Committee directs the Desk to continue rolling over at auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing during December that exceeds $6 billion, and to continue reinvesting in agency mortgage-backed securities the amount of principal payments from the Federal Reserve's holdings of agency debt and agency mortgage-backed securities received during December that exceeds $4 billion.  Effective in January, the Committee directs the Desk to roll over at auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month that exceeds $12 billion, and to reinvest in agency mortgagebacked securities the amount of principal payments from the Federal Reserve's holdings of agency debt and agency mortgage-backed securities received during each calendar month that exceeds $8 billion.  Small deviations from these amounts for operational reasons are acceptable.
+
+The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+Class I FOMC - Restricted Controlled (FR)
+
+-  In a related action, the Board of Governors of the Federal Reserve System voted [ unanimously   to approve a 1/4 percentage point increase in ] the establishment of the primary credit rate to at the existing level of 2.00 percent, effective December 14, 2017. In taking this action, the Board approved requests to establish that rate submitted by the Boards of Directors of the Federal Reserve Banks of . . .
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.
+
+More information regarding open market operations and reinvestments may be found on the Federal Reserve Bank of New York's website.
+
+January 30-31, 2018
+
+Implementation Note for January 2018 Alternative C
+
+Release Date:  January 31, 2018
+
+Decisions Regarding Monetary Policy Implementation
+
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on December 13, 2017 January 31, 2018 :
+
+-  The Board of Governors of the Federal Reserve System voted   unanimously   to [ ] raise the interest rate paid on required and excess reserve balances to 1.50 1.75 percent, effective December 14, 2017 February 1, 2018 .
+-  As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+'Effective December 14, 2017 February 1, 2018 , the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of 1-1/4 to 1-1/2 to 1-3/4 percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 1.25 1.50 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a percounterparty limit of $30 billion per day.
+
+The Committee directs the Desk to continue rolling over at auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing during December that exceeds $6 billion, and to continue reinvesting in agency mortgage-backed securities the amount of principal payments from the Federal Reserve's holdings of agency debt and agency mortgage-backed securities received during December that exceeds $4 billion.  Effective in January, the Committee directs the Desk to roll over at auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month that exceeds $12 billion, and to reinvest in agency mortgagebacked securities the amount of principal payments from the Federal Reserve's holdings of agency debt and agency mortgage-backed securities received during each calendar month that exceeds $8 billion.  Small deviations from these amounts for operational reasons are acceptable.
+
+The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions.'
+
+Class I FOMC - Restricted Controlled (FR)
+
+-  In a related action, the Board of Governors of the Federal Reserve System voted [ unanimously   to approve a 1/4 percentage point increase in the primary credit ] rate to 2.00 2.25 percent, effective December 14, 2017 February 1, 2018 .  In taking this action, the Board approved requests to establish that rate submitted by the Boards of Directors of the Federal Reserve Banks of . . .
+
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.
+
+More information regarding open market operations and reinvestments may be found on the Federal Reserve Bank of New York's website.
